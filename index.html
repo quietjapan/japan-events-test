@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ko"><head>
+<meta charset="utf-8"><meta name="robots" content="noindex"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>일본 행사 캘린더</title>
+<meta name="description" content="일본 팝업스토어·콜라보카페·전시·행사·축제·가챠·쿠지·플리마켓·잡지 부록 일정을 한국어로 모아봅니다.">
+<link rel="canonical" href="https://quietjapan.github.io/japan-events-test/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="일본 행사 캘린더">
+<meta property="og:description" content="일본 팝업스토어·콜라보카페·전시·축제·가챠·쿠지·플리마켓·잡지 부록 일정을 한국어로. 공식 출처만, 매주 월·목 업데이트.">
+<meta property="og:url" content="https://quietjapan.github.io/japan-events-test/">
+<meta property="og:image" content="https://quietjapan.github.io/japan-events-test/og.png">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="icon-512.png">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#fffdf8">
+<script>
+(function(){
+  var t=null;
+  try{ t=localStorage.getItem('qj_theme'); }catch(e){}
+  if(t!=='dark'&&t!=='light'){ t=(window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light'; }
+  document.documentElement.setAttribute('data-theme',t);
+  var m=document.querySelector('meta[name="theme-color"]');
+  if(m) m.setAttribute('content',t==='dark'?'#211d18':'#fffdf8');
+})();
+</script>
+<link rel="preconnect" href="https://www.google.com"><link rel="preconnect" href="https://maps.gstatic.com" crossorigin><link rel="preconnect" href="https://maps.googleapis.com" crossorigin><link rel="dns-prefetch" href="https://api.open-meteo.com">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+<link rel="stylesheet" href="style.css">
+</head><body>
+<header class="hd"><div class="wrap">
+  <button type="button" id="themeicon" class="themeicon theme-toggle" aria-label="다크모드">🌙</button>
+  <h1>일본 행사 캘린더</h1>
+  <p class="sub">팝업스토어 · 콜라보카페 · 전시·행사 · 축제 · 가챠 · 쿠지 · 플리마켓 · 잡지 부록</p>
+  <p class="upd" id="upd" hidden></p>
+  <div class="meta"><span id="base">기준일: -</span></div>
+</div></header>
+<main class="wrap">
+  <div id="banner" class="banner" hidden>⚠️ 현재 예시 데이터입니다. 실제 일정은 공식 사이트에서 확인해 주세요.</div>
+  <section id="wx" class="wx" aria-label="도쿄 날씨"><div class="wx-hd"><b>도쿄 7일 날씨</b><span>날씨 정보: <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a> · 행사 정보와 별개</span></div><div id="wxrow" class="wxrow wxload" aria-busy="true"><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><span class="wx-msg sr">날씨 불러오는 중…</span></div></section>
+  <section class="filters">
+    <div id="chips" class="chips"></div>
+    <div class="row">
+      <input id="q" type="search" placeholder="🔍 작품명·장소 검색 (예: 체인소맨)" aria-label="검색">
+    </div>
+    <details class="fmore" id="fmore"><summary>⚙️ 필터 <span class="fsub">지역 · 여행 기간 · 진행 상태</span><span class="fcnt" id="fcnt" hidden></span></summary><div class="fbody">
+    <div class="row"><select id="area" aria-label="지역"><option value="">전체 지역</option></select></div>
+    <div class="range"><span class="rl">✈️ 여행 기간</span><input id="from" type="date" aria-label="시작일"><span>~</span><input id="to" type="date" aria-label="종료일"><button type="button" id="rreset">초기화</button></div>
+    <div class="toggle" id="status">
+      <button data-s="all" class="on">전체</button><button data-s="now">진행 중·입고 중</button><button data-s="soon">예정·입고 예정</button>
+    </div></div></details>
+  </section>
+  <aside id="magintro" class="sum magintro" hidden><span class="sumlbl">📚 잡지 부록, 알고 보면 꿀템이에요</span><p>일본 잡지는 매달 부록이 바뀌어요. 파우치, 에코백, 캐릭터 굿즈처럼 잡지보다 부록이 주인공인 경우가 많고, 그달에만 구할 수 있는 한정판이라 레어템이 되기도 해요. 그런데 가격은 잡지 값이라 굿즈를 따로 사는 것보다 훨씬 저렴한 편이에요. 준쿠도·키노쿠니야 같은 대형 서점의 잡지 코너나 편의점에서 살 수 있고, 인기 부록은 발매 직후 품절되기도 하니 발매일을 꼭 확인하세요.</p><p class="magsub">발매일 기준 약 5주 동안 보여요(다음 호가 나오면 바뀌어요). 가격은 잡지 가격(세금 포함)이에요.</p><p class="magsub">💡 5주는 이 사이트에 올려두는 기간일 뿐이에요. 다음 호가 나와도 지난 호가 모든 서점에서 바로 사라지진 않아서 실제로는 더 오래 살 수 있어요. 반대로 인기 부록은 더 일찍 품절되기도 해요.</p></aside>
+  <p id="count" class="count"></p>
+  <section id="list" class="list"></section>
+</main>
+<footer class="wrap ft"><p class="ftl">정보는 바뀔 수 있으니 방문 전 공식 안내를 확인해 주세요 · © 일본 행사 캘린더</p></footer>
+
+<div class="fabs"><button type="button" id="themebtn" class="fxbtn themebtn theme-toggle" aria-label="다크모드로 바꾸기">🌙 다크모드</button><button type="button" id="fxbtn" class="fxbtn" aria-expanded="false" aria-controls="fxpanel">💱 환율계산기</button></div>
+<div id="fxov" class="fxov" hidden>
+<div id="fxpanel" class="fxpanel" role="dialog" aria-modal="true" aria-label="환율 계산기">
+  <div class="fxhd"><b>💱 환율 계산기</b><button type="button" id="fxx" class="fxx" aria-label="닫기">✕</button></div>
+  <p class="fxrate" id="fxrate">환율 불러오는 중…</p>
+  <p class="fxwhen" id="fxwhen"></p>
+  <div class="fxio">
+    <label class="fxlab"><span id="fxfromlbl">엔화 (JPY)</span>
+      <input id="fxin" type="text" inputmode="decimal" autocomplete="off" placeholder="0" aria-label="엔화 금액">
+    </label>
+    <button type="button" id="fxswap" class="fxswap" aria-label="통화 바꾸기" title="바꾸기">⇄</button>
+    <div class="fxlab"><span id="fxtolbl">원화 (KRW)</span>
+      <output id="fxout" class="fxout" for="fxin">0</output>
+    </div>
+  </div>
+  <p class="fxexpr" id="fxexpr" aria-live="polite" hidden></p>
+  <div class="fxquick" id="fxquick">
+    <button type="button" data-jpy="1000">1,000엔</button>
+    <button type="button" data-jpy="5000">5,000엔</button>
+    <button type="button" data-jpy="10000">10,000엔</button>
+  </div>
+  <div class="fxkeys" id="fxkeys" aria-label="계산기 키패드" hidden>
+    <button type="button" data-k="C" class="fk-fn">C</button><button type="button" data-k="⌫" class="fk-fn" aria-label="한 글자 지우기">⌫</button><button type="button" data-k="÷" class="fk-op" aria-label="나누기">÷</button><button type="button" data-k="×" class="fk-op" aria-label="곱하기">×</button>
+    <button type="button" data-k="7">7</button><button type="button" data-k="8">8</button><button type="button" data-k="9">9</button><button type="button" data-k="−" class="fk-op" aria-label="빼기">−</button>
+    <button type="button" data-k="4">4</button><button type="button" data-k="5">5</button><button type="button" data-k="6">6</button><button type="button" data-k="+" class="fk-op" aria-label="더하기">+</button>
+    <button type="button" data-k="1">1</button><button type="button" data-k="2">2</button><button type="button" data-k="3">3</button><button type="button" data-k="=" class="fk-eq" aria-label="계산하기">=</button>
+    <button type="button" data-k="0" class="fk-0">0</button><button type="button" data-k=".">.</button>
+  </div>
+  <p class="fxnote">기준 환율(참고용)이에요. 카드·환전 환율은 수수료 때문에 더 높을 수 있어요.</p>
+</div>
+</div>
+
+<script src="fx.js"></script>
+<script src="app.js"></script>
+<script src="weather.js"></script>
+<script src="theme.js"></script>
+<script>(function(){var d=document.getElementById("fmore");if(d&&matchMedia("(min-width:720px)").matches)d.open=true})();</script>
+</body></html>
