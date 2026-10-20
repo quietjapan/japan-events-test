@@ -34,7 +34,7 @@ for e in d["events"]:
     seen[i]=e
 keep=set()
 for i,e in seen.items():
-    dd=OUT/i;dd.mkdir(parents=True,exist_ok=True);keep.add(i);img=SITE+"og.png";credit=""
+    dd=OUT/i;dd.mkdir(parents=True,exist_ok=True);keep.add(i);img=SITE+"og-v2.png";credit=""
     jp=dd/"og.jpg"
     try:
         if FORCE or not jp.exists():
