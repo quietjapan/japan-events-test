@@ -279,3 +279,13 @@ body.modal-open .fabs,body.modal-open .fxov{display:none!important}
 .pager .pgdots{color:var(--mute);padding:0 2px;user-select:none}
 .calpager{margin:14px 0 4px}
 @media(max-width:600px){.pager{gap:3px}.pager .pg{min-width:38px;height:44px;padding:0 4px}.pager .pgdots{padding:0}}
+
+/* 컴팩트 카드 */
+.card{gap:8px}.card .tx{gap:3px}.card .ja{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.card h2.dt{cursor:pointer;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;line-height:1.35}
+.cmeta{list-style:none;margin:2px 0 0;padding:0;display:grid;gap:2px;font-size:14px}
+.cmeta li{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.cmeta li span{display:inline-block;width:22px}.cmeta em{font-style:normal;color:var(--mute)}
+.card .btns{margin-top:4px;flex-wrap:nowrap}.card .btns a,.card .btns button.more{flex:1 1 0}
+.dmeta{margin:14px 2px 0;padding:14px 16px;background:var(--card);border:1px solid var(--line);border-radius:12px;display:flex;flex-direction:column;gap:8px;color:var(--ink)}
+.dmeta dl{margin:0}.dmeta .note{margin:0}.dmeta .btns{margin-top:2px}.dsumsrc{margin:0;font-size:12px}.dsumsrc a{color:var(--mute)}
+.list>.card{min-width:0;max-width:100%}.card .btns a,.card .btns button.more{min-width:0}

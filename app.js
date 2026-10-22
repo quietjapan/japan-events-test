@@ -1,6 +1,6 @@
 const CATS=["팝업스토어","콜라보카페","전시·행사","축제","가챠","쿠지","플리마켓","잡지 부록"];
 const STOCK=new Set(["가챠","쿠지"]);const SHOP=new Set(["팝업스토어","콜라보카페","쿠지","가챠","잡지 부록"]);
-const hasGal=e=>!!(e.gallery&&e.gallery.length);const hasDetail=e=>SHOP.has(e.category)||hasGal(e);const MAG="잡지 부록";const MAG_DAYS=35;
+const hasGal=e=>!!(e.gallery&&e.gallery.length);const hasDetail=e=>!!e;const MAG="잡지 부록";const MAG_DAYS=35;
 const CATCLS={"팝업스토어":"c-pop","콜라보카페":"c-cafe","전시·행사":"c-expo","축제":"c-fest","가챠":"c-gacha","쿠지":"c-kuji","플리마켓":"c-flea","잡지 부록":"c-mag"};
 const st={cat:"",area:"",q:"",s:"all",from:"",to:"",bm:false,region:"tokyo"};
 // 🗾 지역(도쿄/오사카) 토글: events.json의 region(tokyo/osaka/all). all(전국: 가챠·쿠지·잡지 부록)은 두 지역 모두에 보여요.
@@ -122,15 +122,9 @@ function render(keep){if(!keep)PAGE=0;
   document.getElementById("list").innerHTML=rows.length?rows.slice(P0,P0+PER).map(({e,x},ci0)=>{const ci=ci0+P0;const u=e._dates?null:urg(e,x);return `
   <article class="card${u?" "+u.c:""}${e._dates?" series":""}" data-i="${ci}">${u?`<div class="ub">${u.t}</div>`:""}${(()=>{const on=BM.has(seriesKey(e));return `<button type="button" class="bm${on?" on":""}" aria-pressed="${on}" aria-label="${on?"북마크 해제":"북마크"}" title="${on?"북마크 해제":"북마크"}">${on?"★":"☆"}</button>`})()}
   <div class="top">${thumb(e)}<div class="tx"><div class="badges"><span class="b cat ${CATCLS[e.category]||""}">${esc(e.category)}</span><span class="b ${x.k}">${u&&x.k==="ending"?"곧 종료":x.t}</span><span class="b">${esc(e.area)}</span></div>
-  <h2${hasDetail(e)?` class="dt"`:""}>${esc(e.title_ko)}</h2><p class="ja">${esc(e.title_ja||"")}</p></div></div>
-  ${e.summary_ko?`<div class="sum"><span class="sumlbl"><a href="${esc(e.summary_source||e.official_url)}" target="_blank" rel="noopener">공식 페이지 요약</a></span><p>${esc(e.summary_ko)}</p></div>`:""}
-  ${e.thumbnail?`<p class="credit"><a href="${esc(e.thumbnail_source||e.official_url)}" target="_blank" rel="noopener">이미지 출처</a></p>`:""}
-  <dl>${dlDates(e)}<dt>장소</dt><dd>${esc(e.venue)}</dd>
-  ${e.reservation?`<dt>예약</dt><dd>${esc(e.reservation)}</dd>`:""}${e.price?`<dt>가격</dt><dd>${pricet(e.price)}</dd>`:""}</dl>
-  ${noteOf(e)?`<p class="note">📝 ${noteOf(e)}</p>`:""}${e.verified_at?`<p class="note">✅ 공식 사이트 원문 대조 ${esc(e.verified_at)}</p>`:""}
-  ${picker(e)}
-  ${mapq(e)?`<details class="map" data-q="${esc(mapq(e))}"><summary>📍 지도 펼치기</summary><div class="mapbox"></div></details>`:""}
-  <div class="btns">${hasDetail(e)?`<button type="button" class="dt more">자세히 보기</button>`:""}${e.official_url?`<a href="${esc(e.official_url)}" target="_blank" rel="noopener">공식 사이트</a>`:""}${mapq(e)?`<a class="sec" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(mapq(e))}" target="_blank" rel="noopener">지도 보기</a>`:""}${e.source_url&&e.source_url!==e.official_url?`<a class="sec" href="${esc(e.source_url)}" target="_blank" rel="noopener">출처</a>`:""}${e.blog_url?`<a class="sec blog" href="${esc(e.blog_url)}" target="_blank" rel="noopener">블로그 글</a>`:""}</div>
+  <h2 class="dt">${esc(e.title_ko)}</h2>${e.title_ja?`<p class="ja">${esc(e.title_ja)}</p>`:""}</div></div>
+  <ul class="cmeta"><li><span>🗓️</span>${e._dates?`다음 ${esc(fmt(e._dates[0].start))} <em>외 ${e._dates.length-1}회</em>`:esc(period(e))}</li>${e.venue?`<li><span>📍</span>${esc(e.venue)}</li>`:""}${e.price?`<li><span>🏷️</span>${pricet(e.price)}</li>`:""}</ul>
+  <div class="btns">${e.official_url?`<a href="${esc(e.official_url)}" target="_blank" rel="noopener">공식 사이트</a>`:""}<button type="button" class="dt more">자세히 보기</button></div>
   </article>`}).join(""):(st.bm?`<div class="empty"><p>⭐ 아직 북마크한 일정이 없어요.</p><p class="esub">가고 싶은 일정의 ☆를 누르면 여기에 날짜순으로 모여요. (이 기기·브라우저에만 저장돼요)</p></div>`:`<div class="empty"><p>조건에 맞는 일정이 없어요.</p><button type="button" id="freset" class="freset">🔄 필터 초기화</button></div>`)}
 
 const WD=["일","월","화","수","목","금","토"];
@@ -193,6 +187,11 @@ const period=e=>e._dates?`${fmt(e._dates[0].start)} 외 ${e._dates.length-1}회 
 // 원본 이미지가 깨지면(점검·HTML 리다이렉트 등) data-fb에 적힌 저장 사본으로 순서대로 바꿔요.
 window.qjFb=im=>{const l=(im.dataset.fb||"").split("|").filter(Boolean);if(!l.length){im.onerror=null;const f=im.closest(".dgrid figure");if(f)f.remove();return}im.dataset.fb=l.slice(1).join("|");im.src=l[0]};
 const fbAttr=a=>{a=a.filter(Boolean);return a.length?`data-fb="${esc(a.join("|"))}" onerror="qjFb(this)"`:""};
+function dmeta(e){const m=mapq(e);const links=[m?`<a class="sec" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(m)}" target="_blank" rel="noopener">지도 보기</a>`:"",e.source_url&&e.source_url!==e.official_url?`<a class="sec" href="${esc(e.source_url)}" target="_blank" rel="noopener">출처</a>`:""].join("");
+  return `<div class="dmeta">${e.summary_ko?`<p class="dsumsrc"><a href="${esc(e.summary_source||e.official_url)}" target="_blank" rel="noopener">↑ 공식 페이지 요약 원문</a></p>`:""}
+  <dl>${dlDates(e)}<dt>장소</dt><dd>${esc(e.venue)}</dd>${e.reservation?`<dt>예약</dt><dd>${esc(e.reservation)}</dd>`:""}${e.price?`<dt>가격</dt><dd>${pricet(e.price)}</dd>`:""}</dl>
+  ${noteOf(e)?`<p class="note">📝 ${noteOf(e)}</p>`:""}${e.verified_at?`<p class="note">✅ 공식 사이트 원문 대조 ${esc(e.verified_at)}</p>`:""}
+  ${picker(e)}${m?`<details class="map" data-q="${esc(m)}"><summary>📍 지도 펼치기</summary><div class="mapbox"></div></details>`:""}${links?`<div class="btns">${links}</div>`:""}</div>`}
 function detail(e){const g=e.gallery||[];const groups=[...new Set(g.map(x=>x.group||""))];
   return `<div class="dv" role="dialog" aria-modal="true" aria-label="${esc(e.title_ko)} 자세히 보기"><button class="dvx" aria-label="닫기">✕</button>
   <div class="dcard${e.image_fit==="contain"?" dfit":""}${(e.image_hd||e.thumbnail)?"":" dnoimg"}">${(e.image_hd||e.thumbnail)?(e.image_fit==="contain"?`<img class="dblur" src="${esc(e.image_hd||e.thumbnail)}" alt="" aria-hidden="true" referrerpolicy="no-referrer" ${fbAttr([e.image_fb])}>`:"")+`<img class="dbg" src="${esc(e.image_hd||e.thumbnail)}" alt="" ${e.thumb_pos&&e.image_fit!=="contain"?`style="object-position:${esc(e.thumb_pos)}"`:""} referrerpolicy="no-referrer" ${fbAttr([e.image_hd&&e.thumbnail&&e.image_hd!==e.thumbnail?e.thumbnail:"",e.image_fb])}>`:""}
@@ -202,9 +201,10 @@ function detail(e){const g=e.gallery||[];const groups=[...new Set(g.map(x=>x.gro
     <div class="dtag">#${esc(e.category)} · ${esc(e.area)}</div>
     ${e.thumbnail?`<div class="dsrc">이미지 출처: <a href="${esc(e.thumbnail_source||e.official_url)}" target="_blank" rel="noopener">${esc(host(e.thumbnail_source||e.official_url||e.thumbnail))}</a></div>`:""}</div></div>
   <div class="dact"><button type="button" class="dshare">🔗 링크 복사</button></div>
+  ${dmeta(e)}
   ${(e.info||[]).length?`<div class="dinfo">${e.info.map(b=>`<section><h3 class="dgh">${esc(b.h)}</h3><ul>${(b.items||[]).map(t=>`<li>${pricet(t)}</li>`).join("")}</ul></section>`).join("")}${e.info_source?`<p class="dnote">출처: <a href="${esc(e.info_source)}" target="_blank" rel="noopener">${esc(host(e.info_source))}</a></p>`:""}</div>`:""}
   ${g.length?groups.map(gr=>`<h3 class="dgh">${esc(gr||"갤러리")}</h3><div class="dgrid">${g.filter(x=>(x.group||"")===gr).map(x=>`<figure><a class="zoom" href="${esc(x.full||x.img)}" target="_blank" rel="noopener" data-cap="${esc(x.caption_ko)}"${x.img_fb?` data-fb="${esc(x.img_fb)}"`:""}><img src="${esc(x.img)}" alt="${esc(x.caption_ko)}" loading="lazy" referrerpolicy="no-referrer" ${x.img_fb?`data-fb="${esc(x.img_fb)}" onerror="qjFb(this)"`:`onerror="this.closest('figure').remove()"`}></a><figcaption><b>${esc(x.caption_ko)}</b>${x.caption_ja?`<span>${esc(x.caption_ja)}</span>`:""}${x.kinds||x.size?`<i>${esc([x.kinds,x.size].filter(Boolean).join(" · "))}</i>`:""}${x.price?`<em>${pricet(x.price)}</em>`:""}</figcaption></figure>`).join("")}</div>`).join("")
-   +(e.gallery_more?`<a class="dmore" href="${esc(e.gallery_more.url)}" target="_blank" rel="noopener">${esc(e.gallery_more.label||"전체 보기")} →</a>`:"")+`<p class="dnote">${e.gallery_note?esc(e.gallery_note)+" · ":""}출처: <a href="${esc(e.gallery_source||e.official_url)}" target="_blank" rel="noopener">${esc(host(e.gallery_source||e.official_url))}</a>${e.copyright?` · ${esc(e.copyright)}`:""}</p>`:`<div class="dwait" role="note"><div class="dwait-i" aria-hidden="true">⏳</div><p class="dwait-t">아직 공식 이미지·상품 정보가 공개되지 않았어요</p><p class="dwait-s">공개되는 대로 업데이트할게요. 그동안은 공식 사이트에서 소식을 확인해 주세요.</p></div>`}
+   +(e.gallery_more?`<a class="dmore" href="${esc(e.gallery_more.url)}" target="_blank" rel="noopener">${esc(e.gallery_more.label||"전체 보기")} →</a>`:"")+`<p class="dnote">${e.gallery_note?esc(e.gallery_note)+" · ":""}출처: <a href="${esc(e.gallery_source||e.official_url)}" target="_blank" rel="noopener">${esc(host(e.gallery_source||e.official_url))}</a>${e.copyright?` · ${esc(e.copyright)}`:""}</p>`:!SHOP.has(e.category)?"":`<div class="dwait" role="note"><div class="dwait-i" aria-hidden="true">⏳</div><p class="dwait-t">아직 공식 이미지·상품 정보가 공개되지 않았어요</p><p class="dwait-s">공개되는 대로 업데이트할게요. 그동안은 공식 사이트에서 소식을 확인해 주세요.</p></div>`}
   ${e.official_url?`<a class="dlink" href="${esc(e.official_url)}" target="_blank" rel="noopener">공식 사이트에서 확인하기</a>`:""}${e.blog_url?`<a class="dblog" href="${esc(e.blog_url)}" target="_blank" rel="noopener">블로그 글 보기</a>`:""}</div>`}
 let DETAIL_E=null;
 // 뒤로가기: 모달·라이트박스를 열 때 history 항목을 하나씩 쌓고, 뒤로가기는 맨 위 층만 닫아요.
