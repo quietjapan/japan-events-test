@@ -2,7 +2,12 @@ const CATS=["팝업스토어","콜라보카페","전시·행사","축제","가�
 const STOCK=new Set(["가챠","쿠지"]);const SHOP=new Set(["팝업스토어","콜라보카페","쿠지","가챠","잡지 부록"]);
 const hasGal=e=>!!(e.gallery&&e.gallery.length);const hasDetail=e=>SHOP.has(e.category)||hasGal(e);const MAG="잡지 부록";const MAG_DAYS=35;
 const CATCLS={"팝업스토어":"c-pop","콜라보카페":"c-cafe","전시·행사":"c-expo","축제":"c-fest","가챠":"c-gacha","쿠지":"c-kuji","플리마켓":"c-flea","잡지 부록":"c-mag"};
-const st={cat:"",area:"",q:"",s:"all",from:"",to:"",bm:false};
+const st={cat:"",area:"",q:"",s:"all",from:"",to:"",bm:false,region:"tokyo"};
+// 🗾 지역(도쿄/오사카) 토글: events.json의 region(tokyo/osaka/all). all(전국: 가챠·쿠지·잡지 부록)은 두 지역 모두에 보여요.
+const REG={tokyo:"도쿄",osaka:"오사카"};const REGK="qj_region";
+const regionOf=e=>e.region||(e.area==="오사카"?"osaka":e.area==="전국"?"all":"tokyo");
+const inRegion=e=>{const r=regionOf(e);return r==="all"||r===st.region};
+(()=>{let r=null;try{r=new URLSearchParams(location.search).get("region")}catch(e){}if(!REG[r]){try{r=localStorage.getItem(REGK)}catch(e){}}st.region=REG[r]?r:"tokyo";window.QJ_REGION=st.region;document.documentElement.setAttribute("data-region",st.region);document.querySelectorAll("#region button[data-r]").forEach(b=>{const on=b.dataset.r===st.region;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on)})})();
 // ⭐ 북마크: 이 기기 브라우저(localStorage)에만 저장. 묶인 카드도 같은 키(seriesKey)로 저장돼요.
 const BMK="qj_bm";let BM=new Set();try{BM=new Set(JSON.parse(localStorage.getItem(BMK)||"[]"))}catch(e){}
 const saveBM=()=>{try{localStorage.setItem(BMK,JSON.stringify([...BM]))}catch(e){}};let EV=[];
@@ -94,14 +99,15 @@ function units(){return GROUPS.map(g=>{if(g.length===1)return{e:g[0],x:status(g[
 function render(){
   const q=st.q.trim().normalize("NFKC").toLowerCase();
   const rows=units().filter(({e,x})=>x.k!=="end"
-    &&(!st.bm||BM.has(seriesKey(e)))
+    &&(st.bm?BM.has(seriesKey(e)):inRegion(e))
     &&(st.bm||!st.cat||e.category===st.cat)&&(!st.area||e.area===st.area)
     &&(st.s==="all"||(st.s==="soon"?x.k==="soon":x.k!=="soon"))
     &&(e._dates?e._dates.some(inRange):inRange(e))
     &&(!q||[e.title_ko,e.title_ja,e.venue,e.summary_ko].join(" ").normalize("NFKC").toLowerCase().includes(q)))
    .sort((a,b)=>st.bm?((a.e.start||"9").localeCompare(b.e.start||"9")||sortKey(a.e).localeCompare(sortKey(b.e))):sortKey(a.e).localeCompare(sortKey(b.e)));
   CARDS=rows.map(r=>r.e);
-  document.getElementById("count").textContent=`${rows.length}건`;
+  window.QJCAL&&QJCAL(CARDS);
+  document.getElementById("count").textContent=st.bm?`${rows.length}건 (도쿄·오사카 전체)`:`${REG[st.region]} ${rows.length}건`;
   const fc=document.getElementById("fcnt");if(fc){const n=(st.area?1:0)+((st.from||st.to)?1:0)+(st.s!=="all"?1:0);fc.hidden=!n;fc.textContent=n?`${n}개 적용 중`:""}
   document.getElementById("magintro").hidden=st.bm||st.cat!==MAG;
   document.getElementById("list").innerHTML=rows.length?rows.map(({e,x},ci)=>{const u=e._dates?null:urg(e,x);return `
@@ -145,8 +151,15 @@ fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
   const chips=document.getElementById("chips");
   chips.innerHTML=["",...CATS].map(c=>`<button data-c="${c}" class="${c?"":"on"}">${c||"전체"}</button>`).join("")+`<button data-bm="1" class="bmtab">⭐ 북마크</button>`;
   chips.onclick=ev=>{const b=ev.target.closest("button");if(!b)return;st.bm=!!b.dataset.bm;st.cat=st.bm?"":b.dataset.c;chips.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));render();window.gtag&&gtag("event","select_tab",{tab:st.bm?"북마크":(b.dataset.c||"전체")})};
-  const sel=document.getElementById("area");[...new Set(EV.map(e=>e.area))].forEach(a=>sel.add(new Option(a,a)));
+  const sel=document.getElementById("area");
+  const fillArea=()=>{const areas=[...new Set(EV.filter(inRegion).map(e=>e.area))];while(sel.options.length>1)sel.remove(1);areas.forEach(a=>sel.add(new Option(a,a)));if(st.area&&!areas.includes(st.area))st.area="";sel.value=st.area};fillArea();
   sel.onchange=()=>{st.area=sel.value;render()};
+  const rg=document.getElementById("region");
+  const paintRegion=()=>{document.documentElement.setAttribute("data-region",st.region);if(rg)rg.querySelectorAll("button").forEach(b=>{const on=b.dataset.r===st.region;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on)})};
+  window.setRegion=(r,{persist=true,track=false}={})=>{if(!REG[r])return;const ch=r!==st.region;st.region=r;window.QJ_REGION=r;if(persist){try{localStorage.setItem(REGK,r)}catch(x){}}
+    paintRegion();if(ch){fillArea();render();window.QJWX&&QJWX(r)}if(track&&window.gtag)gtag("event","select_region",{region:REG[r]})};
+  if(rg)rg.onclick=ev=>{const b=ev.target.closest("button[data-r]");if(!b)return;const r=b.dataset.r;if(r===st.region)return;setRegion(r,{track:true})};
+  paintRegion();
   const fr=document.getElementById("from"),to=document.getElementById("to");
   const setR=()=>{st.from=fr.value;st.to=to.value;if(st.from&&st.to&&st.from>st.to){st.to=st.from;to.value=st.from}to.min=st.from||"";render()};
   fr.onchange=setR;to.onchange=setR;
@@ -156,8 +169,10 @@ fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
   document.getElementById("q").oninput=e=>{st.q=e.target.value;render()};
   const tg=document.getElementById("status");tg.onclick=ev=>{const b=ev.target.closest("button");if(!b)return;st.s=b.dataset.s;tg.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));render()};
   render();
+  try{const sp=new URLSearchParams(location.search);if(sp.has("region")){sp.delete("region");const q=sp.toString();history.replaceState(null,"",location.pathname+(q?"?"+q:"")+location.hash)}}catch(x){}
   const want=new URLSearchParams(location.search).get("item");
   if(want){try{history.replaceState(null,"",baseURL()+location.hash)}catch(x){}
+    {const raw0=EV.find(c=>itemId(c)===want);if(raw0){const r0=regionOf(raw0);if(r0!=="all"&&r0!==st.region&&window.setRegion)setRegion(r0,{persist:false})}}
     let e=CARDS.find(c=>itemId(c)===want)||CARDS.find(c=>(c._dates||[]).some(d=>itemId(d)===want));
     if(!e){const raw=EV.find(c=>itemId(c)===want);if(raw){const b=[...chips.querySelectorAll("button")].find(x=>x.dataset.c===raw.category);if(b)b.click();e=CARDS.find(c=>c.title_ko===raw.title_ko&&c.category===raw.category)||raw}}
     if(e&&hasDetail(e))openDetail(e)}
@@ -165,9 +180,12 @@ fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
 
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,"")}catch{return""}};
 const period=e=>e._dates?`${fmt(e._dates[0].start)} 외 ${e._dates.length-1}회 (${e._dates.map(x=>md(x.start)).join(" · ")})`:e.date_label?e.date_label:`${e.start?fmt(e.start):""}${e.end&&e.end!==e.start?" ~ "+fmt(e.end):""}`;
+// 원본 이미지가 깨지면(점검·HTML 리다이렉트 등) data-fb에 적힌 저장 사본으로 순서대로 바꿔요.
+window.qjFb=im=>{const l=(im.dataset.fb||"").split("|").filter(Boolean);if(!l.length){im.onerror=null;const f=im.closest(".dgrid figure");if(f)f.remove();return}im.dataset.fb=l.slice(1).join("|");im.src=l[0]};
+const fbAttr=a=>{a=a.filter(Boolean);return a.length?`data-fb="${esc(a.join("|"))}" onerror="qjFb(this)"`:""};
 function detail(e){const g=e.gallery||[];const groups=[...new Set(g.map(x=>x.group||""))];
   return `<div class="dv" role="dialog" aria-modal="true" aria-label="${esc(e.title_ko)} 자세히 보기"><button class="dvx" aria-label="닫기">✕</button>
-  <div class="dcard${e.image_fit==="contain"?" dfit":""}${(e.image_hd||e.thumbnail)?"":" dnoimg"}">${(e.image_hd||e.thumbnail)?(e.image_fit==="contain"?`<img class="dblur" src="${esc(e.image_hd||e.thumbnail)}" alt="" aria-hidden="true" referrerpolicy="no-referrer">`:"")+`<img class="dbg" src="${esc(e.image_hd||e.thumbnail)}" alt="" ${e.thumb_pos&&e.image_fit!=="contain"?`style="object-position:${esc(e.thumb_pos)}"`:""} referrerpolicy="no-referrer" ${e.image_hd&&e.thumbnail&&e.image_hd!==e.thumbnail?`onerror="this.onerror=null;this.src='${esc(e.thumbnail)}'"`:""}>`:""}
+  <div class="dcard${e.image_fit==="contain"?" dfit":""}${(e.image_hd||e.thumbnail)?"":" dnoimg"}">${(e.image_hd||e.thumbnail)?(e.image_fit==="contain"?`<img class="dblur" src="${esc(e.image_hd||e.thumbnail)}" alt="" aria-hidden="true" referrerpolicy="no-referrer" ${fbAttr([e.image_fb])}>`:"")+`<img class="dbg" src="${esc(e.image_hd||e.thumbnail)}" alt="" ${e.thumb_pos&&e.image_fit!=="contain"?`style="object-position:${esc(e.thumb_pos)}"`:""} referrerpolicy="no-referrer" ${fbAttr([e.image_hd&&e.thumbnail&&e.image_hd!==e.thumbnail?e.thumbnail:"",e.image_fb])}>`:""}
    <div class="dpill">${esc(e.title_ko)}</div>
    <div class="dpanel">${e.title_ja?`<p class="dja">${esc(e.title_ja)}</p>`:""}${e.summary_ko?`<p class="dsum">${esc(e.summary_ko)}</p>`:""}
     <ul><li>📍 ${esc(e.venue)}</li><li>🗓️ ${esc(period(e))}</li>${e.price?`<li>🏷️ ${pricet(e.price)}</li>`:""}</ul>
@@ -175,7 +193,7 @@ function detail(e){const g=e.gallery||[];const groups=[...new Set(g.map(x=>x.gro
     ${e.thumbnail?`<div class="dsrc">이미지 출처: <a href="${esc(e.thumbnail_source||e.official_url)}" target="_blank" rel="noopener">${esc(host(e.thumbnail_source||e.official_url||e.thumbnail))}</a></div>`:""}</div></div>
   <div class="dact"><button type="button" class="dshare">🔗 링크 복사</button></div>
   ${(e.info||[]).length?`<div class="dinfo">${e.info.map(b=>`<section><h3 class="dgh">${esc(b.h)}</h3><ul>${(b.items||[]).map(t=>`<li>${pricet(t)}</li>`).join("")}</ul></section>`).join("")}${e.info_source?`<p class="dnote">출처: <a href="${esc(e.info_source)}" target="_blank" rel="noopener">${esc(host(e.info_source))}</a></p>`:""}</div>`:""}
-  ${g.length?groups.map(gr=>`<h3 class="dgh">${esc(gr||"갤러리")}</h3><div class="dgrid">${g.filter(x=>(x.group||"")===gr).map(x=>`<figure><a class="zoom" href="${esc(x.full||x.img)}" target="_blank" rel="noopener" data-cap="${esc(x.caption_ko)}"><img src="${esc(x.img)}" alt="${esc(x.caption_ko)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('figure').remove()"></a><figcaption><b>${esc(x.caption_ko)}</b>${x.caption_ja?`<span>${esc(x.caption_ja)}</span>`:""}${x.kinds||x.size?`<i>${esc([x.kinds,x.size].filter(Boolean).join(" · "))}</i>`:""}${x.price?`<em>${pricet(x.price)}</em>`:""}</figcaption></figure>`).join("")}</div>`).join("")
+  ${g.length?groups.map(gr=>`<h3 class="dgh">${esc(gr||"갤러리")}</h3><div class="dgrid">${g.filter(x=>(x.group||"")===gr).map(x=>`<figure><a class="zoom" href="${esc(x.full||x.img)}" target="_blank" rel="noopener" data-cap="${esc(x.caption_ko)}"${x.img_fb?` data-fb="${esc(x.img_fb)}"`:""}><img src="${esc(x.img)}" alt="${esc(x.caption_ko)}" loading="lazy" referrerpolicy="no-referrer" ${x.img_fb?`data-fb="${esc(x.img_fb)}" onerror="qjFb(this)"`:`onerror="this.closest('figure').remove()"`}></a><figcaption><b>${esc(x.caption_ko)}</b>${x.caption_ja?`<span>${esc(x.caption_ja)}</span>`:""}${x.kinds||x.size?`<i>${esc([x.kinds,x.size].filter(Boolean).join(" · "))}</i>`:""}${x.price?`<em>${pricet(x.price)}</em>`:""}</figcaption></figure>`).join("")}</div>`).join("")
    +(e.gallery_more?`<a class="dmore" href="${esc(e.gallery_more.url)}" target="_blank" rel="noopener">${esc(e.gallery_more.label||"전체 보기")} →</a>`:"")+`<p class="dnote">${e.gallery_note?esc(e.gallery_note)+" · ":""}출처: <a href="${esc(e.gallery_source||e.official_url)}" target="_blank" rel="noopener">${esc(host(e.gallery_source||e.official_url))}</a>${e.copyright?` · ${esc(e.copyright)}`:""}</p>`:`<div class="dwait" role="note"><div class="dwait-i" aria-hidden="true">⏳</div><p class="dwait-t">아직 공식 이미지·상품 정보가 공개되지 않았어요</p><p class="dwait-s">공개되는 대로 업데이트할게요. 그동안은 공식 사이트에서 소식을 확인해 주세요.</p></div>`}
   ${e.official_url?`<a class="dlink" href="${esc(e.official_url)}" target="_blank" rel="noopener">공식 사이트에서 확인하기</a>`:""}${e.blog_url?`<a class="dblog" href="${esc(e.blog_url)}" target="_blank" rel="noopener">블로그 글 보기</a>`:""}</div>`}
 let DETAIL_E=null;
@@ -205,7 +223,7 @@ document.addEventListener("keydown",ev=>{if(ev.key==="Escape"){if(!closeLB())clo
 // 사진 크게 보기: ◀▶ 버튼·좌우 화살표 키·스와이프로 같은 행사 사진 넘기기
 let LB={list:[],i:0};
 function lbShow(){const l=document.querySelector(".lb");if(!l)return;const a=LB.list[LB.i];const href=a.getAttribute("href");
-  l.querySelector("img").src=href;l.querySelector(".lbcap").innerHTML=`${esc(a.dataset.cap||"")} <span class="lbn">${LB.i+1} / ${LB.list.length}</span> · <a href="${esc(href)}" target="_blank" rel="noopener">원본 열기</a>`;
+  {const im=l.querySelector("img");im.onerror=a.dataset.fb?()=>{im.onerror=null;im.src=a.dataset.fb}:null;im.src=href}l.querySelector(".lbcap").innerHTML=`${esc(a.dataset.cap||"")} <span class="lbn">${LB.i+1} / ${LB.list.length}</span> · <a href="${esc(href)}" target="_blank" rel="noopener">원본 열기</a>`;
   l.querySelectorAll(".lbnav").forEach(b=>b.hidden=LB.list.length<2)}
 const lbStep=n=>{if(!LB.list.length)return;LB.i=(LB.i+n+LB.list.length)%LB.list.length;lbShow()};
 document.addEventListener("click",ev=>{const a=ev.target.closest(".dgrid a.zoom");if(!a)return;ev.preventDefault();ev.stopPropagation();if(document.querySelector(".lb"))return;
@@ -226,3 +244,4 @@ document.addEventListener("click",ev=>{const b=ev.target.closest(".card .bm");if
   const k=seriesKey(e),on=!BM.has(k);on?BM.add(k):BM.delete(k);saveBM();window.gtag&&gtag("event","toggle_bookmark",{item:e.title_ko,category:e.category,on});
   if(st.bm&&!on){render();return}b.classList.toggle("on",on);b.textContent=on?"★":"☆";b.setAttribute("aria-pressed",on);b.setAttribute("aria-label",on?"북마크 해제":"북마크");b.title=on?"북마크 해제":"북마크"});
 document.addEventListener("click",ev=>{if(ev.target.closest("#freset")&&window.resetFilters)resetFilters()});
+window.QJ_openDetail=openDetail;window.QJ_hasDetail=hasDetail;

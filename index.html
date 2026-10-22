@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="ko"><head>
-<meta charset="utf-8"><meta name="robots" content="noindex"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>일본 행사 캘린더</title>
-<meta name="description" content="일본 팝업스토어·콜라보카페·전시·행사·축제·가챠·쿠지·플리마켓·잡지 부록 일정을 한국어로 모아봅니다.">
+<meta charset="utf-8"><meta name="naver-site-verification" content="fd835ef0efc56a6bb8bb169881b9c05104981fd0" /><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>조용한 관종의 일본 · 일본 행사 캘린더</title>
+<meta name="description" content="도쿄·오사카 팝업스토어·콜라보카페·전시·행사·축제·가챠·쿠지·플리마켓·잡지 부록 일정을 한국어로 모아봅니다.">
 <link rel="canonical" href="https://quietjapan.github.io/japan-events-test/">
 <meta property="og:type" content="website">
-<meta property="og:title" content="일본 행사 캘린더">
-<meta property="og:description" content="일본 팝업스토어·콜라보카페·전시·축제·가챠·쿠지·플리마켓·잡지 부록 일정을 한국어로. 공식 출처만, 매주 월·목 업데이트.">
+<meta property="og:title" content="조용한 관종의 일본 · 일본 행사 캘린더">
+<meta property="og:description" content="도쿄·오사카 팝업스토어·콜라보카페·전시·축제·가챠·쿠지·플리마켓·잡지 부록 일정을 한국어로. 공식 출처만, 매주 월·목 업데이트.">
 <meta property="og:url" content="https://quietjapan.github.io/japan-events-test/">
 <meta property="og:image" content="https://quietjapan.github.io/japan-events-test/og-v2.png">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
@@ -32,17 +32,62 @@
 <link rel="preconnect" href="https://www.google.com"><link rel="preconnect" href="https://maps.gstatic.com" crossorigin><link rel="preconnect" href="https://maps.googleapis.com" crossorigin><link rel="dns-prefetch" href="https://api.open-meteo.com">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="calendar.css">
+<script>
+(function(){
+  var KEY='qj_no_ga', ID='G-MJJ30C4082';
+  var sp=new URLSearchParams(location.search);
+  var me=sp.get('me');
+  var toastMsg=null;
+  try{
+    if(me==='1'){ localStorage.setItem(KEY,'1'); toastMsg='이 기기는 방문자 집계에서 제외돼요'; }
+    else if(me==='0'){ localStorage.removeItem(KEY); toastMsg='집계 제외가 해제됐어요'; }
+  }catch(e){}
+  if(me==='1'||me==='0'){
+    sp.delete('me');
+    var q=sp.toString();
+    try{ history.replaceState(null,'',location.pathname+(q?'?'+q:'')+location.hash); }catch(e){}
+  }
+  function showToast(msg){
+    function go(){
+      var t=document.createElement('div');
+      t.className='qj-toast'; t.setAttribute('role','status'); t.textContent=msg;
+      document.body.appendChild(t);
+      setTimeout(function(){ t.classList.add('qj-toast-out'); setTimeout(function(){ try{t.remove()}catch(e){} },400); },2800);
+    }
+    if(document.body) go(); else document.addEventListener('DOMContentLoaded',go);
+  }
+  if(toastMsg) showToast(toastMsg);
+
+  var skip=false;
+  try{ skip=localStorage.getItem(KEY)==='1'; }catch(e){}
+  if(navigator.webdriver) skip=true;
+  if(skip){ window['ga-disable-'+ID]=true; return; }
+
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  window.gtag=gtag;
+  gtag('js',new Date());
+  gtag('config',ID);
+  var s=document.createElement('script');
+  s.async=true;
+  s.src='https://www.googletagmanager.com/gtag/js?id='+ID;
+  document.head.appendChild(s);
+})();
+</script>
 </head><body>
 <header class="hd"><div class="wrap">
   <button type="button" id="themeicon" class="themeicon theme-toggle" aria-label="다크모드">🌙</button>
+  <p class="kicker">조용한 관종의 일본</p>
   <h1>일본 행사 캘린더</h1>
+  <div class="region" id="region" role="group" aria-label="지역 선택"><button type="button" data-r="tokyo" class="on" aria-pressed="true">🗼 도쿄</button><button type="button" data-r="osaka" aria-pressed="false">🏯 오사카</button></div>
   <p class="sub">팝업스토어 · 콜라보카페 · 전시·행사 · 축제 · 가챠 · 쿠지 · 플리마켓 · 잡지 부록</p>
   <p class="upd" id="upd" hidden></p>
-  <div class="meta"><span id="base">기준일: -</span></div>
+  <div class="meta"><span id="base">기준일: -</span><a href="https://blog.naver.com/rownsh00" target="_blank" rel="noopener">블로그 바로가기 →</a></div>
 </div></header>
 <main class="wrap">
   <div id="banner" class="banner" hidden>⚠️ 현재 예시 데이터입니다. 실제 일정은 공식 사이트에서 확인해 주세요.</div>
-  <section id="wx" class="wx" aria-label="도쿄 날씨"><div class="wx-hd"><b>도쿄 7일 날씨</b><span>날씨 정보: <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a> · 행사 정보와 별개</span></div><div id="wxrow" class="wxrow wxload" aria-busy="true"><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><span class="wx-msg sr">날씨 불러오는 중…</span></div></section>
+  <details id="wx" class="wx" aria-label="도쿄 날씨"><summary class="wx-hd"><b id="wxtitle">도쿄 7일 날씨</b><span id="wxsum" class="wxsum"></span></summary><div id="wxrow" class="wxrow wxload" aria-busy="true"><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><span class="wx-msg sr">날씨 불러오는 중…</span></div><p class="wxsrc">날씨 정보: <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a> · 행사 정보와 별개</p></details>
   <section class="filters">
     <div id="chips" class="chips"></div>
     <div class="row">
@@ -59,7 +104,7 @@
   <p id="count" class="count"></p>
   <section id="list" class="list"></section>
 </main>
-<footer class="wrap ft"><p class="ftl">정보는 바뀔 수 있으니 방문 전 공식 안내를 확인해 주세요 · © 일본 행사 캘린더</p></footer>
+<footer class="wrap ft"><a class="fb" href="https://blog.naver.com/rownsh00/224442817755" target="_blank" rel="noopener">💬 문의·개선점·제보 남기기 (블로그 댓글)</a><p class="ftl">정보는 바뀔 수 있으니 방문 전 공식 안내를 확인해 주세요 · © 조용한 관종의 일본</p></footer>
 
 <div class="fabs"><button type="button" id="themebtn" class="fxbtn themebtn theme-toggle" aria-label="다크모드로 바꾸기">🌙 다크모드</button><button type="button" id="fxbtn" class="fxbtn" aria-expanded="false" aria-controls="fxpanel">💱 환율계산기</button></div>
 <div id="fxov" class="fxov" hidden>
@@ -94,8 +139,9 @@
 </div>
 
 <script src="fx.js"></script>
+<script src="calendar.js"></script>
 <script src="app.js"></script>
 <script src="weather.js"></script>
 <script src="theme.js"></script>
-<script>(function(){var d=document.getElementById("fmore");if(d&&matchMedia("(min-width:720px)").matches)d.open=true})();</script>
+<script>(function(){if(matchMedia("(min-width:720px)").matches){["fmore","wx"].forEach(function(id){var d=document.getElementById(id);if(d)d.open=true})}})();</script>
 </body></html>

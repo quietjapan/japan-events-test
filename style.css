@@ -228,3 +228,43 @@ body.modal-open .fabs,body.modal-open .fxov{display:none!important}
 .dact{display:flex;justify-content:flex-end;margin:10px 2px 0}.dshare{border:1px solid var(--line);background:var(--soft,#fff);color:inherit;border-radius:999px;padding:6px 12px;font-size:13px;cursor:pointer}
 .dinfo section{background:var(--soft,#faf7f2);border:1px solid var(--line);border-radius:10px;padding:2px 12px 8px;margin-top:10px}.dinfo .dgh{margin:10px 0 6px}.dinfo ul{margin:0;padding-left:18px;font-size:13px;line-height:1.55}.dinfo li{margin:3px 0;word-break:keep-all;overflow-wrap:anywhere}
 .qtoast{position:fixed;left:50%;bottom:28px;transform:translateX(-50%) translateY(20px);background:#222;color:#fff;padding:9px 16px;border-radius:999px;font-size:14px;opacity:0;pointer-events:none;transition:.2s;z-index:10000}.qtoast.on{opacity:1;transform:translateX(-50%)}
+/* 10/22: 도쿄/오사카 지역 토글 · 헤더만 아주 옅은 세이가이하(青海波) 무늬 · 모바일 상단 압축 */
+.hd{position:relative;overflow:hidden;isolation:isolate}
+.hd::before{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;--sg-a:var(--card);--sg-b:var(--accent);
+  background-color:var(--sg-a);
+  background-image:
+    radial-gradient(circle at 100% 150%,var(--sg-a) 24%,var(--sg-b) 24%,var(--sg-b) 28%,var(--sg-a) 28%,var(--sg-a) 36%,var(--sg-b) 36%,var(--sg-b) 40%,transparent 40%,transparent),
+    radial-gradient(circle at 0 150%,var(--sg-a) 24%,var(--sg-b) 24%,var(--sg-b) 28%,var(--sg-a) 28%,var(--sg-a) 36%,var(--sg-b) 36%,var(--sg-b) 40%,transparent 40%,transparent),
+    radial-gradient(circle at 50% 100%,var(--sg-b) 10%,var(--sg-a) 10%,var(--sg-a) 23%,var(--sg-b) 23%,var(--sg-b) 30%,var(--sg-a) 30%,var(--sg-a) 43%,var(--sg-b) 43%,var(--sg-b) 50%,var(--sg-a) 50%,var(--sg-a) 63%,var(--sg-b) 63%,var(--sg-b) 71%,transparent 71%,transparent),
+    radial-gradient(circle at 100% 50%,var(--sg-b) 5%,var(--sg-a) 5%,var(--sg-a) 15%,var(--sg-b) 15%,var(--sg-b) 20%,var(--sg-a) 20%,var(--sg-a) 29%,var(--sg-b) 29%,var(--sg-b) 34%,var(--sg-a) 34%,var(--sg-a) 44%,var(--sg-b) 44%,var(--sg-b) 49%,transparent 49%,transparent),
+    radial-gradient(circle at 0 50%,var(--sg-b) 5%,var(--sg-a) 5%,var(--sg-a) 15%,var(--sg-b) 15%,var(--sg-b) 20%,var(--sg-a) 20%,var(--sg-a) 29%,var(--sg-b) 29%,var(--sg-b) 34%,var(--sg-a) 34%,var(--sg-a) 44%,var(--sg-b) 44%,var(--sg-b) 49%,transparent 49%,transparent);
+  background-size:56px 28px;opacity:.05;
+  -webkit-mask-image:linear-gradient(105deg,transparent 0%,rgba(0,0,0,.35) 35%,#000 75%);mask-image:linear-gradient(105deg,transparent 0%,rgba(0,0,0,.35) 35%,#000 75%)}
+[data-theme="dark"] .hd::before{opacity:.07}
+.region{display:inline-flex;gap:2px;margin:10px 0 2px;padding:3px;border:1px solid var(--line);border-radius:999px;background:var(--soft)}
+.region button{border:0;background:transparent;color:var(--ink);font:inherit;font-size:14px;font-weight:700;min-height:38px;padding:6px 18px;border-radius:999px;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.region button.on{background:var(--solid);color:var(--on-solid);box-shadow:0 1px 3px rgba(0,0,0,.18)}
+.region button:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.wx>summary{list-style:none;cursor:pointer;align-items:center;flex-wrap:nowrap;min-height:28px}
+.wx>summary::-webkit-details-marker{display:none}
+.wx>summary::after{content:"▾";color:var(--mute);font-size:12px}
+.wx[open]>summary::after{content:"▴";margin-left:auto}
+.wx-hd .wxsum{margin-left:auto;color:var(--ink);font-size:12px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.wx[open] .wxsum{display:none}
+.wxsrc{margin:6px 0 0;font-size:11px;color:var(--mute);text-align:right}
+.wxsrc a{color:var(--mute)}
+@media(max-width:640px){
+  .hd{padding:12px 0 10px}
+  .hd .kicker{font-size:12px}
+  h1{font-size:22px;margin:2px 0 0}
+  .region{display:flex;width:100%;box-sizing:border-box;margin:8px 0 0}
+  .region button{flex:1 1 0;min-height:40px;padding:6px 8px}
+  .upd{margin-top:6px;font-size:11.5px}
+  .meta{margin-top:4px;font-size:12px}
+  .wx{margin-top:10px;padding:6px 10px}
+  .filters{margin:10px 0;gap:8px}
+  .chips{gap:5px}
+  .chips button{min-height:36px;padding:5px 11px;font-size:13px}
+  .fmore>summary{min-height:42px}
+  .count{margin-bottom:6px}
+}
