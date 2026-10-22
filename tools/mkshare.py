@@ -43,7 +43,7 @@ for i,e in seen.items():
                 r=requests.get(e["thumbnail"],headers={**UA,"Referer":e.get("thumbnail_source") or e.get("official_url") or ""},timeout=30);r.raise_for_status();og_img(r.content,jp)
         if jp.exists(): img=f"{SITE}i/{i}/og.jpg";credit=" (이미지: 공식 이미지)"
     except Exception as x: print("FAIL",i,e.get("title_ko"),x);fail+=1
-    t=f"{e.get('title_ko','')} · 조용한 관종의 일본"
+    t=f"{e.get('title_ko','')} · 일본 행사 캘린더"
     desc=(e.get("summary_ko") or "").strip()
     meta=" · ".join(filter(None,[e.get("venue"),e.get("start") and (e["start"]+(" ~ "+e["end"] if e.get("end") else " ~"))]))
     desc=(desc+(" | " if desc and meta else "")+meta)[:170]+credit+(" "+e["copyright"] if e.get("copyright") else "")
@@ -52,7 +52,7 @@ for i,e in seen.items():
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{q(t)}</title><meta name="description" content="{q(desc)}">
 <link rel="canonical" href="{url}">
-<meta property="og:type" content="article"><meta property="og:site_name" content="조용한 관종의 일본 · 일본 행사 캘린더">
+<meta property="og:type" content="article"><meta property="og:site_name" content="일본 행사 캘린더">
 <meta property="og:title" content="{q(t)}"><meta property="og:description" content="{q(desc)}">
 <meta property="og:url" content="{url}"><meta property="og:image" content="{img}">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
