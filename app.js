@@ -96,7 +96,12 @@ const noteOf=e=>e._dates?seriesInfo(e).note:(e.notes?esc(e.notes):"");
 const sortKey=e=>e._dates?(e._dates[0].end||e._dates[0].start):(e.category===MAG?magEnd(e):(e.end||"9"));
 function units(){return GROUPS.map(g=>{if(g.length===1)return{e:g[0],x:status(g[0])};
   const rem=g.filter(e=>status(e).k!=="end");if(!rem.length)return null;if(rem.length===1)return{e:rem[0],x:status(rem[0])};return seriesUnit(rem)}).filter(Boolean)}
-function render(){
+const PER=12;let PAGE=0;
+function pagerHTML(cur,n){if(n<2)return"";const set=new Set([0,n-1,cur-1,cur,cur+1]);if(cur<=3)[1,2,3,4].forEach(i=>set.add(i));if(cur>=n-4)[n-5,n-4,n-3,n-2].forEach(i=>set.add(i));const ps=[...set].filter(i=>i>=0&&i<n).sort((a,b)=>a-b);let h=`<button type="button" class="pg pnav" data-p="${cur-1}" ${cur===0?"disabled":""} aria-label="이전 페이지">‹</button>`,last=-1;
+  ps.forEach(i=>{if(i-last>1)h+=`<span class="pgdots">…</span>`;h+=`<button type="button" class="pg${i===cur?" on":""}" data-p="${i}" ${i===cur?'aria-current="page"':""} aria-label="${i+1}페이지">${i+1}</button>`;last=i});
+  return h+`<button type="button" class="pg pnav" data-p="${cur+1}" ${cur===n-1?"disabled":""} aria-label="다음 페이지">›</button>`}
+window.QJ_pagerHTML=pagerHTML;
+function render(keep){if(!keep)PAGE=0;
   const q=st.q.trim().normalize("NFKC").toLowerCase();
   const rows=units().filter(({e,x})=>x.k!=="end"
     &&(st.bm?BM.has(seriesKey(e)):inRegion(e))
@@ -110,7 +115,11 @@ function render(){
   document.getElementById("count").textContent=st.bm?`${rows.length}건 (도쿄·오사카 전체)`:`${REG[st.region]} ${rows.length}건`;
   const fc=document.getElementById("fcnt");if(fc){const n=(st.area?1:0)+((st.from||st.to)?1:0)+(st.s!=="all"?1:0);fc.hidden=!n;fc.textContent=n?`${n}개 적용 중`:""}
   document.getElementById("magintro").hidden=st.bm||st.cat!==MAG;
-  document.getElementById("list").innerHTML=rows.length?rows.map(({e,x},ci)=>{const u=e._dates?null:urg(e,x);return `
+  const NP=Math.max(1,Math.ceil(rows.length/PER));PAGE=Math.min(Math.max(0,PAGE),NP-1);const P0=PAGE*PER;
+  {let pg=document.getElementById("pager");if(!pg){pg=document.createElement("nav");pg.id="pager";pg.className="pager";pg.setAttribute("aria-label","페이지");const L=document.getElementById("list");L.parentNode.appendChild(pg);
+    pg.onclick=ev=>{const b=ev.target.closest("button[data-p]");if(!b||b.disabled)return;PAGE=+b.dataset.p;render(true);const L2=document.getElementById("list");const y=L2.getBoundingClientRect().top+scrollY-12;scrollTo({top:Math.max(0,y-(document.querySelector(".vtoggle")?60:0)),behavior:"smooth"})}}
+   pg.innerHTML=pagerHTML(PAGE,NP);pg.hidden=NP<2}
+  document.getElementById("list").innerHTML=rows.length?rows.slice(P0,P0+PER).map(({e,x},ci0)=>{const ci=ci0+P0;const u=e._dates?null:urg(e,x);return `
   <article class="card${u?" "+u.c:""}${e._dates?" series":""}" data-i="${ci}">${u?`<div class="ub">${u.t}</div>`:""}${(()=>{const on=BM.has(seriesKey(e));return `<button type="button" class="bm${on?" on":""}" aria-pressed="${on}" aria-label="${on?"북마크 해제":"북마크"}" title="${on?"북마크 해제":"북마크"}">${on?"★":"☆"}</button>`})()}
   <div class="top">${thumb(e)}<div class="tx"><div class="badges"><span class="b cat ${CATCLS[e.category]||""}">${esc(e.category)}</span><span class="b ${x.k}">${u&&x.k==="ending"?"곧 종료":x.t}</span><span class="b">${esc(e.area)}</span></div>
   <h2${hasDetail(e)?` class="dt"`:""}>${esc(e.title_ko)}</h2><p class="ja">${esc(e.title_ja||"")}</p></div></div>
@@ -175,6 +184,7 @@ fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
     {const raw0=EV.find(c=>itemId(c)===want);if(raw0){const r0=regionOf(raw0);if(r0!=="all"&&r0!==st.region&&window.setRegion)setRegion(r0,{persist:false})}}
     let e=CARDS.find(c=>itemId(c)===want)||CARDS.find(c=>(c._dates||[]).some(d=>itemId(d)===want));
     if(!e){const raw=EV.find(c=>itemId(c)===want);if(raw){const b=[...chips.querySelectorAll("button")].find(x=>x.dataset.c===raw.category);if(b)b.click();e=CARDS.find(c=>c.title_ko===raw.title_ko&&c.category===raw.category)||raw}}
+    if(e){const ix=CARDS.indexOf(e);if(ix>=PER){PAGE=Math.floor(ix/PER);render(true)}}
     if(e&&hasDetail(e))openDetail(e)}
   }).catch(()=>document.getElementById("list").innerHTML='<p class="empty">데이터를 불러오지 못했어요.</p>');
 
@@ -237,11 +247,11 @@ document.addEventListener("click",ev=>{const a=ev.target.closest(".dgrid a.zoom"
 document.addEventListener("keydown",ev=>{if(!document.querySelector(".lb"))return;if(ev.key==="ArrowLeft")lbStep(-1);else if(ev.key==="ArrowRight")lbStep(1)});
 document.addEventListener("click",ev=>{const t=ev.target.closest(".card .dt");if(!t)return;const c=t.closest(".card");const e=CARDS[+c.dataset.i];if(e)openDetail(e)});
 
-window.addEventListener("fxrate",()=>{if(typeof render==="function")render();const o=document.querySelector(".dov");if(o&&DETAIL_E){const sc=o.scrollTop;o.innerHTML=detail(DETAIL_E);o.scrollTop=sc}});
+window.addEventListener("fxrate",()=>{if(typeof render==="function")render(true);const o=document.querySelector(".dov");if(o&&DETAIL_E){const sc=o.scrollTop;o.innerHTML=detail(DETAIL_E);o.scrollTop=sc}});
 document.addEventListener("click",ev=>{const b=ev.target.closest(".moredates");if(!b)return;const x=b.nextElementSibling;if(x){x.hidden=false;b.remove()}});
 
 document.addEventListener("click",ev=>{const b=ev.target.closest(".card .bm");if(!b)return;ev.stopPropagation();const e=CARDS[+b.closest(".card").dataset.i];if(!e)return;
   const k=seriesKey(e),on=!BM.has(k);on?BM.add(k):BM.delete(k);saveBM();window.gtag&&gtag("event","toggle_bookmark",{item:e.title_ko,category:e.category,on});
-  if(st.bm&&!on){render();return}b.classList.toggle("on",on);b.textContent=on?"★":"☆";b.setAttribute("aria-pressed",on);b.setAttribute("aria-label",on?"북마크 해제":"북마크");b.title=on?"북마크 해제":"북마크"});
+  if(st.bm&&!on){render(true);return}b.classList.toggle("on",on);b.textContent=on?"★":"☆";b.setAttribute("aria-pressed",on);b.setAttribute("aria-label",on?"북마크 해제":"북마크");b.title=on?"북마크 해제":"북마크"});
 document.addEventListener("click",ev=>{if(ev.target.closest("#freset")&&window.resetFilters)resetFilters()});
-window.QJ_openDetail=openDetail;window.QJ_hasDetail=hasDetail;
+window.QJ_gotoCard=e=>{const ix=CARDS.indexOf(e);if(ix<0)return false;const p=Math.floor(ix/PER);if(p!==PAGE){PAGE=p;render(true)}return true};window.QJ_openDetail=openDetail;window.QJ_hasDetail=hasDetail;

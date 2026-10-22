@@ -7,7 +7,7 @@
   const ymd=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
   const now=new Date();const TODAY=ymd(now);
   let view="list";try{if(localStorage.getItem(KEY)==="cal")view="cal"}catch(x){}
-  let ym=[now.getFullYear(),now.getMonth()],ROWS=[],sel=null;
+  let ym=[now.getFullYear(),now.getMonth()],ROWS=[],sel=null,dp=0;const DPER=12;
   const list=document.getElementById("list");if(!list)return;
   const bar=document.createElement("div");bar.className="vtoggle toggle";bar.setAttribute("role","group");bar.setAttribute("aria-label","보기 방식");
   bar.innerHTML=`<button type="button" data-v="list">📋 목록</button><button type="button" data-v="cal">📅 달력</button>`;
@@ -30,17 +30,18 @@
 <span class="caldots">${a.slice(0,4).map(o=>`<i style="background:${col(o.e)}"></i>`).join("")}${a.length>4?`<em>+${a.length-4}</em>`:""}</span></button>`}).join("")}</div>
 <div class="calday" id="calday">${dayList()}</div>`}
   function dayList(){if(!sel)return`<p class="calhint">날짜를 누르면 그날 일정을 볼 수 있어요.</p>`;const d=new Date(+sel.slice(0,4),+sel.slice(5,7)-1,+sel.slice(8));
-    const a=ROWS.map((e,i)=>({e,i})).filter(o=>on(o.e,sel));
-    return`<h3>${d.getMonth()+1}월 ${d.getDate()}일 (${WD[d.getDay()]}) · ${a.length}건</h3>`+(a.length?`<ul>${a.map(o=>{const e=o.e;const r=e.end&&e.end!==e.start?`${+e.start.slice(5,7)}/${+e.start.slice(8)} ~ ${+e.end.slice(5,7)}/${+e.end.slice(8)}`:`${+e.start.slice(5,7)}/${+e.start.slice(8)}`;
-      return`<li><button type="button" class="calitem" data-i="${o.i}" style="--c:${col(e)}"><span class="calcat">${esc(e.category)}</span><b>${esc(e.title_ko)}</b><small>${e._dates?"여러 날짜 개최":esc(r)} · ${esc(e.venue||e.area||"")}</small></button></li>`}).join("")}</ul>`:`<p class="calhint">이날은 일정이 없어요.</p>`)}
+    const a0=ROWS.map((e,i)=>({e,i})).filter(o=>on(o.e,sel));const np=Math.max(1,Math.ceil(a0.length/DPER));dp=Math.min(dp,np-1);const a=a0.slice(dp*DPER,dp*DPER+DPER);
+    return`<h3>${d.getMonth()+1}월 ${d.getDate()}일 (${WD[d.getDay()]}) · ${a0.length}건</h3>`+(a.length?`<ul>${a.map(o=>{const e=o.e;const r=e.end&&e.end!==e.start?`${+e.start.slice(5,7)}/${+e.start.slice(8)} ~ ${+e.end.slice(5,7)}/${+e.end.slice(8)}`:`${+e.start.slice(5,7)}/${+e.start.slice(8)}`;
+      return`<li><button type="button" class="calitem" data-i="${o.i}" style="--c:${col(e)}"><span class="calcat">${esc(e.category)}</span><b>${esc(e.title_ko)}</b><small>${e._dates?"여러 날짜 개최":esc(r)} · ${esc(e.venue||e.area||"")}</small></button></li>`}).join("")}</ul>${np>1&&window.QJ_pagerHTML?`<nav class="pager calpager" aria-label="페이지">${QJ_pagerHTML(dp,np)}</nav>`:""}`:`<p class="calhint">이날은 일정이 없어요.</p>`)}
   function open(i){const e=ROWS[i];if(!e)return;if(window.QJ_hasDetail&&QJ_hasDetail(e))QJ_openDetail(e);else if(e.official_url)window.open(e.official_url,"_blank","noopener")}
   bar.onclick=ev=>{const b=ev.target.closest("button[data-v]");if(!b||b.dataset.v===view)return;view=b.dataset.v;try{localStorage.setItem(KEY,view)}catch(x){}paint();window.gtag&&gtag("event","select_view",{view:view==="cal"?"달력":"목록"})};
   cal.onclick=ev=>{const t=ev.target;const nav=t.closest(".calnav");if(nav){ym=[ym[0],ym[1]+ +nav.dataset.d];const d=new Date(ym[0],ym[1],1);ym=[d.getFullYear(),d.getMonth()];sel=null;draw();return}
     if(t.closest(".caltoday")){ym=[now.getFullYear(),now.getMonth()];sel=null;draw();return}
+    const pb=t.closest(".calpager button[data-p]");if(pb){if(pb.disabled)return;dp=+pb.dataset.p;const cd=document.getElementById("calday");cd.innerHTML=dayList();const y=cd.getBoundingClientRect().top+scrollY-12;scrollTo({top:y,behavior:"smooth"});return}
     const it=t.closest(".calitem");if(it){open(+it.dataset.i);return}
     const barEl=t.closest(".calbar");if(barEl&&matchMedia("(min-width:720px)").matches){open(+barEl.dataset.i);return}
-    const c=t.closest(".calc[data-day]");if(c){sel=c.dataset.day;cal.querySelectorAll(".calc.sel").forEach(x=>x.classList.remove("sel"));c.classList.add("sel");document.getElementById("calday").innerHTML=dayList();
+    const c=t.closest(".calc[data-day]");if(c){sel=c.dataset.day;dp=0;cal.querySelectorAll(".calc.sel").forEach(x=>x.classList.remove("sel"));c.classList.add("sel");document.getElementById("calday").innerHTML=dayList();
       if(!matchMedia("(min-width:720px)").matches)document.getElementById("calday").scrollIntoView({behavior:"smooth",block:"nearest"})}};
-  window.QJCAL=rows=>{ROWS=rows||[];if(view==="cal")draw()};
+  window.QJCAL=rows=>{ROWS=rows||[];dp=0;if(view==="cal")draw()};
   paint();
 })();
