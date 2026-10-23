@@ -1,6 +1,6 @@
 {
   "base_date": "2026-10-22",
-  "last_updated": "2026-10-22",
+  "last_updated": "2026-10-23",
   "is_sample": false,
   "events": [
     {
@@ -12305,7 +12305,8 @@
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258552_4.jpg",
           "caption_ko": "라인업 3",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770068955000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770068955000",
+          "img_fb": "gfb/01cec8229de1cf75.webp"
         },
         {
           "group": "상품 이미지 (공식)",
@@ -12506,66 +12507,76 @@
           "group": "판매 굿즈",
           "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210825/VGD_acst_ari_set.jpg",
           "caption_ko": "아크릴 스탠드 After Party ver. 각 1,760엔",
-          "source": "https://bushiroad-creative.com/topics/104744/"
+          "source": "https://bushiroad-creative.com/topics/104744/",
+          "img_fb": "gfb/7377554c2efc3839.webp"
         },
         {
           "group": "판매 굿즈",
           "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210836/vg_TRbadge_ari.jpg",
           "caption_ko": "트레이딩 캔배지 After Party ver. 550엔",
-          "source": "https://bushiroad-creative.com/topics/104744/"
+          "source": "https://bushiroad-creative.com/topics/104744/",
+          "img_fb": "gfb/efbd4a97642d8110.webp"
         },
         {
           "group": "판매 굿즈",
           "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210846/3_vang_HAKU_acrylkey_sample_set_ari.jpg",
           "caption_ko": "박 아크릴 키홀더 After Party ver. 각 990엔",
-          "source": "https://bushiroad-creative.com/topics/104744/"
+          "source": "https://bushiroad-creative.com/topics/104744/",
+          "img_fb": "gfb/066c017d35f5c9e2.webp"
         },
         {
           "group": "판매 굿즈",
           "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210858/4_vang_AkcardST_sample_05.jpg",
           "caption_ko": "아크릴 카드 스탠드 After Party ver. 각 2,750엔",
-          "source": "https://bushiroad-creative.com/topics/104744/"
+          "source": "https://bushiroad-creative.com/topics/104744/",
+          "img_fb": "gfb/ca4dbb1ce84679ac.webp"
         },
         {
           "group": "판매 굿즈",
           "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210911/5_vang_TRminiACblock_sample_ari.jpg",
           "caption_ko": "트레이딩 미니 아크릴 블록 마커 770엔",
-          "source": "https://bushiroad-creative.com/topics/104744/"
+          "source": "https://bushiroad-creative.com/topics/104744/",
+          "img_fb": "gfb/eeeca37374f30775.webp"
         },
         {
           "group": "판매 굿즈",
           "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210916/6_vang_postcard_sample_ari.jpg",
           "caption_ko": "환진성전편 포스트카드 세트 3,300엔",
-          "source": "https://bushiroad-creative.com/topics/104744/"
+          "source": "https://bushiroad-creative.com/topics/104744/",
+          "img_fb": "gfb/ce68276fafd2d253.webp"
         },
         {
           "group": "판매 굿즈",
           "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210923/VGDz_genshin_AkcardST_ari.jpg",
           "caption_ko": "스노돔풍 아크릴 키홀더 1,650엔",
-          "source": "https://bushiroad-creative.com/topics/104744/"
+          "source": "https://bushiroad-creative.com/topics/104744/",
+          "img_fb": "gfb/a963fd2d93201daf.webp"
         },
         {
           "group": "판매 굿즈",
           "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210937/7_vang_acst_sample_set_ari.jpg",
           "caption_ko": "환진성전편·운명성전편 아크릴 스탠드 각 1,760엔",
-          "source": "https://bushiroad-creative.com/topics/104744/"
+          "source": "https://bushiroad-creative.com/topics/104744/",
+          "img_fb": "gfb/d4e83cceb886f1ba.webp"
         },
         {
           "group": "판매 굿즈",
           "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210946/8_vang_TRacrylkey_sample_ari.jpg",
           "caption_ko": "트레이딩 아크릴 키홀더 770엔",
-          "source": "https://bushiroad-creative.com/topics/104744/"
+          "source": "https://bushiroad-creative.com/topics/104744/",
+          "img_fb": "gfb/61ddb33076dd6b7a.webp"
         },
         {
           "group": "구매 특전",
           "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/14170137/261106-1123_cf-vanguard-divinez-PUS_MY-1-1024x723.jpg",
           "caption_ko": "뱅가드 PR 카드 (전 8종, 3,300엔마다)",
-          "source": "https://bushiroad-creative.com/topics/104744/"
+          "source": "https://bushiroad-creative.com/topics/104744/",
+          "img_fb": "gfb/66734bd557991209.webp"
         }
       ],
       "gallery_source": "https://bushiroad-creative.com/topics/104744/",
       "region": "tokyo",
-      "image_fb": "thumbs/37580ec6e2f782b4.webp"
+      "image_fb": "gfb/37580ec6e2f782b4.webp"
     },
     {
       "reservation": "",
@@ -14554,6 +14565,518 @@
       "summary_ko": "「스트리트 파이터」 이치방쿠지예요.",
       "thumb_small": "thumbs/10815ee694562ea7.webp",
       "image_fb": "gfb/10815ee694562ea7.webp"
+    },
+    {
+      "id": "tounyan-cafe6-akiba",
+      "title_ko": "도검난무 「도묘남사」 × 콜라보카페 혼포 제6탄 (아키하바라점)",
+      "title_ja": "刀剣乱舞ONLINE「刀剣乱舞 刀猫男士」× コラボカフェ本舗 第六弾 秋葉原店",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "콜라보카페 혼포 아키하바라점 (外神田4-3-10 シャトンビル2F)",
+      "start": "2026-10-23",
+      "end": "2026-11-15",
+      "reservation": "필요(완전 예약제)",
+      "price": "푸드·디저트 쿠폰 800엔, 드링크 쿠폰 750엔, 소프트드링크 400엔 (콜라보 메뉴 가격은 공식 페이지 확인)",
+      "official_url": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
+      "source_url": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
+      "notes": "전반 10/23~11/5, 후반 11/6~15. 평일 화요일 정기휴무, 11/4 임시휴무(11/3은 영업). 70분제, 완전 예약제(TableCheck), 테이블 차지 없음·1인 1오더 이상",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
+          "tier": "official",
+          "quote": "秋葉原店 2026/10/23～11/15 大阪日本橋店 2026/10/23～11/15 … 定休日：平日火曜・臨時休業日 11月4日(水) … 完全予約制 … テーブルチャージはございませんが、お一人様1オーダー以上",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「도검난무 도묘남사」 콜라보카페 제6탄이에요.",
+      "summary_source": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
+      "map_query": "東京都千代田区外神田4-3-10",
+      "thumbnail": "https://collabocafe-honpo.co.jp/wp-content/uploads/2026/09/刀猫男士第六弾×コラボカフェ本舗_告知バナー.jpg",
+      "thumbnail_source": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
+      "thumb_small": "thumbs/ad53951c534e534d.webp",
+      "image_fb": "gfb/ad53951c534e534d.webp"
+    },
+    {
+      "id": "osaka-tounyan-cafe6-nipponbashi",
+      "title_ko": "도검난무 「도묘남사」 × 콜라보카페 혼포 제6탄 (오사카 닛폰바시점)",
+      "title_ja": "刀剣乱舞ONLINE「刀剣乱舞 刀猫男士」× コラボカフェ本舗 第六弾 大阪日本橋店",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "콜라보카페 혼포 오사카 닛폰바시점 (浪速区日本橋西1-1-18 安田西ビル1F)",
+      "start": "2026-10-23",
+      "end": "2026-11-15",
+      "reservation": "필요(완전 예약제)",
+      "price": "푸드·디저트 쿠폰 800엔, 드링크 쿠폰 750엔, 소프트드링크 400엔 (콜라보 메뉴 가격은 공식 페이지 확인)",
+      "official_url": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
+      "source_url": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
+      "notes": "전반 10/23~11/5, 후반 11/6~15. 평일 화요일 정기휴무, 11/4 임시휴무(11/3은 영업). 70분제, 완전 예약제(TableCheck), 테이블 차지 없음·1인 1오더 이상",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
+          "tier": "official",
+          "quote": "秋葉原店 2026/10/23～11/15 大阪日本橋店 2026/10/23～11/15 … 定休日：平日火曜・臨時休業日 11月4日(水) … 完全予約制 … テーブルチャージはございませんが、お一人様1オーダー以上",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「도검난무 도묘남사」 콜라보카페 제6탄이에요.",
+      "summary_source": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
+      "map_query": "大阪府大阪市浪速区日本橋西1-1-18",
+      "thumbnail": "https://collabocafe-honpo.co.jp/wp-content/uploads/2026/09/刀猫男士第六弾×コラボカフェ本舗_告知バナー.jpg",
+      "thumbnail_source": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
+      "thumb_small": "thumbs/ad53951c534e534d.webp",
+      "image_fb": "gfb/ad53951c534e534d.webp"
+    },
+    {
+      "id": "osaka-sakamoto-days-dj-cafe-bigstep",
+      "title_ko": "SAKAMOTO DAYS DJ GROOVE CAFE (샤레 CAFE 신사이바시 BIGSTEP점)",
+      "title_ja": "TVアニメ『SAKAMOTO DAYS』DJ GROOVE CAFE at 洒落CAFE 心斎橋BIGSTEP店",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "샤레 CAFE 신사이바시 BIGSTEP점 (心斎橋ビッグステップ 3F)",
+      "start": "2026-10-24",
+      "end": "2026-11-03",
+      "reservation": "권장(선착순 예약)",
+      "price": "입장 시 드링크 1잔 1,210엔(유료 디포짓)",
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+      "notes": "11:00~22:00 (콜라보 메뉴 L.O. 21:00). LivePocket 선착순 예약, 빈자리 있으면 예약 없이 입장 가능. 1인 최대 5품. 굿즈는 콜라보 메뉴 주문 시에만 구매 가능",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+          "tier": "official",
+          "quote": "洒落CAFE 心斎橋BIGSTEP店 期間 2026年10月24日（土）〜11月3日（火・祝） 11:00～22:00（コラボメニュー L.O. 21:00）… ご来店時にドリンク1品（税込1,210円）と引き換えいたします",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「SAKAMOTO DAYS」 DJ 테마 콜라보카페예요.",
+      "summary_source": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+      "map_query": "心斎橋ビッグステップ",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/48489/345/48489-345-ef74ae9745e7652fb911b43dfd767a57-3900x2654.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+      "thumb_small": "thumbs/bd3030bcf7dfbf4e.webp",
+      "image_fb": "gfb/bd3030bcf7dfbf4e.webp"
+    },
+    {
+      "id": "milky-subway-towercafe-shibuya",
+      "title_ko": "은하특급 밀키☆서브웨이 × TOWER RECORDS CAFE (시부야점)",
+      "title_ja": "銀河特急 ミルキー☆サブウェイ × TOWER RECORDS CAFE 渋谷店",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "타워레코드 시부야점 2F TOWER RECORDS CAFE",
+      "start": "2026-10-29",
+      "end": "2026-11-22",
+      "reservation": "권장(티켓피아 예약)",
+      "price": "FOOD 1,990엔, SWEETS 1,790엔, DRINK 990엔 / 굿즈: 캔배지 550엔, 아크릴 키홀더 990엔, 아크릴 스탠드 1,650엔, 아크릴 보드 2,800엔 등",
+      "official_url": "https://tower.jp/article/news/2026/09/17/c101",
+      "source_url": "https://tower.jp/article/news/2026/09/17/c101",
+      "notes": "전기 10/29~11/9, 후기 11/10~22. 10:30~21:00. 80분제, 티켓피아 사전예약(빈자리 있으면 당일권). 굿즈는 카페 이용자만 구매 가능",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://tower.jp/article/news/2026/09/17/c101",
+          "tier": "official",
+          "quote": "TOWER RECORDS CAFE 渋谷店 2026年10月29日(木)～11月22日(日) 【前期】10月29日(木)～11月9日(月) 【後期】11月10日(火)～11月22日(日) … アクリルスタンド (全6種)：税込1,650円 … 缶バッジ (全6種ランダム) 単品：税込550円 … アクリルキーホルダー … 単品：税込990円 … アクリルボード (全１種)：税込2,800円",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「은하특급 밀키☆서브웨이」 레트로 드레스 테마 콜라보카페예요.",
+      "summary_source": "https://tower.jp/article/news/2026/09/17/c101",
+      "map_query": "タワーレコード渋谷店",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/138402/27/138402-27-0f11dd6a896e8c1c98a02b35b4f1f158-2000x1414.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000027.000138402.html",
+      "thumb_small": "thumbs/8b91f40075859c23.webp",
+      "image_fb": "gfb/8b91f40075859c23.webp"
+    },
+    {
+      "id": "osaka-milky-subway-towercafe",
+      "title_ko": "은하특급 밀키☆서브웨이 × TOWER RECORDS CAFE (오사카 스테이션시티점)",
+      "title_ja": "銀河特急 ミルキー☆サブウェイ × TOWER RECORDS CAFE 大阪ステーションシティ店",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "오사카 스테이션시티 사우스게이트빌딩 15F TOWER RECORDS CAFE",
+      "start": "2026-10-29",
+      "end": "2026-11-15",
+      "reservation": "권장(티켓피아 예약)",
+      "price": "FOOD 1,990엔, SWEETS 1,790엔, DRINK 990엔 / 굿즈: 캔배지 550엔, 아크릴 키홀더 990엔, 아크릴 스탠드 1,650엔, 아크릴 보드 2,800엔 등",
+      "official_url": "https://tower.jp/article/news/2026/09/17/c101",
+      "source_url": "https://tower.jp/article/news/2026/09/17/c101",
+      "notes": "전기 10/29~11/6, 후기 11/7~15. 11:20~20:00. 80분제, 티켓피아 사전예약(빈자리 있으면 당일권). 굿즈는 카페 이용자만 구매 가능",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://tower.jp/article/news/2026/09/17/c101",
+          "tier": "official",
+          "quote": "TOWER RECORDS CAFE 大阪ステーションシティ店 2026年10月29日(木)～11月15日(日) 【前期】10月29日(木)～11月6日(金) 【後期】11月7日(土)～11月15日(日) … アクリルスタンド (全6種)：税込1,650円 … 缶バッジ (全6種ランダム) 単品：税込550円 … アクリルキーホルダー … 単品：税込990円 … アクリルボード (全１種)：税込2,800円",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「은하특급 밀키☆서브웨이」 레트로 드레스 테마 콜라보카페예요.",
+      "summary_source": "https://tower.jp/article/news/2026/09/17/c101",
+      "map_query": "大阪ステーションシティ サウスゲートビルディング",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/138402/27/138402-27-0f11dd6a896e8c1c98a02b35b4f1f158-2000x1414.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000027.000138402.html",
+      "thumb_small": "thumbs/8b91f40075859c23.webp",
+      "image_fb": "gfb/8b91f40075859c23.webp"
+    },
+    {
+      "id": "kusuriya-sweetspara3-harajuku",
+      "title_ko": "약사의 혼잣말 × 스위츠 파라다이스 제3탄 (SoLaDo 하라주쿠점)",
+      "title_ja": "『薬屋のひとりごと』×スイーツパラダイス 第3弾 SoLaDo原宿店",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "스위츠 파라다이스 SoLaDo 하라주쿠점",
+      "start": "2026-10-30",
+      "end": "2026-11-23",
+      "reservation": "권장(공식 앱 예약)",
+      "price": "콜라보 메뉴 값과 별도로 뷔페 요금 필요",
+      "official_url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
+      "source_url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
+      "notes": "좌석 예약은 스위츠 파라다이스 앱에서만(이용일 5주 전~전날 20시). 굿즈는 콜라보 메뉴 이용자만 구매 가능",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
+          "tier": "official",
+          "quote": "■2026年10月30日(金)～2026年11月23日(月) スイーツパラダイスSoLaDo原宿店 スイーツパラダイス天王寺ミオ店 … コラボメニューのご利用には、コラボメニュー代金と別途バイキング料金のご注文が必要です",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「약사의 혼잣말」 스위파라 콜라보카페 제3탄이에요.",
+      "summary_source": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
+      "map_query": "SoLaDo原宿",
+      "thumbnail": "https://www.sweets-paradise.jp/wp-content/uploads/2026/10/2610_薬屋_アイキャッチ画像_w750×h511.jpg",
+      "thumbnail_source": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
+      "thumb_small": "thumbs/54e3657dc825d4be.webp",
+      "image_fb": "gfb/54e3657dc825d4be.webp"
+    },
+    {
+      "id": "osaka-gokuo-kashibattle-cafe",
+      "title_ko": "거짓말쟁이! 고쿠오 군 × 카시배틀 콜라보카페 (CAFE EPIC TALE)",
+      "title_ja": "「ウソツキ!ゴクオーくん」×「カシバトル」コラボカフェ 大阪",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "CAFE EPIC TALE (닛폰바시 エグゼレジデンスタワー 1F)",
+      "start": "2026-10-21",
+      "end": "2026-11-15",
+      "reservation": "권장(사전예약)",
+      "price": "사전예약 일반석 400엔, 캐릭터 패널석 600엔 (둘 다 300엔 식사 쿠폰 포함)",
+      "official_url": "https://www.medicos-e.net/newsdetail/gokuo_kashibattle_cafe/",
+      "source_url": "https://www.medicos-e.net/newsdetail/gokuo_kashibattle_cafe/",
+      "notes": "전기 10/21~11/3, 후기 11/4~15. 90분 교체제. SelectType 선착순 예약(1팀 최대 2명), 빈자리 있으면 당일 입장 가능",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://www.medicos-e.net/newsdetail/gokuo_kashibattle_cafe/",
+          "tier": "official",
+          "quote": "≪大阪≫【開催期間】 2026年 10月 21日（水）〜 2026年 11月 15日（日）【開催場所】 CAFE EPIC TALE（日本橋 エグゼレジデンスタワー 1階）… キャラクターパネル席 ご利用 1名様につき税込 600円 … 通常席 … 税込 400円",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「거짓말쟁이! 고쿠오 군」과 「카시배틀」 콜라보카페예요.",
+      "summary_source": "https://www.medicos-e.net/newsdetail/gokuo_kashibattle_cafe/",
+      "map_query": "エグゼレジデンスタワー 日本橋"
+    },
+    {
+      "id": "1kuji-ouran",
+      "title_ko": "이치방쿠지 오란고교 호스트부 ~20th Anniversary~",
+      "title_ja": "一番くじ 桜蘭高校ホスト部～20th Anniversary～",
+      "category": "쿠지",
+      "area": "전국",
+      "region": "all",
+      "venue": "전국 판매처 (로손·서점·하비숍 등) · 이치방쿠지 ONLINE",
+      "start": "2026-10-24",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 750엔",
+      "official_url": "https://1kuji.com/products/ouran",
+      "source_url": "https://1kuji.com/products/ouran",
+      "notes": "매장 10/24부터 순차 발매, 온라인 10/28 11:00 판매 시작",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://1kuji.com/products/ouran",
+          "tier": "official",
+          "quote": "店頭販売：2026年10月24日(土)より順次発売予定 オンライン販売：2026年10月28日(水)11:00より販売開始予定 ■メーカー希望小売価格：1回750円(税10％込) ■取扱店：ローソン、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「오란고교 호스트부」 20주년 이치방쿠지예요.",
+      "summary_source": "https://1kuji.com/products/ouran",
+      "thumbnail": "https://assets.1kuji.com/uploads/product/top_banner/10753/34f70539-3b77-4215-82d8-620c49b11d2b.webp",
+      "thumbnail_source": "https://1kuji.com/products/ouran",
+      "thumb_kind": "product",
+      "thumb_small": "thumbs/4781515bcd623fa0.webp",
+      "image_fb": "gfb/4781515bcd623fa0.webp"
+    },
+    {
+      "id": "1kuji-naruto11",
+      "title_ko": "이치방쿠지 NARUTO -나루토- 질풍전 히단·카쿠즈 편",
+      "title_ja": "一番くじ NARUTO-ナルト- 疾風伝 飛段・角都編",
+      "category": "쿠지",
+      "area": "전국",
+      "region": "all",
+      "venue": "이치방쿠지 공식 숍 · 이치방쿠지 ONLINE (편의점 판매 없음)",
+      "start": "2026-10-26",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 790엔",
+      "official_url": "https://1kuji.com/products/naruto11",
+      "source_url": "https://1kuji.com/products/naruto11",
+      "notes": "매장 10/26부터 순차 발매, 온라인 10/26 11:00 판매 시작",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://1kuji.com/products/naruto11",
+          "tier": "official",
+          "quote": "店頭販売：2026年10月26日(月)より順次発売予定 オンライン販売：2026年10月26日(月)11:00より販売開始予定 ■メーカー希望小売価格：1回790円(税10％込) ■取扱店：一番くじONLINE、一番くじ公式ショップ",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「나루토 질풍전」 히단·카쿠즈 편 이치방쿠지예요.",
+      "summary_source": "https://1kuji.com/products/naruto11",
+      "thumbnail": "https://assets.1kuji.com/uploads/product/top_banner/10777/449ab156-d0f6-402e-a85c-a12c9fff8ae5.webp",
+      "thumbnail_source": "https://1kuji.com/products/naruto11",
+      "thumb_kind": "product",
+      "thumb_small": "thumbs/64f741dbfd66788e.webp",
+      "image_fb": "gfb/64f741dbfd66788e.webp"
+    },
+    {
+      "id": "chainsawman-plaza-reze-shibuya-loft",
+      "title_ko": "CHAINSAW MAN PLAZA 레제편 (시부야 로프트)",
+      "title_ja": "CHAINSAW MAN PLAZA TheMovie:RezeArc in 渋谷ロフト",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "시부야 로프트 6층 아트&컬처 플로어 포럼A",
+      "start": "2026-11-13",
+      "end": "2026-11-29",
+      "reservation": "11/13~15 사전 추첨",
+      "price": "",
+      "official_url": "https://www.loft.co.jp/shop_list/info.php?info_id=718439&shop_id=189",
+      "source_url": "https://www.loft.co.jp/shop_list/info.php?info_id=718439&shop_id=189",
+      "notes": "최종일 18시 폐장. 11/13~15는 LivePocket 사전 입장 추첨. 2,200엔 구매마다 클리어 카드(전 6종) 랜덤 1장, 1회 4,400엔 이상 쇼퍼 1장. 모치즈키 케이 콜라보 굿즈 판매",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://www.loft.co.jp/shop_list/info.php?info_id=718439&shop_id=189",
+          "tier": "official",
+          "quote": "■会期：11月13日(金)～11月29日(日) ※最終日は午後6時に閉場させていただきます。 ■会場：6階アート＆カルチャーフロア フォーラムA … 税込2,200円以上お買上げごとに、「クリアトカード（全6種）」を1枚 … ■事前抽選入場対象日時： ・11月13日(金)～11月15日(日）",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「극장판 체인소 맨 레제편」 물판 행사예요. 신규 일러스트 굿즈와 대형 패널 전시가 있어요.",
+      "summary_source": "https://www.loft.co.jp/shop_list/info.php?info_id=718439&shop_id=189",
+      "map_query": "渋谷ロフト",
+      "thumbnail": "https://loft-images.s3.ap-northeast-1.amazonaws.com/original_2348289__%E8%BB%BD%E9%87%8F%E5%8C%96%EF%BC%9A%E6%AD%A3%E6%96%B9%E5%BD%A2.jpg",
+      "thumbnail_source": "https://www.loft.co.jp/shop_list/info.php?info_id=718439&shop_id=189",
+      "thumb_small": "thumbs/3d7f44de5ec04e1f.webp",
+      "image_fb": "gfb/3d7f44de5ec04e1f.webp"
+    },
+    {
+      "id": "lycoris-recoil-popup-shinjuku-marui-2026",
+      "title_ko": "리코리스 리코일 POP UP SHOP (신주쿠 마루이 멘)",
+      "title_ja": "TVアニメ「リコリス・リコイル」POP UP SHOP in マルイ 新宿マルイ メン",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "신주쿠 마루이 멘",
+      "start": "2026-11-14",
+      "end": "2026-11-23",
+      "price": "",
+      "official_url": "https://x.com/AMNIBUS/status/2095708432229945592",
+      "source_url": "https://x.com/AMNIBUS/status/2095708432229945592",
+      "notes": "「ポンチョスタイル」 신규 일러스트. 영업시간·굿즈·가격은 추후 발표",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://x.com/AMNIBUS/status/2095708432229945592",
+          "tier": "official",
+          "quote": "TVアニメ「リコリス・リコイル」POP UP SHOP in マルイ … 🗓️11/14(土)～11/23(月・祝) 📍新宿マルイ メン … 詳細は後日発表いたします",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「리코리스 리코일」 팝업스토어예요.",
+      "summary_source": "https://x.com/AMNIBUS/status/2095708432229945592",
+      "map_query": "新宿マルイ メン",
+      "thumbnail": "https://pbs.twimg.com/media/HQdcmOQaYAAjVWG?format=webp&name=large",
+      "thumbnail_source": "https://x.com/AMNIBUS/status/2095708432229945592",
+      "thumb_small": "thumbs/7ad90316aa637eaa.webp",
+      "image_fb": "gfb/7ad90316aa637eaa.webp"
+    },
+    {
+      "id": "osaka-haruhi-sos-ten",
+      "title_ko": "스즈미야 하루히의 우울 20주년 기념 SOS전 (오사카)",
+      "title_ja": "涼宮ハルヒの憂鬱 TVアニメ20周年記念 SOS展 大阪会場",
+      "category": "전시·행사",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "라쿠바스홀 아베노and 3층",
+      "start": "2026-11-21",
+      "end": "2026-12-13",
+      "reservation": "11/21~22 일시지정권 필요",
+      "price": "입장권 2,500엔, 한정 굿즈 교환권 2,000엔",
+      "official_url": "https://cb-event.net/haruhi20th",
+      "source_url": "https://cb-event.net/haruhi20th",
+      "notes": "11:00~19:00 (최종 입장 18:30). 11/21~22는 일시지정권만 유효. 굿즈 구매에도 티켓 필요. 초등학생 이하 보호자 동반 1명까지 무료",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://cb-event.net/haruhi20th",
+          "tier": "official",
+          "quote": "大阪会場 会期 2026年11月21日(土)～12月13日(日) 営業時間：11:00～19:00(18:30最終入場) 会場 ラクバスホール あべのand3階 … 日時指定入場券 2,500円 … 一般入場券 2,500円 … 限定グッズ引換券 2,000円",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「스즈미야 하루히의 우울」 20주년 전시예요.",
+      "summary_source": "https://cb-event.net/haruhi20th",
+      "map_query": "あべのand"
+    },
+    {
+      "id": "osaka-godzilla-haku-minus",
+      "title_ko": "고질라 박람회 마이너스의 세계 (오사카 다이마루 우메다)",
+      "title_ja": "ゴジラ博 マイナスの世界 大阪会場",
+      "category": "전시·행사",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "다이마루 우메다점 7층 특설회장",
+      "start": "2026-11-26",
+      "end": "2026-12-09",
+      "reservation": "토·일 일시지정권",
+      "price": "일반·대학생 1,500엔(예매 1,300엔), 중고생 1,000엔(800엔), 초등학생 700엔(500엔)",
+      "official_url": "https://dmdepart.jp/museum/umeda/godzilla-tokusatsu2026/",
+      "source_url": "https://dmdepart.jp/museum/umeda/godzilla-tokusatsu2026/",
+      "notes": "10:00~19:30 입장(20시 폐장), 최종일 17:30까지. 첫날 오전과 토·일은 일시지정제. 이플러스 판매",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://dmdepart.jp/museum/umeda/godzilla-tokusatsu2026/",
+          "tier": "official",
+          "quote": "会期 2026年11月26日(木)→12月9日(水) 会場 大丸梅田店 7階特設会場 … 一般・大学生 1,500（1,300）円 中高生 1,000（800）円 小学生 700（500）円",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「고질라 -1.0」부터 「고질라 -0.0」까지 제작 자료 전시예요.",
+      "summary_source": "https://dmdepart.jp/museum/umeda/godzilla-tokusatsu2026/",
+      "map_query": "大丸梅田店"
+    },
+    {
+      "id": "1kuji-miabyss",
+      "title_ko": "이치방쿠지 메이드 인 어비스",
+      "title_ja": "一番くじ メイドインアビス",
+      "category": "쿠지",
+      "area": "전국",
+      "region": "all",
+      "venue": "전국 판매처 (미니스톱·서점·하비숍 등) · 이치방쿠지 ONLINE",
+      "start": "2026-10-31",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 850엔",
+      "official_url": "https://1kuji.com/products/miabyss",
+      "source_url": "https://1kuji.com/products/miabyss",
+      "notes": "매장 10/31부터 순차 발매, 온라인 11/2 11:00 판매 시작",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://1kuji.com/products/miabyss",
+          "tier": "official",
+          "quote": "店頭販売：2026年10月31日(土)より順次発売予定 オンライン販売：2026年11月02日(月)11:00より販売開始予定 ■メーカー希望小売価格：1回850円(税10％込) ■取扱店：ミニストップ、書店、ホビーショップ…",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「메이드 인 어비스」 이치방쿠지예요.",
+      "summary_source": "https://1kuji.com/products/miabyss",
+      "thumbnail": "https://assets.1kuji.com/uploads/product/top_banner/10748/e828c780-c04c-49e2-bcbd-404ba51925eb.webp",
+      "thumbnail_source": "https://1kuji.com/products/miabyss",
+      "thumb_kind": "product",
+      "thumb_small": "thumbs/41102b7952a43634.webp",
+      "image_fb": "gfb/41102b7952a43634.webp"
+    },
+    {
+      "id": "1kuji-tamagotchi6",
+      "title_ko": "이치방쿠지 다마고치 (가제)",
+      "title_ja": "一番くじ たまごっち（仮）",
+      "category": "쿠지",
+      "area": "전국",
+      "region": "all",
+      "venue": "세븐일레븐·이토요카도·유메타운 등",
+      "start": "2026-11-21",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 781엔",
+      "official_url": "https://1kuji.com/products/tamagotchi6",
+      "source_url": "https://1kuji.com/products/tamagotchi6",
+      "notes": "매장 판매만(온라인 판매 표기 없음)",
+      "checked_date": "2026-10-23",
+      "evidence": [
+        {
+          "url": "https://1kuji.com/products/tamagotchi6",
+          "tier": "official",
+          "quote": "店頭販売：2026年11月21日(土)より発売予定 ■メーカー希望小売価格：1回781円(税10％込) ■取扱店：セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗など",
+          "checked": "2026-10-23"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-23",
+      "translation_check": true,
+      "summary_ko": "「다마고치」 이치방쿠지예요.",
+      "summary_source": "https://1kuji.com/products/tamagotchi6",
+      "thumbnail": "https://assets.1kuji.com/uploads/product/top_banner/10761/931f02b2-dc6d-436a-aafd-d24b29a6635c.webp",
+      "thumbnail_source": "https://1kuji.com/products/tamagotchi6",
+      "thumb_kind": "product",
+      "thumb_small": "thumbs/9d6397d57f68b77d.webp",
+      "image_fb": "gfb/9d6397d57f68b77d.webp"
     }
   ]
 }
