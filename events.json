@@ -7995,7 +7995,9 @@
       "summary_ko": "애니메이션 『헤타리아 World★Stars』 팝업숍이에요. 가을 의상 '오텀 퍼레이드' 테마로 새로 그린 일러스트 굿즈를 팔고 같은 그림 패널도 전시해요.",
       "region": "tokyo",
       "image_fb": "gfb/79a2a34f69ad0f57.webp",
-      "image_local": "img/79a2a34f69ad0f57.webp"
+      "image_local": "img/79a2a34f69ad0f57.webp",
+      "lat": 35.659771,
+      "lon": 139.700775
     },
     {
       "reservation": "콜라보룸만 예약제",
@@ -8191,7 +8193,9 @@
       "summary_ko": "하쓰네 미쿠 등 피아프로 캐릭터즈 팝업숍이에요. 새로 그린 일러스트와 미니 캐릭터 굿즈를 이케부쿠로역 개찰구 앞 매대에서 팔아요.",
       "region": "tokyo",
       "image_fb": "gfb/dbb071d02b582547.webp",
-      "image_local": "img/dbb071d02b582547.webp"
+      "image_local": "img/dbb071d02b582547.webp",
+      "lat": 35.727123,
+      "lon": 139.710342
     },
     {
       "reservation": "불필요",
@@ -8584,7 +8588,9 @@
       "summary_ko": "『내 마음의 위험한 녀석』 완결과 스핀오프 『러브코미디가 시작되지 않아』 기념 팝업숍이에요. 새로 그린 일러스트 굿즈와 복제 원화를 팔아요.",
       "region": "tokyo",
       "image_fb": "gfb/db90e33e0e4be292.webp",
-      "image_local": "img/db90e33e0e4be292.webp"
+      "image_local": "img/db90e33e0e4be292.webp",
+      "lat": 35.692524,
+      "lon": 139.706253
     },
     {
       "reservation": "불필요 (11/6은 셔플 추첨 입장)",
@@ -8718,7 +8724,9 @@
       "summary_ko": "『D・N・ANGEL』 팝업숍이에요. '별하늘 메이드 & 별하늘 집사' 콘셉트로 새로 그린 일러스트 굿즈를 먼저 팔아요.",
       "region": "tokyo",
       "image_fb": "gfb/9c7f69384d0eb704.webp",
-      "image_local": "img/9c7f69384d0eb704.webp"
+      "image_local": "img/9c7f69384d0eb704.webp",
+      "lat": 35.659771,
+      "lon": 139.700775
     },
     {
       "reservation": "",
@@ -9618,7 +9626,9 @@
       "thumb_small": "thumbs/151a4307c75916fc.webp",
       "region": "tokyo",
       "image_fb": "gfb/151a4307c75916fc.webp",
-      "image_local": "img/151a4307c75916fc.webp"
+      "image_local": "img/151a4307c75916fc.webp",
+      "lat": 35.727123,
+      "lon": 139.710342
     },
     {
       "area": "도쿄",
@@ -9717,7 +9727,9 @@
       "thumbnail_source": "https://eeo.today/store/101/specialfeature/yugioh-vrains-popup",
       "thumb_small": "thumbs/5fce9a6466ff1f89.webp",
       "image_fb": "gfb/5fce9a6466ff1f89.webp",
-      "image_local": "img/5fce9a6466ff1f89.webp"
+      "image_local": "img/5fce9a6466ff1f89.webp",
+      "lat": 35.7318,
+      "lon": 139.7124
     },
     {
       "area": "도쿄",
@@ -9752,7 +9764,9 @@
       "verified_at": "2026-10-22",
       "thumb_small": "thumbs/e232675f2802bf3e.webp",
       "region": "tokyo",
-      "image_local": "img/e232675f2802bf3e.webp"
+      "image_local": "img/e232675f2802bf3e.webp",
+      "lat": 35.703457,
+      "lon": 139.58371
     },
     {
       "area": "도쿄",
@@ -10097,7 +10111,9 @@
       "thumb_small": "thumbs/795b7c4b1d95cd6b.webp",
       "region": "tokyo",
       "image_fb": "gfb/795b7c4b1d95cd6b.webp",
-      "image_local": "img/795b7c4b1d95cd6b.webp"
+      "image_local": "img/795b7c4b1d95cd6b.webp",
+      "lat": 35.727123,
+      "lon": 139.710342
     },
     {
       "area": "도쿄",
@@ -10133,7 +10149,9 @@
       "thumbnail_source": "https://eeo.today/store/101/specialfeature/mmppp-popup",
       "thumb_small": "thumbs/131153ac91b76be8.webp",
       "image_fb": "gfb/131153ac91b76be8.webp",
-      "image_local": "img/131153ac91b76be8.webp"
+      "image_local": "img/131153ac91b76be8.webp",
+      "lat": 35.7318,
+      "lon": 139.7124
     },
     {
       "area": "도쿄",
@@ -10169,7 +10187,9 @@
       "thumb_small": "thumbs/7f24a763420f576d.webp",
       "region": "tokyo",
       "image_fb": "gfb/7f24a763420f576d.webp",
-      "image_local": "img/7f24a763420f576d.webp"
+      "image_local": "img/7f24a763420f576d.webp",
+      "lat": 35.727123,
+      "lon": 139.710342
     },
     {
       "area": "도쿄",
@@ -10476,7 +10496,9 @@
       "thumb_small": "thumbs/6e73ac1cc40de393.webp",
       "region": "tokyo",
       "image_fb": "gfb/6e73ac1cc40de393.webp",
-      "image_local": "img/6e73ac1cc40de393.webp"
+      "image_local": "img/6e73ac1cc40de393.webp",
+      "lat": 35.674213,
+      "lon": 139.763657
     },
     {
       "area": "전국",
@@ -11647,7 +11669,9 @@
       "summary_source": "https://tamagotchi-official.com/jp/cho-tama-festival",
       "thumb_small": "thumbs/fff61bfc79fe6743.webp",
       "region": "tokyo",
-      "image_local": "img/fff61bfc79fe6743.webp"
+      "image_local": "img/fff61bfc79fe6743.webp",
+      "lat": 35.6661,
+      "lon": 139.7041
     },
     {
       "title_ko": "블리치 천년혈전편 콜라보 카페",
@@ -13329,7 +13353,9 @@
       "translation_check": true,
       "summary_ko": "GA문고 20주년 기념 팝업숍 전반이에요. 『옆집 천사님 때문에 어느새 인간적으로 타락한 사연』『노우린』『히키코마리 흡혈공주의 번민』 신규 굿즈를 팔고 특전 미니 포토카드를 나눠 줘요.",
       "summary_source": "https://www.kotobukiya.co.jp/event/detail/1397/",
-      "region": "tokyo"
+      "region": "tokyo",
+      "lat": 35.699265,
+      "lon": 139.770554
     },
     {
       "title_ja": "GA文庫20周年記念POP UP SHOP",
@@ -13358,7 +13384,9 @@
       "translation_check": true,
       "summary_ko": "GA문고 20주년 기념 팝업숍 후반이에요. 『던전에서 만남을 추구하면 안 되는 걸까』『기어와라! 냐루코 양』『마녀의 여행』 신규 굿즈를 팔고 특전 미니 포토카드를 나눠 줘요.",
       "summary_source": "https://www.kotobukiya.co.jp/event/detail/1397/",
-      "region": "tokyo"
+      "region": "tokyo",
+      "lat": 35.699265,
+      "lon": 139.770554
     },
     {
       "reservation": "",
@@ -13476,7 +13504,9 @@
       "gallery_source": "https://bushiroad-creative.com/topics/104744/",
       "region": "tokyo",
       "image_fb": "gfb/37580ec6e2f782b4.webp",
-      "image_local": "img/37580ec6e2f782b4.webp"
+      "image_local": "img/37580ec6e2f782b4.webp",
+      "lat": 35.698284,
+      "lon": 139.771698
     },
     {
       "reservation": "",
@@ -14343,7 +14373,9 @@
       "translation_check": true,
       "thumb_small": "thumbs/139dc590f61e4dbb.webp",
       "image_fb": "gfb/139dc590f61e4dbb.webp",
-      "image_local": "img/139dc590f61e4dbb.webp"
+      "image_local": "img/139dc590f61e4dbb.webp",
+      "lat": 34.667393,
+      "lon": 135.495941
     },
     {
       "id": "osaka-saiki-psychic-diner",
@@ -14474,7 +14506,9 @@
       "translation_check": true,
       "thumb_small": "thumbs/677b5561c759579c.webp",
       "image_fb": "gfb/677b5561c759579c.webp",
-      "image_local": "img/677b5561c759579c.webp"
+      "image_local": "img/677b5561c759579c.webp",
+      "lat": 34.661209,
+      "lon": 135.50621
     },
     {
       "id": "osaka-saezuru-collab-cafe",
@@ -15803,7 +15837,9 @@
       "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000027.000138402.html",
       "thumb_small": "thumbs/8b91f40075859c23.webp",
       "image_fb": "gfb/8b91f40075859c23.webp",
-      "image_local": "img/8b91f40075859c23.webp"
+      "image_local": "img/8b91f40075859c23.webp",
+      "lat": 34.701881,
+      "lon": 135.496338
     },
     {
       "id": "kusuriya-sweetspara3-harajuku",
@@ -15872,7 +15908,9 @@
       "translation_check": true,
       "summary_ko": "「거짓말쟁이! 고쿠오 군」과 「카시배틀」 콜라보카페예요.",
       "summary_source": "https://www.medicos-e.net/newsdetail/gokuo_kashibattle_cafe/",
-      "map_query": "エグゼレジデンスタワー 日本橋"
+      "map_query": "エグゼレジデンスタワー 日本橋",
+      "lat": 34.661209,
+      "lon": 135.50621
     },
     {
       "id": "1kuji-ouran",
@@ -16017,7 +16055,9 @@
       "thumbnail_source": "https://x.com/AMNIBUS/status/2095708432229945592",
       "thumb_small": "thumbs/7ad90316aa637eaa.webp",
       "image_fb": "gfb/7ad90316aa637eaa.webp",
-      "image_local": "img/7ad90316aa637eaa.webp"
+      "image_local": "img/7ad90316aa637eaa.webp",
+      "lat": 35.692524,
+      "lon": 139.706253
     },
     {
       "id": "osaka-haruhi-sos-ten",
@@ -16048,7 +16088,9 @@
       "translation_check": true,
       "summary_ko": "「스즈미야 하루히의 우울」 20주년 전시예요.",
       "summary_source": "https://cb-event.net/haruhi20th",
-      "map_query": "あべのand"
+      "map_query": "あべのand",
+      "lat": 34.644634,
+      "lon": 135.513763
     },
     {
       "id": "osaka-godzilla-haku-minus",
@@ -16419,7 +16461,9 @@
       "area": "도쿄",
       "thumb_small": "thumbs/69afa72b2cd407e5.webp",
       "image_fb": "gfb/69afa72b2cd407e5.webp",
-      "image_local": "img/69afa72b2cd407e5.webp"
+      "image_local": "img/69afa72b2cd407e5.webp",
+      "lat": 35.730286,
+      "lon": 139.713333
     },
     {
       "source_tier": "official",
@@ -16454,7 +16498,9 @@
       "area": "오사카",
       "thumb_small": "thumbs/69afa72b2cd407e5.webp",
       "image_fb": "gfb/69afa72b2cd407e5.webp",
-      "image_local": "img/69afa72b2cd407e5.webp"
+      "image_local": "img/69afa72b2cd407e5.webp",
+      "lat": 34.672115,
+      "lon": 135.502289
     },
     {
       "source_tier": "official",
@@ -16824,7 +16870,9 @@
       "thumbnail_source": "https://www.hobbystock.jp/sp/sm/watanare/",
       "thumb_small": "thumbs/2549395b88dacfd7.webp",
       "image_fb": "gfb/2549395b88dacfd7.webp",
-      "image_local": "img/2549395b88dacfd7.webp"
+      "image_local": "img/2549395b88dacfd7.webp",
+      "lat": 35.700043,
+      "lon": 139.771683
     },
     {
       "id": "osaka-watanare-alice-popup",
@@ -16860,7 +16908,9 @@
       "thumbnail_source": "https://www.hobbystock.jp/sp/sm/watanare/",
       "thumb_small": "thumbs/2549395b88dacfd7.webp",
       "image_fb": "gfb/2549395b88dacfd7.webp",
-      "image_local": "img/2549395b88dacfd7.webp"
+      "image_local": "img/2549395b88dacfd7.webp",
+      "lat": 34.660786,
+      "lon": 135.506027
     },
     {
       "id": "osaka-chi-popup-abeno-hoop",
@@ -17117,7 +17167,9 @@
       "thumbnail_source": "https://www.medicos-e.net/newsdetail/heavylover/",
       "thumb_small": "thumbs/6a762cde0aee142a.webp",
       "image_fb": "gfb/6a762cde0aee142a.webp",
-      "image_local": "img/6a762cde0aee142a.webp"
+      "image_local": "img/6a762cde0aee142a.webp",
+      "lat": 34.661209,
+      "lon": 135.50621
     },
     {
       "id": "osaka-dandadan-popup-abeno",

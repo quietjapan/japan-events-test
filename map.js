@@ -12,8 +12,8 @@
   const list=document.getElementById("list");list.parentNode.insertBefore(sec,list.nextSibling);
   sec.querySelector("#qmsoon").onchange=ev=>{soon=ev.target.checked;draw()};
   function load(){if(window.L)return Promise.resolve(window.L);if(loading)return loading;
-    loading=new Promise((ok,ng)=>{const c=document.createElement("link");c.rel="stylesheet";c.href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";c.integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=";c.crossOrigin="";document.head.appendChild(c);
-      const s=document.createElement("script");s.src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";s.integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=";s.crossOrigin="";s.onload=()=>{const MC="https://unpkg.com/leaflet.markercluster@1.5.3/dist/";const c2=document.createElement("link");c2.rel="stylesheet";c2.href=MC+"MarkerCluster.css";document.head.appendChild(c2);const s2=document.createElement("script");s2.src=MC+"leaflet.markercluster.js";s2.onload=()=>ok(window.L);s2.onerror=()=>ok(window.L);document.head.appendChild(s2)};s.onerror=ng;document.head.appendChild(s)});return loading}
+    loading=new Promise((ok,ng)=>{const c=document.createElement("link");c.rel="stylesheet";c.href="vendor/leaflet/leaflet.css";document.head.appendChild(c);
+      const s=document.createElement("script");s.src="vendor/leaflet/leaflet.js";s.onload=()=>{const MC="vendor/markercluster/";const c2=document.createElement("link");c2.rel="stylesheet";c2.href=MC+"MarkerCluster.css";document.head.appendChild(c2);const s2=document.createElement("script");s2.src=MC+"leaflet.markercluster.js";s2.onload=()=>ok(window.L);s2.onerror=()=>ok(window.L);document.head.appendChild(s2)};s.onerror=ng;document.head.appendChild(s)});return loading}
   const pick=e=>{if(NOFIX.has(e.category))return null;const k=status(e).k;
     if(k==="now"||k==="ending")return"now";if(soon&&k==="soon"&&e.start){const d=(new Date(e.start)-Date.now())/864e5;if(d<=SOONDAYS)return"soon"}return null};
   function draw(){if(sec.hidden)return;load().then(L=>{L_=L;
