@@ -1,7 +1,7 @@
 """원본 대표 이미지·갤러리 이미지 자체 보관(self-host).
 공식 사이트 핫링크가 깨질 때(점검·504 등)를 대비해 img/<sha1>.webp 로 저장하고 events.json 에 로컬 경로를 기록해요.
-- 대표 이미지(image_hd 또는 thumbnail) → e["image_local"] (가로·세로 최대 1200px, WebP q80)
-- 갤러리(full 또는 img) → g["img_local"] (최대 1000px, WebP q78)
+- 대표 이미지(image_hd 또는 thumbnail) → e["image_local"] (가로·세로 최대 1600px, WebP q90, 업스케일 없음)
+- 갤러리(full 또는 img) → g["img_local"] (최대 1600px, WebP q88)
 규칙: 이미 있는 파일은 다시 받지 않음(증분). 지금 안 열려도 기존 파일·필드는 지우지 않음. 실패한 건 기존 동작(공식 URL→gfb 대체본) 그대로.
 프런트(app.js)는 로컬 사본을 먼저 쓰고, 오류 시 공식 URL → gfb 순으로 대체해요."""
 import json, hashlib, io, requests
@@ -10,7 +10,7 @@ from concurrent.futures import ThreadPoolExecutor
 from PIL import Image
 ROOT=Path(__file__).resolve().parent.parent; OUT=ROOT/"img"; OUT.mkdir(exist_ok=True)
 UA={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130 Safari/537.36"}
-HD=(1200,80); GAL=(1000,78)
+HD=(1600,90); GAL=(1600,88)  # 업스케일 안 함(원본이 더 작으면 원본 크기 그대로)
 def name(u): return hashlib.sha1(u.encode()).hexdigest()[:16]+".webp"
 def make(u,ref,mx,q):
     p=OUT/name(u)
