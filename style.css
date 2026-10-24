@@ -360,3 +360,29 @@ body{-webkit-font-smoothing:antialiased;letter-spacing:-.005em}
 .qmsoon{padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:var(--card);box-shadow:var(--sh1)}
 .cal{border-radius:var(--r);box-shadow:var(--sh1)}
 @media(max-width:640px){.card{padding:14px 14px 12px}.th{flex-basis:84px;height:84px}.list{gap:14px}.vtoggle{display:flex}.vtoggle button{flex:1}}
+
+/* 10/24 상태 배지 · 빠른 날짜 칩 · 지도 바로가기 */
+.b.sb{font-weight:700}
+.b.sb-live{background:color-mix(in srgb,#d9603b 14%,var(--card));color:#b8482a}
+.b.sb-end3{background:#a61e3a;color:#fff;box-shadow:0 1px 4px rgba(166,30,58,.3)}
+.b.sb-start7{background:color-mix(in srgb,#2f4b7c 13%,var(--card));color:#2f4b7c}
+[data-theme="dark"] .b.sb-live{background:#3d2219;color:#f2a283}
+[data-theme="dark"] .b.sb-end3{background:#c2344f}
+[data-theme="dark"] .b.sb-start7{background:#1f2a3e;color:#a9c1ec}
+.qdchips{display:flex;align-items:center;gap:6px;flex-wrap:wrap}.qdl{font-size:15px;margin-right:2px}
+.qdchips button,.qmjump button{border:1px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:13px;font-weight:600;min-height:36px;padding:6px 14px;border-radius:999px;cursor:pointer;box-shadow:var(--sh1);transition:border-color .15s,color .15s,background .15s}
+.qdchips button:hover,.qmjump button:hover{border-color:var(--accent);color:var(--accent)}
+.qdchips button.on{background:color-mix(in srgb,var(--accent) 12%,var(--card));border-color:var(--accent);color:var(--accent)}
+.qmjump{display:flex;gap:6px;overflow-x:auto;padding:2px 2px 8px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.qmjump::-webkit-scrollbar{display:none}
+.qmjump button{flex:none;min-height:34px;padding:5px 13px}
+.qmjump button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+[data-theme="dark"] .qmjump button.on{color:#1b1713}
+.qmjump .qmall{color:var(--mute)}
+.qmleg{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;color:var(--mute);margin:0 2px 8px}
+.qmleg span{display:inline-flex;align-items:center;gap:5px}.qmleg span::before{content:"";width:10px;height:10px;border-radius:50%;background:var(--c);box-shadow:0 0 0 3px color-mix(in srgb,var(--c) 22%,transparent)}
+.qmleg span.s::before{background:var(--card);border:2px dashed var(--c);width:7px;height:7px}
+.qmdot.hot{animation:qmpulse 1.8s ease-out infinite}
+@keyframes qmpulse{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--c) 55%,transparent),0 3px 8px rgba(0,0,0,.25)}100%{box-shadow:0 0 0 12px transparent,0 3px 8px rgba(0,0,0,.25)}}
+.qmst{font-style:normal;align-self:flex-start;font-size:10.5px;font-weight:700;color:#fff;background:var(--c);border-radius:999px;padding:1px 7px;margin:1px 0}
+@media(prefers-reduced-motion:reduce){.qmdot.hot{animation:none}}
+@media(max-width:640px){.qdchips button{min-height:34px;padding:5px 11px}}

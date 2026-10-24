@@ -93,6 +93,7 @@
     <div class="row">
       <input id="q" type="search" placeholder="🔍 작품명·장소 검색 (예: 체인소맨)" aria-label="검색">
     </div>
+    <div id="qd" class="qdchips" role="group" aria-label="빠른 날짜"><span class="qdl">📅</span><button type="button" data-qd="all" class="on" aria-pressed="true">전체</button><button type="button" data-qd="today" aria-pressed="false">오늘</button><button type="button" data-qd="weekend" aria-pressed="false">이번 주말</button><button type="button" data-qd="2w" aria-pressed="false">2주 이내</button></div>
     <details class="fmore" id="fmore"><summary>⚙️ 필터 <span class="fsub">지역 · 여행 기간 · 진행 상태</span><span class="fcnt" id="fcnt" hidden></span></summary><div class="fbody">
     <div class="row"><select id="area" aria-label="지역"><option value="">전체 지역</option></select></div>
     <div class="range"><span class="rl">✈️ 여행 기간</span><input id="from" type="date" aria-label="시작일"><span>~</span><input id="to" type="date" aria-label="종료일"><button type="button" id="rreset">초기화</button></div>
