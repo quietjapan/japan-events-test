@@ -84,5 +84,7 @@ python -m http.server 8000
 
 ## 10/20 추가
 - 카드 썸네일은 `thumbs/*.webp`(가로 480px, `python3 tools/mkthumbs.py`로 생성)을 쓰고, 원본 `thumbnail`은 자세히 보기·실패 시 대체용으로 그대로 둬요. 새 항목을 넣으면 mkthumbs.py를 다시 돌려 주세요.
+- 자세히 보기 대표 이미지·갤러리 원본은 `img/*.webp`에 자체 보관해요(`python3 tools/mkimg.py`, 대표 최대 1200px·갤러리 최대 1000px WebP). `events.json`의 `image_local`(행사)·`img_local`(갤러리)에 경로를 기록하고, 화면은 로컬 사본 → 공식 URL → `gfb/` 대체본 순으로 써요. 공식 사이트가 점검 중이라 못 받은 이미지는 다음 실행 때 자동으로 다시 시도해요.
+- **표준 빌드(정기 업데이트 월/목·새 항목 추가 후 매번):** `bash tools/build.sh` = mkthumbs → mkfallback → mkimg → mkshare. 모두 증분이라 이미 받은 파일은 건너뛰고, 실패해도 기존 파일은 지우지 않아요.
 - ⭐ 북마크: 카드의 ☆ 버튼, localStorage `qj_bm`(seriesKey 목록), "⭐ 북마크" 탭은 시작일순. GA 이벤트 `toggle_bookmark`(item, category, on).
 - `gallery_more: {url, label}` 이 있으면 갤러리 끝에 "전체 보기" 링크를 보여줘요 (MAPPA EXPO).
