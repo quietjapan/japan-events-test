@@ -18000,6 +18000,1432 @@
       ],
       "thumb_small": "thumbs/382d7974adb5f3d5.webp",
       "image_local": "img/382d7974adb5f3d5.webp"
+    },
+    {
+      "reservation": "추첨 예약",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "귀멸의 칼날 '귀습래 재래 2026' (ufotable DINING 외)",
+      "title_ja": "鬼滅の刃 鬼襲来再来 2026",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "ufotable DINING·DINING-HIROMA-·MOCKTAIL BAR GINZA",
+      "start": "2026-10-15",
+      "end": "2026-12-16",
+      "official_url": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
+      "source_url": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
+      "map_query": "ufotable DINING 東京都千代田区",
+      "notes": "MOCKTAIL BAR GINZA는 10/16부터. 입점은 ufotable Ticket 추첨 예약",
+      "evidence": [
+        {
+          "url": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
+          "tier": "official",
+          "quote": "期間 2026年10月15日(木)～12月16日(水) ※ufotable MOCKTAIL BAR GINZAは2026年10月16日(金)より開催いたします。 イベント実施店舗 ufotable DINING、ufotable DINING-HIROMA-、 ufotable MOCKTAIL BAR GINZA",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "ufotable 직영 카페에서 열리는 『귀멸의 칼날』 혈귀 테마 이벤트예요. 콜라보 메뉴와 굿즈가 있고 웹숍 수주 판매도 해요.",
+      "summary_source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
+      "thumbnail": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/ogimage.webp",
+      "thumbnail_source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
+      "image_hd": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/ogimage.webp",
+      "gallery_source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/img/sozai/gallery_muzan.webp",
+          "full": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/img/sozai/gallery_muzan.webp",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
+          "img_local": "img/52d88879b65fd6bb.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/img/sozai/gallery_kokushibo.webp",
+          "full": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/img/sozai/gallery_kokushibo.webp",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
+          "img_local": "img/a579fccf6eb83e97.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/img/sozai/gallery_doma.webp",
+          "full": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/img/sozai/gallery_doma.webp",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
+          "img_local": "img/1f33549967ea7432.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/img/sozai/gallery_akaza.webp",
+          "full": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/img/sozai/gallery_akaza.webp",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
+          "img_local": "img/76819dbd4b5b6c9b.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/img/sozai/gallery_kaigaku.webp",
+          "full": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/img/sozai/gallery_kaigaku.webp",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
+          "img_local": "img/cc5abbb599692a9d.webp"
+        }
+      ],
+      "thumb_small": "thumbs/8e02278b224d5877.webp",
+      "image_local": "img/8e02278b224d5877.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "이토 준지 『매니악』 POP UP in TOWER RECORDS (선샤인시티 알파점)",
+      "title_ja": "伊藤潤二『マニアック』 POP UP in TOWER RECORDS",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "타워레코드 선샤인시티 알파 브랜치점 (이케부쿠로)",
+      "start": "2026-11-05",
+      "end": "2026-11-15",
+      "official_url": "https://event.amnibus.com/ji-anime-tower/",
+      "source_url": "https://event.amnibus.com/ji-anime-tower/",
+      "map_query": "サンシャインシティアルパ",
+      "notes": "아베노 Hoop점·타워레코드 온라인에서도 동시 개최",
+      "evidence": [
+        {
+          "url": "https://event.amnibus.com/ji-anime-tower/",
+          "tier": "official",
+          "quote": "タワーレコード サンシャインシティアルパブランチ店、あべのHoop店、タワーレコード オンラインにて「伊藤潤二『マニアック』 POP UP in TOWER RECORDS」の開催が決定いたしました。 期間 2026年11月5日（木）～11月15日（日）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "애니 『이토 준지 매니악』 팝업으로 신규 굿즈를 먼저 팔아요. 대상 상품 2,000엔마다 엽서(전 10종) 1장을 랜덤으로 줘요.",
+      "summary_source": "https://event.amnibus.com/ji-anime-tower/",
+      "thumbnail": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/db1fdcc1380b63eef479b59eac0e276b-1.jpg",
+      "thumbnail_source": "https://event.amnibus.com/ji-anime-tower/",
+      "image_hd": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/db1fdcc1380b63eef479b59eac0e276b-1.jpg",
+      "gallery_source": "https://event.amnibus.com/ji-anime-tower/",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/288218ffc27c93da170dec149a7329c3.jpg",
+          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/288218ffc27c93da170dec149a7329c3.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://event.amnibus.com/ji-anime-tower/",
+          "img_local": "img/ecaa2e0b56fbefc7.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/79325bef1fd7c202a2280452176d90bb.jpg",
+          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/79325bef1fd7c202a2280452176d90bb.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://event.amnibus.com/ji-anime-tower/",
+          "img_local": "img/71e497f9d0d0f05d.webp"
+        }
+      ],
+      "lat": 35.7292,
+      "lon": 139.7186,
+      "thumb_small": "thumbs/666a8508ad1d879a.webp",
+      "image_local": "img/666a8508ad1d879a.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "이토 준지 『매니악』 POP UP in TOWER RECORDS (아베노 Hoop점)",
+      "title_ja": "伊藤潤二『マニアック』 POP UP in TOWER RECORDS",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "타워레코드 아베노 Hoop점",
+      "start": "2026-11-05",
+      "end": "2026-11-15",
+      "official_url": "https://event.amnibus.com/ji-anime-tower/",
+      "source_url": "https://event.amnibus.com/ji-anime-tower/",
+      "map_query": "あべのHoop",
+      "notes": "",
+      "evidence": [
+        {
+          "url": "https://event.amnibus.com/ji-anime-tower/",
+          "tier": "official",
+          "quote": "タワーレコード サンシャインシティアルパブランチ店、あべのHoop店、タワーレコード オンラインにて「伊藤潤二『マニアック』 POP UP in TOWER RECORDS」の開催が決定いたしました。 期間 2026年11月5日（木）～11月15日（日）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "애니 『이토 준지 매니악』 팝업으로 신규 굿즈를 먼저 팔아요. 대상 상품 2,000엔마다 엽서(전 10종) 1장을 랜덤으로 줘요.",
+      "summary_source": "https://event.amnibus.com/ji-anime-tower/",
+      "thumbnail": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/db1fdcc1380b63eef479b59eac0e276b-1.jpg",
+      "thumbnail_source": "https://event.amnibus.com/ji-anime-tower/",
+      "image_hd": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/db1fdcc1380b63eef479b59eac0e276b-1.jpg",
+      "gallery_source": "https://event.amnibus.com/ji-anime-tower/",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/288218ffc27c93da170dec149a7329c3.jpg",
+          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/288218ffc27c93da170dec149a7329c3.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://event.amnibus.com/ji-anime-tower/",
+          "img_local": "img/ecaa2e0b56fbefc7.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/79325bef1fd7c202a2280452176d90bb.jpg",
+          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/79325bef1fd7c202a2280452176d90bb.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://event.amnibus.com/ji-anime-tower/",
+          "img_local": "img/71e497f9d0d0f05d.webp"
+        }
+      ],
+      "lat": 34.6448,
+      "lon": 135.513,
+      "thumb_small": "thumbs/666a8508ad1d879a.webp",
+      "image_local": "img/666a8508ad1d879a.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "나의 히어로 아카데미아 × 우메다 스카이빌딩 공중정원 전망대",
+      "title_ja": "僕のヒーローアカデミア × 梅田スカイビル 空中庭園展望台",
+      "category": "전시·행사",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "우메다 스카이빌딩 공중정원 전망대",
+      "start": "2026-10-30",
+      "end": "2026-11-30",
+      "official_url": "https://event.amnibus.com/heroaca-skybldg/",
+      "source_url": "https://event.amnibus.com/heroaca-skybldg/",
+      "map_query": "梅田スカイビル",
+      "notes": "9:30~22:30 (최종 입장 22:00). 11/8은 19:00까지",
+      "evidence": [
+        {
+          "url": "https://event.amnibus.com/heroaca-skybldg/",
+          "tier": "official",
+          "quote": "期間 2026年10月30日（金）～11月30日（月） 開催場所 梅田スカイビル・空中庭園展望台 営業時間 9:30〜22:30（最終入場 22:00）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "우메다 스카이빌딩 전망대에서 『히로아카』 콜라보를 해요. 스티커 특전이 붙은 콜라보 입장권과 cafe SKY 40 콜라보 음료(880엔)가 있어요.",
+      "summary_source": "https://event.amnibus.com/heroaca-skybldg/",
+      "thumbnail": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/00d435de14b29e4aedd7c81fac0710b1.jpg",
+      "thumbnail_source": "https://event.amnibus.com/heroaca-skybldg/",
+      "image_hd": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/00d435de14b29e4aedd7c81fac0710b1.jpg",
+      "gallery_source": "https://event.amnibus.com/heroaca-skybldg/",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/3019774f4743c96bae4df56b74984308.jpg",
+          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/3019774f4743c96bae4df56b74984308.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://event.amnibus.com/heroaca-skybldg/",
+          "img_local": "img/e2cb3f8a97168c10.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/3fdf136831ff4c46aa8ce77832c0b24c.jpg",
+          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/3fdf136831ff4c46aa8ce77832c0b24c.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://event.amnibus.com/heroaca-skybldg/",
+          "img_local": "img/0aa26f8b1d483734.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/040292021c09765953ade9db218654d0.jpg",
+          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/040292021c09765953ade9db218654d0.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://event.amnibus.com/heroaca-skybldg/",
+          "img_local": "img/e8ee0165802aab8b.webp"
+        }
+      ],
+      "lat": 34.7053,
+      "lon": 135.4906,
+      "thumb_small": "thumbs/3e8816ff36c4270a.webp",
+      "image_local": "img/3e8816ff36c4270a.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "무대 『도검난무』 × 애니메이트 10주년 기념 콜라보숍",
+      "title_ja": "舞台『刀剣乱舞』×アニメイト 十周年記念コラボショップ",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "애니메이트 이케부쿠로 본점 7층 SOUTH",
+      "start": "2026-11-07",
+      "end": "2026-11-23",
+      "official_url": "https://www.animate.co.jp/onlyshop/51070/",
+      "source_url": "https://www.animate.co.jp/onlyshop/51070/",
+      "map_query": "アニメイト池袋本店",
+      "notes": "입장 추첨 정리권 있음",
+      "evidence": [
+        {
+          "url": "https://www.animate.co.jp/onlyshop/51070/",
+          "tier": "official",
+          "quote": "期間 2026年11月7日(土)～2026年11月23日(月･祝) 開催店舗 池袋本店7F SOUTH",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "무대 『도검난무』 10주년 기념 콜라보숍이에요. 애니메이트 앞치마 차림 도검남사 스탠디 전시와 무대 사진 전시, 굿즈 판매가 있어요.",
+      "summary_source": "https://www.animate.co.jp/onlyshop/51070/",
+      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/09/1790648685-7d6cc56e885f420caab1dd090fc1aa18.jpg",
+      "thumbnail_source": "https://www.animate.co.jp/onlyshop/51070/",
+      "image_hd": "https://www.animate.co.jp/assets/uploads/2026/09/1790648685-7d6cc56e885f420caab1dd090fc1aa18.jpg",
+      "gallery_source": "https://www.animate.co.jp/onlyshop/51070/",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.animate.co.jp/assets/uploads/2026/10/1792725176-b852b36db71cf19578e1f2d3ea0eefa7.jpg",
+          "full": "https://www.animate.co.jp/assets/uploads/2026/10/1792725176-b852b36db71cf19578e1f2d3ea0eefa7.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.animate.co.jp/onlyshop/51070/",
+          "img_local": "img/fbd89d68b4201fdc.webp"
+        }
+      ],
+      "lat": 35.7303,
+      "lon": 139.7152,
+      "thumb_small": "thumbs/fa75aaf55d0d424b.webp",
+      "image_local": "img/fa75aaf55d0d424b.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "봇치 더 록! POP UP Winter 2026/2027 (아트레 아키하바라)",
+      "title_ja": "ぼっち・ざ・ろっく！ POP UP Winter 2026/2027",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "아트레 아키하바라",
+      "start": "2026-11-13",
+      "end": "2026-11-26",
+      "official_url": "https://www.cospa.com/special/bocchi-rocks2026/",
+      "source_url": "https://www.cospa.com/special/bocchi-rocks2026/",
+      "map_query": "アトレ秋葉原",
+      "notes": "입장 정리권 안내는 공식 사이트 참고",
+      "evidence": [
+        {
+          "url": "https://www.cospa.com/special/bocchi-rocks2026/",
+          "tier": "official",
+          "quote": "アトレ秋葉原 2026. 11.13 （金）～ 2026. 11.26 （木） ジーストア名古屋・小倉 2026. 12.19 （土）～ 2027. 1.3 （日） ジーストア大阪 2027. 1.9 （土）～ 2027. 1.17 （日）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『봇치 더 록!』 겨울 팝업으로 새 굿즈를 팔아요. 아키하바라 다음 나고야·고쿠라·오사카·센다이를 순회해요.",
+      "summary_source": "https://www.cospa.com/special/bocchi-rocks2026/",
+      "thumbnail": "https://www.cospa.com/special/bocchi-rocks2026/assets/firstview__pc-ROV90PO-.webp",
+      "thumbnail_source": "https://www.cospa.com/special/bocchi-rocks2026/",
+      "image_hd": "https://www.cospa.com/special/bocchi-rocks2026/assets/firstview__pc-ROV90PO-.webp",
+      "gallery_source": "https://www.cospa.com/special/bocchi-rocks2026/",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cospa.com/special/bocchi-rocks2026/ogp.jpg",
+          "full": "https://www.cospa.com/special/bocchi-rocks2026/ogp.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.cospa.com/special/bocchi-rocks2026/",
+          "img_local": "img/114d20f181662e54.webp"
+        }
+      ],
+      "lat": 35.6987,
+      "lon": 139.7714,
+      "thumb_small": "thumbs/13e52fac5202c295.webp",
+      "image_local": "img/13e52fac5202c295.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "봇치 더 록! POP UP Winter 2026/2027 (지스토어 오사카)",
+      "title_ja": "ぼっち・ざ・ろっく！ POP UP Winter 2026/2027",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "지스토어 오사카",
+      "start": "2027-01-09",
+      "end": "2027-01-17",
+      "official_url": "https://www.cospa.com/special/bocchi-rocks2026/",
+      "source_url": "https://www.cospa.com/special/bocchi-rocks2026/",
+      "map_query": "ジーストア大阪",
+      "notes": "",
+      "evidence": [
+        {
+          "url": "https://www.cospa.com/special/bocchi-rocks2026/",
+          "tier": "official",
+          "quote": "アトレ秋葉原 2026. 11.13 （金）～ 2026. 11.26 （木） ジーストア名古屋・小倉 2026. 12.19 （土）～ 2027. 1.3 （日） ジーストア大阪 2027. 1.9 （土）～ 2027. 1.17 （日）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『봇치 더 록!』 겨울 팝업의 오사카 회장이에요. 새 굿즈를 팔아요.",
+      "summary_source": "https://www.cospa.com/special/bocchi-rocks2026/",
+      "thumbnail": "https://www.cospa.com/special/bocchi-rocks2026/assets/firstview__pc-ROV90PO-.webp",
+      "thumbnail_source": "https://www.cospa.com/special/bocchi-rocks2026/",
+      "image_hd": "https://www.cospa.com/special/bocchi-rocks2026/assets/firstview__pc-ROV90PO-.webp",
+      "gallery_source": "https://www.cospa.com/special/bocchi-rocks2026/",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cospa.com/special/bocchi-rocks2026/ogp.jpg",
+          "full": "https://www.cospa.com/special/bocchi-rocks2026/ogp.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.cospa.com/special/bocchi-rocks2026/",
+          "img_local": "img/114d20f181662e54.webp"
+        }
+      ],
+      "thumb_small": "thumbs/13e52fac5202c295.webp",
+      "image_local": "img/13e52fac5202c295.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "야마부키 축제 in NAMJATOWN (신 테니스의 왕자)",
+      "title_ja": "山吹祭り in NAMJATOWN",
+      "category": "전시·행사",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "난자타운 (이케부쿠로 선샤인시티)",
+      "start": "2026-10-27",
+      "end": "2026-11-23",
+      "official_url": "https://event.bandainamco-am.co.jp/namja/yamabukimaturi/",
+      "source_url": "https://bandainamco-am.co.jp/tp/namja/NEWS/events/20261021.html",
+      "map_query": "ナンジャタウン",
+      "notes": "",
+      "evidence": [
+        {
+          "url": "https://bandainamco-am.co.jp/tp/namja/NEWS/events/20261021.html",
+          "tier": "official",
+          "quote": "＜東京・池袋＞ 開催場所：ナンジャタウン 開催期間：2026年10月27日(火)〜2026年11月23日(月)",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『신 테니스의 왕자』 야마부키 중학교 콜라보가 난자타운에서 다시 열려요. 콜라보 푸드와 굿즈, 경품이 있어요.",
+      "summary_source": "https://bandainamco-am.co.jp/tp/namja/NEWS/events/20261021.html",
+      "thumbnail": "https://event.bandainamco-am.co.jp/namja/yamabukimaturi/images/img/kv.jpg",
+      "thumbnail_source": "https://bandainamco-am.co.jp/tp/namja/NEWS/events/20261021.html",
+      "image_hd": "https://event.bandainamco-am.co.jp/namja/yamabukimaturi/images/img/kv.jpg",
+      "gallery_source": "https://bandainamco-am.co.jp/tp/namja/NEWS/events/20261021.html",
+      "gallery": [],
+      "lat": 35.7289,
+      "lon": 139.719,
+      "thumb_small": "thumbs/5ec89dfabcb50b55.webp",
+      "image_local": "img/5ec89dfabcb50b55.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "【최애의 아이】 × TOPPA!!! BASE AKIBA (에큐트 아키하바라)",
+      "title_ja": "【推しの子】×TOPPA!!! BASE",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "에큐트 아키하바라 (JR 아키하바라역 1층 개찰구 안)",
+      "start": "2026-10-31",
+      "end": "2026-11-08",
+      "official_url": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+      "source_url": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+      "map_query": "JR秋葉原駅",
+      "notes": "JR 개찰구 안이라 입장권 필요",
+      "evidence": [
+        {
+          "url": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+          "tier": "official",
+          "quote": "AKIBA 2026年10月31日～11月8日 エキュート秋葉原（JR秋葉原駅1階 改札内）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『최애의 아이』 팝업스토어로 TOPPA!!! BASE 한정 굿즈를 팔아요.",
+      "summary_source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+      "thumbnail": "https://images.groobee.com/images/toppanmall/DIpZwWCjBaW1tgHHTt3178pkGsCPLrEdr5I9nKRs.jpg",
+      "thumbnail_source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+      "image_hd": "https://images.groobee.com/images/toppanmall/DIpZwWCjBaW1tgHHTt3178pkGsCPLrEdr5I9nKRs.jpg",
+      "gallery_source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://images.groobee.com/images/toppanmall/zUqXNbNUlb1XKlF3NdMTiR9uZR06HyXga0OrwiFq.jpeg",
+          "full": "https://images.groobee.com/images/toppanmall/zUqXNbNUlb1XKlF3NdMTiR9uZR06HyXga0OrwiFq.jpeg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+          "img_local": "img/1f32652d6c24e526.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://images.groobee.com/images/toppanmall/ne4pru3MYtlQjNCWTL1rfPWaRdXgy6LlDBOFYkKA.jpg",
+          "full": "https://images.groobee.com/images/toppanmall/ne4pru3MYtlQjNCWTL1rfPWaRdXgy6LlDBOFYkKA.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+          "img_local": "img/182115eab7cf034d.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://images.groobee.com/images/toppanmall/hoNyM3XkfIAmKb6QJZeHyFuxDOw7GN9PF1OspvUg.jpg",
+          "full": "https://images.groobee.com/images/toppanmall/hoNyM3XkfIAmKb6QJZeHyFuxDOw7GN9PF1OspvUg.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+          "img_local": "img/ddd88f12e7408959.webp"
+        }
+      ],
+      "lat": 35.6984,
+      "lon": 139.7731,
+      "thumb_small": "thumbs/6f56d38978c17951.webp",
+      "image_local": "img/6f56d38978c17951.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "【최애의 아이】 × TOPPA!!! BASE UMEKITA (PLAT UMEKITA)",
+      "title_ja": "【推しの子】×TOPPA!!! BASE",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "PLAT UMEKITA (그랑 그린 오사카)",
+      "start": "2026-10-31",
+      "end": "2026-11-05",
+      "official_url": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+      "source_url": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+      "map_query": "グラングリーン大阪",
+      "notes": "10:00~19:00",
+      "evidence": [
+        {
+          "url": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+          "tier": "official",
+          "quote": "UMEKITA 2026年10月31日～11月5日 PLAT UMEKITA（大阪市北区大深町5番94号 グラングリーン大阪） 10:00～19:00",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『최애의 아이』 팝업스토어 오사카 회장이에요. TOPPA!!! BASE 한정 굿즈를 팔아요.",
+      "summary_source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+      "thumbnail": "https://images.groobee.com/images/toppanmall/DIpZwWCjBaW1tgHHTt3178pkGsCPLrEdr5I9nKRs.jpg",
+      "thumbnail_source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+      "image_hd": "https://images.groobee.com/images/toppanmall/DIpZwWCjBaW1tgHHTt3178pkGsCPLrEdr5I9nKRs.jpg",
+      "gallery_source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://images.groobee.com/images/toppanmall/zUqXNbNUlb1XKlF3NdMTiR9uZR06HyXga0OrwiFq.jpeg",
+          "full": "https://images.groobee.com/images/toppanmall/zUqXNbNUlb1XKlF3NdMTiR9uZR06HyXga0OrwiFq.jpeg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+          "img_local": "img/1f32652d6c24e526.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://images.groobee.com/images/toppanmall/ne4pru3MYtlQjNCWTL1rfPWaRdXgy6LlDBOFYkKA.jpg",
+          "full": "https://images.groobee.com/images/toppanmall/ne4pru3MYtlQjNCWTL1rfPWaRdXgy6LlDBOFYkKA.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
+          "img_local": "img/182115eab7cf034d.webp"
+        }
+      ],
+      "lat": 34.7066,
+      "lon": 135.4945,
+      "thumb_small": "thumbs/6f56d38978c17951.webp",
+      "image_local": "img/6f56d38978c17951.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "SAKAMOTO DAYS POP UP STREET in 아사쿠사",
+      "title_ja": "SAKAMOTO DAYS POP UP STREET in Asakusa",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "오쿠야마 오마이리마치 상점가·아사쿠사 니시산도 상점가",
+      "start": "2026-11-06",
+      "end": "2026-11-23",
+      "official_url": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
+      "source_url": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
+      "map_query": "浅草西参道商店街",
+      "notes": "굿즈숍: 다이토구 니시아사쿠사 3-4-3 마에다 빌딩 1층, 11:00~18:00",
+      "evidence": [
+        {
+          "url": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
+          "tier": "official",
+          "quote": "期間 2026年11月6日（金）～11月23日（月・祝） 開催場所 奥山おまいりまち商店街、浅草西参道商店街、他",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "아사쿠사 상점가 전체에서 『사카모토 데이즈』 이벤트를 해요. 대상 점포에서 1,000엔 이상 사면 명함 사이즈 카드(전 5종)를 선착순으로 줘요.",
+      "summary_source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
+      "thumbnail": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/ac020953e27aa5897451ef86559ea448.jpg",
+      "thumbnail_source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
+      "image_hd": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/ac020953e27aa5897451ef86559ea448.jpg",
+      "gallery_source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/1a71f90e68809c39074d6c956c895c57.jpg",
+          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/1a71f90e68809c39074d6c956c895c57.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
+          "img_local": "img/fb023cbe977085c8.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/61662c8fdeb2a4f3b24e4e9d33ebf3f9.jpg",
+          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/61662c8fdeb2a4f3b24e4e9d33ebf3f9.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
+          "img_local": "img/6239fa21c0f3472f.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/26e1ed71e3e98a4de734764810ae0d83.jpg",
+          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/26e1ed71e3e98a4de734764810ae0d83.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
+          "img_local": "img/534a87e7f3ec3f24.webp"
+        }
+      ],
+      "lat": 35.7135,
+      "lon": 139.7935,
+      "thumb_small": "thumbs/0beaa3e912f57acd.webp",
+      "image_local": "img/0beaa3e912f57acd.webp"
+    },
+    {
+      "reservation": "추첨 예약",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "아이돌리쉬 세븐 Harmony Lounge / DREAMY ICE CREAMERY (애니메이트 카페 이케부쿠로 2호점)",
+      "title_ja": "アイドリッシュセブン Harmony Lounge／DREAMY ICE CREAMERY",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "애니메이트 카페 이케부쿠로 2호점 (aune 이케부쿠로 4층)",
+      "start": "2026-11-02",
+      "end": "2026-12-09",
+      "official_url": "https://www.animatecafe.jp/event/ac000795",
+      "source_url": "https://www.animatecafe.jp/event/ac000795",
+      "map_query": "東京都豊島区東池袋1-21-13",
+      "notes": "",
+      "evidence": [
+        {
+          "url": "https://www.animatecafe.jp/event/ac000795",
+          "tier": "official",
+          "quote": "開催期間 2026-11-02〜2026-12-09 アニメイトカフェ池袋2号店（東京都豊島区東池袋1-21-13 aune池袋4F）／アニメイトカフェ大阪日本橋（大阪府大阪市浪速区日本橋4-15-17 2F）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『아이돌리쉬 세븐』 애니메이트 카페 콜라보예요. 콜라보 메뉴와 특전, 굿즈가 있어요.",
+      "summary_source": "https://www.animatecafe.jp/event/ac000795",
+      "thumbnail": "https://cdn.animatecafe.jp/cafeweb/images/bt5kKRW65QjqqgIAolTPkewRD9V5pDBq.jpg",
+      "thumbnail_source": "https://www.animatecafe.jp/event/ac000795",
+      "image_hd": "https://cdn.animatecafe.jp/cafeweb/images/bt5kKRW65QjqqgIAolTPkewRD9V5pDBq.jpg",
+      "gallery_source": "https://www.animatecafe.jp/event/ac000795",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/95Is58CmXPgIgoEIjRkI5n4TF0ACgcBY.jpg",
+          "full": "https://cdn.animatecafe.jp/cafeweb/images/95Is58CmXPgIgoEIjRkI5n4TF0ACgcBY.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.animatecafe.jp/event/ac000795",
+          "img_local": "img/f21371f4f9fdf110.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/kUYQiYW2c7i7DFpcg0SXm8cjEoeHOVHx.jpg",
+          "full": "https://cdn.animatecafe.jp/cafeweb/images/kUYQiYW2c7i7DFpcg0SXm8cjEoeHOVHx.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.animatecafe.jp/event/ac000795",
+          "img_local": "img/b99ccb931b3147d4.webp"
+        }
+      ],
+      "thumb_small": "thumbs/c32de844ecdb8adb.webp",
+      "image_local": "img/c32de844ecdb8adb.webp"
+    },
+    {
+      "reservation": "추첨 예약",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "아이돌리쉬 세븐 Harmony Lounge / DREAMY ICE CREAMERY (애니메이트 카페 오사카 닛폰바시)",
+      "title_ja": "アイドリッシュセブン Harmony Lounge／DREAMY ICE CREAMERY",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "애니메이트 카페 오사카 닛폰바시",
+      "start": "2026-11-02",
+      "end": "2026-12-09",
+      "official_url": "https://www.animatecafe.jp/event/ac000795",
+      "source_url": "https://www.animatecafe.jp/event/ac000795",
+      "map_query": "大阪府大阪市浪速区日本橋4-15-17",
+      "notes": "",
+      "evidence": [
+        {
+          "url": "https://www.animatecafe.jp/event/ac000795",
+          "tier": "official",
+          "quote": "開催期間 2026-11-02〜2026-12-09 アニメイトカフェ池袋2号店（東京都豊島区東池袋1-21-13 aune池袋4F）／アニメイトカフェ大阪日本橋（大阪府大阪市浪速区日本橋4-15-17 2F）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『아이돌리쉬 세븐』 애니메이트 카페 콜라보예요. 콜라보 메뉴와 특전, 굿즈가 있어요.",
+      "summary_source": "https://www.animatecafe.jp/event/ac000795",
+      "thumbnail": "https://cdn.animatecafe.jp/cafeweb/images/bt5kKRW65QjqqgIAolTPkewRD9V5pDBq.jpg",
+      "thumbnail_source": "https://www.animatecafe.jp/event/ac000795",
+      "image_hd": "https://cdn.animatecafe.jp/cafeweb/images/bt5kKRW65QjqqgIAolTPkewRD9V5pDBq.jpg",
+      "gallery_source": "https://www.animatecafe.jp/event/ac000795",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/95Is58CmXPgIgoEIjRkI5n4TF0ACgcBY.jpg",
+          "full": "https://cdn.animatecafe.jp/cafeweb/images/95Is58CmXPgIgoEIjRkI5n4TF0ACgcBY.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.animatecafe.jp/event/ac000795",
+          "img_local": "img/f21371f4f9fdf110.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/kUYQiYW2c7i7DFpcg0SXm8cjEoeHOVHx.jpg",
+          "full": "https://cdn.animatecafe.jp/cafeweb/images/kUYQiYW2c7i7DFpcg0SXm8cjEoeHOVHx.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.animatecafe.jp/event/ac000795",
+          "img_local": "img/b99ccb931b3147d4.webp"
+        }
+      ],
+      "thumb_small": "thumbs/c32de844ecdb8adb.webp",
+      "image_local": "img/c32de844ecdb8adb.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "TV애니 『지박소년 하나코 군 2』 × DECOTTO by animate cafe",
+      "title_ja": "TVアニメ「地縛少年花子くん２」",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "DECOTTO by animate cafe (이케부쿠로 PACKS 1층)",
+      "start": "2026-11-05",
+      "end": "2026-11-29",
+      "official_url": "https://www.animatecafe.jp/event/ac000812",
+      "source_url": "https://www.animatecafe.jp/event/ac000812",
+      "map_query": "東京都豊島区東池袋3-2-1",
+      "notes": "",
+      "evidence": [
+        {
+          "url": "https://www.animatecafe.jp/event/ac000812",
+          "tier": "official",
+          "quote": "開催期間 2026-11-05〜2026-11-29 DECOTTO by animate cafe（東京都豊島区東池袋3-2-1 池袋PACKS 1F）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『지박소년 하나코 군 2』 DECOTTO 콜라보로 데코 음료와 굿즈가 있어요.",
+      "summary_source": "https://www.animatecafe.jp/event/ac000812",
+      "thumbnail": "https://cdn.animatecafe.jp/cafeweb/images/ZXDO1dOUFuUCGRPxzrhqcZcjLcQ0bMS7.jpg",
+      "thumbnail_source": "https://www.animatecafe.jp/event/ac000812",
+      "image_hd": "https://cdn.animatecafe.jp/cafeweb/images/ZXDO1dOUFuUCGRPxzrhqcZcjLcQ0bMS7.jpg",
+      "gallery_source": "https://www.animatecafe.jp/event/ac000812",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/fWYnA9EdKCzyfCbhev4ym8JTaKa1Ql5r.jpg",
+          "full": "https://cdn.animatecafe.jp/cafeweb/images/fWYnA9EdKCzyfCbhev4ym8JTaKa1Ql5r.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.animatecafe.jp/event/ac000812",
+          "img_local": "img/7033838f74be373f.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/WFCIJjYLFjo1XRi2tUAA9FNIbjaMOquu.jpg",
+          "full": "https://cdn.animatecafe.jp/cafeweb/images/WFCIJjYLFjo1XRi2tUAA9FNIbjaMOquu.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.animatecafe.jp/event/ac000812",
+          "img_local": "img/8b148f8ff86c1de5.webp"
+        }
+      ],
+      "thumb_small": "thumbs/cabb49d71864eef7.webp",
+      "image_local": "img/cabb49d71864eef7.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "마남의 이치 × 애니메이트 카페 스탠드 Hareza 이케부쿠로",
+      "title_ja": "魔男のイチ",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "애니메이트 카페 스탠드 Hareza 이케부쿠로 (나카이케부쿠로 공원 안)",
+      "start": "2026-11-06",
+      "end": "2026-11-29",
+      "official_url": "https://www.animatecafe.jp/event/ac000805",
+      "source_url": "https://www.animatecafe.jp/event/ac000805",
+      "map_query": "中池袋公園",
+      "notes": "",
+      "evidence": [
+        {
+          "url": "https://www.animatecafe.jp/event/ac000805",
+          "tier": "official",
+          "quote": "開催期間 2026-11-06〜2026-11-29 アニメイトカフェスタンドHareza池袋（東京都豊島区東池袋1-16-1（中池袋公園内））",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『마남의 이치』 애니메이트 카페 스탠드 콜라보로 음료와 굿즈가 있어요.",
+      "summary_source": "https://www.animatecafe.jp/event/ac000805",
+      "thumbnail": "https://cdn.animatecafe.jp/cafeweb/images/PN8V2Y1aIT4SrnaPOJqkqhFm09muhXJG.jpg",
+      "thumbnail_source": "https://www.animatecafe.jp/event/ac000805",
+      "image_hd": "https://cdn.animatecafe.jp/cafeweb/images/PN8V2Y1aIT4SrnaPOJqkqhFm09muhXJG.jpg",
+      "gallery_source": "https://www.animatecafe.jp/event/ac000805",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/6jH6rUY0VJFIjU1FiCVGcIrhSH9y77xx.jpg",
+          "full": "https://cdn.animatecafe.jp/cafeweb/images/6jH6rUY0VJFIjU1FiCVGcIrhSH9y77xx.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.animatecafe.jp/event/ac000805",
+          "img_local": "img/b6cf622e45a84089.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/ZOpguhuUwBWE0MykFBdJplENQX3wYa02.jpg",
+          "full": "https://cdn.animatecafe.jp/cafeweb/images/ZOpguhuUwBWE0MykFBdJplENQX3wYa02.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.animatecafe.jp/event/ac000805",
+          "img_local": "img/30e9d0c63d50d9f7.webp"
+        }
+      ],
+      "lat": 35.731,
+      "lon": 139.7148,
+      "thumb_small": "thumbs/d3af0e2d785d4713.webp",
+      "image_local": "img/d3af0e2d785d4713.webp"
+    },
+    {
+      "reservation": "추첨 예약",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "「ALIEN STAGE」 EXHIBITION × 애니메이트 카페 (이케부쿠로)",
+      "title_ja": "「ALIEN STAGE」EXHIBITION",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "애니메이트 카페 이케부쿠로 (이케부쿠로 PACKS 7·8층)",
+      "start": "2026-11-19",
+      "end": "2026-12-10",
+      "official_url": "https://www.animatecafe.jp/event/ac000813",
+      "source_url": "https://www.animatecafe.jp/event/ac000813",
+      "map_query": "東京都豊島区東池袋3-2-1",
+      "notes": "",
+      "evidence": [
+        {
+          "url": "https://www.animatecafe.jp/event/ac000813",
+          "tier": "official",
+          "quote": "開催期間 2026-11-19〜2026-12-10 アニメイトカフェ池袋（池袋PACKS 7F／8F）／アニメイトカフェ名古屋／アニメイトカフェ天王寺（JMFビル阿倍野01 4F）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『ALIEN STAGE』 전시회와 연동한 애니메이트 카페 콜라보예요. 전 일정 추첨 예약제예요.",
+      "summary_source": "https://www.animatecafe.jp/event/ac000813",
+      "thumbnail": "https://cdn.animatecafe.jp/cafeweb/images/lwzZD3SMlhs8qtRVBisYRUjQg5XP6C5s.jpg",
+      "thumbnail_source": "https://www.animatecafe.jp/event/ac000813",
+      "image_hd": "https://cdn.animatecafe.jp/cafeweb/images/lwzZD3SMlhs8qtRVBisYRUjQg5XP6C5s.jpg",
+      "gallery_source": "https://www.animatecafe.jp/event/ac000813",
+      "gallery": [],
+      "thumb_small": "thumbs/ca3ea92b09861394.webp",
+      "image_local": "img/ca3ea92b09861394.webp"
+    },
+    {
+      "reservation": "추첨 예약",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "「ALIEN STAGE」 EXHIBITION × 애니메이트 카페 (덴노지)",
+      "title_ja": "「ALIEN STAGE」EXHIBITION",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "애니메이트 카페 덴노지 (JMF빌딩 아베노01 4층)",
+      "start": "2026-11-19",
+      "end": "2026-12-10",
+      "official_url": "https://www.animatecafe.jp/event/ac000813",
+      "source_url": "https://www.animatecafe.jp/event/ac000813",
+      "map_query": "大阪府大阪市阿倍野区阿倍野筋1-4-7",
+      "notes": "",
+      "evidence": [
+        {
+          "url": "https://www.animatecafe.jp/event/ac000813",
+          "tier": "official",
+          "quote": "開催期間 2026-11-19〜2026-12-10 アニメイトカフェ池袋（池袋PACKS 7F／8F）／アニメイトカフェ名古屋／アニメイトカフェ天王寺（JMFビル阿倍野01 4F）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『ALIEN STAGE』 전시회와 연동한 애니메이트 카페 콜라보예요. 전 일정 추첨 예약제예요.",
+      "summary_source": "https://www.animatecafe.jp/event/ac000813",
+      "thumbnail": "https://cdn.animatecafe.jp/cafeweb/images/lwzZD3SMlhs8qtRVBisYRUjQg5XP6C5s.jpg",
+      "thumbnail_source": "https://www.animatecafe.jp/event/ac000813",
+      "image_hd": "https://cdn.animatecafe.jp/cafeweb/images/lwzZD3SMlhs8qtRVBisYRUjQg5XP6C5s.jpg",
+      "gallery_source": "https://www.animatecafe.jp/event/ac000813",
+      "gallery": [],
+      "thumb_small": "thumbs/ca3ea92b09861394.webp",
+      "image_local": "img/ca3ea92b09861394.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "전시 660엔",
+      "image_fit": "contain",
+      "title_ko": "Paradox Live 7th POP-UP \"DOPE WORLD\" (도쿄 애니메 센터)",
+      "title_ja": "Paradox Live 7th Anniversary POP-UP \"DOPE WORLD\"",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "도쿄 애니메 센터 (시부야 MODI 2층)",
+      "start": "2026-11-13",
+      "end": "2026-11-23",
+      "official_url": "https://paradoxlive.jp/news/detail.php?id=1136572",
+      "source_url": "https://paradoxlive.jp/news/detail.php?id=1136572",
+      "map_query": "渋谷モディ",
+      "notes": "11:00~19:00, 유료 전시 660엔 (최종 입장 18:30)",
+      "evidence": [
+        {
+          "url": "https://paradoxlive.jp/news/detail.php?id=1136572",
+          "tier": "official",
+          "quote": "■開催期間：2026年11月13日(金)～11月23日(月・祝) ■営業時間：11:00～19:00 ※有料展示の最終入場18:30までです。 開催場所 東京アニメセンター 渋谷モディ2F",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『파라독스 라이브』 7주년 팝업이에요. 신상품 선행 판매와 4th SEASON 전시 구역(유료)이 있어요.",
+      "summary_source": "https://paradoxlive.jp/news/detail.php?id=1136572",
+      "thumbnail": "https://m.imageimg.net/upload/artist_img/PDXLV/7c83e8369b50fd524cda93ed4b4e82d0be77f08d_6ac8342c2a00d.jpg",
+      "thumbnail_source": "https://paradoxlive.jp/news/detail.php?id=1136572",
+      "image_hd": "https://m.imageimg.net/upload/artist_img/PDXLV/7c83e8369b50fd524cda93ed4b4e82d0be77f08d_6ac8342c2a00d.jpg",
+      "gallery_source": "https://paradoxlive.jp/news/detail.php?id=1136572",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://m.imageimg.net/upload/artist_img/PDXLV/087712dd3c1b68b3a4e48041d8e3a85e6faa129c_6ac83272469c2.png",
+          "full": "https://m.imageimg.net/upload/artist_img/PDXLV/087712dd3c1b68b3a4e48041d8e3a85e6faa129c_6ac83272469c2.png",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://paradoxlive.jp/news/detail.php?id=1136572",
+          "img_local": "img/3fa990533821e5ab.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://m.imageimg.net/upload/artist_img/PDXLV/1b15a5efa38997b491fcd23b11985fdfe9c500aa_6ad6dc683e4d7.jpg",
+          "full": "https://m.imageimg.net/upload/artist_img/PDXLV/1b15a5efa38997b491fcd23b11985fdfe9c500aa_6ad6dc683e4d7.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://paradoxlive.jp/news/detail.php?id=1136572",
+          "img_local": "img/5fbc997f3a80c60d.webp"
+        }
+      ],
+      "lat": 35.6618,
+      "lon": 139.7007,
+      "thumb_small": "thumbs/c6f59a8860d1bea6.webp",
+      "image_local": "img/c6f59a8860d1bea6.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "문호 스트레이독스 POP UP (기노쿠니야 서점 신주쿠 본점)",
+      "title_ja": "文豪ストレイドッグス POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "기노쿠니야 서점 신주쿠 본점 본관 1층 THE ENTRANCE",
+      "start": "2026-10-27",
+      "end": "2026-11-10",
+      "official_url": "https://cocollabo.net/pages/bungosd-2026",
+      "source_url": "https://cocollabo.net/pages/bungosd-2026",
+      "map_query": "紀伊國屋書店新宿本店",
+      "notes": "첫날 10/27 일부 시간대는 Live Pocket 사전 예약제",
+      "evidence": [
+        {
+          "url": "https://cocollabo.net/pages/bungosd-2026",
+          "tier": "official",
+          "quote": "期間： 2026年10月27日(火)～11月10日(火) 開催場所： 紀伊國屋書店新宿本店 本館1階 THE ENTRANCE",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『문호 스트레이독스』 팝업으로 새 굿즈와 구매 특전이 있어요.",
+      "summary_source": "https://cocollabo.net/pages/bungosd-2026",
+      "thumbnail": "https://www.cocollabo.net/cdn/shop/files/bunsuto_26_1_ts-main_770_590.jpg",
+      "thumbnail_source": "https://cocollabo.net/pages/bungosd-2026",
+      "image_hd": "https://www.cocollabo.net/cdn/shop/files/bunsuto_26_1_ts-main_770_590.jpg",
+      "gallery_source": "https://cocollabo.net/pages/bungosd-2026",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/bunsuto_26_1_novelty.jpg",
+          "full": "https://www.cocollabo.net/cdn/shop/files/bunsuto_26_1_novelty.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://cocollabo.net/pages/bungosd-2026",
+          "img_local": "img/a216a2d12e2d9e6d.webp"
+        }
+      ],
+      "lat": 35.692,
+      "lon": 139.7036,
+      "thumb_small": "thumbs/cbd5481f298f82a0.webp",
+      "image_local": "img/cbd5481f298f82a0.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "사이버펑크: 엣지러너 2 POP UP (난바 마루이)",
+      "title_ja": "サイバーパンク エッジランナーズ2 POP UP",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "난바 마루이 3층 이벤트 스페이스",
+      "start": "2026-10-31",
+      "end": "2026-11-15",
+      "official_url": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+      "source_url": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+      "map_query": "なんばマルイ",
+      "notes": "11:00~19:00",
+      "evidence": [
+        {
+          "url": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+          "tier": "official",
+          "quote": "開催場所： なんばマルイ 3F イベントスペース 開催期間：2026年10月31日(土)～11月15日(日) 営業時間：11:00～19:00",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『사이버펑크: 엣지러너 2』 기간 한정 팝업으로 의류와 굿즈를 팔아요.",
+      "summary_source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+      "thumbnail": "https://www.0101.co.jp/contents2/storenews/085/bdb732d033d60f74e06c88ca5a1986fe_02_01_l.webp",
+      "thumbnail_source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+      "image_hd": "https://www.0101.co.jp/contents2/storenews/085/bdb732d033d60f74e06c88ca5a1986fe_02_01_l.webp",
+      "gallery_source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+      "gallery": [],
+      "lat": 34.6655,
+      "lon": 135.5008,
+      "thumb_small": "thumbs/5b3c65dd86942bce.webp",
+      "image_local": "img/5b3c65dd86942bce.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "우케쓰의 이상한 세계전。 (데라다 창고 G1빌딩)",
+      "title_ja": "雨穴の変な世界展。",
+      "category": "전시·행사",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "데라다 창고 G1빌딩 (시나가와구 히가시시나가와)",
+      "start": "2026-10-23",
+      "end": "2027-01-17",
+      "official_url": "https://uketsu.jp/museum/",
+      "source_url": "https://uketsu.jp/museum/",
+      "map_query": "寺田倉庫 G1ビル",
+      "notes": "10:00~19:30 (예정, 최종 입장 30분 전)",
+      "evidence": [
+        {
+          "url": "https://uketsu.jp/museum/",
+          "tier": "official",
+          "quote": "会期 2026年10月23日（金）〜2027年1月17日（日） 開催時間 10:00〜19:30（予定）※最終入場は閉館30分前 会場 寺田倉庫 G1ビル（〒140-0002 東京都品川区東品川2-6-4）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『이상한 집』 작가 우케쓰의 세계를 체험하는 전시회예요. 관람 시간은 약 90분이에요.",
+      "summary_source": "https://uketsu.jp/museum/",
+      "thumbnail": "https://uketsu.jp/museum/assets/img/kv.jpg",
+      "thumbnail_source": "https://uketsu.jp/museum/",
+      "image_hd": "https://uketsu.jp/museum/assets/img/kv.jpg",
+      "gallery_source": "https://uketsu.jp/museum/",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://uketsu.jp/museum/assets/img/ogp.jpg",
+          "full": "https://uketsu.jp/museum/assets/img/ogp.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://uketsu.jp/museum/",
+          "img_local": "img/9f0c4047647c0e83.webp"
+        }
+      ],
+      "lat": 35.6237,
+      "lon": 139.7477,
+      "thumb_small": "thumbs/52cd3cc071e49467.webp",
+      "image_local": "img/52cd3cc071e49467.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "THE IDOLM@STER SideM × DAIMARU MATSUZAKAYA 팝업 (다이마루 도쿄점)",
+      "title_ja": "THE IDOLM@STER SideM × DAIMARU MATSUZAKAYA POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "다이마루 도쿄점 3층 이벤트 스페이스",
+      "start": "2026-10-28",
+      "end": "2026-11-10",
+      "official_url": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+      "source_url": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+      "map_query": "大丸東京店",
+      "notes": "10/28 종일, 10/31·11/1 10:00~14:00 사전 정리권",
+      "evidence": [
+        {
+          "url": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+          "tier": "official",
+          "quote": "TOKYO 開催期間 2026年10月28日（水）〜11月10日（火） 会場 大丸東京店 3階 イベントスペース 営業時間 10:00〜20:00 UMEDA 開催期間 2026年11月18日（水）〜11月24日（火） 会場 大丸梅田店 1階 イベントスペース 営業時間 10:00〜20:00",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『아이돌마스터 SideM』 백화점 콜라보 팝업 2탄이에요. 새로 그린 잡지 화보풍 비주얼 굿즈와 커스텀 참 기획이 있어요.",
+      "summary_source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+      "thumbnail": "https://caltla.com/cdn/shop/articles/Side__POPUP_4044353c-70f9-43cc-9174-fa18406936ca.jpg",
+      "thumbnail_source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+      "image_hd": "https://caltla.com/cdn/shop/articles/Side__POPUP_4044353c-70f9-43cc-9174-fa18406936ca.jpg",
+      "gallery_source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.shopify.com/s/files/1/0885/5466/8341/files/1002_Side__VOL2.jpg",
+          "full": "https://cdn.shopify.com/s/files/1/0885/5466/8341/files/1002_Side__VOL2.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+          "img_local": "img/a94e320c2b43a9c1.webp"
+        }
+      ],
+      "lat": 35.6816,
+      "lon": 139.7672,
+      "thumb_small": "thumbs/e34abc5cda5a8789.webp",
+      "image_local": "img/e34abc5cda5a8789.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "THE IDOLM@STER SideM × DAIMARU MATSUZAKAYA 팝업 (다이마루 우메다점)",
+      "title_ja": "THE IDOLM@STER SideM × DAIMARU MATSUZAKAYA POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "다이마루 우메다점 1층 이벤트 스페이스",
+      "start": "2026-11-18",
+      "end": "2026-11-24",
+      "official_url": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+      "source_url": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+      "map_query": "大丸梅田店",
+      "notes": "11/18 종일, 11/21·22 10:00~14:00 사전 정리권",
+      "evidence": [
+        {
+          "url": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+          "tier": "official",
+          "quote": "TOKYO 開催期間 2026年10月28日（水）〜11月10日（火） 会場 大丸東京店 3階 イベントスペース 営業時間 10:00〜20:00 UMEDA 開催期間 2026年11月18日（水）〜11月24日（火） 会場 大丸梅田店 1階 イベントスペース 営業時間 10:00〜20:00",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『아이돌마스터 SideM』 백화점 콜라보 팝업 2탄의 오사카 회장이에요. 새로 그린 비주얼 굿즈와 커스텀 참 기획이 있어요.",
+      "summary_source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+      "thumbnail": "https://caltla.com/cdn/shop/articles/Side__POPUP_4044353c-70f9-43cc-9174-fa18406936ca.jpg",
+      "thumbnail_source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+      "image_hd": "https://caltla.com/cdn/shop/articles/Side__POPUP_4044353c-70f9-43cc-9174-fa18406936ca.jpg",
+      "gallery_source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.shopify.com/s/files/1/0885/5466/8341/files/1002_Side__VOL2.jpg",
+          "full": "https://cdn.shopify.com/s/files/1/0885/5466/8341/files/1002_Side__VOL2.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
+          "img_local": "img/a94e320c2b43a9c1.webp"
+        }
+      ],
+      "lat": 34.7019,
+      "lon": 135.4964,
+      "thumb_small": "thumbs/e34abc5cda5a8789.webp",
+      "image_local": "img/e34abc5cda5a8789.webp"
+    },
+    {
+      "reservation": "앱 예약",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "아이돌마스터 샤이니 컬러즈 × 스위츠 파라다이스 (COLLABO PARADISE 아베노 하루카스점)",
+      "title_ja": "アイドルマスター シャイニーカラーズ × スイーツパラダイス",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "COLLABO PARADISE 아베노 하루카스점 (긴테쓰 본점 윙관 6층)",
+      "start": "2026-10-30",
+      "end": "2026-11-24",
+      "official_url": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+      "source_url": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+      "map_query": "あべのハルカス近鉄本店",
+      "notes": "80분제. 좌석 예약은 스위파라 앱에서만",
+      "evidence": [
+        {
+          "url": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+          "tier": "official",
+          "quote": "■2026年10月30日(金)～11月24日(火) 【東京】 COLLABO PARADISE新宿マルイアネックス店 【大阪】 COLLABO PARADISE あべのハルカス店",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『샤이니 컬러즈』 「I'm a Cutie Finder」 콜라보 카페예요. 콜라보 메뉴와 노벨티, 굿즈가 있어요.",
+      "summary_source": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+      "thumbnail": "https://www.sweets-paradise.jp/wp-content/uploads/2026/09/2608_シャニマス_SDKV_告知用RGB.jpg",
+      "thumbnail_source": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+      "image_hd": "https://www.sweets-paradise.jp/wp-content/uploads/2026/09/2608_シャニマス_SDKV_告知用RGB.jpg",
+      "gallery_source": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/09/2608_シャニマス_アイキャッチ画像_w750×h511_スイパラ.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/09/2608_シャニマス_アイキャッチ画像_w750×h511_スイパラ.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+          "img_local": "img/df97dc32f5f25665.webp"
+        }
+      ],
+      "lat": 34.646,
+      "lon": 135.5135,
+      "thumb_small": "thumbs/51d7dcf6af5bcfcc.webp",
+      "image_local": "img/51d7dcf6af5bcfcc.webp"
+    },
+    {
+      "reservation": "앱 예약",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "아이돌마스터 샤이니 컬러즈 × 스위츠 파라다이스 (COLLABO PARADISE 신주쿠 마루이 아넥스점)",
+      "title_ja": "アイドルマスター シャイニーカラーズ × スイーツパラダイス",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "COLLABO PARADISE 신주쿠 마루이 아넥스점",
+      "start": "2026-10-30",
+      "end": "2026-11-24",
+      "official_url": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+      "source_url": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+      "map_query": "新宿マルイアネックス",
+      "notes": "80분제. 좌석 예약은 스위파라 앱에서만",
+      "evidence": [
+        {
+          "url": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+          "tier": "official",
+          "quote": "■2026年10月30日(金)～11月24日(火) 【東京】 COLLABO PARADISE新宿マルイアネックス店 【大阪】 COLLABO PARADISE あべのハルカス店",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "『샤이니 컬러즈』 「I'm a Cutie Finder」 콜라보 카페예요. 콜라보 메뉴와 노벨티, 굿즈가 있어요.",
+      "summary_source": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+      "thumbnail": "https://www.sweets-paradise.jp/wp-content/uploads/2026/09/2608_シャニマス_SDKV_告知用RGB.jpg",
+      "thumbnail_source": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+      "image_hd": "https://www.sweets-paradise.jp/wp-content/uploads/2026/09/2608_シャニマス_SDKV_告知用RGB.jpg",
+      "gallery_source": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/09/2608_シャニマス_アイキャッチ画像_w750×h511_スイパラ.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/09/2608_シャニマス_アイキャッチ画像_w750×h511_スイパラ.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.sweets-paradise.jp/collaboration/shinycolors",
+          "img_local": "img/df97dc32f5f25665.webp"
+        }
+      ],
+      "lat": 35.6901,
+      "lon": 139.706,
+      "thumb_small": "thumbs/51d7dcf6af5bcfcc.webp",
+      "image_local": "img/51d7dcf6af5bcfcc.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "price": "",
+      "image_fit": "contain",
+      "title_ko": "고질라-0.0 × 클래퍼스 다이너 (그랜드 시네마 선샤인 이케부쿠로)",
+      "title_ja": "『ゴジラ-0.0』コラボメニュー クラッパーズダイナー",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "클래퍼스 다이너 (그랜드 시네마 선샤인 이케부쿠로 5층)",
+      "start": "2026-10-23",
+      "end": "",
+      "official_url": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
+      "source_url": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
+      "map_query": "グランドシネマサンシャイン池袋",
+      "notes": "종료일은 '11월 하순(예정)'으로만 공지",
+      "evidence": [
+        {
+          "url": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
+          "tier": "official",
+          "quote": "■販売期間／場所 2026年10月23日（金）～11月下旬（予定） クラッパーズダイナー（グランドシネマサンシャイン 池袋 5階） 東京都豊島区東池袋1-30-3 グランドスケープ池袋5階",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "영화 『고질라-0.0』 콜라보 메뉴를 팔고 가게도 영화 테마로 꾸며요. 메뉴는 상영관 반입 가능하고 카페만 이용해도 돼요.",
+      "summary_source": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
+      "thumbnail": "https://portal.cinemasunshine.smart-spoke.com/uploads/godzilla_1500_800_3614b25ba7.png",
+      "thumbnail_source": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
+      "image_hd": "https://portal.cinemasunshine.smart-spoke.com/uploads/godzilla_1500_800_3614b25ba7.png",
+      "gallery_source": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://portal.cinemasunshine.smart-spoke.com/uploads/tokuten_Godzilla_1200_675_420b94896c.png",
+          "full": "https://portal.cinemasunshine.smart-spoke.com/uploads/tokuten_Godzilla_1200_675_420b94896c.png",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
+          "img_local": "img/76c396f0048cda6a.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://portal.cinemasunshine.smart-spoke.com/uploads/IMG_8322_89f4e29541.jpeg",
+          "full": "https://portal.cinemasunshine.smart-spoke.com/uploads/IMG_8322_89f4e29541.jpeg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
+          "img_local": "img/49ae38ad9b841908.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://portal.cinemasunshine.smart-spoke.com/uploads/IMG_8335_9e4d3292ff.jpeg",
+          "full": "https://portal.cinemasunshine.smart-spoke.com/uploads/IMG_8335_9e4d3292ff.jpeg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
+          "img_local": "img/0b2c920c4d0c90cf.webp"
+        }
+      ],
+      "lat": 35.7302,
+      "lon": 139.7164,
+      "thumb_small": "thumbs/f643e1b3dd67d63a.webp",
+      "image_local": "img/f643e1b3dd67d63a.webp"
     }
   ]
 }
