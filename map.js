@@ -3,6 +3,8 @@
 (function(){
   const CC={"팝업스토어":"#e8590c","콜라보카페":"#c2255c","전시·행사":"#1971c2","축제":"#2f9e44","플리마켓":"#0c8599"};
   const CENTER={tokyo:[35.6895,139.7300,11],osaka:[34.6800,135.5100,11]};
+  // 처음 보여줄 중심 구역(남·서·북 끝 행사장 때문에 너무 축소되지 않게). 밖의 핀은 지도를 움직이면 보여요.
+  const CORE={tokyo:[35.60,139.64,35.76,139.83],osaka:[34.635,135.48,34.71,135.535]};
   const NOFIX=new Set(["쿠지","가챠","잡지 부록"]);const SOONDAYS=14;
   const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const md=s=>s?`${+s.slice(5,7)}/${+s.slice(8,10)}`:"";
@@ -19,12 +21,13 @@
 
   // 배경 지도: 글자 없는 OpenFreeMap 벡터(positron/dark에서 글자 레이어를 모두 뺀 스타일) + 우리가 고른 한글 지명만 얹어요.
   const ATTR='<a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> &copy; <a href="https://www.openmaptiles.org/" target="_blank" rel="noopener">OpenMapTiles</a> Data from <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>';
+  const ATTR_S='&copy; <a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> · <a href="https://www.openmaptiles.org/" target="_blank" rel="noopener">OpenMapTiles</a> · <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OSM</a>';
   const isDark=()=>document.documentElement.getAttribute("data-theme")==="dark";
   const styleUrl=()=>"vendor/maplibre/style-"+(isDark()?"dark":"light")+"-nolabels.json";
   let base=null,baseDark=null;
   function webgl(){try{const c=document.createElement("canvas");return !!(c.getContext("webgl2")||c.getContext("webgl"))}catch(e){return false}}
-  function addBase(L){
-    if(L.maplibreGL&&window.maplibregl&&webgl()){baseDark=isDark();base=L.maplibreGL({style:styleUrl(),attribution:ATTR,interactive:false}).addTo(map);
+  function addBase(L,mob){
+    if(L.maplibreGL&&window.maplibregl&&webgl()){baseDark=isDark();base=L.maplibreGL({style:styleUrl(),attribution:mob?ATTR_S:ATTR,interactive:false}).addTo(map);
       new MutationObserver(()=>{if(isDark()!==baseDark){baseDark=isDark();try{base.getMaplibreMap().setStyle(styleUrl())}catch(e){}}}).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]})}
     else L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'}).addTo(map)}
   // [이름, 위도, 경도, 종류(a=지역 b=랜드마크 s=역), 보이는 최소 줌, 최대 줌]
@@ -45,7 +48,7 @@
     const upd=()=>{const z=map.getZoom();ms.forEach(o=>{const on=z>=o.z0&&z<o.z1;if(on&&!lblLayer.hasLayer(o.m))lblLayer.addLayer(o.m);else if(!on&&lblLayer.hasLayer(o.m))lblLayer.removeLayer(o.m)})};
     map.on("zoomend",upd);map.whenReady(upd)}
   function draw(){if(sec.hidden)return;load().then(L=>{L_=L;
-    if(!map){map=L.map("qmapc",{scrollWheelZoom:false,tap:true,maxZoom:18,minZoom:5});addBase(L);addLabels(L);layer=(L.markerClusterGroup?L.markerClusterGroup({maxClusterRadius:36,showCoverageOnHover:false,spiderfyOnMaxZoom:true,iconCreateFunction:cl=>{const n=cl.getAllChildMarkers().reduce((t,m)=>t+(m.options.qn||1),0);return L.divIcon({className:"qmpin",html:`<span class="qmdot qmcl">${n}</span>`,iconSize:[34,34],iconAnchor:[17,17]})}}):L.layerGroup()).addTo(map);
+    if(!map){map=L.map("qmapc",{scrollWheelZoom:false,tap:true,maxZoom:18,minZoom:5});const mob=matchMedia("(max-width:719px)").matches;if(mob){map.attributionControl.setPrefix(false);map.attributionControl.setPosition("bottomleft");sec.classList.add("qmob")}addBase(L,mob);addLabels(L);layer=(L.markerClusterGroup?L.markerClusterGroup({maxClusterRadius:36,showCoverageOnHover:false,spiderfyOnMaxZoom:true,iconCreateFunction:cl=>{const n=cl.getAllChildMarkers().reduce((t,m)=>t+(m.options.qn||1),0);return L.divIcon({className:"qmpin",html:`<span class="qmdot qmcl">${n}</span>`,iconSize:[34,34],iconAnchor:[17,17]})}}):L.layerGroup()).addTo(map);
       map.on("popupopen",ev=>{ev.popup.getElement().onclick=x=>{const b=x.target.closest("[data-i]");if(b)openE(+b.dataset.i)}})}
     const reg=window.QJ_REGION||"tokyo";layer.clearLayers();
     const grp=new Map();let total=0,nocoord=0;
@@ -61,7 +64,7 @@
     document.getElementById("qmnote").textContent=(nocoord?`위치 정보가 없는 ${nocoord}건은 지도에서 빠졌어요(목록에서 볼 수 있어요). `:"")+"쿠지·가챠·잡지 부록처럼 정해진 행사장이 없는 건 표시하지 않아요.";
     map.invalidateSize();
     if(reg!==lastRegion||!pts.length){const c=CENTER[reg]||CENTER.tokyo;map.setView([c[0],c[1]],c[2]);lastRegion=reg}
-    if(pts.length){const b=L.latLngBounds(pts);map.fitBounds(b.pad(0.12),{maxZoom:14})}
+    if(pts.length){const cb=CORE[reg],cp=cb?pts.filter(p=>p[0]>=cb[0]&&p[0]<=cb[2]&&p[1]>=cb[1]&&p[1]<=cb[3]):[];const b=L.latLngBounds(cp.length>=2?cp:pts);map.fitBounds(b.pad(0.12),{maxZoom:14})}
   }).catch(err=>{console.error("QJMAP",err);document.getElementById("qmnote").textContent="지도를 불러오지 못했어요. 잠시 후 다시 시도해 주세요."})}
   function openE(i){const e=ROWS[i];if(!e)return;if(window.QJ_hasDetail&&QJ_hasDetail(e))QJ_openDetail(e);else if(e.official_url)window.open(e.official_url,"_blank","noopener")}
   window.QJMAP={show(on){sec.hidden=!on;if(on)draw()},rows(r){ROWS=r||[];draw()}};
