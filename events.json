@@ -17822,6 +17822,184 @@
       "thumb_small": "thumbs/31b4d91af1e55010.webp",
       "image_fb": "gfb/31b4d91af1e55010.webp",
       "image_local": "img/31b4d91af1e55010.webp"
+    },
+    {
+      "reservation": "선택",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "title_ko": "쵸콧토 야바시티展 (이케부쿠로 PARCO FACTORY)",
+      "title_ja": "ちょこっとヤバシティ展　ここは、まじめにヤバいやつが集まる街",
+      "category": "전시·행사",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "이케부쿠로 PARCO 본관 7층 PARCO FACTORY",
+      "start": "2026-11-06",
+      "end": "2026-11-30",
+      "price": "일반 1,000엔 / 학생 700엔 (세금 포함, 초등학생 이하 무료)",
+      "official_url": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+      "source_url": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+      "map_query": "東京都豊島区南池袋1-28-2",
+      "notes": "11:00~21:00 (입장은 30분 전까지, 마지막 날 18시 종료). 첫날·주말·공휴일은 이플러스 시간지정 예매권(10/22 17:00~). 유료 입장 특전 포토카드",
+      "evidence": [
+        {
+          "url": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+          "tier": "official",
+          "quote": "イベント期間 2026年11月6日(金)～11月30日(月) 11:00-21:00 ※入場は閉場の30分前まで ※最終日18時閉場 会場 池袋PARCO 本館7F・PARCO FACTORY 入場料 一般：1,000円（税込） 学生：700円（税込）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "애니메이션 『ちょこっとヤバシティ』 공개 기념 전시회예요. 포토 스폿과 전시, 기념 굿즈 판매가 있고 유료 입장하면 포토카드를 줘요.",
+      "summary_source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+      "thumbnail": "https://art.parco.jp/img/hq/store/storage/cname_20261015195121.jpg",
+      "thumbnail_source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+      "image_hd": "https://art.parco.jp/img/hq/store/storage/cname_20261015195121.jpg",
+      "image_fit": "contain",
+      "gallery_source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+      "gallery": [
+        {
+          "group": "전시·특전",
+          "img": "https://art.parco.jp/img/hq/store/storage/cname_20261015195415.png",
+          "full": "https://art.parco.jp/img/hq/store/storage/cname_20261015195415.png",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+          "img_local": "img/d7c8d8c715e6cc9c.webp"
+        },
+        {
+          "group": "전시·특전",
+          "img": "https://art.parco.jp/img/hq/store/storage/cname_20261015195236.jpg",
+          "full": "https://art.parco.jp/img/hq/store/storage/cname_20261015195236.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+          "img_local": "img/a5114cde80498c79.webp"
+        },
+        {
+          "group": "전시·특전",
+          "img": "https://art.parco.jp/img/hq/store/storage/cname_20261015195251.jpg",
+          "full": "https://art.parco.jp/img/hq/store/storage/cname_20261015195251.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+          "img_local": "img/e70f9c30c1e0125b.webp"
+        },
+        {
+          "group": "전시·특전",
+          "img": "https://art.parco.jp/img/hq/store/storage/cname_20261015195720.jpg",
+          "full": "https://art.parco.jp/img/hq/store/storage/cname_20261015195720.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+          "img_local": "img/0e535880b906c075.webp"
+        },
+        {
+          "group": "전시·특전",
+          "img": "https://art.parco.jp/img/hq/store/storage/cname_20261016115640.jpg",
+          "full": "https://art.parco.jp/img/hq/store/storage/cname_20261016115640.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+          "img_local": "img/00dd9a046560b113.webp"
+        },
+        {
+          "group": "전시·특전",
+          "img": "https://art.parco.jp/img/hq/store/storage/cname_20261016115656.jpg",
+          "full": "https://art.parco.jp/img/hq/store/storage/cname_20261016115656.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+          "img_local": "img/62e7f8296aca06c4.webp"
+        },
+        {
+          "group": "전시·특전",
+          "img": "https://art.parco.jp/img/hq/store/storage/cname_20261016120108.jpg",
+          "full": "https://art.parco.jp/img/hq/store/storage/cname_20261016120108.jpg",
+          "caption_ko": "",
+          "caption_ja": "",
+          "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
+          "img_local": "img/0feff034cfbc2ae2.webp"
+        }
+      ],
+      "lat": 35.7293,
+      "lon": 139.7113,
+      "thumb_small": "thumbs/2bacc22a1c313f73.webp",
+      "image_local": "img/2bacc22a1c313f73.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "category": "팝업스토어",
+      "title_ja": "アイドルマスター ミリオンライブ! ARC-FLAGS POP UP CORNER",
+      "official_url": "https://www.kotobukiya.co.jp/event/detail/1357/",
+      "source_url": "https://www.kotobukiya.co.jp/event/detail/1357/",
+      "price": "",
+      "thumbnail": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202611_ARC-FLAGS/kv.png",
+      "thumbnail_source": "https://www.kotobukiya.co.jp/event/detail/1357/",
+      "image_hd": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202611_ARC-FLAGS/kv.png",
+      "image_fit": "contain",
+      "summary_ko": "밀리언 라이브 유닛 ARC-FLAGS(도코로 메구미·마이하마 아유무·마카베 미즈키) 새로 그린 일러스트 굿즈 판매와 등신대 패널 전시가 있어요.",
+      "summary_source": "https://www.kotobukiya.co.jp/event/detail/1357/",
+      "title_ko": "아이돌마스터 밀리언 라이브! ARC-FLAGS 팝업 코너 (코토부키야 아키하바라관)",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "코토부키야 아키하바라관 1층",
+      "start": "2026-11-06",
+      "end": "2026-11-23",
+      "map_query": "コトブキヤ秋葉原館",
+      "lat": 35.699265,
+      "lon": 139.770554,
+      "notes": "11/6~8은 LINE 디지털 QR 정리권(mogily, 9:00~10:30 접수, 추첨식). 오픈 상품 각 3개, 랜덤 상품 각 3BOX까지",
+      "evidence": [
+        {
+          "url": "https://www.kotobukiya.co.jp/event/detail/1357/",
+          "tier": "official",
+          "quote": "「ARC-FLAGS POP UP CORNER」が開催決定！「所恵美」「舞浜歩」「真壁瑞希」の3人が描き下ろしイラストで登場！ 開催日時・場所 【東京会場】コトブキヤ秋葉原館1F　11/6（金）〜11/23（月・祝） 【大阪会場】コトブキヤ日本橋店　12/4(金)～12/20(日)",
+          "checked": "2026-10-25"
+        }
+      ],
+      "thumb_small": "thumbs/382d7974adb5f3d5.webp",
+      "image_local": "img/382d7974adb5f3d5.webp"
+    },
+    {
+      "reservation": "",
+      "checked_date": "2026-10-25",
+      "verified_at": "2026-10-25",
+      "source_tier": "official",
+      "translation_check": true,
+      "category": "팝업스토어",
+      "title_ja": "アイドルマスター ミリオンライブ! ARC-FLAGS POP UP CORNER",
+      "official_url": "https://www.kotobukiya.co.jp/event/detail/1357/",
+      "source_url": "https://www.kotobukiya.co.jp/event/detail/1357/",
+      "price": "",
+      "thumbnail": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202611_ARC-FLAGS/kv.png",
+      "thumbnail_source": "https://www.kotobukiya.co.jp/event/detail/1357/",
+      "image_hd": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202611_ARC-FLAGS/kv.png",
+      "image_fit": "contain",
+      "summary_ko": "밀리언 라이브 유닛 ARC-FLAGS(도코로 메구미·마이하마 아유무·마카베 미즈키) 새로 그린 일러스트 굿즈 판매와 등신대 패널 전시가 있어요.",
+      "summary_source": "https://www.kotobukiya.co.jp/event/detail/1357/",
+      "title_ko": "아이돌마스터 밀리언 라이브! ARC-FLAGS 팝업 코너 (코토부키야 닛폰바시)",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "코토부키야 닛폰바시점",
+      "start": "2026-12-04",
+      "end": "2026-12-20",
+      "map_query": "コトブキヤ日本橋",
+      "notes": "도쿄 아키하바라관(11/6~11/23)에 이은 오사카 회장",
+      "evidence": [
+        {
+          "url": "https://www.kotobukiya.co.jp/event/detail/1357/",
+          "tier": "official",
+          "quote": "「ARC-FLAGS POP UP CORNER」が開催決定！「所恵美」「舞浜歩」「真壁瑞希」の3人が描き下ろしイラストで登場！ 開催日時・場所 【東京会場】コトブキヤ秋葉原館1F　11/6（金）〜11/23（月・祝） 【大阪会場】コトブキヤ日本橋店　12/4(金)～12/20(日)",
+          "checked": "2026-10-25"
+        }
+      ],
+      "thumb_small": "thumbs/382d7974adb5f3d5.webp",
+      "image_local": "img/382d7974adb5f3d5.webp"
     }
   ]
 }
