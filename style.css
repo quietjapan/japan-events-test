@@ -386,3 +386,103 @@ body{-webkit-font-smoothing:antialiased;letter-spacing:-.005em}
 .qmst{font-style:normal;align-self:flex-start;font-size:10.5px;font-weight:700;color:#fff;background:var(--c);border-radius:999px;padding:1px 7px;margin:1px 0}
 @media(prefers-reduced-motion:reduce){.qmdot.hot{animation:none}}
 @media(max-width:640px){.qdchips button{min-height:34px;padding:5px 11px}}
+
+/* 10/25 상단 가독성: 제목→한 줄 소개→도시 탭→작은 업데이트 줄, 검색→종류(가로 스크롤)→날짜·필터 */
+.hd{padding:26px 0 18px}
+.hd .sub{display:block;margin:4px 0 0;font-size:14px;color:var(--mute);letter-spacing:-.01em}
+.hd .region{margin:14px 0 0}
+.hdinfo{display:flex;flex-wrap:wrap;align-items:center;gap:2px 10px;margin-top:10px;font-size:12px;color:var(--mute)}
+.hdinfo .upd,.hdinfo .meta{margin:0;font-size:12px;opacity:.85}
+.hdinfo .upd:not([hidden])+.meta::before{content:"·";margin-right:10px}
+.filters{margin:18px 0 14px;gap:12px}
+.chipwrap{display:flex;align-items:center;gap:10px;min-width:0}
+.flbl{flex:none;font-size:12px;font-weight:700;color:var(--mute);letter-spacing:.04em}
+.chipwrap .chips{flex:1;min-width:0;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;padding:3px 2px 5px;
+  -webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 28px),transparent);mask-image:linear-gradient(90deg,#000 calc(100% - 28px),transparent)}
+.chipwrap .chips::-webkit-scrollbar{display:none}
+.chipwrap .chips button{flex:none;white-space:nowrap}
+.chipwrap .chips button:last-child{margin-right:24px}
+.tbar{display:flex;flex-wrap:wrap;align-items:flex-start;gap:10px}
+.tbar .qdchips{flex:none;min-height:44px}
+.tbar .fmore{flex:1 1 300px;min-width:0}
+.tbar .fmore:not([open]){box-shadow:none}
+.wx{margin:0 0 14px}
+@media(max-width:640px){
+  .hd{padding:14px 0 12px}
+  .hd .sub{font-size:12.5px;margin-top:2px}
+  .hd .region{margin-top:10px}
+  .hdinfo{margin-top:8px;font-size:11px}.hdinfo .upd,.hdinfo .meta{font-size:11px}
+  .filters{margin:12px 0 10px;gap:10px}
+  .chipwrap{gap:8px}
+  .tbar{gap:8px}.tbar .qdchips,.tbar .fmore{flex:1 1 100%}
+  .wx{margin-bottom:10px}
+}
+@media(max-width:640px){.hdinfo .upd:not([hidden])+.meta::before{content:none}.hdinfo{flex-direction:column;align-items:flex-start}}
+
+/* 10/25 정리 2: 첫 화면에 카드 보이게 · 빨강 줄이기 · 카드 전체 탭 · 3열 · 메뉴 버튼 */
+.hd::before{opacity:.06!important;-webkit-mask-image:linear-gradient(90deg,transparent 30%,#000 100%);mask-image:linear-gradient(90deg,transparent 30%,#000 100%)}
+[data-theme="dark"] .hd::before{opacity:.05!important}
+.hd .sub{font-size:15px;color:var(--ink);opacity:.85}.hd .sub b{color:var(--ink);font-weight:800}
+.trust{display:inline-flex;align-items:center;gap:4px;padding:2px 9px;border-radius:999px;font-size:11.5px;font-weight:700;color:#2f6b4f;background:color-mix(in srgb,#2f9e6b 12%,var(--card));border:1px solid color-mix(in srgb,#2f9e6b 30%,transparent)}
+[data-theme="dark"] .trust{color:#8fd4b0;background:#1d2e25}
+.hdinfo .upd:not([hidden])+.meta::before{content:none}
+.hdinfo .trust+.upd::before{content:none}
+/* 칩 한 줄 + 필터 버튼 */
+.tbar{flex-wrap:nowrap;align-items:center;gap:8px;position:relative}
+.chipwrap{flex:1;min-width:0;display:block}
+.chipwrap .chips{overflow:visible;-webkit-mask-image:none;mask-image:none;padding:0;flex:none}
+.chipwrap .chips button:last-child{margin-right:0}
+.chrow{display:flex;align-items:center;gap:6px;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;padding:4px 2px 6px;
+  -webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 28px),transparent);mask-image:linear-gradient(90deg,#000 calc(100% - 28px),transparent)}
+.chrow::-webkit-scrollbar{display:none}
+.chrow .qdchips{flex:none;flex-wrap:nowrap;padding-right:28px}.chrow .qdl{display:none}
+.chsep{flex:none;width:1px;height:22px;background:var(--line);margin:0 4px}
+.chrow button{flex:none;white-space:nowrap;min-height:44px!important}
+.tbar .fmore{flex:none;position:static;border-radius:999px}
+.tbar .fmore>summary{min-height:44px;padding:0 16px;white-space:nowrap}
+.tbar .fmore>summary .fsub{display:none}
+.tbar .fmore>summary::after{margin-left:6px}
+.tbar .fmore[open]{border-radius:999px}
+.tbar .fmore[open] .fbody{position:absolute;left:0;right:0;top:calc(100% + 6px);z-index:20;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px;box-shadow:var(--sh2)}
+/* 날씨 한 줄 */
+.wx:not([open]){padding:4px 14px}.wx:not([open])>summary{min-height:44px}
+/* 빨강 줄이기: 리본·빨간 테두리 없애고 배지만 */
+.card .ub{display:none}
+.card.u-hot,.card.u-warm,.card.u-new{border:1px solid var(--line);box-shadow:var(--sh1)}
+.b.sb-end3{background:color-mix(in srgb,#a61e3a 10%,var(--card));color:#a61e3a;box-shadow:none}
+.b.sb-live{background:color-mix(in srgb,#2f9e6b 12%,var(--card));color:#2f7a52}
+[data-theme="dark"] .b.sb-end3{background:#3a1c22;color:#f29aaa}
+[data-theme="dark"] .b.sb-live{background:#1d2e25;color:#8fd4b0}
+.c-pop{background:#d9822b!important}
+/* 카드 전체 탭 */
+.card[data-i]{cursor:pointer;-webkit-tap-highlight-color:transparent}
+.card[data-i]:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.card[data-i]:active{transform:scale(.99)}
+.cgo{align-self:flex-end;font-size:13px;font-weight:700;color:var(--accent);margin-top:-2px}
+.card .bm{width:44px;height:44px}
+.card .top .tx{padding-right:46px}
+/* 넓은 화면 3열 */
+@media(min-width:1024px){.wrap{max-width:1180px}.list{grid-template-columns:repeat(3,minmax(0,1fr))}}
+/* 모바일: 큰 썸네일 · 짧은 카드 · 작은 메뉴 버튼 하나 */
+.qmenu,.qmenup{display:none}
+@media(max-width:640px){
+  .th{flex-basis:108px;height:108px}
+  .card{padding:12px;gap:6px}
+  .card .cmeta{font-size:13px}
+  .cgo{display:none}
+  .fabs{display:none!important}
+  .qmenu{display:flex;position:fixed;right:12px;bottom:14px;z-index:72;width:44px;height:44px;border-radius:50%;border:1px solid var(--line);background:color-mix(in srgb,var(--card) 88%,transparent);backdrop-filter:blur(8px);color:var(--ink);font-size:18px;align-items:center;justify-content:center;box-shadow:var(--sh2);cursor:pointer;padding:0}
+  .qmenup:not([hidden]){display:flex;flex-direction:column;position:fixed;right:12px;bottom:66px;z-index:72;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:6px;box-shadow:var(--sh2);min-width:160px}
+  .qmenup button{min-height:44px;border:0;background:none;color:var(--ink);font:inherit;font-size:14px;font-weight:600;text-align:left;padding:0 12px;border-radius:10px;cursor:pointer}
+  .qmenup button:active{background:var(--soft)}
+  .fxov{padding-bottom:70px}
+  body.modal-open .qmenu{display:none}
+  .hd .sub{font-size:13.5px}
+  .tbar .fmore>summary{padding:0 12px}
+  .hdinfo{flex-direction:row;align-items:center}
+}
+.region button,.vtoggle button,.pager .pg,.themeicon,#q,.freset,.range button{min-height:44px}
+.themeicon{width:44px;height:44px}
+.meta[hidden]{display:none!important}@media(max-width:640px){.tbar .fmore{flex:none}}
+.filters{grid-template-columns:minmax(0,1fr)}.filters>*,.tbar{min-width:0}
+[data-theme="dark"] .card.u-hot,[data-theme="dark"] .card.u-warm,[data-theme="dark"] .card.u-new{box-shadow:var(--sh1);border-color:var(--line)}
