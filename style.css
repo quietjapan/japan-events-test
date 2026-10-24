@@ -291,3 +291,72 @@ body.modal-open .fabs,body.modal-open .fxov{display:none!important}
 .list>.card{min-width:0;max-width:100%}.card .btns a,.card .btns button.more{min-width:0}
 .dfit.dlow .dbg{width:min(100%,300px);margin:64px auto 0;align-self:center;border-radius:10px}.dlow:not(.dfit) .dbg{object-fit:contain}
 .dgone{margin-top:12px}
+
+/* 10/24 UI 다듬기: 朱(주홍)·藍(남색) 포인트, 부드러운 그림자, 카드·탭·버튼 정리 */
+:root{--accent:#c4472f;--accent2:#e2673f;--ai:#2f4b7c;--sh1:0 1px 2px rgba(60,40,20,.05),0 2px 8px rgba(60,40,20,.05);--sh2:0 2px 4px rgba(60,40,20,.06),0 10px 24px rgba(60,40,20,.10);--r:16px}
+:root[data-theme="dark"]{--accent:#ee8a6c;--accent2:#f29a6e;--ai:#9cb6e6;--sh1:0 1px 2px rgba(0,0,0,.3),0 2px 8px rgba(0,0,0,.25);--sh2:0 4px 10px rgba(0,0,0,.35),0 12px 28px rgba(0,0,0,.35)}
+body{-webkit-font-smoothing:antialiased;letter-spacing:-.005em}
+/* 헤더 */
+.hd{border-bottom:0;box-shadow:0 1px 0 var(--line)}
+.hd h1{display:flex;align-items:center;gap:10px}
+.hd h1::before{content:"";flex:none;width:10px;height:10px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 4px color-mix(in srgb,var(--accent) 18%,transparent)}
+.region{box-shadow:inset 0 1px 2px rgba(0,0,0,.05)}
+.region button{transition:background .2s,color .2s}
+.region button.on{background:var(--accent);color:#fff;box-shadow:0 2px 8px color-mix(in srgb,var(--accent) 35%,transparent)}
+[data-theme="dark"] .region button.on{color:#1b1713}
+.upd,.meta{opacity:.9}
+/* 날씨 · 필터 패널 */
+.wx,.fmore{border-radius:var(--r);box-shadow:var(--sh1)}
+.wxd{background:color-mix(in srgb,var(--soft) 70%,var(--card));border-radius:10px;padding:6px 4px}
+/* 칩 · 토글 */
+.chips button,.toggle button,.vtoggle button{transition:border-color .15s,background .15s,color .15s,transform .1s;box-shadow:var(--sh1)}
+.chips button:hover,.toggle button:hover,.vtoggle button:hover{border-color:var(--accent);color:var(--accent)}
+.chips button.on,.toggle button.on,.vtoggle button.on{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.chips button.on:hover,.toggle button.on:hover,.vtoggle button.on:hover{color:var(--bg)}
+.chips button:active,.toggle button:active,.vtoggle button:active{transform:scale(.97)}
+.vtoggle{display:inline-flex;gap:2px;padding:3px;border:1px solid var(--line);border-radius:999px;background:var(--soft)}
+.vtoggle button{border:0!important;background:transparent!important;box-shadow:none!important;min-height:36px}
+.vtoggle button.on{background:var(--card)!important;color:var(--ink)!important;box-shadow:0 1px 4px rgba(0,0,0,.14)!important;font-weight:700}
+#q{border-radius:999px;padding-left:16px;box-shadow:var(--sh1);transition:border-color .15s,box-shadow .15s}
+#q:focus,select:focus,.range input:focus{outline:0;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 18%,transparent)}
+.count{font-weight:600;letter-spacing:.01em}
+/* 카드 */
+.list{gap:16px}
+.card{border-radius:var(--r);padding:16px 16px 14px;box-shadow:var(--sh1);transition:transform .18s ease,box-shadow .18s ease,border-color .18s}
+@media(hover:hover){.card:hover{transform:translateY(-2px);box-shadow:var(--sh2);border-color:color-mix(in srgb,var(--accent) 30%,var(--line))}}
+.card.u-hot,.card.u-warm,.card.u-new{border-width:1.5px}
+.card.u-hot{box-shadow:var(--sh1),0 0 0 3px rgba(224,49,49,.10)}
+.th{flex-basis:92px;height:92px;border-radius:12px;box-shadow:0 0 0 1px rgba(0,0,0,.06),0 2px 6px rgba(0,0,0,.08);opacity:1}
+.card h2{font-size:17px;letter-spacing:-.02em}
+.b{border-radius:999px;padding:2px 9px;font-size:11.5px}
+.b.cat{box-shadow:inset 0 -1px 0 rgba(0,0,0,.12)}
+.ub{letter-spacing:.02em}
+.cmeta{color:var(--ink)}.cmeta li{line-height:1.6}
+.card .bm{box-shadow:var(--sh1);transition:transform .15s}.card .bm:hover{transform:scale(1.08)}
+.btns a,.btns button.more{border-radius:12px;transition:filter .15s,transform .1s,background .15s}
+.card .btns a:not(.sec){background:var(--card);color:var(--ink);border:1px solid var(--line)}
+.card .btns a:not(.sec):hover{border-color:var(--ink)}
+.btns button.more{background:linear-gradient(135deg,var(--accent2),var(--accent));box-shadow:0 2px 8px color-mix(in srgb,var(--accent) 30%,transparent)}
+[data-theme="dark"] .btns button.more{background:linear-gradient(135deg,#e2673f,#c4472f);color:#fff}
+.btns button.more:hover{filter:brightness(1.06)}.btns a:active,.btns button.more:active{transform:scale(.98)}
+/* 플로팅 버튼 */
+.fxbtn{box-shadow:var(--sh2);backdrop-filter:blur(6px)}
+/* 페이지 */
+.pager .pg{border-radius:999px;box-shadow:var(--sh1)}.pager .pg.on{background:var(--accent);border-color:var(--accent);color:#fff}
+/* 상세 모달 */
+.dv{border-radius:22px;box-shadow:0 20px 60px rgba(0,0,0,.35)}
+.dcard{border-color:var(--accent)}.dtag,.dgrid em{color:var(--accent)}
+.dmeta,.dinfo section{border-radius:14px}
+/* 지도 */
+.qmapc{border-radius:18px;box-shadow:var(--sh2)}
+.qmdot{border-width:2.5px;box-shadow:0 0 0 4px color-mix(in srgb,var(--c) 22%,transparent),0 3px 8px rgba(0,0,0,.25);transition:transform .15s}
+.qmpin:hover .qmdot{transform:scale(1.15)}
+.qmdot.qmcl{background:var(--accent);color:#fff;border-color:#fff;--c:var(--accent);box-shadow:0 0 0 6px color-mix(in srgb,var(--accent) 22%,transparent),0 0 0 12px color-mix(in srgb,var(--accent) 10%,transparent),0 3px 8px rgba(0,0,0,.25)}
+[data-theme="dark"] .qmdot.qmcl{border-color:#211d18;color:#1b1713}
+.qmap .leaflet-popup-content-wrapper{border-radius:16px;box-shadow:var(--sh2)}
+.qmit{border-radius:12px;transition:border-color .15s,background .15s}.qmit:hover{background:var(--soft)}
+.qmap .leaflet-bar{border:0!important;box-shadow:var(--sh1)!important;border-radius:12px;overflow:hidden}
+.qmlbl-a span{font-weight:800;letter-spacing:-.3px}.qmlbl-b span{color:#a5452f}
+.qmsoon{padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:var(--card);box-shadow:var(--sh1)}
+.cal{border-radius:var(--r);box-shadow:var(--sh1)}
+@media(max-width:640px){.card{padding:14px 14px 12px}.th{flex-basis:84px;height:84px}.list{gap:14px}.vtoggle{display:flex}.vtoggle button{flex:1}}
