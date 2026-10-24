@@ -515,3 +515,10 @@ body{-webkit-font-smoothing:antialiased;letter-spacing:-.005em}
 .qmsp p{margin:4px 0 6px;font-size:12.5px;line-height:1.45;word-break:keep-all}
 .qmsp a{align-self:flex-start;font-size:12.5px;font-weight:700;color:var(--accent)!important;text-decoration:none;padding:6px 0;min-height:32px}
 [data-theme="dark"] .qmsq{background:#2a251f}[data-theme="dark"] .qmsp em{color:#b9a3e6}
+.hd h1.wm{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;letter-spacing:-.04em;font-weight:900;line-height:1.1}
+.wm .wmk{background:linear-gradient(100deg,var(--accent) 0%,#e8833f 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.wm .wmk::after{content:"";display:block;height:4px;margin-top:4px;border-radius:4px;background:linear-gradient(90deg,var(--accent),transparent)}
+.wm .wma{font-family:"Noto Serif JP","Hiragino Mincho ProN",serif;font-size:.42em;font-weight:700;letter-spacing:.08em;color:#fff;background:var(--accent);padding:3px 8px 4px;border-radius:6px;transform:translateY(-.5em) rotate(-4deg);box-shadow:0 2px 6px rgba(200,70,40,.3)}
+.wmsub{font-weight:600;margin-top:6px}
+[data-theme="dark"] .wm .wmk{background:linear-gradient(100deg,#ff8a5c,#f2b36b);-webkit-background-clip:text;background-clip:text}
+[data-theme="dark"] .wm .wma{box-shadow:none}
