@@ -522,29 +522,3 @@ body{-webkit-font-smoothing:antialiased;letter-spacing:-.005em}
 .wmsub{font-weight:600;margin-top:6px}
 [data-theme="dark"] .wm .wmk{background:linear-gradient(100deg,#ff8a5c,#f2b36b);-webkit-background-clip:text;background-clip:text}
 [data-theme="dark"] .wm .wma{box-shadow:none}
-
-/* 10/25 도시 사진 띠(헤더 영역만) */
-.hdph{background:#1a1412;box-shadow:none;color:#fff}
-.hdph::before{display:none}
-.cityph{position:absolute;inset:0;z-index:-1;overflow:hidden}
-.cityph i{position:absolute;inset:0;background-size:cover;background-repeat:no-repeat;opacity:0;transition:opacity .7s ease;will-change:opacity}
-.cityph .cp-tokyo{background-image:url(img/city-tokyo.webp);background-position:center 62%}
-.cityph .cp-osaka{background-image:url(img/city-osaka.webp);background-position:center 30%}
-html:not([data-region="osaka"]) .cp-tokyo,html[data-region="osaka"] .cp-osaka{opacity:1}
-.cityph::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(14,10,9,.86) 0%,rgba(14,10,9,.62) 45%,rgba(14,10,9,.25) 100%),linear-gradient(0deg,rgba(14,10,9,.55),transparent 55%)}
-.hdph .wm .wmk{background:none;-webkit-background-clip:initial;background-clip:initial;color:#fff;text-shadow:0 2px 12px rgba(0,0,0,.45)}
-.hdph .wm .wmk::after{background:linear-gradient(90deg,var(--accent),transparent)}
-.hdph h1::before{box-shadow:0 0 0 4px rgba(255,255,255,.18)}
-.hdph .sub,.hdph .sub b{color:#fff!important;opacity:1}
-.hdph .sub{text-shadow:0 1px 6px rgba(0,0,0,.5)}
-.hdph #vline{opacity:.9}
-.hdph .hdinfo,.hdph .hdinfo .upd{color:rgba(255,255,255,.82)}
-.hdph .trust{background:rgba(255,255,255,.14);color:#d8f3e3;border-color:rgba(255,255,255,.28)}
-.hdph .region{background:rgba(255,255,255,.14);border-color:rgba(255,255,255,.22);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
-.hdph .region button{color:#fff}
-.hdph .region button.on{background:var(--accent);color:#fff}
-.hdph .themeicon{background:rgba(255,255,255,.16);border-color:rgba(255,255,255,.3);color:#fff}
-.phcr{position:absolute;right:10px;bottom:4px;margin:0;font-size:10px;line-height:1.4}
-.phcr a{color:rgba(255,255,255,.7);text-decoration:none}.phcr a:hover{color:#fff;text-decoration:underline}
-html:not([data-region="osaka"]) .cr-osaka,html[data-region="osaka"] .cr-tokyo{display:none}
-@media(prefers-reduced-motion:reduce){.cityph i{transition:none}}

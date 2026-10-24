@@ -173,7 +173,7 @@ fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
   sel.onchange=()=>{st.area=sel.value;render()};
   const rg=document.getElementById("region");
   const paintRegion=()=>{document.documentElement.setAttribute("data-region",st.region);if(rg)rg.querySelectorAll("button").forEach(b=>{const on=b.dataset.r===st.region;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on)})};
-  window.setRegion=(r,{persist=true,track=false}={})=>{if(!REG[r])return;const ch=r!==st.region;st.region=r;window.QJ_REGION=r;document.documentElement.setAttribute("data-region",r);if(persist){try{localStorage.setItem(REGK,r)}catch(x){}}
+  window.setRegion=(r,{persist=true,track=false}={})=>{if(!REG[r])return;const ch=r!==st.region;st.region=r;window.QJ_REGION=r;if(persist){try{localStorage.setItem(REGK,r)}catch(x){}}
     paintRegion();if(ch){fillArea();render();window.QJWX&&QJWX(r)}if(track&&window.gtag)gtag("event","select_region",{region:REG[r]})};
   if(rg)rg.onclick=ev=>{const b=ev.target.closest("button[data-r]");if(!b)return;const r=b.dataset.r;if(r===st.region)return;setRegion(r,{track:true})};
   paintRegion();
