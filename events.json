@@ -5316,7 +5316,9 @@
       "thumb_small": "thumbs/fee4e8ca539607a4.webp",
       "region": "tokyo",
       "image_fb": "gfb/fee4e8ca539607a4.webp",
-      "image_local": "img/fee4e8ca539607a4.webp"
+      "image_local": "img/fee4e8ca539607a4.webp",
+      "lat": 35.6996,
+      "lon": 139.771
     },
     {
       "title_ko": "『어서 와, 첫사랑』 POP UP SHOP",
@@ -5352,7 +5354,9 @@
       "thumb_small": "thumbs/28db0f847f193bc0.webp",
       "region": "tokyo",
       "image_fb": "gfb/28db0f847f193bc0.webp",
-      "image_local": "img/28db0f847f193bc0.webp"
+      "image_local": "img/28db0f847f193bc0.webp",
+      "lat": 35.7311,
+      "lon": 139.7154
     },
     {
       "title_ko": "살짝 위험한 시티(쵸콧토 야바시티) 카페스탠드",
@@ -5387,7 +5391,9 @@
       "thumb_small": "thumbs/fff98a1adceb0fe1.webp",
       "region": "tokyo",
       "image_fb": "gfb/fff98a1adceb0fe1.webp",
-      "image_local": "img/fff98a1adceb0fe1.webp"
+      "image_local": "img/fff98a1adceb0fe1.webp",
+      "lat": 35.7307,
+      "lon": 139.7158
     },
     {
       "title_ko": "요괴학교 선생님 시작했습니다! POP UP SHOP",
@@ -5446,7 +5452,9 @@
       "thumb_small": "thumbs/35fdd9a6546780e3.webp",
       "region": "tokyo",
       "image_fb": "gfb/35fdd9a6546780e3.webp",
-      "image_local": "img/35fdd9a6546780e3.webp"
+      "image_local": "img/35fdd9a6546780e3.webp",
+      "lat": 35.7299,
+      "lon": 139.7152
     },
     {
       "title_ko": "BLACK LAGOON 25주년 원화전",
@@ -5516,7 +5524,9 @@
       "summary_source": "https://www.kyodoprinting.co.jp/lp/event/madeinabyss/",
       "thumb_small": "thumbs/5c1e4f8a3021b88c.webp",
       "region": "tokyo",
-      "image_local": "img/5c1e4f8a3021b88c.webp"
+      "image_local": "img/5c1e4f8a3021b88c.webp",
+      "lat": 35.7289,
+      "lon": 139.7116
     },
     {
       "title_ko": "메이드 인 어비스전 (후기)",
@@ -5550,7 +5560,9 @@
       "summary_source": "https://www.kyodoprinting.co.jp/lp/event/madeinabyss/",
       "thumb_small": "thumbs/5c1e4f8a3021b88c.webp",
       "region": "tokyo",
-      "image_local": "img/5c1e4f8a3021b88c.webp"
+      "image_local": "img/5c1e4f8a3021b88c.webp",
+      "lat": 35.7289,
+      "lon": 139.7116
     },
     {
       "title_ko": "영웅전설 궤적 시리즈 × ORBcafe 콜라보 카페",
@@ -8018,7 +8030,9 @@
       "summary_ko": "『데드 바이 데이라이트』 콜라보 카페예요. 일러스트레이터 키만이 새로 그린 귀여운 킬러들 굿즈와 콜라보 메뉴가 나오고, 게임 맵 콘셉트의 콜라보룸도 있어요.",
       "region": "tokyo",
       "image_fb": "gfb/cb20dc4f88c65c9c.webp",
-      "image_local": "img/cb20dc4f88c65c9c.webp"
+      "image_local": "img/cb20dc4f88c65c9c.webp",
+      "lat": 35.73,
+      "lon": 139.7146
     },
     {
       "reservation": "",
@@ -8263,7 +8277,9 @@
       "summary_ko": "게임 『지구방위군』 팝업숍이에요. 최신 공식 굿즈와 콜라보 굿즈를 팔고, 디스리 퍼블리셔 역대 타이틀 23종 그림으로 그 자리에서 티셔츠를 프린트해 줘요.",
       "region": "tokyo",
       "image_fb": "gfb/81aea71cd6bb1895.webp",
-      "image_local": "img/81aea71cd6bb1895.webp"
+      "image_local": "img/81aea71cd6bb1895.webp",
+      "lat": 35.7278,
+      "lon": 139.72
     },
     {
       "reservation": "선택",
@@ -8304,7 +8320,9 @@
       "summary_ko": "『주술회전』 굿즈 물판 행사 'PLAZA'의 시부야 로프트 회장이에요. 회기 중에 신상품과 한정 상품도 나올 예정이에요.",
       "region": "tokyo",
       "image_fb": "gfb/6c14ae4ebf5c4252.webp",
-      "image_local": "img/6c14ae4ebf5c4252.webp"
+      "image_local": "img/6c14ae4ebf5c4252.webp",
+      "lat": 35.6609,
+      "lon": 139.6996
     },
     {
       "reservation": "",
@@ -9661,7 +9679,9 @@
       "thumb_small": "thumbs/8622273d72bfdec1.webp",
       "region": "tokyo",
       "image_fb": "gfb/8622273d72bfdec1.webp",
-      "image_local": "img/8622273d72bfdec1.webp"
+      "image_local": "img/8622273d72bfdec1.webp",
+      "lat": 35.6824,
+      "lon": 139.7687
     },
     {
       "area": "도쿄",
@@ -9793,7 +9813,9 @@
       "thumb_small": "thumbs/a207114a96d10ce2.webp",
       "region": "tokyo",
       "image_fb": "gfb/a207114a96d10ce2.webp",
-      "image_local": "img/a207114a96d10ce2.webp"
+      "image_local": "img/a207114a96d10ce2.webp",
+      "lat": 35.6824,
+      "lon": 139.7687
     },
     {
       "area": "도쿄",
@@ -9896,7 +9918,9 @@
       "thumb_small": "thumbs/d7594eb39b5a43c7.webp",
       "region": "tokyo",
       "image_fb": "gfb/d7594eb39b5a43c7.webp",
-      "image_local": "img/d7594eb39b5a43c7.webp"
+      "image_local": "img/d7594eb39b5a43c7.webp",
+      "lat": 35.7246,
+      "lon": 139.7109
     },
     {
       "area": "도쿄",
@@ -10010,7 +10034,9 @@
       "thumb_small": "thumbs/4c6450154f627fa5.webp",
       "region": "tokyo",
       "image_fb": "gfb/4c6450154f627fa5.webp",
-      "image_local": "img/4c6450154f627fa5.webp"
+      "image_local": "img/4c6450154f627fa5.webp",
+      "lat": 35.6618,
+      "lon": 139.7007
     },
     {
       "area": "도쿄",
@@ -13520,7 +13546,9 @@
       "summary_source": "https://www.expo70-park.jp/event/77096/",
       "translation_check": true,
       "thumb_small": "thumbs/acf6a8c64dffeae1.webp",
-      "image_local": "img/acf6a8c64dffeae1.webp"
+      "image_local": "img/acf6a8c64dffeae1.webp",
+      "lat": 34.812,
+      "lon": 135.5302
     },
     {
       "id": "osaka-fm802-funky-market-2026",
@@ -13555,7 +13583,9 @@
       "summary_source": "https://www.expo70-park.jp/event/77578/",
       "translation_check": true,
       "thumb_small": "thumbs/3b7bd6eb5ba04f34.webp",
-      "image_local": "img/3b7bd6eb5ba04f34.webp"
+      "image_local": "img/3b7bd6eb5ba04f34.webp",
+      "lat": 34.812,
+      "lon": 135.5302
     },
     {
       "id": "osaka-gpsbox-kiramekko-umeda",
@@ -13764,7 +13794,9 @@
       "summary_source": "https://bandainamco-am.co.jp/crossstore/store/hepfive/news/20260716.html",
       "translation_check": true,
       "thumb_small": "thumbs/e17aec441ff7abe3.webp",
-      "image_local": "img/e17aec441ff7abe3.webp"
+      "image_local": "img/e17aec441ff7abe3.webp",
+      "lat": 34.7041,
+      "lon": 135.5004
     },
     {
       "id": "osaka-heroaca-10th-bones-popup",
@@ -14009,7 +14041,9 @@
       "summary_source": "https://go-for-launch.net/news/01_6692.html",
       "translation_check": true,
       "thumb_small": "thumbs/1069e99b72a8bb35.webp",
-      "image_fb": "gfb/1069e99b72a8bb35.webp"
+      "image_fb": "gfb/1069e99b72a8bb35.webp",
+      "lat": 34.703,
+      "lon": 135.4999
     },
     {
       "id": "osaka-haikyu-and-gallery-namba",
@@ -14509,7 +14543,9 @@
       "source_tier": "official",
       "verified_at": "2026-10-22",
       "summary_source": "https://www.animate.co.jp/en/spacegalleria/gratusosaka/",
-      "translation_check": true
+      "translation_check": true,
+      "lat": 34.6605,
+      "lon": 135.5047
     },
     {
       "id": "osaka-code-geass-20th-exhibition",
@@ -14544,7 +14580,9 @@
       "summary_source": "https://codegeass20thexhibition.com/ticket/",
       "translation_check": true,
       "thumb_small": "thumbs/387ab0c86ad42ae0.webp",
-      "image_local": "img/387ab0c86ad42ae0.webp"
+      "image_local": "img/387ab0c86ad42ae0.webp",
+      "lat": 34.6605,
+      "lon": 135.5047
     },
     {
       "id": "osaka-hetalia-20th-worldfesta",
@@ -14612,7 +14650,9 @@
       "source_tier": "official",
       "verified_at": "2026-10-22",
       "summary_source": "https://www.toei-anim.co.jp/lp/wt/exh_2026/",
-      "translation_check": true
+      "translation_check": true,
+      "lat": 34.6372,
+      "lon": 135.4133
     },
     {
       "id": "osaka-japanimation-rocks-2026",
@@ -14647,7 +14687,9 @@
       "summary_source": "https://osaka-ca-fes.jp/project/event/jar/",
       "translation_check": true,
       "thumb_small": "thumbs/e64ec0ef70a24c62.webp",
-      "image_local": "img/e64ec0ef70a24c62.webp"
+      "image_local": "img/e64ec0ef70a24c62.webp",
+      "lat": 34.6627,
+      "lon": 135.4346
     },
     {
       "id": "osaka-nijisanji-girls-idol-festival",
@@ -14683,7 +14725,9 @@
       "summary_source": "https://www.anycolor.co.jp/news/sw9ttrq3kaot",
       "translation_check": true,
       "thumb_small": "thumbs/8b9f0cd80a66c671.webp",
-      "image_local": "img/8b9f0cd80a66c671.webp"
+      "image_local": "img/8b9f0cd80a66c671.webp",
+      "lat": 34.6373,
+      "lon": 135.42
     },
     {
       "series": "nijisanji-girls-idol-festival-2026",
@@ -14719,7 +14763,9 @@
       "translation_check": true,
       "thumb_small": "thumbs/8b9f0cd80a66c671.webp",
       "id": "osaka-nijisanji-girls-idol-festival",
-      "image_local": "img/8b9f0cd80a66c671.webp"
+      "image_local": "img/8b9f0cd80a66c671.webp",
+      "lat": 34.6373,
+      "lon": 135.42
     },
     {
       "id": "osaka-cosradi-2026",
@@ -14751,7 +14797,9 @@
       "source_tier": "official",
       "verified_at": "2026-10-22",
       "summary_source": "https://www.obc1314.co.jp/cosradi2026/",
-      "translation_check": true
+      "translation_check": true,
+      "lat": 34.6844,
+      "lon": 135.5219
     },
     {
       "series": "cosradi-2026",
@@ -14783,7 +14831,9 @@
       "verified_at": "2026-10-22",
       "summary_source": "https://www.obc1314.co.jp/cosradi2026/",
       "translation_check": true,
-      "id": "osaka-cosradi-2026"
+      "id": "osaka-cosradi-2026",
+      "lat": 34.6844,
+      "lon": 135.5219
     },
     {
       "id": "osaka-hetalia-mixx-garden-2611",
@@ -15073,7 +15123,9 @@
       "translation_check": true,
       "thumb_small": "thumbs/31bbad90563b02b4.webp",
       "image_fb": "gfb/31bbad90563b02b4.webp",
-      "image_local": "img/31bbad90563b02b4.webp"
+      "image_local": "img/31bbad90563b02b4.webp",
+      "lat": 34.6609,
+      "lon": 135.5042
     },
     {
       "id": "mag-comptiq-2027-01",
@@ -15155,7 +15207,9 @@
       "summary_source": "https://cafe.parco.jp/event/information/BLEACH_cafe_osaka",
       "thumb_small": "thumbs/8c23d306aa9f6ec2.webp",
       "image_fb": "gfb/8c23d306aa9f6ec2.webp",
-      "image_local": "img/8c23d306aa9f6ec2.webp"
+      "image_local": "img/8c23d306aa9f6ec2.webp",
+      "lat": 34.674,
+      "lon": 135.5013
     },
     {
       "reservation": "불필요",
@@ -15190,7 +15244,9 @@
       "thumbnail_source": "https://www.tsurumi-ryokuchi.jp/events/28742/",
       "summary_source": "https://www.tsurumi-ryokuchi.jp/events/28742/",
       "thumb_small": "thumbs/d85352a0c3134b5d.webp",
-      "image_local": "img/d85352a0c3134b5d.webp"
+      "image_local": "img/d85352a0c3134b5d.webp",
+      "lat": 34.7109,
+      "lon": 135.5807
     },
     {
       "reservation": "불필요",
@@ -15225,7 +15281,9 @@
       "thumbnail_source": "https://www.tsurumi-ryokuchi.jp/events/28741/",
       "summary_source": "https://www.tsurumi-ryokuchi.jp/events/28741/",
       "thumb_small": "thumbs/d85352a0c3134b5d.webp",
-      "image_local": "img/d85352a0c3134b5d.webp"
+      "image_local": "img/d85352a0c3134b5d.webp",
+      "lat": 34.7109,
+      "lon": 135.5807
     },
     {
       "reservation": "불필요",
@@ -15261,7 +15319,9 @@
       "summary_source": "https://event.amnibus.com/mairuma-loft/",
       "thumb_small": "thumbs/982838ecc83c0a09.webp",
       "image_fb": "gfb/982838ecc83c0a09.webp",
-      "image_local": "img/982838ecc83c0a09.webp"
+      "image_local": "img/982838ecc83c0a09.webp",
+      "lat": 35.7051,
+      "lon": 139.5791
     },
     {
       "reservation": "불필요",
@@ -15297,7 +15357,9 @@
       "summary_source": "https://event.amnibus.com/mairuma-loft/",
       "thumb_small": "thumbs/982838ecc83c0a09.webp",
       "image_fb": "gfb/982838ecc83c0a09.webp",
-      "image_local": "img/982838ecc83c0a09.webp"
+      "image_local": "img/982838ecc83c0a09.webp",
+      "lat": 34.7007,
+      "lon": 135.4975
     },
     {
       "reservation": "불필요",
@@ -15333,7 +15395,9 @@
       "summary_source": "https://www.loft.co.jp/shop_list/info.php?info_id=705617&shop_id=143",
       "thumb_small": "thumbs/2a5af8f50280d29a.webp",
       "image_fb": "gfb/2a5af8f50280d29a.webp",
-      "image_local": "img/2a5af8f50280d29a.webp"
+      "image_local": "img/2a5af8f50280d29a.webp",
+      "lat": 34.7007,
+      "lon": 135.4975
     },
     {
       "reservation": "불필요",
@@ -15369,7 +15433,9 @@
       "summary_source": "https://www.loft.co.jp/shop_list/info.php?info_id=715411&shop_id=47",
       "thumb_small": "thumbs/7df1052e06c1540c.webp",
       "image_fb": "gfb/7df1052e06c1540c.webp",
-      "image_local": "img/7df1052e06c1540c.webp"
+      "image_local": "img/7df1052e06c1540c.webp",
+      "lat": 34.6617,
+      "lon": 135.5021
     },
     {
       "reservation": "불필요",
@@ -15585,7 +15651,9 @@
       "thumbnail_source": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
       "thumb_small": "thumbs/ad53951c534e534d.webp",
       "image_fb": "gfb/ad53951c534e534d.webp",
-      "image_local": "img/ad53951c534e534d.webp"
+      "image_local": "img/ad53951c534e534d.webp",
+      "lat": 35.7005,
+      "lon": 139.7721
     },
     {
       "id": "osaka-tounyan-cafe6-nipponbashi",
@@ -15621,7 +15689,9 @@
       "thumbnail_source": "https://collabocafe-honpo.co.jp/event/tounyancafe2610/",
       "thumb_small": "thumbs/ad53951c534e534d.webp",
       "image_fb": "gfb/ad53951c534e534d.webp",
-      "image_local": "img/ad53951c534e534d.webp"
+      "image_local": "img/ad53951c534e534d.webp",
+      "lat": 34.6609,
+      "lon": 135.5042
     },
     {
       "id": "osaka-sakamoto-days-dj-cafe-bigstep",
@@ -15657,7 +15727,9 @@
       "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
       "thumb_small": "thumbs/bd3030bcf7dfbf4e.webp",
       "image_fb": "gfb/bd3030bcf7dfbf4e.webp",
-      "image_local": "img/bd3030bcf7dfbf4e.webp"
+      "image_local": "img/bd3030bcf7dfbf4e.webp",
+      "lat": 34.6725,
+      "lon": 135.4987
     },
     {
       "id": "milky-subway-towercafe-shibuya",
@@ -15693,7 +15765,9 @@
       "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000027.000138402.html",
       "thumb_small": "thumbs/8b91f40075859c23.webp",
       "image_fb": "gfb/8b91f40075859c23.webp",
-      "image_local": "img/8b91f40075859c23.webp"
+      "image_local": "img/8b91f40075859c23.webp",
+      "lat": 35.6619,
+      "lon": 139.7011
     },
     {
       "id": "osaka-milky-subway-towercafe",
@@ -15765,7 +15839,9 @@
       "thumbnail_source": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
       "thumb_small": "thumbs/54e3657dc825d4be.webp",
       "image_fb": "gfb/54e3657dc825d4be.webp",
-      "image_local": "img/54e3657dc825d4be.webp"
+      "image_local": "img/54e3657dc825d4be.webp",
+      "lat": 35.6703,
+      "lon": 139.7061
     },
     {
       "id": "osaka-gokuo-kashibattle-cafe",
@@ -15904,7 +15980,9 @@
       "thumbnail_source": "https://www.loft.co.jp/shop_list/info.php?info_id=718439&shop_id=189",
       "thumb_small": "thumbs/3d7f44de5ec04e1f.webp",
       "image_fb": "gfb/3d7f44de5ec04e1f.webp",
-      "image_local": "img/3d7f44de5ec04e1f.webp"
+      "image_local": "img/3d7f44de5ec04e1f.webp",
+      "lat": 35.6609,
+      "lon": 139.6996
     },
     {
       "id": "lycoris-recoil-popup-shinjuku-marui-2026",
@@ -16001,7 +16079,9 @@
       "translation_check": true,
       "summary_ko": "「고질라 -1.0」부터 「고질라 -0.0」까지 제작 자료 전시예요.",
       "summary_source": "https://dmdepart.jp/museum/umeda/godzilla-tokusatsu2026/",
-      "map_query": "大丸梅田店"
+      "map_query": "大丸梅田店",
+      "lat": 34.7019,
+      "lon": 135.4964
     },
     {
       "id": "1kuji-miabyss",
@@ -16109,7 +16189,9 @@
       "area": "도쿄",
       "thumb_small": "thumbs/21990d02980be767.webp",
       "image_fb": "gfb/21990d02980be767.webp",
-      "image_local": "img/21990d02980be767.webp"
+      "image_local": "img/21990d02980be767.webp",
+      "lat": 35.7308,
+      "lon": 139.7124
     },
     {
       "source_tier": "official",
@@ -16145,7 +16227,9 @@
       "area": "오사카",
       "thumb_small": "thumbs/21990d02980be767.webp",
       "image_fb": "gfb/21990d02980be767.webp",
-      "image_local": "img/21990d02980be767.webp"
+      "image_local": "img/21990d02980be767.webp",
+      "lat": 34.6467,
+      "lon": 135.5145
     },
     {
       "source_tier": "official",
@@ -16180,7 +16264,9 @@
       "summary_source": "https://chiikawapark-tokyo.jp/news/cm5k0_3-gq5p/",
       "area": "도쿄",
       "thumb_small": "thumbs/857ea1cde7895d44.webp",
-      "image_local": "img/857ea1cde7895d44.webp"
+      "image_local": "img/857ea1cde7895d44.webp",
+      "lat": 35.73,
+      "lon": 139.7173
     },
     {
       "source_tier": "official",
@@ -16216,7 +16302,9 @@
       "area": "오사카",
       "thumb_small": "thumbs/7872505755ed0f8d.webp",
       "image_fb": "gfb/7872505755ed0f8d.webp",
-      "image_local": "img/7872505755ed0f8d.webp"
+      "image_local": "img/7872505755ed0f8d.webp",
+      "lat": 34.7006,
+      "lon": 135.4948
     },
     {
       "source_tier": "official",
@@ -16251,7 +16339,9 @@
       "thumbnail_source": "https://jujutsukaisen.jp/news/20261023_01.php",
       "area": "도쿄",
       "thumb_small": "thumbs/755b59a559f56899.webp",
-      "image_local": "img/755b59a559f56899.webp"
+      "image_local": "img/755b59a559f56899.webp",
+      "lat": 35.6309,
+      "lon": 139.5177
     },
     {
       "source_tier": "official",
@@ -16292,7 +16382,9 @@
       "thumbnail_source": "https://jujutsuten.com/shinjuku/",
       "area": "도쿄",
       "thumb_small": "thumbs/0ee79b928b4098e8.webp",
-      "image_local": "img/0ee79b928b4098e8.webp"
+      "image_local": "img/0ee79b928b4098e8.webp",
+      "lat": 35.6922,
+      "lon": 139.6922
     },
     {
       "source_tier": "official",
@@ -16394,7 +16486,9 @@
       "source_url": "https://bandainamco-am.co.jp/crossstore/event/",
       "summary_source": "https://bandainamco-am.co.jp/crossstore/event/",
       "thumbnail_source": "https://bandainamco-am.co.jp/crossstore/event/",
-      "area": "도쿄"
+      "area": "도쿄",
+      "lat": 35.7278,
+      "lon": 139.72
     },
     {
       "source_tier": "official",
@@ -16426,7 +16520,9 @@
       "source_url": "https://bandainamco-am.co.jp/crossstore/event/",
       "summary_source": "https://bandainamco-am.co.jp/crossstore/event/",
       "thumbnail_source": "https://bandainamco-am.co.jp/crossstore/event/",
-      "area": "오사카"
+      "area": "오사카",
+      "lat": 34.7041,
+      "lon": 135.5004
     },
     {
       "id": "osaka-kusuriya-sweetspara3-tennoji-mio",
@@ -16462,7 +16558,9 @@
       "thumbnail_source": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
       "thumb_small": "thumbs/54e3657dc825d4be.webp",
       "image_fb": "gfb/54e3657dc825d4be.webp",
-      "image_local": "img/54e3657dc825d4be.webp"
+      "image_local": "img/54e3657dc825d4be.webp",
+      "lat": 34.6467,
+      "lon": 135.5145
     },
     {
       "id": "maruko-popup-marukorou-hibiya",
@@ -16498,7 +16596,9 @@
       "thumbnail_source": "https://www.chibimaru.tv/news/entry/2026/008462.html",
       "thumb_small": "thumbs/a6b92cf1e6c5f01b.webp",
       "image_fb": "gfb/a6b92cf1e6c5f01b.webp",
-      "image_local": "img/a6b92cf1e6c5f01b.webp"
+      "image_local": "img/a6b92cf1e6c5f01b.webp",
+      "lat": 35.673,
+      "lon": 139.7599
     },
     {
       "id": "matsuken-anime-popup-shibuya",
@@ -16534,7 +16634,9 @@
       "thumbnail_source": "https://tokyoanimecenter.jp/event/popup-matsuken_anime/",
       "thumb_small": "thumbs/7519f36ec38bf809.webp",
       "image_fb": "gfb/7519f36ec38bf809.webp",
-      "image_local": "img/7519f36ec38bf809.webp"
+      "image_local": "img/7519f36ec38bf809.webp",
+      "lat": 35.6618,
+      "lon": 139.7007
     },
     {
       "id": "precure-pretty-store-shinjuku-marui",
@@ -16570,7 +16672,9 @@
       "thumbnail_source": "https://anime-precure.com/news/00236/index.html",
       "thumb_small": "thumbs/1594baef5671f63c.webp",
       "image_fb": "gfb/1594baef5671f63c.webp",
-      "image_local": "img/1594baef5671f63c.webp"
+      "image_local": "img/1594baef5671f63c.webp",
+      "lat": 35.6901,
+      "lon": 139.706
     },
     {
       "id": "sao-wedding-anniversary-popup-annivroad",
@@ -16606,7 +16710,9 @@
       "thumbnail_source": "https://bushiroad-creative.com/topics/103175/",
       "thumb_small": "thumbs/5bc66c4aaf316b9c.webp",
       "image_fb": "gfb/5bc66c4aaf316b9c.webp",
-      "image_local": "img/5bc66c4aaf316b9c.webp"
+      "image_local": "img/5bc66c4aaf316b9c.webp",
+      "lat": 35.6901,
+      "lon": 139.706
     },
     {
       "id": "manosaba-gigo-popup-akiba",
@@ -16642,7 +16748,9 @@
       "thumbnail_source": "https://www.gigo.co.jp/cafe-and-goods/2026-10-manosaba-popup",
       "thumb_small": "thumbs/1e1ab4940c022b50.webp",
       "image_fb": "gfb/1e1ab4940c022b50.webp",
-      "image_local": "img/1e1ab4940c022b50.webp"
+      "image_local": "img/1e1ab4940c022b50.webp",
+      "lat": 35.6987,
+      "lon": 139.7706
     },
     {
       "id": "osaka-manosaba-gigo-popup-dotonbori",
@@ -16678,7 +16786,9 @@
       "thumbnail_source": "https://www.gigo.co.jp/cafe-and-goods/2026-10-manosaba-popup",
       "thumb_small": "thumbs/1e1ab4940c022b50.webp",
       "image_fb": "gfb/1e1ab4940c022b50.webp",
-      "image_local": "img/1e1ab4940c022b50.webp"
+      "image_local": "img/1e1ab4940c022b50.webp",
+      "lat": 34.6687,
+      "lon": 135.5017
     },
     {
       "id": "watanare-alice-popup-akiba",
@@ -16786,7 +16896,9 @@
       "thumbnail_source": "https://www.d-kintetsu.co.jp/hoop/pickup/3573/index.html",
       "thumb_small": "thumbs/5017e1cd4fc19c60.webp",
       "image_fb": "gfb/5017e1cd4fc19c60.webp",
-      "image_local": "img/5017e1cd4fc19c60.webp"
+      "image_local": "img/5017e1cd4fc19c60.webp",
+      "lat": 34.6451,
+      "lon": 135.5137
     },
     {
       "id": "meicho-gratte3-tokyo",
@@ -16892,7 +17004,9 @@
       "thumbnail_source": "https://store.amnibus.com/servamp-storewhite/",
       "thumb_small": "thumbs/c2c3ae488bdcdccf.webp",
       "image_fb": "gfb/c2c3ae488bdcdccf.webp",
-      "image_local": "img/c2c3ae488bdcdccf.webp"
+      "image_local": "img/c2c3ae488bdcdccf.webp",
+      "lat": 35.6618,
+      "lon": 139.7007
     },
     {
       "id": "fate-strange-fake-popup2-ikebukuro",
@@ -16928,7 +17042,9 @@
       "thumbnail_source": "https://www.the-chara.com/blog/?p=123917",
       "thumb_small": "thumbs/02e096660192031e.webp",
       "image_fb": "gfb/02e096660192031e.webp",
-      "image_local": "img/02e096660192031e.webp"
+      "image_local": "img/02e096660192031e.webp",
+      "lat": 35.7318,
+      "lon": 139.7124
     },
     {
       "id": "heavylover-popup-medicos-shinjuku",
@@ -16964,7 +17080,9 @@
       "thumbnail_source": "https://www.medicos-e.net/newsdetail/heavylover/",
       "thumb_small": "thumbs/6a762cde0aee142a.webp",
       "image_fb": "gfb/6a762cde0aee142a.webp",
-      "image_local": "img/6a762cde0aee142a.webp"
+      "image_local": "img/6a762cde0aee142a.webp",
+      "lat": 35.6901,
+      "lon": 139.706
     },
     {
       "id": "osaka-heavylover-cafe-epictale",
@@ -17035,7 +17153,9 @@
       "thumbnail_source": "https://www.medicos-e.net/newsdetail/anime_dandadan/",
       "thumb_small": "thumbs/757eaa1aecd71d3a.webp",
       "image_fb": "gfb/757eaa1aecd71d3a.webp",
-      "image_local": "img/757eaa1aecd71d3a.webp"
+      "image_local": "img/757eaa1aecd71d3a.webp",
+      "lat": 34.6451,
+      "lon": 135.5137
     },
     {
       "id": "hetalia-mixx-garden-2611-ikebukuro",
@@ -17071,7 +17191,9 @@
       "thumbnail_source": "https://mixxgarden.com/event/hetalia_2611/",
       "thumb_small": "thumbs/31bbad90563b02b4.webp",
       "image_fb": "gfb/31bbad90563b02b4.webp",
-      "image_local": "img/31bbad90563b02b4.webp"
+      "image_local": "img/31bbad90563b02b4.webp",
+      "lat": 35.7295,
+      "lon": 139.7162
     },
     {
       "id": "kamen-rider-55th-exhibition-yomiuriland",
@@ -17106,7 +17228,9 @@
       "thumbnail": "https://www.yomiuriland.com/wp/assets/data/55letsgo_kamen-rider_bnr.jpg",
       "thumbnail_source": "https://www.yomiuriland.com/event/55letsgo_kamen-rider/",
       "thumb_small": "thumbs/f4f1328d677b4070.webp",
-      "image_local": "img/f4f1328d677b4070.webp"
+      "image_local": "img/f4f1328d677b4070.webp",
+      "lat": 35.6252,
+      "lon": 139.5188
     },
     {
       "id": "boukyaku-battery-sharecafe-harakado",
@@ -17142,7 +17266,9 @@
       "thumbnail_source": "https://shop.anique.jp/blogs/news/boukyakubattery",
       "thumb_small": "thumbs/4a570cc22798f453.webp",
       "image_fb": "gfb/4a570cc22798f453.webp",
-      "image_local": "img/4a570cc22798f453.webp"
+      "image_local": "img/4a570cc22798f453.webp",
+      "lat": 35.6685,
+      "lon": 139.705
     },
     {
       "id": "osaka-boukyaku-battery-sharecafe-bigstep",
@@ -17178,7 +17304,9 @@
       "thumbnail_source": "https://shop.anique.jp/blogs/news/boukyakubattery",
       "thumb_small": "thumbs/4a570cc22798f453.webp",
       "image_fb": "gfb/4a570cc22798f453.webp",
-      "image_local": "img/4a570cc22798f453.webp"
+      "image_local": "img/4a570cc22798f453.webp",
+      "lat": 34.6726,
+      "lon": 135.4988
     },
     {
       "id": "kuji-sumikko27",
