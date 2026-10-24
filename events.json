@@ -1,6 +1,6 @@
 {
   "base_date": "2026-10-22",
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-10-24",
   "is_sample": false,
   "events": [
     {
@@ -8977,7 +8977,11 @@
       "summary_ko": "「유희왕 VRAINS」 굿즈 팝업이 eeo POP-UP STORE에서 열려요. 자세한 상품·특전은 공식 페이지가 다시 열리면 확인할 수 있어요.",
       "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)",
       "verified_at": "2026-10-22",
-      "region": "tokyo"
+      "region": "tokyo",
+      "thumbnail": "https://eeo.today/store/101/html/user_data/tokusyu/yugioh-vrains-popup/ogp_yugioh-vrains-popup.jpg",
+      "thumbnail_source": "https://eeo.today/store/101/specialfeature/yugioh-vrains-popup",
+      "thumb_small": "thumbs/5fce9a6466ff1f89.webp",
+      "image_fb": "gfb/5fce9a6466ff1f89.webp"
     },
     {
       "area": "도쿄",
@@ -9361,7 +9365,11 @@
       "summary_ko": "「피치피치핏치」 굿즈 팝업이 eeo POP-UP STORE에서 열려요. 자세한 상품·특전은 공식 페이지가 다시 열리면 확인할 수 있어요.",
       "translation_check": true,
       "verified_at": "2026-10-22",
-      "region": "tokyo"
+      "region": "tokyo",
+      "thumbnail": "https://eeo.today/store/101/html/user_data/tokusyu/mmppp-popup/ogp.jpg",
+      "thumbnail_source": "https://eeo.today/store/101/specialfeature/mmppp-popup",
+      "thumb_small": "thumbs/131153ac91b76be8.webp",
+      "image_fb": "gfb/131153ac91b76be8.webp"
     },
     {
       "area": "도쿄",
@@ -13072,7 +13080,11 @@
       "summary_source": "https://prtimes.jp/main/html/rd/p/000000313.000085936.html",
       "translation_check": true,
       "lat": 34.6734,
-      "lon": 135.5013
+      "lon": 135.5013,
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/85936/313/85936-313-161579ecf586b9df4de6d13d6ccfcb88-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000313.000085936.html",
+      "thumb_small": "thumbs/2f7693b1cdb82163.webp",
+      "image_fb": "gfb/2f7693b1cdb82163.webp"
     },
     {
       "id": "osaka-lovelive-thechara-cafe-hepnavio",
@@ -14134,7 +14146,11 @@
       "source_tier": "official",
       "verified_at": "2026-10-22",
       "summary_source": "https://www.kadokawa.co.jp/product/322512000963/",
-      "translation_check": true
+      "translation_check": true,
+      "thumbnail": "https://cdn.kdkw.jp/cover_1000/322512/322512000963.webp",
+      "thumbnail_source": "https://www.kadokawa.co.jp/product/322512000963/",
+      "thumb_small": "thumbs/f41e0d1881b630e3.webp",
+      "image_fb": "gfb/f41e0d1881b630e3.webp"
     },
     {
       "reservation": "불필요",
@@ -15077,6 +15093,351 @@
       "thumb_kind": "product",
       "thumb_small": "thumbs/9d6397d57f68b77d.webp",
       "image_fb": "gfb/9d6397d57f68b77d.webp"
+    },
+    {
+      "source_tier": "official",
+      "checked_date": "2026-10-24",
+      "verified_at": "2026-10-24",
+      "translation_check": true,
+      "end": "2026-11-23",
+      "price": "",
+      "reservation": "10/24·25는 LINE 입장 정리권제",
+      "notes": "영업 11:00~21:00. 2,200엔(세금 포함) 이상 구매 시 전용 쇼퍼 증정",
+      "id": "chiipoke-popup4-ikebukuro",
+      "title_ko": "치이카와 포켓 POP UP STORE 제4탄 (이케부쿠로 PARCO)",
+      "title_ja": "ちいかわぽけっと POP UP STORE 第4弾 池袋PARCO",
+      "category": "팝업스토어",
+      "region": "tokyo",
+      "venue": "이케부쿠로 PARCO 본관 6F 0% IKEBUKURO",
+      "start": "2026-10-24",
+      "official_url": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+      "summary_ko": "치이카와 게임 앱 「치이카와 포켓」의 팝업스토어 제4탄이에요.",
+      "thumbnail": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/fb.jpg",
+      "thumbnail_source": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/tokyo.html",
+      "map_query": "池袋PARCO 本館",
+      "evidence": [
+        {
+          "url": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+          "tier": "official",
+          "quote": "＜東京＞ 2026/10/24(土)〜11/23(月・祝) 池袋PARCO 本館6F 0% IKEBUKURO 11:00-21:00",
+          "checked": "2026-10-24"
+        }
+      ],
+      "source_url": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+      "summary_source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+      "area": "도쿄",
+      "thumb_small": "thumbs/21990d02980be767.webp",
+      "image_fb": "gfb/21990d02980be767.webp"
+    },
+    {
+      "source_tier": "official",
+      "checked_date": "2026-10-24",
+      "verified_at": "2026-10-24",
+      "translation_check": true,
+      "end": "2026-11-15",
+      "price": "",
+      "reservation": "",
+      "notes": "영업 10:30~20:30. 2,200엔(세금 포함) 이상 구매 시 전용 쇼퍼 증정. 입장 방법은 공식 안내 확인",
+      "id": "osaka-chiipoke-popup4-tennoji",
+      "title_ko": "치이카와 포켓 POP UP STORE 제4탄 (덴노지 미오)",
+      "title_ja": "ちいかわぽけっと POP UP STORE 第4弾 天王寺ミオ",
+      "category": "팝업스토어",
+      "region": "osaka",
+      "venue": "덴노지 미오 본관 6F 미오라보",
+      "start": "2026-10-30",
+      "official_url": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+      "summary_ko": "치이카와 게임 앱 「치이카와 포켓」의 팝업스토어 제4탄 오사카 회장이에요.",
+      "thumbnail": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/fb.jpg",
+      "thumbnail_source": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/osaka.html",
+      "map_query": "天王寺ミオ 本館",
+      "evidence": [
+        {
+          "url": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+          "tier": "official",
+          "quote": "＜大阪＞ 2026/10/30(金)〜11/15(日) 天王寺ミオ 本館6F ミオラボ 10:30-20:30",
+          "checked": "2026-10-24"
+        }
+      ],
+      "source_url": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+      "summary_source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+      "area": "오사카",
+      "thumb_small": "thumbs/21990d02980be767.webp",
+      "image_fb": "gfb/21990d02980be767.webp"
+    },
+    {
+      "source_tier": "official",
+      "checked_date": "2026-10-24",
+      "verified_at": "2026-10-24",
+      "translation_check": true,
+      "end": "2026-12-25",
+      "price": "대인 3,500엔 · 어린이(4~11세) 1,800엔 · 중고대학생 2,800엔",
+      "reservation": "필요 (입장 티켓제, 아소뷰)",
+      "notes": "크리스마스 한정 의상 그리팅 예정. 11/24 신상품 발매. 12/1~30은 20시까지 영업",
+      "id": "chiikawa-park-xmas-2026",
+      "title_ko": "치이카와 파크 크리스마스 (이케부쿠로 선샤인시티)",
+      "title_ja": "ちいかわパーク クリスマス",
+      "category": "전시·행사",
+      "region": "tokyo",
+      "venue": "선샤인시티 아넥스 B1F·1F 치이카와 파크",
+      "start": "2026-11-20",
+      "official_url": "https://chiikawapark-tokyo.jp/news/cm5k0_3-gq5p/",
+      "summary_ko": "치이카와 파크가 크리스마스 장식으로 바뀌고, 한정 의상 그리팅과 신상품이 나와요.",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/74811/144/74811-144-f393456c69e115d1953dce64c080800e-1080x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000144.000074811.html",
+      "map_query": "サンシャインシティ アネックス",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000144.000074811.html",
+          "tier": "official",
+          "quote": "開催期間 2026年11月20日(金)～2026年12月25日(金) 開催場所 東京都豊島区東池袋3-3-5 サンシャインシティ アネックス B1F・1F … 一般料金 大人（12歳以上）3,500円",
+          "checked": "2026-10-24"
+        }
+      ],
+      "source_url": "https://chiikawapark-tokyo.jp/news/cm5k0_3-gq5p/",
+      "summary_source": "https://chiikawapark-tokyo.jp/news/cm5k0_3-gq5p/",
+      "area": "도쿄",
+      "thumb_small": "thumbs/857ea1cde7895d44.webp"
+    },
+    {
+      "source_tier": "official",
+      "checked_date": "2026-10-24",
+      "verified_at": "2026-10-24",
+      "translation_check": true,
+      "end": null,
+      "price": "입장 무료",
+      "reservation": "당분간 10~13F 입장은 사전 추첨 또는 선착순 입장 정리권 필요",
+      "notes": "상설 매장. 영업 10:00~20:00. 오픈 기념 노벨티 증정",
+      "id": "osaka-chiikawa-park-store-lucua",
+      "title_ko": "치이카와 파크 스토어 오사카 그랜드 오픈 (LUCUA SOUTH)",
+      "title_ja": "ちいかわパークストア LUCUA SOUTH",
+      "category": "팝업스토어",
+      "region": "osaka",
+      "venue": "LUCUA SOUTH 11F (JR 오사카역 직결)",
+      "start": "2026-11-24",
+      "official_url": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+      "summary_ko": "이케부쿠로 치이카와 파크 굿즈를 살 수 있는 상설 매장이 오사카에 열려요.",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/74811/145/74811-145-1d0a3f0a98148b0c738d8472a49d1683-1240x1240.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000145.000074811.html",
+      "map_query": "LUCUA 大阪府大阪市北区梅田3-1-1",
+      "evidence": [
+        {
+          "url": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+          "tier": "official",
+          "quote": "2026年11月24日（火）、ルクア大阪の新館「LUCUA SOUTH（ルクア サウス）」11階に「ちいかわパークストア」をグランドオープンします",
+          "checked": "2026-10-24"
+        }
+      ],
+      "source_url": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+      "summary_source": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+      "area": "오사카",
+      "thumb_small": "thumbs/7872505755ed0f8d.webp",
+      "image_fb": "gfb/7872505755ed0f8d.webp"
+    },
+    {
+      "source_tier": "official",
+      "checked_date": "2026-10-24",
+      "verified_at": "2026-10-24",
+      "translation_check": true,
+      "end": "2026-12-13",
+      "price": "특전 포함 SP 원데이패스 대인 5,700엔 · 중고생 4,500엔",
+      "reservation": "SP 원데이패스는 사전 판매 한정",
+      "notes": "휴원일 제외. 콜라보 푸드·굿즈·스탬프 랠리·어트랙션 보이스",
+      "id": "jujutsu-yomiuriland-2026",
+      "title_ko": "주술회전 「사멸회유」 × 요미우리랜드·HANA·BIYORI 콜라보",
+      "title_ja": "TVアニメ『呪術廻戦』「死滅回游」×よみうりランド・HANA・BIYORI",
+      "category": "전시·행사",
+      "region": "tokyo",
+      "venue": "요미우리랜드 · HANA·BIYORI (이나기시)",
+      "start": "2026-11-06",
+      "official_url": "https://jujutsukaisen.jp/news/20261023_01.php",
+      "summary_ko": "유원지 요미우리랜드에서 주술회전 사멸회유 콜라보가 열려요. 콜라보 푸드와 새로 그린 굿즈가 나와요.",
+      "thumbnail": "https://jujutsukaisen.jp/images/ogp19.jpg",
+      "map_query": "よみうりランド 東京都稲城市矢野口4015-1",
+      "evidence": [
+        {
+          "url": "https://jujutsukaisen.jp/news/20261009_01.php",
+          "tier": "official",
+          "quote": "2026年11月6日(金)～12月13日(日)※休園日除く ◆場所 よみうりランド／東京都稲城市矢野口4015-1",
+          "checked": "2026-10-24"
+        }
+      ],
+      "source_url": "https://jujutsukaisen.jp/news/20261023_01.php",
+      "summary_source": "https://jujutsukaisen.jp/news/20261023_01.php",
+      "thumbnail_source": "https://jujutsukaisen.jp/news/20261023_01.php",
+      "area": "도쿄",
+      "thumb_small": "thumbs/755b59a559f56899.webp"
+    },
+    {
+      "source_tier": "official",
+      "checked_date": "2026-10-24",
+      "verified_at": "2026-10-24",
+      "translation_check": true,
+      "end": "2027-01-25",
+      "price": "일반 2,200엔 · 중고생 1,600엔 · 4세~초등학생 1,000엔 · 굿즈 포함 4,600엔",
+      "reservation": "필요 (일시 지정제, 이플러스 종이 티켓. 사전 추첨 10/26~11/8, 일반 판매 11/21 12:00~)",
+      "notes": "1/1 휴업. 10:00~20:00 (19:30 최종 입장). 음성 가이드 포함",
+      "id": "jujutsu-kanketsuten-shinjuku",
+      "title_ko": "아쿠타미 게게 『주술회전』 완결전 (신주쿠)",
+      "title_ja": "芥見下々『呪術廻戦』完結展",
+      "category": "전시·행사",
+      "region": "tokyo",
+      "venue": "신주쿠 스미토모 빌딩 삼각광장",
+      "start": "2026-12-25",
+      "official_url": "https://jujutsuten.com/shinjuku/",
+      "summary_ko": "주술회전 원화전의 마지막 회장, 연재 완결 기념 완결전이에요.",
+      "thumbnail": "https://jujutsuten.com/wp-content/uploads/2025/06/ogimg.jpg",
+      "map_query": "新宿住友ビル 東京都新宿区西新宿2-6-1",
+      "evidence": [
+        {
+          "url": "https://jujutsuten.com/topics/",
+          "tier": "official",
+          "quote": "●会期 2026年12月25日（金）～2027年1月25日（月） ※2027年1月1日（金・祝）は休業 ※日時指定制 ●会場 新宿住友ビル 三角広場",
+          "checked": "2026-10-24"
+        },
+        {
+          "url": "https://jujutsuten.com/ticket/",
+          "tier": "official",
+          "quote": "一般 2,200円 中学・高校生 1,600円 4歳～小学生 1,000円 グッズ付（数量限定） 4,600円",
+          "checked": "2026-10-24"
+        }
+      ],
+      "source_url": "https://jujutsuten.com/shinjuku/",
+      "summary_source": "https://jujutsuten.com/shinjuku/",
+      "thumbnail_source": "https://jujutsuten.com/shinjuku/",
+      "area": "도쿄",
+      "thumb_small": "thumbs/0ee79b928b4098e8.webp"
+    },
+    {
+      "source_tier": "official",
+      "checked_date": "2026-10-24",
+      "verified_at": "2026-10-24",
+      "translation_check": true,
+      "end": "2026-12-27",
+      "price": "",
+      "reservation": "",
+      "notes": "",
+      "id": "horimiya-cafe-ikebukuro",
+      "title_ko": "호리미야 CAFE 가타기리 고교 문화제 (이케부쿠로)",
+      "title_ja": "ホリミヤCAFE 片桐高校文化祭 motto cafe 池袋店",
+      "category": "콜라보카페",
+      "region": "tokyo",
+      "venue": "motto cafe 이케부쿠로점",
+      "start": "2026-10-14",
+      "official_url": "https://horimiya.motto-cafe.com/",
+      "summary_ko": "「호리미야」 15주년 기념 콜라보 카페예요.",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/128734/411/128734-411-dbcb249fa895baa13fc23eb08713881d-1685x2385.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000411.000128734.html",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000411.000128734.html",
+          "tier": "official",
+          "quote": "【東京】 motto cafe 池袋店 2026年10月14日（水）～2026年12月27日（日）",
+          "checked": "2026-10-24"
+        }
+      ],
+      "source_url": "https://horimiya.motto-cafe.com/",
+      "summary_source": "https://horimiya.motto-cafe.com/",
+      "area": "도쿄",
+      "thumb_small": "thumbs/69afa72b2cd407e5.webp",
+      "image_fb": "gfb/69afa72b2cd407e5.webp"
+    },
+    {
+      "source_tier": "official",
+      "checked_date": "2026-10-24",
+      "verified_at": "2026-10-24",
+      "translation_check": true,
+      "end": "2027-02-07",
+      "price": "",
+      "reservation": "",
+      "notes": "12/30~1/4 연말연시 휴업",
+      "id": "osaka-horimiya-cafe",
+      "title_ko": "호리미야 CAFE 가타기리 고교 문화제 (오사카)",
+      "title_ja": "ホリミヤCAFE 片桐高校文化祭 motto cafe 大阪店",
+      "category": "콜라보카페",
+      "region": "osaka",
+      "venue": "motto cafe 오사카점",
+      "start": "2026-11-25",
+      "official_url": "https://horimiya.motto-cafe.com/",
+      "summary_ko": "「호리미야」 15주년 기념 콜라보 카페 오사카 회장이에요.",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/128734/411/128734-411-dbcb249fa895baa13fc23eb08713881d-1685x2385.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000411.000128734.html",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000411.000128734.html",
+          "tier": "official",
+          "quote": "【大阪】 motto cafe 大阪店 2026年11月25日（水）～2027年2月7日（日） ※12月30日〜1月4日は年末年始休業となります。",
+          "checked": "2026-10-24"
+        }
+      ],
+      "source_url": "https://horimiya.motto-cafe.com/",
+      "summary_source": "https://horimiya.motto-cafe.com/",
+      "area": "오사카",
+      "thumb_small": "thumbs/69afa72b2cd407e5.webp",
+      "image_fb": "gfb/69afa72b2cd407e5.webp"
+    },
+    {
+      "source_tier": "official",
+      "checked_date": "2026-10-24",
+      "verified_at": "2026-10-24",
+      "translation_check": true,
+      "end": "2026-12-06",
+      "price": "",
+      "reservation": "",
+      "notes": "",
+      "id": "persona-memoria-crossstore-tokyo",
+      "title_ko": "PERSONA Memoria (반다이남코 Cross Store 도쿄)",
+      "title_ja": "PERSONA Memoria バンダイナムコ Cross Store 東京",
+      "category": "전시·행사",
+      "region": "tokyo",
+      "venue": "반다이남코 Cross Store 도쿄 (이케부쿠로 선샤인시티)",
+      "start": "2026-10-09",
+      "official_url": "https://bandainamco-am.co.jp/crossstore/event/",
+      "summary_ko": "페르소나 시리즈 이벤트 「PERSONA Memoria」 도쿄 회장이에요.",
+      "map_query": "サンシャインシティ ワールドインポートマートビル",
+      "evidence": [
+        {
+          "url": "https://bandainamco-am.co.jp/crossstore/event/",
+          "tier": "official",
+          "quote": "2026.10.09 ～ 2026.12.06 PERSONA Memoria 東京",
+          "checked": "2026-10-24"
+        }
+      ],
+      "source_url": "https://bandainamco-am.co.jp/crossstore/event/",
+      "summary_source": "https://bandainamco-am.co.jp/crossstore/event/",
+      "thumbnail_source": "https://bandainamco-am.co.jp/crossstore/event/",
+      "area": "도쿄"
+    },
+    {
+      "source_tier": "official",
+      "checked_date": "2026-10-24",
+      "verified_at": "2026-10-24",
+      "translation_check": true,
+      "end": "2027-01-11",
+      "price": "",
+      "reservation": "",
+      "notes": "",
+      "id": "osaka-idolish7-namja-umeda",
+      "title_ko": "아이돌리시 세븐 in NAMJATOWN ~11th Anniversary Festival~ (오사카 우메다)",
+      "title_ja": "アイドリッシュセブン in NAMJATOWN ～11th Anniversary Festival～ 大阪梅田",
+      "category": "전시·행사",
+      "region": "osaka",
+      "venue": "반다이남코 Cross Store 오사카 우메다 (HEP FIVE)",
+      "start": "2026-12-04",
+      "official_url": "https://bandainamco-am.co.jp/crossstore/event/",
+      "summary_ko": "아이돌리시 세븐 11주년 이벤트 오사카 회장이에요.",
+      "map_query": "HEP FIVE 大阪府大阪市北区角田町5-15",
+      "evidence": [
+        {
+          "url": "https://bandainamco-am.co.jp/crossstore/event/",
+          "tier": "official",
+          "quote": "2026.12.04 ～ 2027.01.11 アイドリッシュセブン in NAMJATOWN ～11th Anniversary Festival～ 大阪梅田",
+          "checked": "2026-10-24"
+        }
+      ],
+      "source_url": "https://bandainamco-am.co.jp/crossstore/event/",
+      "summary_source": "https://bandainamco-am.co.jp/crossstore/event/",
+      "thumbnail_source": "https://bandainamco-am.co.jp/crossstore/event/",
+      "area": "오사카"
     }
   ]
 }
