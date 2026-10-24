@@ -13,9 +13,17 @@
   const md=s=>s?`${+s.slice(5,7)}/${+s.slice(8,10)}`:"";
   let L_=null,map=null,layer=null,ROWS=[],soon=false,loading=null,lastRegion=null;
   const sec=document.createElement("section");sec.id="qmap";sec.className="qmap";sec.hidden=true;
-  sec.innerHTML=`<div class="qmhd"><label class="qmsoon"><input type="checkbox" id="qmsoon"> 곧 시작(7일 안)도 보기</label><span class="qmcnt" id="qmcnt"></span></div><div class="qmjump" id="qmjump" role="group" aria-label="지역 바로가기"></div><div class="qmleg"><span style="--c:#d9603b">진행 중</span><span style="--c:#a61e3a">종료 임박 (3일 안)</span><span class="s" style="--c:#2f4b7c">곧 시작 (7일 안)</span></div><div id="qmapc" class="qmapc" role="region" aria-label="진행 중인 행사 지도"></div><p class="qmnote" id="qmnote"></p>`;
+  sec.innerHTML=`<div class="qmhd"><div class="qmopts"><label class="qmsoon"><input type="checkbox" id="qmsoon"> 곧 시작(7일 안)도 보기</label><label class="qmsoon qmspt"><input type="checkbox" id="qmspot" checked> ⭐ 덕질·명소 스팟</label></div><span class="qmcnt" id="qmcnt"></span></div><div class="qmjump" id="qmjump" role="group" aria-label="지역 바로가기"></div><div class="qmleg"><span style="--c:#d9603b">진행 중</span><span style="--c:#a61e3a">종료 임박 (3일 안)</span><span class="s" style="--c:#2f4b7c">곧 시작 (7일 안)</span><b class="qmlg-sp" id="qmlgsp"><i class="qmsq">🗼</i>명소 <i class="qmsq">🛍️</i>덕질숍 <i class="qmsq">📚</i>서점</b></div><div id="qmapc" class="qmapc" role="region" aria-label="진행 중인 행사 지도"></div><p class="qmnote" id="qmnote"></p>`;
   const list=document.getElementById("list");list.parentNode.insertBefore(sec,list.nextSibling);
   sec.querySelector("#qmsoon").onchange=ev=>{soon=ev.target.checked;draw()};
+  // ⭐ 덕질·명소 스팟 레이어(spots.json): 행사 핀과 다른 네모 아이콘
+  let SPOTS=null,spotLayer=null,spotOn=true,spotReg=null;const SPI={landmark:"🗼",shop:"🛍️",book:"📚"},SPN={landmark:"명소",shop:"덕질숍",book:"서점"};
+  sec.querySelector("#qmspot").onchange=ev=>{spotOn=ev.target.checked;sec.querySelector("#qmlgsp").hidden=!spotOn;paintSpots(true)};
+  function paintSpots(force){if(!map||!L_)return;const reg=window.QJ_REGION||"tokyo";
+    if(!SPOTS){SPOTS=[];fetch("spots.json").then(r=>r.json()).then(d=>{SPOTS=d.spots||[];paintSpots(true)}).catch(()=>{});return}
+    if(!spotLayer){spotLayer=L_.layerGroup().addTo(map)}if(!force&&spotReg===reg)return;spotReg=reg;spotLayer.clearLayers();if(!spotOn)return;
+    SPOTS.filter(o=>o.region===reg).forEach(o=>{const ic=L_.divIcon({className:"qmspot",html:`<span class="qmsq qmsq-${o.type}">${SPI[o.type]||"⭐"}</span>`,iconSize:[30,30],iconAnchor:[15,15],popupAnchor:[0,-14]});
+      L_.marker([o.lat,o.lon],{icon:ic,title:o.ko,zIndexOffset:-200}).bindPopup(`<div class="qmsp"><em>${SPI[o.type]||""} ${SPN[o.type]||""}</em><b>${esc(o.ko)}</b><small>${esc(o.ja)}</small><p>${esc(o.desc)}</p>${o.url?`<a href="${esc(o.url)}" target="_blank" rel="noopener">공식 사이트 ↗</a>`:""}</div>`,{maxWidth:260,minWidth:200}).addTo(spotLayer)})}
   let jumpReg=null;function paintJump(reg){if(jumpReg===reg)return;jumpReg=reg;const el=sec.querySelector("#qmjump");el.innerHTML=(JUMP[reg]||[]).map((j,i)=>`<button type="button" data-j="${i}">${j[0]}</button>`).join("")+`<button type="button" data-j="all" class="qmall">전체 보기</button>`;
     el.onclick=ev=>{const b=ev.target.closest("button[data-j]");if(!b||!map)return;el.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));if(b.dataset.j==="all"){lastRegion=null;draw();return}const j=JUMP[reg][+b.dataset.j];map.flyTo([j[1],j[2]],j[3],{duration:.8});window.gtag&&gtag("event","map_jump",{area:j[0]})}}
   function load(){if(window.L)return Promise.resolve(window.L);if(loading)return loading;
@@ -53,9 +61,9 @@
     const upd=()=>{const z=map.getZoom();ms.forEach(o=>{const on=z>=o.z0&&z<o.z1;if(on&&!lblLayer.hasLayer(o.m))lblLayer.addLayer(o.m);else if(!on&&lblLayer.hasLayer(o.m))lblLayer.removeLayer(o.m)})};
     map.on("zoomend",upd);map.whenReady(upd)}
   function draw(){if(sec.hidden)return;load().then(L=>{L_=L;
-    if(!map){map=L.map("qmapc",{scrollWheelZoom:false,tap:true,maxZoom:18,minZoom:5});const mob=matchMedia("(max-width:719px)").matches;if(mob){map.attributionControl.setPrefix(false);map.attributionControl.setPosition("bottomleft");sec.classList.add("qmob")}addBase(L,mob);addLabels(L);layer=(L.markerClusterGroup?L.markerClusterGroup({maxClusterRadius:36,showCoverageOnHover:false,spiderfyOnMaxZoom:true,iconCreateFunction:cl=>{const n=cl.getAllChildMarkers().reduce((t,m)=>t+(m.options.qn||1),0);return L.divIcon({className:"qmpin",html:`<span class="qmdot qmcl">${n}</span>`,iconSize:[34,34],iconAnchor:[17,17]})}}):L.layerGroup()).addTo(map);
+    if(!map){map=L.map("qmapc",{scrollWheelZoom:true,wheelPxPerZoomLevel:90,tap:true,maxZoom:18,minZoom:5});const mob=matchMedia("(max-width:719px)").matches;if(mob){map.attributionControl.setPrefix(false);map.attributionControl.setPosition("bottomleft");sec.classList.add("qmob")}addBase(L,mob);addLabels(L);layer=(L.markerClusterGroup?L.markerClusterGroup({maxClusterRadius:36,showCoverageOnHover:false,spiderfyOnMaxZoom:true,iconCreateFunction:cl=>{const n=cl.getAllChildMarkers().reduce((t,m)=>t+(m.options.qn||1),0);return L.divIcon({className:"qmpin",html:`<span class="qmdot qmcl">${n}</span>`,iconSize:[34,34],iconAnchor:[17,17]})}}):L.layerGroup()).addTo(map);
       map.on("popupopen",ev=>{ev.popup.getElement().onclick=x=>{const b=x.target.closest("[data-i]");if(b)openE(+b.dataset.i)}})}
-    const reg=window.QJ_REGION||"tokyo";paintJump(reg);layer.clearLayers();
+    const reg=window.QJ_REGION||"tokyo";paintJump(reg);paintSpots(false);layer.clearLayers();
     const grp=new Map();let total=0,nocoord=0;
     ROWS.forEach((e,i)=>{if(!pick(e))return;const q=window.QJ_qstat&&QJ_qstat(e);const s=q?q.k:(pick(e)==="soon"?"start7":"live");total++;if(!(e.lat&&e.lon)){nocoord++;return}
       const key=(+e.lat).toFixed(4)+","+(+e.lon).toFixed(4);if(!grp.has(key))grp.set(key,[]);grp.get(key).push({e,i,s})});

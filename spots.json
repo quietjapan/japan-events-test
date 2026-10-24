@@ -1,0 +1,20 @@
+{"note":"덕질·명소 스팟. 좌표는 공식 페이지 주소를 국토지리원 주소검색으로 변환(랜드마크는 시설 위치). 링크는 공식 페이지만. 2026-10-25 확인.",
+"spots":[
+{"id":"tokyotower","region":"tokyo","type":"landmark","ko":"도쿄타워","ja":"東京タワー","desc":"도쿄를 대표하는 붉은 전파탑, 전망대가 있어요","lat":35.6586,"lon":139.7454,"url":"https://www.tokyotower.co.jp/"},
+{"id":"skytree","region":"tokyo","type":"landmark","ko":"도쿄 스카이트리","ja":"東京スカイツリー","desc":"634m 전파탑, 아래 소라마치에 캐릭터숍이 많아요","lat":35.7101,"lon":139.8107,"url":"https://www.tokyo-skytree.jp/"},
+{"id":"shibuyasky","region":"tokyo","type":"landmark","ko":"시부야 스카이","ja":"SHIBUYA SKY","desc":"시부야 스크램블 스퀘어 옥상 전망대, 스크램블 교차로가 내려다보여요","lat":35.6585,"lon":139.7022,"url":"https://www.shibuya-scramble-square.com/sky/"},
+{"id":"sensoji","region":"tokyo","type":"landmark","ko":"센소지","ja":"浅草寺","desc":"아사쿠사의 도쿄 최고(最古) 사찰, 가미나리몬과 나카미세 거리","lat":35.7148,"lon":139.7967,"url":"https://www.senso-ji.jp/"},
+{"id":"tokyostation","region":"tokyo","type":"landmark","ko":"도쿄역","ja":"東京駅","desc":"붉은 벽돌 마루노우치 역사와 역 안 쇼핑가","lat":35.6812,"lon":139.7649,"url":"https://www.tokyostationcity.com/"},
+{"id":"charast","region":"tokyo","type":"shop","ko":"도쿄 캐릭터 스트리트","ja":"東京キャラクターストリート","desc":"도쿄역 지하 캐릭터숍 거리 (점프샵·지브리 동구리공화국 등)","lat":35.6807,"lon":139.7680,"url":"https://www.tokyoeki-1bangai.co.jp/street/character/"},
+{"id":"animate_ike","region":"tokyo","type":"shop","ko":"애니메이트 이케부쿠로 본점","ja":"アニメイト池袋本店","desc":"세계 최대급 애니메이트 본점, 굿즈·서적·이벤트","lat":35.731079,"lon":139.715378,"url":"https://www.animate.co.jp/shop/ikebukuro/"},
+{"id":"animate_aki","region":"tokyo","type":"shop","ko":"애니메이트 아키하바라","ja":"アニメイト秋葉原","desc":"아키하바라 전기거리의 애니메이트","lat":35.700405,"lon":139.771667,"url":"https://www.animate.co.jp/shop/akihabara/"},
+{"id":"mandarake_nkn","region":"tokyo","type":"shop","ko":"만다라케 나카노점","ja":"まんだらけ 中野店","desc":"나카노 브로드웨이 곳곳에 있는 중고 만화·굿즈 전문점","lat":35.709923,"lon":139.665665,"url":"https://www.mandarake.co.jp/dir/nkn/"},
+{"id":"mandarake_cmp","region":"tokyo","type":"shop","ko":"만다라케 콤플렉스","ja":"まんだらけ コンプレックス","desc":"아키하바라의 8층짜리 만다라케 건물","lat":35.70031,"lon":139.770599,"url":"https://www.mandarake.co.jp/dir/cmp/"},
+{"id":"mandarake_sby","region":"tokyo","type":"shop","ko":"만다라케 시부야점","ja":"まんだらけ 渋谷店","desc":"시부야 BEAM 지하 2층의 만다라케","lat":35.661507,"lon":139.6978,"url":"https://www.mandarake.co.jp/dir/sby/"},
+{"id":"pokemon_mega","region":"tokyo","type":"shop","ko":"포켓몬센터 메가도쿄","ja":"ポケモンセンターメガトウキョー","desc":"이케부쿠로 선샤인시티 알파 2층의 대형 포켓몬센터","lat":35.727776,"lon":139.720123,"url":"https://shop.pokemon.co.jp/ja/shop/pokemoncenter-megatokyo/"},
+{"id":"kinokuniya_sj","region":"tokyo","type":"book","ko":"기노쿠니야 신주쿠 본점","ja":"紀伊國屋書店 新宿本店","desc":"신주쿠역 동쪽 출구 근처의 대형 서점","lat":35.691921,"lon":139.702774,"url":"https://store.kinokuniya.co.jp/store/shinjuku-main-store/"},
+{"id":"junkudo_ike","region":"tokyo","type":"book","ko":"준쿠도 이케부쿠로 본점","ja":"ジュンク堂書店 池袋本店","desc":"건물 한 동 전체(지하1~9층)가 서점, 만화 코너도 커요","lat":35.72686,"lon":139.712143,"url":"https://honto.jp/store/detail_1570019_14HB320.html"},
+{"id":"osakacastle","region":"osaka","type":"landmark","ko":"오사카성 천수각","ja":"大阪城天守閣","desc":"오사카를 대표하는 성, 천수각은 박물관이에요","lat":34.6873,"lon":135.5259,"url":"https://www.osakacastle.net/"},
+{"id":"animate_ume","region":"osaka","type":"shop","ko":"애니메이트 우메다","ja":"アニメイト梅田","desc":"차야마치 NU차야마치 3층의 애니메이트","lat":34.706814,"lon":135.499069,"url":"https://www.animate.co.jp/shop/umeda/"},
+{"id":"mandarake_gcs","region":"osaka","type":"shop","ko":"만다라케 그랜드 카오스","ja":"まんだらけ グランドカオス","desc":"오사카의 대형 만다라케 매장","lat":34.659107,"lon":135.505692,"url":"https://www.mandarake.co.jp/dir/gcs/"}
+]}

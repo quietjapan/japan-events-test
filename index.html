@@ -147,6 +147,7 @@
 <script src="app.js"></script>
 <script src="weather.js"></script>
 <script src="theme.js"></script>
+<script src="chiprow.js"></script>
 <script>(function(){var b=document.getElementById("qmenu"),p=document.getElementById("qmenup");if(!b)return;function t(o){p.hidden=!o;b.setAttribute("aria-expanded",o)}b.onclick=function(e){e.stopPropagation();t(p.hidden)};p.onclick=function(e){var x=e.target.closest("button[data-a]");if(!x)return;t(false);if(x.dataset.a==="fx")document.getElementById("fxbtn").click();else scrollTo({top:0,behavior:"smooth"})};document.addEventListener("click",function(e){if(!p.hidden&&!p.contains(e.target))t(false)})})();</script>
 <script>(function(){if(matchMedia("(min-width:720px)").matches){[].forEach(function(id){var d=document.getElementById(id);if(d)d.open=true})}})();</script>
 </body></html>
