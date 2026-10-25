@@ -522,3 +522,9 @@ body{-webkit-font-smoothing:antialiased;letter-spacing:-.005em}
 .wmsub{font-weight:600;margin-top:6px}
 [data-theme="dark"] .wm .wmk{background:linear-gradient(100deg,#ff8a5c,#f2b36b);-webkit-background-clip:text;background-clip:text}
 [data-theme="dark"] .wm .wma{box-shadow:none}
+
+/* 10/25: 전국 공통 구역 */
+.natsec{grid-column:1/-1;margin:18px 0 2px;padding:12px 14px;border-top:2px dashed rgba(0,0,0,.12);background:rgba(25,113,194,.05);border-radius:12px}
+.natsec b{font-size:1rem}.natsec span{font-size:.85rem;opacity:.7;margin-left:4px}.natsec p{margin:4px 0 0;font-size:.85rem;opacity:.75}
+.b.natb{background:#e7f0fb;color:#1c5fa8}
+[data-theme="dark"] .natsec{background:rgba(120,170,230,.08);border-top-color:rgba(255,255,255,.15)}[data-theme="dark"] .b.natb{background:#1f3550;color:#bcd6f5}

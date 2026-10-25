@@ -6,6 +6,7 @@ const st={qd:"all",cat:"",area:"",q:"",s:"all",from:"",to:"",bm:false,region:"to
 // 🗾 지역(도쿄/오사카) 토글: events.json의 region(tokyo/osaka/all). all(전국: 가챠·쿠지·잡지 부록)은 두 지역 모두에 보여요.
 const REG={tokyo:"도쿄",osaka:"오사카",fukuoka:"후쿠오카"};const REGK="qj_region";
 const regionOf=e=>e.region||(e.area==="오사카"?"osaka":e.area==="후쿠오카"?"fukuoka":e.area==="전국"?"all":"tokyo");
+const isNat=e=>regionOf(e)==="all";let NAT0=-1,NATN=0;
 const inRegion=e=>{const r=regionOf(e);return r==="all"||r===st.region};
 (()=>{let r=null;try{r=new URLSearchParams(location.search).get("region")}catch(e){}if(!REG[r]){try{r=localStorage.getItem(REGK)}catch(e){}}st.region=REG[r]?r:"tokyo";window.QJ_REGION=st.region;document.documentElement.setAttribute("data-region",st.region);document.querySelectorAll("#region button[data-r]").forEach(b=>{const on=b.dataset.r===st.region;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on)})})();
 // ⭐ 북마크: 이 기기 브라우저(localStorage)에만 저장. 묶인 카드도 같은 키(seriesKey)로 저장돼요.
@@ -122,19 +123,21 @@ function render(keep){if(!keep)PAGE=0;
     &&(e._dates?e._dates.some(inRange):inRange(e))&&(e._dates?e._dates.some(inQD):inQD(e))
     &&(!q||[e.title_ko,e.title_ja,e.venue,e.summary_ko].join(" ").normalize("NFKC").toLowerCase().includes(q)))
    .sort((a,b)=>st.bm?((a.e.start||"9").localeCompare(b.e.start||"9")||sortKey(a.e).localeCompare(sortKey(b.e))):sortKey(a.e).localeCompare(sortKey(b.e)));
+  // 지역 행사 먼저, 그 아래 전국 공통(쿠지·가챠·잡지 부록) 구역
+  {const loc=rows.filter(r=>!isNat(r.e)),nat=rows.filter(r=>isNat(r.e));rows.length=0;rows.push(...loc,...nat);NAT0=nat.length?loc.length:-1;NATN=nat.length}
   CARDS=rows.map(r=>r.e);
   {const vl=document.getElementById("vline");if(vl){const n=units().filter(({e,x})=>inRegion(e)&&(x.k==="now"||x.k==="ending")).length;vl.innerHTML=`지금 ${REG[st.region]}에서 열리는 애니·팝업 <b>${n}건</b>`}}
   window.QJCAL&&QJCAL(CARDS);
-  document.getElementById("count").textContent=st.bm?`${rows.length}건 (전 지역)`:`${REG[st.region]} ${rows.length}건`;
+  document.getElementById("count").textContent=st.bm?`${rows.length}건 (전 지역)`:(NATN?`${REG[st.region]} ${rows.length-NATN}건 + 전국 공통 ${NATN}건`:`${REG[st.region]} ${rows.length}건`);
   const fc=document.getElementById("fcnt");if(fc){const n=(st.area?1:0)+((st.from||st.to)?1:0)+(st.s!=="all"?1:0);fc.hidden=!n;fc.textContent=n?`${n}개 적용 중`:""}
   document.getElementById("magintro").hidden=st.bm||st.cat!==MAG;
   const NP=Math.max(1,Math.ceil(rows.length/PER));PAGE=Math.min(Math.max(0,PAGE),NP-1);const P0=PAGE*PER;
   {let pg=document.getElementById("pager");if(!pg){pg=document.createElement("nav");pg.id="pager";pg.className="pager";pg.setAttribute("aria-label","페이지");const L=document.getElementById("list");L.parentNode.appendChild(pg);
     pg.onclick=ev=>{const b=ev.target.closest("button[data-p]");if(!b||b.disabled)return;PAGE=+b.dataset.p;render(true);const L2=document.getElementById("list");const y=L2.getBoundingClientRect().top+scrollY-12;scrollTo({top:Math.max(0,y-(document.querySelector(".vtoggle")?60:0)),behavior:"smooth"})}}
    pg.innerHTML=pagerHTML(PAGE,NP);pg.hidden=NP<2}
-  document.getElementById("list").innerHTML=rows.length?rows.slice(P0,P0+PER).map(({e,x},ci0)=>{const ci=ci0+P0;const u=e._dates?null:urg(e,x);return `
+  document.getElementById("list").innerHTML=rows.length?rows.slice(P0,P0+PER).map(({e,x},ci0)=>{const ci=ci0+P0;const u=e._dates?null:urg(e,x);return `${ci===NAT0||(ci0===0&&NAT0>=0&&ci>NAT0)?`<div class="natsec" role="heading" aria-level="2"><b>🗾 전국 공통 · 일본 어디서나</b> <span>쿠지·가챠·잡지 부록 ${NATN}건</span><p>지역과 상관없이 전국 편의점·서점·가챠 코너에서 살 수 있는 상품이에요.</p></div>`:""}
   <article tabindex="0" role="button" aria-label="${esc(e.title_ko)} 자세히 보기" class="card${u?" "+u.c:""}${e._dates?" series":""}" data-i="${ci}">${u?`<div class="ub">${u.t}</div>`:""}${(()=>{const on=BM.has(seriesKey(e));return `<button type="button" class="bm${on?" on":""}" aria-pressed="${on}" aria-label="${on?"북마크 해제":"북마크"}" title="${on?"북마크 해제":"북마크"}">${on?"★":"☆"}</button>`})()}
-  <div class="top">${thumb(e)}<div class="tx"><div class="badges"><span class="b cat ${CATCLS[e.category]||""}">${esc(e.category)}</span>${(()=>{const q=qstat(e,x);return q?`<span class="b sb sb-${q.k}">${esc(q.t)}</span>`:`<span class="b ${x.k}">${u&&x.k==="ending"?"곧 종료":x.t}</span>`})()}<span class="b">${esc(e.area)}</span></div>
+  <div class="top">${thumb(e)}<div class="tx"><div class="badges"><span class="b cat ${CATCLS[e.category]||""}">${esc(e.category)}</span>${(()=>{const q=qstat(e,x);return q?`<span class="b sb sb-${q.k}">${esc(q.t)}</span>`:`<span class="b ${x.k}">${u&&x.k==="ending"?"곧 종료":x.t}</span>`})()}${isNat(e)?`<span class="b natb">전국 공통</span>`:`<span class="b">${esc(e.area)}</span>`}</div>
   <h2 class="dt">${esc(e.title_ko)}</h2>${e.title_ja?`<p class="ja">${esc(e.title_ja)}</p>`:""}</div></div>
   <ul class="cmeta"><li><span class="ci">🗓️</span>${e._dates?`다음 ${esc(fmt(e._dates[0].start))} <em>외 ${e._dates.length-1}회</em>`:esc(period(e))}</li>${e.venue?`<li><span class="ci">📍</span>${esc(e.venue)}</li>`:""}${e.price?`<li><span class="ci">🏷️</span>${pricet(e.price)}</li>`:""}</ul>
   <span class="cgo" aria-hidden="true">자세히 ›</span>
