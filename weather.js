@@ -1,6 +1,6 @@
 // 7일 날씨 (Open-Meteo, 키 없음). 행사 데이터와 완전히 별개. 지역 토글(도쿄/오사카)에 맞춰 도시가 바뀌어요: window.QJWX(region)
 (()=>{const W={0:["☀️","맑음"],1:["🌤️","대체로 맑음"],2:["⛅","구름 조금"],3:["☁️","흐림"],45:["🌫️","안개"],48:["🌫️","안개"],51:["🌦️","이슬비"],53:["🌦️","이슬비"],55:["🌦️","이슬비"],61:["🌧️","비"],63:["🌧️","비"],65:["🌧️","강한 비"],71:["🌨️","눈"],73:["🌨️","눈"],75:["🌨️","많은 눈"],80:["🌦️","소나기"],81:["🌦️","소나기"],82:["⛈️","강한 소나기"],95:["⛈️","뇌우"],96:["⛈️","뇌우"],99:["⛈️","뇌우"]};
-const C={tokyo:["도쿄",35.6812,139.7671],osaka:["오사카",34.6937,135.5023]};const cache={};
+const C={tokyo:["도쿄",35.6812,139.7671],osaka:["오사카",34.6937,135.5023],fukuoka:["후쿠오카",33.5902,130.4017]};const cache={};
 const row=document.getElementById("wxrow"),ttl=document.getElementById("wxtitle"),sum=document.getElementById("wxsum"),box=document.getElementById("wx");
 const SK='<div class="wxd sk" aria-hidden="true"></div>'.repeat(7)+'<span class="wx-msg sr">날씨 불러오는 중…</span>';
 let cur=null;

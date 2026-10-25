@@ -1,6 +1,6 @@
 {
   "base_date": "2026-10-22",
-  "last_updated": "2026-10-24",
+  "last_updated": "2026-10-25",
   "is_sample": false,
   "events": [
     {
@@ -11753,7 +11753,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022513/",
-          "img_local": "img/a71738f38646658a.webp"
+          "img_local": "img/a71738f38646658a.webp",
+          "img_fb": "gfb/a71738f38646658a.webp"
         },
         {
           "group": "부록 사진",
@@ -11762,7 +11763,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022513/",
-          "img_local": "img/a77c51becf8fe8a4.webp"
+          "img_local": "img/a77c51becf8fe8a4.webp",
+          "img_fb": "gfb/a77c51becf8fe8a4.webp"
         },
         {
           "group": "부록 사진",
@@ -11771,7 +11773,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022513/",
-          "img_local": "img/5f6c04fc57992f37.webp"
+          "img_local": "img/5f6c04fc57992f37.webp",
+          "img_fb": "gfb/5f6c04fc57992f37.webp"
         },
         {
           "group": "부록 사진",
@@ -11780,7 +11783,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022513/",
-          "img_local": "img/73271c95b26576c7.webp"
+          "img_local": "img/73271c95b26576c7.webp",
+          "img_fb": "gfb/73271c95b26576c7.webp"
         },
         {
           "group": "부록 사진",
@@ -11789,7 +11793,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022513/",
-          "img_local": "img/21aee9790ac39f1d.webp"
+          "img_local": "img/21aee9790ac39f1d.webp",
+          "img_fb": "gfb/21aee9790ac39f1d.webp"
         },
         {
           "group": "부록 사진",
@@ -11798,7 +11803,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022513/",
-          "img_local": "img/cc25fe3a62787e9f.webp"
+          "img_local": "img/cc25fe3a62787e9f.webp",
+          "img_fb": "gfb/cc25fe3a62787e9f.webp"
         },
         {
           "group": "부록 사진",
@@ -11807,7 +11813,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022513/",
-          "img_local": "img/fc5de032bdf70ca3.webp"
+          "img_local": "img/fc5de032bdf70ca3.webp",
+          "img_fb": "gfb/fc5de032bdf70ca3.webp"
         },
         {
           "group": "부록 사진",
@@ -11816,14 +11823,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022513/",
-          "img_local": "img/844e40a2cbc1a749.webp"
+          "img_local": "img/844e40a2cbc1a749.webp",
+          "img_fb": "gfb/844e40a2cbc1a749.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022513/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/7fa672272de5caa2.webp"
+      "image_local": "img/7fa672272de5caa2.webp",
+      "image_fb": "gfb/7fa672272de5caa2.webp"
     },
     {
       "title_ko": "인레드 12월호 부록 ― 스픽&스팬×헬로키티 트위드 파우치",
@@ -11862,7 +11871,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022575/",
-          "img_local": "img/92cb416236c37d90.webp"
+          "img_local": "img/92cb416236c37d90.webp",
+          "img_fb": "gfb/92cb416236c37d90.webp"
         },
         {
           "group": "부록 사진",
@@ -11871,7 +11881,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022575/",
-          "img_local": "img/7a611f66e9c1655b.webp"
+          "img_local": "img/7a611f66e9c1655b.webp",
+          "img_fb": "gfb/7a611f66e9c1655b.webp"
         },
         {
           "group": "부록 사진",
@@ -11880,14 +11891,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022575/",
-          "img_local": "img/25fd1db3da46a504.webp"
+          "img_local": "img/25fd1db3da46a504.webp",
+          "img_fb": "gfb/25fd1db3da46a504.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022575/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/f12b0bc47b10398b.webp"
+      "image_local": "img/f12b0bc47b10398b.webp",
+      "image_fb": "gfb/f12b0bc47b10398b.webp"
     },
     {
       "title_ko": "오토나뮤즈 12월호 부록 ― 그로구 디자인 장바구니 가방",
@@ -11926,7 +11939,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022447/",
-          "img_local": "img/93436055065efee7.webp"
+          "img_local": "img/93436055065efee7.webp",
+          "img_fb": "gfb/93436055065efee7.webp"
         },
         {
           "group": "부록 사진",
@@ -11935,7 +11949,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022447/",
-          "img_local": "img/59387184927abfe7.webp"
+          "img_local": "img/59387184927abfe7.webp",
+          "img_fb": "gfb/59387184927abfe7.webp"
         },
         {
           "group": "부록 사진",
@@ -11944,7 +11959,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022447/",
-          "img_local": "img/98c7786e042f5170.webp"
+          "img_local": "img/98c7786e042f5170.webp",
+          "img_fb": "gfb/98c7786e042f5170.webp"
         },
         {
           "group": "부록 사진",
@@ -11953,7 +11969,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022447/",
-          "img_local": "img/f3e79e518bbda82e.webp"
+          "img_local": "img/f3e79e518bbda82e.webp",
+          "img_fb": "gfb/f3e79e518bbda82e.webp"
         },
         {
           "group": "부록 사진",
@@ -11962,14 +11979,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022447/",
-          "img_local": "img/930db77e9d73b99c.webp"
+          "img_local": "img/930db77e9d73b99c.webp",
+          "img_fb": "gfb/930db77e9d73b99c.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022447/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/e82582d441cc1f75.webp"
+      "image_local": "img/e82582d441cc1f75.webp",
+      "image_fb": "gfb/e82582d441cc1f75.webp"
     },
     {
       "title_ko": "글로우 12월호 부록 ― 아쿠아스큐텀 175주년 다이어리",
@@ -12008,7 +12027,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022518/",
-          "img_local": "img/287a937e8848c91e.webp"
+          "img_local": "img/287a937e8848c91e.webp",
+          "img_fb": "gfb/287a937e8848c91e.webp"
         },
         {
           "group": "부록 사진",
@@ -12017,7 +12037,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022518/",
-          "img_local": "img/84897aef751979a0.webp"
+          "img_local": "img/84897aef751979a0.webp",
+          "img_fb": "gfb/84897aef751979a0.webp"
         },
         {
           "group": "부록 사진",
@@ -12026,7 +12047,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022518/",
-          "img_local": "img/cdd691aa6d9b330b.webp"
+          "img_local": "img/cdd691aa6d9b330b.webp",
+          "img_fb": "gfb/cdd691aa6d9b330b.webp"
         },
         {
           "group": "부록 사진",
@@ -12035,7 +12057,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022518/",
-          "img_local": "img/4cff312f14c37159.webp"
+          "img_local": "img/4cff312f14c37159.webp",
+          "img_fb": "gfb/4cff312f14c37159.webp"
         },
         {
           "group": "부록 사진",
@@ -12044,7 +12067,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022518/",
-          "img_local": "img/4513b16a7e43cc98.webp"
+          "img_local": "img/4513b16a7e43cc98.webp",
+          "img_fb": "gfb/4513b16a7e43cc98.webp"
         },
         {
           "group": "부록 사진",
@@ -12053,7 +12077,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022518/",
-          "img_local": "img/9eced99e57df7ab7.webp"
+          "img_local": "img/9eced99e57df7ab7.webp",
+          "img_fb": "gfb/9eced99e57df7ab7.webp"
         },
         {
           "group": "부록 사진",
@@ -12062,14 +12087,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022518/",
-          "img_local": "img/16c2b6d9efa1ea44.webp"
+          "img_local": "img/16c2b6d9efa1ea44.webp",
+          "img_fb": "gfb/16c2b6d9efa1ea44.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022518/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/ccdc53ed27c0b862.webp"
+      "image_local": "img/ccdc53ed27c0b862.webp",
+      "image_fb": "gfb/ccdc53ed27c0b862.webp"
     },
     {
       "title_ko": "모노맥스 12월호 부록 ― 기노쿠니야 3WAY 가방",
@@ -12108,7 +12135,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022579/",
-          "img_local": "img/d326183c8f43cbd2.webp"
+          "img_local": "img/d326183c8f43cbd2.webp",
+          "img_fb": "gfb/d326183c8f43cbd2.webp"
         },
         {
           "group": "부록 사진",
@@ -12117,7 +12145,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022579/",
-          "img_local": "img/43ba0c6cc7f87bea.webp"
+          "img_local": "img/43ba0c6cc7f87bea.webp",
+          "img_fb": "gfb/43ba0c6cc7f87bea.webp"
         },
         {
           "group": "부록 사진",
@@ -12126,7 +12155,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022579/",
-          "img_local": "img/5a7f089a0d6f0511.webp"
+          "img_local": "img/5a7f089a0d6f0511.webp",
+          "img_fb": "gfb/5a7f089a0d6f0511.webp"
         },
         {
           "group": "부록 사진",
@@ -12135,7 +12165,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022579/",
-          "img_local": "img/7fdbe3da21d267a1.webp"
+          "img_local": "img/7fdbe3da21d267a1.webp",
+          "img_fb": "gfb/7fdbe3da21d267a1.webp"
         },
         {
           "group": "부록 사진",
@@ -12144,7 +12175,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022579/",
-          "img_local": "img/ab97443a7d2b6d7d.webp"
+          "img_local": "img/ab97443a7d2b6d7d.webp",
+          "img_fb": "gfb/ab97443a7d2b6d7d.webp"
         },
         {
           "group": "부록 사진",
@@ -12153,7 +12185,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022579/",
-          "img_local": "img/b932f7c0933f870e.webp"
+          "img_local": "img/b932f7c0933f870e.webp",
+          "img_fb": "gfb/b932f7c0933f870e.webp"
         },
         {
           "group": "부록 사진",
@@ -12162,14 +12195,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022579/",
-          "img_local": "img/70d7b4fa53e8eb5d.webp"
+          "img_local": "img/70d7b4fa53e8eb5d.webp",
+          "img_fb": "gfb/70d7b4fa53e8eb5d.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022579/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/cb582ca762b77f6e.webp"
+      "image_local": "img/cb582ca762b77f6e.webp",
+      "image_fb": "gfb/cb582ca762b77f6e.webp"
     },
     {
       "title_ko": "오토나노 오샤레테초 12월호 부록 ― 마루코는 아홉살 40주년 문구 세트",
@@ -12208,7 +12243,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022565/",
-          "img_local": "img/41d5f69793607159.webp"
+          "img_local": "img/41d5f69793607159.webp",
+          "img_fb": "gfb/41d5f69793607159.webp"
         },
         {
           "group": "부록 사진",
@@ -12217,7 +12253,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022565/",
-          "img_local": "img/98fc42a695dca4e6.webp"
+          "img_local": "img/98fc42a695dca4e6.webp",
+          "img_fb": "gfb/98fc42a695dca4e6.webp"
         },
         {
           "group": "부록 사진",
@@ -12226,7 +12263,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022565/",
-          "img_local": "img/48585cb973be1524.webp"
+          "img_local": "img/48585cb973be1524.webp",
+          "img_fb": "gfb/48585cb973be1524.webp"
         },
         {
           "group": "부록 사진",
@@ -12235,7 +12273,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022565/",
-          "img_local": "img/75b1dfc849f82c03.webp"
+          "img_local": "img/75b1dfc849f82c03.webp",
+          "img_fb": "gfb/75b1dfc849f82c03.webp"
         },
         {
           "group": "부록 사진",
@@ -12244,7 +12283,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022565/",
-          "img_local": "img/a22d529703d35669.webp"
+          "img_local": "img/a22d529703d35669.webp",
+          "img_fb": "gfb/a22d529703d35669.webp"
         },
         {
           "group": "부록 사진",
@@ -12253,14 +12293,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022565/",
-          "img_local": "img/0ccc9558a56fe367.webp"
+          "img_local": "img/0ccc9558a56fe367.webp",
+          "img_fb": "gfb/0ccc9558a56fe367.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022565/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/67745ac2177bc7db.webp"
+      "image_local": "img/67745ac2177bc7db.webp",
+      "image_fb": "gfb/67745ac2177bc7db.webp"
     },
     {
       "title_ko": "린네루 12월호 부록 ― 무민 나무 스탬프 세트",
@@ -12299,7 +12341,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022503/",
-          "img_local": "img/e3cb3376d5bdd419.webp"
+          "img_local": "img/e3cb3376d5bdd419.webp",
+          "img_fb": "gfb/e3cb3376d5bdd419.webp"
         },
         {
           "group": "부록 사진",
@@ -12308,7 +12351,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022503/",
-          "img_local": "img/399e063d643d09f3.webp"
+          "img_local": "img/399e063d643d09f3.webp",
+          "img_fb": "gfb/399e063d643d09f3.webp"
         },
         {
           "group": "부록 사진",
@@ -12317,7 +12361,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022503/",
-          "img_local": "img/d2357ddfb8714194.webp"
+          "img_local": "img/d2357ddfb8714194.webp",
+          "img_fb": "gfb/d2357ddfb8714194.webp"
         },
         {
           "group": "부록 사진",
@@ -12326,7 +12371,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022503/",
-          "img_local": "img/1a25849e5a124f63.webp"
+          "img_local": "img/1a25849e5a124f63.webp",
+          "img_fb": "gfb/1a25849e5a124f63.webp"
         },
         {
           "group": "부록 사진",
@@ -12335,14 +12381,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022503/",
-          "img_local": "img/6014336bec191830.webp"
+          "img_local": "img/6014336bec191830.webp",
+          "img_fb": "gfb/6014336bec191830.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022503/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/633c98b822f3a9e7.webp"
+      "image_local": "img/633c98b822f3a9e7.webp",
+      "image_fb": "gfb/633c98b822f3a9e7.webp"
     },
     {
       "title_ko": "스위트 11월호 부록 ― 하와이 한정 에스터버니 토트백&키홀더",
@@ -12378,7 +12426,8 @@
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/ebb809fb92e484cc.webp"
+      "image_local": "img/ebb809fb92e484cc.webp",
+      "image_fb": "gfb/ebb809fb92e484cc.webp"
     },
     {
       "title_ko": "인레드 11월호 부록 ― 피너츠×와일드띵스 숄더백",
@@ -12417,7 +12466,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022369/",
-          "img_local": "img/0fd48603c92fdfae.webp"
+          "img_local": "img/0fd48603c92fdfae.webp",
+          "img_fb": "gfb/0fd48603c92fdfae.webp"
         },
         {
           "group": "부록 사진",
@@ -12426,7 +12476,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022369/",
-          "img_local": "img/86575681030ed805.webp"
+          "img_local": "img/86575681030ed805.webp",
+          "img_fb": "gfb/86575681030ed805.webp"
         },
         {
           "group": "부록 사진",
@@ -12435,7 +12486,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022369/",
-          "img_local": "img/e745aceda82ed022.webp"
+          "img_local": "img/e745aceda82ed022.webp",
+          "img_fb": "gfb/e745aceda82ed022.webp"
         },
         {
           "group": "부록 사진",
@@ -12444,7 +12496,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022369/",
-          "img_local": "img/774a1a286f18867a.webp"
+          "img_local": "img/774a1a286f18867a.webp",
+          "img_fb": "gfb/774a1a286f18867a.webp"
         },
         {
           "group": "부록 사진",
@@ -12453,7 +12506,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022369/",
-          "img_local": "img/fdb390464ca405ed.webp"
+          "img_local": "img/fdb390464ca405ed.webp",
+          "img_fb": "gfb/fdb390464ca405ed.webp"
         },
         {
           "group": "부록 사진",
@@ -12462,7 +12516,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022369/",
-          "img_local": "img/95bad19143bc8ebb.webp"
+          "img_local": "img/95bad19143bc8ebb.webp",
+          "img_fb": "gfb/95bad19143bc8ebb.webp"
         },
         {
           "group": "부록 사진",
@@ -12471,14 +12526,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022369/",
-          "img_local": "img/4460cbc2fdfdabca.webp"
+          "img_local": "img/4460cbc2fdfdabca.webp",
+          "img_fb": "gfb/4460cbc2fdfdabca.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022369/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/8d283e4057896ed3.webp"
+      "image_local": "img/8d283e4057896ed3.webp",
+      "image_fb": "gfb/8d283e4057896ed3.webp"
     },
     {
       "title_ko": "오토나노 오샤레테초 11월호 부록 ― 헬로키티 자수 복주머니 토트",
@@ -12517,7 +12574,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022361/",
-          "img_local": "img/c1fd874944c893b9.webp"
+          "img_local": "img/c1fd874944c893b9.webp",
+          "img_fb": "gfb/c1fd874944c893b9.webp"
         },
         {
           "group": "부록 사진",
@@ -12526,7 +12584,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022361/",
-          "img_local": "img/19c9725bc96bd37c.webp"
+          "img_local": "img/19c9725bc96bd37c.webp",
+          "img_fb": "gfb/19c9725bc96bd37c.webp"
         },
         {
           "group": "부록 사진",
@@ -12535,7 +12594,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022361/",
-          "img_local": "img/7896b72dd78d8c79.webp"
+          "img_local": "img/7896b72dd78d8c79.webp",
+          "img_fb": "gfb/7896b72dd78d8c79.webp"
         },
         {
           "group": "부록 사진",
@@ -12544,7 +12604,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022361/",
-          "img_local": "img/2447cffbdd9cc4ab.webp"
+          "img_local": "img/2447cffbdd9cc4ab.webp",
+          "img_fb": "gfb/2447cffbdd9cc4ab.webp"
         },
         {
           "group": "부록 사진",
@@ -12553,7 +12614,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022361/",
-          "img_local": "img/0916a3f764493ec4.webp"
+          "img_local": "img/0916a3f764493ec4.webp",
+          "img_fb": "gfb/0916a3f764493ec4.webp"
         },
         {
           "group": "부록 사진",
@@ -12562,7 +12624,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022361/",
-          "img_local": "img/c774a4a3b824f3de.webp"
+          "img_local": "img/c774a4a3b824f3de.webp",
+          "img_fb": "gfb/c774a4a3b824f3de.webp"
         },
         {
           "group": "부록 사진",
@@ -12571,14 +12634,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022361/",
-          "img_local": "img/83ef07130cc23540.webp"
+          "img_local": "img/83ef07130cc23540.webp",
+          "img_fb": "gfb/83ef07130cc23540.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022361/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/b95ec2534a3ad69c.webp"
+      "image_local": "img/b95ec2534a3ad69c.webp",
+      "image_fb": "gfb/b95ec2534a3ad69c.webp"
     },
     {
       "title_ko": "글로우 11월호 부록 ― 러싯×스누피 쇼핑백",
@@ -12617,7 +12682,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022345/",
-          "img_local": "img/d673e3cbcf91513b.webp"
+          "img_local": "img/d673e3cbcf91513b.webp",
+          "img_fb": "gfb/d673e3cbcf91513b.webp"
         },
         {
           "group": "부록 사진",
@@ -12626,7 +12692,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022345/",
-          "img_local": "img/111bf2eb1f13aed8.webp"
+          "img_local": "img/111bf2eb1f13aed8.webp",
+          "img_fb": "gfb/111bf2eb1f13aed8.webp"
         },
         {
           "group": "부록 사진",
@@ -12635,7 +12702,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022345/",
-          "img_local": "img/d94d1d33ef45ad3f.webp"
+          "img_local": "img/d94d1d33ef45ad3f.webp",
+          "img_fb": "gfb/d94d1d33ef45ad3f.webp"
         },
         {
           "group": "부록 사진",
@@ -12644,7 +12712,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022345/",
-          "img_local": "img/1df5dd322bec4f66.webp"
+          "img_local": "img/1df5dd322bec4f66.webp",
+          "img_fb": "gfb/1df5dd322bec4f66.webp"
         },
         {
           "group": "부록 사진",
@@ -12653,14 +12722,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022345/",
-          "img_local": "img/5d50811c1b537611.webp"
+          "img_local": "img/5d50811c1b537611.webp",
+          "img_fb": "gfb/5d50811c1b537611.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022345/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/d6a3d05a0d20c64a.webp"
+      "image_local": "img/d6a3d05a0d20c64a.webp",
+      "image_fb": "gfb/d6a3d05a0d20c64a.webp"
     },
     {
       "title_ko": "오토나뮤즈 11월호 부록 ― 시텐×헬로키티 퀼팅 토트",
@@ -12699,7 +12770,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022287/",
-          "img_local": "img/33d9f13da711f6a2.webp"
+          "img_local": "img/33d9f13da711f6a2.webp",
+          "img_fb": "gfb/33d9f13da711f6a2.webp"
         },
         {
           "group": "부록 사진",
@@ -12708,7 +12780,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022287/",
-          "img_local": "img/2e4d307184953b9e.webp"
+          "img_local": "img/2e4d307184953b9e.webp",
+          "img_fb": "gfb/2e4d307184953b9e.webp"
         },
         {
           "group": "부록 사진",
@@ -12717,7 +12790,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022287/",
-          "img_local": "img/85298f31326d0c59.webp"
+          "img_local": "img/85298f31326d0c59.webp",
+          "img_fb": "gfb/85298f31326d0c59.webp"
         },
         {
           "group": "부록 사진",
@@ -12726,14 +12800,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022287/",
-          "img_local": "img/fdd288083dd8eebd.webp"
+          "img_local": "img/fdd288083dd8eebd.webp",
+          "img_fb": "gfb/fdd288083dd8eebd.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022287/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/2bfcf1626799335c.webp"
+      "image_local": "img/2bfcf1626799335c.webp",
+      "image_fb": "gfb/2bfcf1626799335c.webp"
     },
     {
       "title_ko": "모노맥스 11월호 부록 ― 콜맨 풀오픈 2WAY 가방",
@@ -12772,7 +12848,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022385/",
-          "img_local": "img/7d67d64101033289.webp"
+          "img_local": "img/7d67d64101033289.webp",
+          "img_fb": "gfb/7d67d64101033289.webp"
         },
         {
           "group": "부록 사진",
@@ -12781,7 +12858,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022385/",
-          "img_local": "img/1cc6adbe34fb0bf6.webp"
+          "img_local": "img/1cc6adbe34fb0bf6.webp",
+          "img_fb": "gfb/1cc6adbe34fb0bf6.webp"
         },
         {
           "group": "부록 사진",
@@ -12790,7 +12868,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022385/",
-          "img_local": "img/420cf1e2cd5ad716.webp"
+          "img_local": "img/420cf1e2cd5ad716.webp",
+          "img_fb": "gfb/420cf1e2cd5ad716.webp"
         },
         {
           "group": "부록 사진",
@@ -12799,7 +12878,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022385/",
-          "img_local": "img/6277acf1bacd643b.webp"
+          "img_local": "img/6277acf1bacd643b.webp",
+          "img_fb": "gfb/6277acf1bacd643b.webp"
         },
         {
           "group": "부록 사진",
@@ -12808,7 +12888,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022385/",
-          "img_local": "img/cf79706154dcb3c0.webp"
+          "img_local": "img/cf79706154dcb3c0.webp",
+          "img_fb": "gfb/cf79706154dcb3c0.webp"
         },
         {
           "group": "부록 사진",
@@ -12817,7 +12898,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022385/",
-          "img_local": "img/c9c1ceb735c65df3.webp"
+          "img_local": "img/c9c1ceb735c65df3.webp",
+          "img_fb": "gfb/c9c1ceb735c65df3.webp"
         },
         {
           "group": "부록 사진",
@@ -12826,14 +12908,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022385/",
-          "img_local": "img/78726673f34bd5e4.webp"
+          "img_local": "img/78726673f34bd5e4.webp",
+          "img_fb": "gfb/78726673f34bd5e4.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022385/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/f2976ae5ddde4583.webp"
+      "image_local": "img/f2976ae5ddde4583.webp",
+      "image_fb": "gfb/f2976ae5ddde4583.webp"
     },
     {
       "title_ko": "미니 11월호 부록 ― 먀쿠먀쿠 365일 일력",
@@ -12872,7 +12956,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022395/",
-          "img_local": "img/d6df4179a3a0abc2.webp"
+          "img_local": "img/d6df4179a3a0abc2.webp",
+          "img_fb": "gfb/d6df4179a3a0abc2.webp"
         },
         {
           "group": "부록 사진",
@@ -12881,7 +12966,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022395/",
-          "img_local": "img/30d4c263c2803a51.webp"
+          "img_local": "img/30d4c263c2803a51.webp",
+          "img_fb": "gfb/30d4c263c2803a51.webp"
         },
         {
           "group": "부록 사진",
@@ -12890,7 +12976,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022395/",
-          "img_local": "img/3ed5e5bdb6f0f55e.webp"
+          "img_local": "img/3ed5e5bdb6f0f55e.webp",
+          "img_fb": "gfb/3ed5e5bdb6f0f55e.webp"
         },
         {
           "group": "부록 사진",
@@ -12899,7 +12986,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022395/",
-          "img_local": "img/b757d058256bd8b1.webp"
+          "img_local": "img/b757d058256bd8b1.webp",
+          "img_fb": "gfb/b757d058256bd8b1.webp"
         },
         {
           "group": "부록 사진",
@@ -12908,14 +12996,16 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://store.tkj.jp/shopdetail/000000022395/",
-          "img_local": "img/73a1a233845f81b1.webp"
+          "img_local": "img/73a1a233845f81b1.webp",
+          "img_fb": "gfb/73a1a233845f81b1.webp"
         }
       ],
       "gallery_source": "https://store.tkj.jp/shopdetail/000000022395/",
       "gallery_note": "사진·설명: 宝島社 공식 페이지",
       "translation_check": true,
       "region": "all",
-      "image_local": "img/4bff202234717a6a.webp"
+      "image_local": "img/4bff202234717a6a.webp",
+      "image_fb": "gfb/4bff202234717a6a.webp"
     },
     {
       "title_ko": "차오 12월호 부록 ― 산엑스×차오 히로인 열쇠 비밀 노트",
@@ -17865,7 +17955,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
-          "img_local": "img/d7c8d8c715e6cc9c.webp"
+          "img_local": "img/d7c8d8c715e6cc9c.webp",
+          "img_fb": "gfb/d7c8d8c715e6cc9c.webp"
         },
         {
           "group": "전시·특전",
@@ -17874,7 +17965,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
-          "img_local": "img/a5114cde80498c79.webp"
+          "img_local": "img/a5114cde80498c79.webp",
+          "img_fb": "gfb/a5114cde80498c79.webp"
         },
         {
           "group": "전시·특전",
@@ -17883,7 +17975,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
-          "img_local": "img/e70f9c30c1e0125b.webp"
+          "img_local": "img/e70f9c30c1e0125b.webp",
+          "img_fb": "gfb/e70f9c30c1e0125b.webp"
         },
         {
           "group": "전시·특전",
@@ -17892,7 +17985,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
-          "img_local": "img/0e535880b906c075.webp"
+          "img_local": "img/0e535880b906c075.webp",
+          "img_fb": "gfb/0e535880b906c075.webp"
         },
         {
           "group": "전시·특전",
@@ -17901,7 +17995,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
-          "img_local": "img/00dd9a046560b113.webp"
+          "img_local": "img/00dd9a046560b113.webp",
+          "img_fb": "gfb/00dd9a046560b113.webp"
         },
         {
           "group": "전시·특전",
@@ -17910,7 +18005,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
-          "img_local": "img/62e7f8296aca06c4.webp"
+          "img_local": "img/62e7f8296aca06c4.webp",
+          "img_fb": "gfb/62e7f8296aca06c4.webp"
         },
         {
           "group": "전시·특전",
@@ -17919,13 +18015,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://art.parco.jp/parcomuseum/detail/?id=2030",
-          "img_local": "img/0feff034cfbc2ae2.webp"
+          "img_local": "img/0feff034cfbc2ae2.webp",
+          "img_fb": "gfb/0feff034cfbc2ae2.webp"
         }
       ],
       "lat": 35.7293,
       "lon": 139.7113,
       "thumb_small": "thumbs/2bacc22a1c313f73.webp",
-      "image_local": "img/2bacc22a1c313f73.webp"
+      "image_local": "img/2bacc22a1c313f73.webp",
+      "image_fb": "gfb/2bacc22a1c313f73.webp"
     },
     {
       "reservation": "",
@@ -17963,7 +18061,8 @@
         }
       ],
       "thumb_small": "thumbs/382d7974adb5f3d5.webp",
-      "image_local": "img/382d7974adb5f3d5.webp"
+      "image_local": "img/382d7974adb5f3d5.webp",
+      "image_fb": "gfb/382d7974adb5f3d5.webp"
     },
     {
       "reservation": "",
@@ -17999,7 +18098,8 @@
         }
       ],
       "thumb_small": "thumbs/382d7974adb5f3d5.webp",
-      "image_local": "img/382d7974adb5f3d5.webp"
+      "image_local": "img/382d7974adb5f3d5.webp",
+      "image_fb": "gfb/382d7974adb5f3d5.webp"
     },
     {
       "reservation": "추첨 예약",
@@ -18043,7 +18143,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
-          "img_local": "img/52d88879b65fd6bb.webp"
+          "img_local": "img/52d88879b65fd6bb.webp",
+          "img_fb": "gfb/52d88879b65fd6bb.webp"
         },
         {
           "group": "공식 이미지",
@@ -18052,7 +18153,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
-          "img_local": "img/a579fccf6eb83e97.webp"
+          "img_local": "img/a579fccf6eb83e97.webp",
+          "img_fb": "gfb/a579fccf6eb83e97.webp"
         },
         {
           "group": "공식 이미지",
@@ -18061,7 +18163,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
-          "img_local": "img/1f33549967ea7432.webp"
+          "img_local": "img/1f33549967ea7432.webp",
+          "img_fb": "gfb/1f33549967ea7432.webp"
         },
         {
           "group": "공식 이미지",
@@ -18070,7 +18173,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
-          "img_local": "img/76819dbd4b5b6c9b.webp"
+          "img_local": "img/76819dbd4b5b6c9b.webp",
+          "img_fb": "gfb/76819dbd4b5b6c9b.webp"
         },
         {
           "group": "공식 이미지",
@@ -18083,7 +18187,8 @@
         }
       ],
       "thumb_small": "thumbs/8e02278b224d5877.webp",
-      "image_local": "img/8e02278b224d5877.webp"
+      "image_local": "img/8e02278b224d5877.webp",
+      "image_fb": "thumbs/8e02278b224d5877.webp"
     },
     {
       "reservation": "",
@@ -18127,7 +18232,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://event.amnibus.com/ji-anime-tower/",
-          "img_local": "img/ecaa2e0b56fbefc7.webp"
+          "img_local": "img/ecaa2e0b56fbefc7.webp",
+          "img_fb": "gfb/ecaa2e0b56fbefc7.webp"
         },
         {
           "group": "공식 이미지",
@@ -18136,13 +18242,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://event.amnibus.com/ji-anime-tower/",
-          "img_local": "img/71e497f9d0d0f05d.webp"
+          "img_local": "img/71e497f9d0d0f05d.webp",
+          "img_fb": "gfb/71e497f9d0d0f05d.webp"
         }
       ],
       "lat": 35.7292,
       "lon": 139.7186,
       "thumb_small": "thumbs/666a8508ad1d879a.webp",
-      "image_local": "img/666a8508ad1d879a.webp"
+      "image_local": "img/666a8508ad1d879a.webp",
+      "image_fb": "gfb/666a8508ad1d879a.webp"
     },
     {
       "reservation": "",
@@ -18186,7 +18294,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://event.amnibus.com/ji-anime-tower/",
-          "img_local": "img/ecaa2e0b56fbefc7.webp"
+          "img_local": "img/ecaa2e0b56fbefc7.webp",
+          "img_fb": "gfb/ecaa2e0b56fbefc7.webp"
         },
         {
           "group": "공식 이미지",
@@ -18195,13 +18304,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://event.amnibus.com/ji-anime-tower/",
-          "img_local": "img/71e497f9d0d0f05d.webp"
+          "img_local": "img/71e497f9d0d0f05d.webp",
+          "img_fb": "gfb/71e497f9d0d0f05d.webp"
         }
       ],
       "lat": 34.6448,
       "lon": 135.513,
       "thumb_small": "thumbs/666a8508ad1d879a.webp",
-      "image_local": "img/666a8508ad1d879a.webp"
+      "image_local": "img/666a8508ad1d879a.webp",
+      "image_fb": "gfb/666a8508ad1d879a.webp"
     },
     {
       "reservation": "",
@@ -18245,7 +18356,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://event.amnibus.com/heroaca-skybldg/",
-          "img_local": "img/e2cb3f8a97168c10.webp"
+          "img_local": "img/e2cb3f8a97168c10.webp",
+          "img_fb": "gfb/e2cb3f8a97168c10.webp"
         },
         {
           "group": "공식 이미지",
@@ -18254,7 +18366,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://event.amnibus.com/heroaca-skybldg/",
-          "img_local": "img/0aa26f8b1d483734.webp"
+          "img_local": "img/0aa26f8b1d483734.webp",
+          "img_fb": "gfb/0aa26f8b1d483734.webp"
         },
         {
           "group": "공식 이미지",
@@ -18263,13 +18376,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://event.amnibus.com/heroaca-skybldg/",
-          "img_local": "img/e8ee0165802aab8b.webp"
+          "img_local": "img/e8ee0165802aab8b.webp",
+          "img_fb": "gfb/e8ee0165802aab8b.webp"
         }
       ],
       "lat": 34.7053,
       "lon": 135.4906,
       "thumb_small": "thumbs/3e8816ff36c4270a.webp",
-      "image_local": "img/3e8816ff36c4270a.webp"
+      "image_local": "img/3e8816ff36c4270a.webp",
+      "image_fb": "gfb/3e8816ff36c4270a.webp"
     },
     {
       "reservation": "",
@@ -18313,13 +18428,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.animate.co.jp/onlyshop/51070/",
-          "img_local": "img/fbd89d68b4201fdc.webp"
+          "img_local": "img/fbd89d68b4201fdc.webp",
+          "img_fb": "gfb/fbd89d68b4201fdc.webp"
         }
       ],
       "lat": 35.7303,
       "lon": 139.7152,
       "thumb_small": "thumbs/fa75aaf55d0d424b.webp",
-      "image_local": "img/fa75aaf55d0d424b.webp"
+      "image_local": "img/fa75aaf55d0d424b.webp",
+      "image_fb": "gfb/fa75aaf55d0d424b.webp"
     },
     {
       "reservation": "",
@@ -18363,13 +18480,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.cospa.com/special/bocchi-rocks2026/",
-          "img_local": "img/114d20f181662e54.webp"
+          "img_local": "img/114d20f181662e54.webp",
+          "img_fb": "gfb/114d20f181662e54.webp"
         }
       ],
       "lat": 35.6987,
       "lon": 139.7714,
       "thumb_small": "thumbs/13e52fac5202c295.webp",
-      "image_local": "img/13e52fac5202c295.webp"
+      "image_local": "img/13e52fac5202c295.webp",
+      "image_fb": "gfb/13e52fac5202c295.webp"
     },
     {
       "reservation": "",
@@ -18413,11 +18532,13 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.cospa.com/special/bocchi-rocks2026/",
-          "img_local": "img/114d20f181662e54.webp"
+          "img_local": "img/114d20f181662e54.webp",
+          "img_fb": "gfb/114d20f181662e54.webp"
         }
       ],
       "thumb_small": "thumbs/13e52fac5202c295.webp",
-      "image_local": "img/13e52fac5202c295.webp"
+      "image_local": "img/13e52fac5202c295.webp",
+      "image_fb": "gfb/13e52fac5202c295.webp"
     },
     {
       "reservation": "",
@@ -18501,7 +18622,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-          "img_local": "img/1f32652d6c24e526.webp"
+          "img_local": "img/1f32652d6c24e526.webp",
+          "img_fb": "gfb/1f32652d6c24e526.webp"
         },
         {
           "group": "공식 이미지",
@@ -18510,7 +18632,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-          "img_local": "img/182115eab7cf034d.webp"
+          "img_local": "img/182115eab7cf034d.webp",
+          "img_fb": "gfb/182115eab7cf034d.webp"
         },
         {
           "group": "공식 이미지",
@@ -18519,13 +18642,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-          "img_local": "img/ddd88f12e7408959.webp"
+          "img_local": "img/ddd88f12e7408959.webp",
+          "img_fb": "gfb/ddd88f12e7408959.webp"
         }
       ],
       "lat": 35.6984,
       "lon": 139.7731,
       "thumb_small": "thumbs/6f56d38978c17951.webp",
-      "image_local": "img/6f56d38978c17951.webp"
+      "image_local": "img/6f56d38978c17951.webp",
+      "image_fb": "gfb/6f56d38978c17951.webp"
     },
     {
       "reservation": "",
@@ -18569,7 +18694,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-          "img_local": "img/1f32652d6c24e526.webp"
+          "img_local": "img/1f32652d6c24e526.webp",
+          "img_fb": "gfb/1f32652d6c24e526.webp"
         },
         {
           "group": "공식 이미지",
@@ -18578,13 +18704,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-          "img_local": "img/182115eab7cf034d.webp"
+          "img_local": "img/182115eab7cf034d.webp",
+          "img_fb": "gfb/182115eab7cf034d.webp"
         }
       ],
       "lat": 34.7066,
       "lon": 135.4945,
       "thumb_small": "thumbs/6f56d38978c17951.webp",
-      "image_local": "img/6f56d38978c17951.webp"
+      "image_local": "img/6f56d38978c17951.webp",
+      "image_fb": "gfb/6f56d38978c17951.webp"
     },
     {
       "reservation": "",
@@ -18628,7 +18756,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-          "img_local": "img/fb023cbe977085c8.webp"
+          "img_local": "img/fb023cbe977085c8.webp",
+          "img_fb": "gfb/fb023cbe977085c8.webp"
         },
         {
           "group": "공식 이미지",
@@ -18637,7 +18766,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-          "img_local": "img/6239fa21c0f3472f.webp"
+          "img_local": "img/6239fa21c0f3472f.webp",
+          "img_fb": "gfb/6239fa21c0f3472f.webp"
         },
         {
           "group": "공식 이미지",
@@ -18646,13 +18776,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-          "img_local": "img/534a87e7f3ec3f24.webp"
+          "img_local": "img/534a87e7f3ec3f24.webp",
+          "img_fb": "gfb/534a87e7f3ec3f24.webp"
         }
       ],
       "lat": 35.7135,
       "lon": 139.7935,
       "thumb_small": "thumbs/0beaa3e912f57acd.webp",
-      "image_local": "img/0beaa3e912f57acd.webp"
+      "image_local": "img/0beaa3e912f57acd.webp",
+      "image_fb": "gfb/0beaa3e912f57acd.webp"
     },
     {
       "reservation": "추첨 예약",
@@ -18696,7 +18828,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.animatecafe.jp/event/ac000795",
-          "img_local": "img/f21371f4f9fdf110.webp"
+          "img_local": "img/f21371f4f9fdf110.webp",
+          "img_fb": "gfb/f21371f4f9fdf110.webp"
         },
         {
           "group": "공식 이미지",
@@ -18705,11 +18838,13 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.animatecafe.jp/event/ac000795",
-          "img_local": "img/b99ccb931b3147d4.webp"
+          "img_local": "img/b99ccb931b3147d4.webp",
+          "img_fb": "gfb/b99ccb931b3147d4.webp"
         }
       ],
       "thumb_small": "thumbs/c32de844ecdb8adb.webp",
-      "image_local": "img/c32de844ecdb8adb.webp"
+      "image_local": "img/c32de844ecdb8adb.webp",
+      "image_fb": "gfb/c32de844ecdb8adb.webp"
     },
     {
       "reservation": "추첨 예약",
@@ -18753,7 +18888,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.animatecafe.jp/event/ac000795",
-          "img_local": "img/f21371f4f9fdf110.webp"
+          "img_local": "img/f21371f4f9fdf110.webp",
+          "img_fb": "gfb/f21371f4f9fdf110.webp"
         },
         {
           "group": "공식 이미지",
@@ -18762,11 +18898,13 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.animatecafe.jp/event/ac000795",
-          "img_local": "img/b99ccb931b3147d4.webp"
+          "img_local": "img/b99ccb931b3147d4.webp",
+          "img_fb": "gfb/b99ccb931b3147d4.webp"
         }
       ],
       "thumb_small": "thumbs/c32de844ecdb8adb.webp",
-      "image_local": "img/c32de844ecdb8adb.webp"
+      "image_local": "img/c32de844ecdb8adb.webp",
+      "image_fb": "gfb/c32de844ecdb8adb.webp"
     },
     {
       "reservation": "",
@@ -18810,7 +18948,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.animatecafe.jp/event/ac000812",
-          "img_local": "img/7033838f74be373f.webp"
+          "img_local": "img/7033838f74be373f.webp",
+          "img_fb": "gfb/7033838f74be373f.webp"
         },
         {
           "group": "공식 이미지",
@@ -18819,11 +18958,13 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.animatecafe.jp/event/ac000812",
-          "img_local": "img/8b148f8ff86c1de5.webp"
+          "img_local": "img/8b148f8ff86c1de5.webp",
+          "img_fb": "gfb/8b148f8ff86c1de5.webp"
         }
       ],
       "thumb_small": "thumbs/cabb49d71864eef7.webp",
-      "image_local": "img/cabb49d71864eef7.webp"
+      "image_local": "img/cabb49d71864eef7.webp",
+      "image_fb": "gfb/cabb49d71864eef7.webp"
     },
     {
       "reservation": "",
@@ -18867,7 +19008,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.animatecafe.jp/event/ac000805",
-          "img_local": "img/b6cf622e45a84089.webp"
+          "img_local": "img/b6cf622e45a84089.webp",
+          "img_fb": "gfb/b6cf622e45a84089.webp"
         },
         {
           "group": "공식 이미지",
@@ -18876,13 +19018,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.animatecafe.jp/event/ac000805",
-          "img_local": "img/30e9d0c63d50d9f7.webp"
+          "img_local": "img/30e9d0c63d50d9f7.webp",
+          "img_fb": "gfb/30e9d0c63d50d9f7.webp"
         }
       ],
       "lat": 35.731,
       "lon": 139.7148,
       "thumb_small": "thumbs/d3af0e2d785d4713.webp",
-      "image_local": "img/d3af0e2d785d4713.webp"
+      "image_local": "img/d3af0e2d785d4713.webp",
+      "image_fb": "gfb/d3af0e2d785d4713.webp"
     },
     {
       "reservation": "추첨 예약",
@@ -18920,7 +19064,8 @@
       "gallery_source": "https://www.animatecafe.jp/event/ac000813",
       "gallery": [],
       "thumb_small": "thumbs/ca3ea92b09861394.webp",
-      "image_local": "img/ca3ea92b09861394.webp"
+      "image_local": "img/ca3ea92b09861394.webp",
+      "image_fb": "gfb/ca3ea92b09861394.webp"
     },
     {
       "reservation": "추첨 예약",
@@ -18958,7 +19103,8 @@
       "gallery_source": "https://www.animatecafe.jp/event/ac000813",
       "gallery": [],
       "thumb_small": "thumbs/ca3ea92b09861394.webp",
-      "image_local": "img/ca3ea92b09861394.webp"
+      "image_local": "img/ca3ea92b09861394.webp",
+      "image_fb": "gfb/ca3ea92b09861394.webp"
     },
     {
       "reservation": "",
@@ -19002,7 +19148,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://paradoxlive.jp/news/detail.php?id=1136572",
-          "img_local": "img/3fa990533821e5ab.webp"
+          "img_local": "img/3fa990533821e5ab.webp",
+          "img_fb": "gfb/3fa990533821e5ab.webp"
         },
         {
           "group": "공식 이미지",
@@ -19011,13 +19158,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://paradoxlive.jp/news/detail.php?id=1136572",
-          "img_local": "img/5fbc997f3a80c60d.webp"
+          "img_local": "img/5fbc997f3a80c60d.webp",
+          "img_fb": "gfb/5fbc997f3a80c60d.webp"
         }
       ],
       "lat": 35.6618,
       "lon": 139.7007,
       "thumb_small": "thumbs/c6f59a8860d1bea6.webp",
-      "image_local": "img/c6f59a8860d1bea6.webp"
+      "image_local": "img/c6f59a8860d1bea6.webp",
+      "image_fb": "gfb/c6f59a8860d1bea6.webp"
     },
     {
       "reservation": "",
@@ -19061,13 +19210,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://cocollabo.net/pages/bungosd-2026",
-          "img_local": "img/a216a2d12e2d9e6d.webp"
+          "img_local": "img/a216a2d12e2d9e6d.webp",
+          "img_fb": "gfb/a216a2d12e2d9e6d.webp"
         }
       ],
       "lat": 35.692,
       "lon": 139.7036,
       "thumb_small": "thumbs/cbd5481f298f82a0.webp",
-      "image_local": "img/cbd5481f298f82a0.webp"
+      "image_local": "img/cbd5481f298f82a0.webp",
+      "image_fb": "gfb/cbd5481f298f82a0.webp"
     },
     {
       "reservation": "",
@@ -19107,7 +19258,8 @@
       "lat": 34.6655,
       "lon": 135.5008,
       "thumb_small": "thumbs/5b3c65dd86942bce.webp",
-      "image_local": "img/5b3c65dd86942bce.webp"
+      "image_local": "img/5b3c65dd86942bce.webp",
+      "image_fb": "gfb/5b3c65dd86942bce.webp"
     },
     {
       "reservation": "",
@@ -19151,13 +19303,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://uketsu.jp/museum/",
-          "img_local": "img/9f0c4047647c0e83.webp"
+          "img_local": "img/9f0c4047647c0e83.webp",
+          "img_fb": "gfb/9f0c4047647c0e83.webp"
         }
       ],
       "lat": 35.6237,
       "lon": 139.7477,
       "thumb_small": "thumbs/52cd3cc071e49467.webp",
-      "image_local": "img/52cd3cc071e49467.webp"
+      "image_local": "img/52cd3cc071e49467.webp",
+      "image_fb": "gfb/52cd3cc071e49467.webp"
     },
     {
       "reservation": "",
@@ -19201,13 +19355,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
-          "img_local": "img/a94e320c2b43a9c1.webp"
+          "img_local": "img/a94e320c2b43a9c1.webp",
+          "img_fb": "gfb/a94e320c2b43a9c1.webp"
         }
       ],
       "lat": 35.6816,
       "lon": 139.7672,
       "thumb_small": "thumbs/e34abc5cda5a8789.webp",
-      "image_local": "img/e34abc5cda5a8789.webp"
+      "image_local": "img/e34abc5cda5a8789.webp",
+      "image_fb": "gfb/e34abc5cda5a8789.webp"
     },
     {
       "reservation": "",
@@ -19251,13 +19407,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
-          "img_local": "img/a94e320c2b43a9c1.webp"
+          "img_local": "img/a94e320c2b43a9c1.webp",
+          "img_fb": "gfb/a94e320c2b43a9c1.webp"
         }
       ],
       "lat": 34.7019,
       "lon": 135.4964,
       "thumb_small": "thumbs/e34abc5cda5a8789.webp",
-      "image_local": "img/e34abc5cda5a8789.webp"
+      "image_local": "img/e34abc5cda5a8789.webp",
+      "image_fb": "gfb/e34abc5cda5a8789.webp"
     },
     {
       "reservation": "앱 예약",
@@ -19301,13 +19459,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.sweets-paradise.jp/collaboration/shinycolors",
-          "img_local": "img/df97dc32f5f25665.webp"
+          "img_local": "img/df97dc32f5f25665.webp",
+          "img_fb": "gfb/df97dc32f5f25665.webp"
         }
       ],
       "lat": 34.646,
       "lon": 135.5135,
       "thumb_small": "thumbs/51d7dcf6af5bcfcc.webp",
-      "image_local": "img/51d7dcf6af5bcfcc.webp"
+      "image_local": "img/51d7dcf6af5bcfcc.webp",
+      "image_fb": "gfb/51d7dcf6af5bcfcc.webp"
     },
     {
       "reservation": "앱 예약",
@@ -19351,13 +19511,15 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.sweets-paradise.jp/collaboration/shinycolors",
-          "img_local": "img/df97dc32f5f25665.webp"
+          "img_local": "img/df97dc32f5f25665.webp",
+          "img_fb": "gfb/df97dc32f5f25665.webp"
         }
       ],
       "lat": 35.6901,
       "lon": 139.706,
       "thumb_small": "thumbs/51d7dcf6af5bcfcc.webp",
-      "image_local": "img/51d7dcf6af5bcfcc.webp"
+      "image_local": "img/51d7dcf6af5bcfcc.webp",
+      "image_fb": "gfb/51d7dcf6af5bcfcc.webp"
     },
     {
       "reservation": "",
@@ -19401,7 +19563,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
-          "img_local": "img/76c396f0048cda6a.webp"
+          "img_local": "img/76c396f0048cda6a.webp",
+          "img_fb": "gfb/76c396f0048cda6a.webp"
         },
         {
           "group": "공식 이미지",
@@ -19410,7 +19573,8 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
-          "img_local": "img/49ae38ad9b841908.webp"
+          "img_local": "img/49ae38ad9b841908.webp",
+          "img_fb": "gfb/49ae38ad9b841908.webp"
         },
         {
           "group": "공식 이미지",
@@ -19419,13 +19583,485 @@
           "caption_ko": "",
           "caption_ja": "",
           "source": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
-          "img_local": "img/0b2c920c4d0c90cf.webp"
+          "img_local": "img/0b2c920c4d0c90cf.webp",
+          "img_fb": "gfb/0b2c920c4d0c90cf.webp"
         }
       ],
       "lat": 35.7302,
       "lon": 139.7164,
       "thumb_small": "thumbs/f643e1b3dd67d63a.webp",
-      "image_local": "img/f643e1b3dd67d63a.webp"
+      "image_local": "img/f643e1b3dd67d63a.webp",
+      "image_fb": "gfb/f643e1b3dd67d63a.webp"
+    },
+    {
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "checked_date": "2026-10-25",
+      "source_tier": "official",
+      "verified_at": "2026-10-25",
+      "translation_check": true,
+      "id": "fukuoka-hunterxhunter-gi-popup-hakatamarui",
+      "title_ko": "헌터×헌터 팝업스토어 「그리드 아일랜드 아카이브」 (하카타 마루이)",
+      "title_ja": "TVアニメ『HUNTER×HUNTER』POP UP STORE~GREED ISLAND ARCHIVES~",
+      "category": "팝업스토어",
+      "venue": "하카타 마루이 5층 이벤트 스페이스",
+      "start": "2026-11-14",
+      "end": "2026-11-29",
+      "reservation": "11/14·15 일부 시간대만 LINE 사전 추첨 예약",
+      "price": "입장 무료",
+      "official_url": "https://www.0101.co.jp/090/event/detail.html?article_seq=144415&article_type=sto",
+      "source_url": "https://meeto-ma.com/lp/hunterhunter-GI-popup",
+      "notes": "10:00~19:00 (매장 영업시간과 달라요). 11/14·15의 10:10~14:30 입장분은 LINE 추첨(신청 10/23 17:00~11/1 23:59, 발표 11/4 12시경), 이후 빈자리는 11/5 17:00부터 선착순",
+      "map_query": "博多マルイ",
+      "thumbnail": "https://www.0101.co.jp/contents2/storenews/090/29baa99245bb279e8d4e1273ea78d8c8_02_01_l.webp",
+      "evidence": [
+        {
+          "url": "https://www.0101.co.jp/090/event/detail.html?article_seq=144415&article_type=sto",
+          "tier": "official",
+          "quote": "TVアニメ『HUNTER×HUNTER』POP UP STORE~GREED ISLAND ARCHIVES~ MADHOUSE描き下ろしイラスト、グリードアイランド編のアニメ原画や場面写を使用したグッズが登場！ 【開催情報】 ◆博多マルイ 開催期間：2026/11/14(土)~11/29(日) 開催場所：５Fイベントスペース 営業時間：10:00~19:00",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "「헌터×헌터」 그리드 아일랜드 편을 테마로 한 팝업이에요. 매드하우스가 새로 그린 일러스트와 애니 원화·장면 사진을 쓴 굿즈가 나와요.",
+      "lat": 33.58884,
+      "lon": 130.419357,
+      "summary_source": "https://www.0101.co.jp/090/event/detail.html?article_seq=144415&article_type=sto",
+      "thumbnail_source": "https://www.0101.co.jp/090/event/detail.html?article_seq=144415&article_type=sto",
+      "thumb_small": "thumbs/a256416b7fd4c256.webp",
+      "image_fb": "gfb/a256416b7fd4c256.webp",
+      "image_local": "img/a256416b7fd4c256.webp"
+    },
+    {
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "checked_date": "2026-10-25",
+      "source_tier": "official",
+      "verified_at": "2026-10-25",
+      "translation_check": true,
+      "id": "fukuoka-shigureui-uitopia-mini",
+      "title_ko": "시구레 우이 전시 「Uitopia (mini_FUKUOKA)」 (애니메이트 라식 후쿠오카 텐진)",
+      "title_ja": "しぐれうい展2026「Uitopia (mini_FUKUOKA)」",
+      "category": "전시·행사",
+      "venue": "애니메이트 라식 후쿠오카 텐진 (후쿠오카 미쓰코시 8층)",
+      "start": "2026-10-24",
+      "end": "2026-11-29",
+      "reservation": "10/24·25만 LINE 입장 정리권, 이후 자유 입장",
+      "price": "입장 무료",
+      "official_url": "https://7th.uishigure.com/uitopia/news/229/",
+      "source_url": "https://www.animate.co.jp/onlyshop/52151/",
+      "notes": "10:00~20:00 (매장 영업시간 기준). 굿즈 1,100엔마다 잡지 표지풍 카드(전 3종) 특전. 전시 복제 원화(A2)는 웹 추첨 판매",
+      "map_query": "ラシック福岡天神",
+      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/08/1787032291-36ab9272a7e884aac02e3f4ae44d032e.jpg",
+      "thumbnail_source": "https://www.animate.co.jp/onlyshop/52151/",
+      "evidence": [
+        {
+          "url": "https://7th.uishigure.com/uitopia/news/229/",
+          "tier": "official",
+          "quote": "開催日時： 2026年10月24日（土）〜11月29日（日）10:00～20:00 ※店舗の営業時間に準じます 開催場所：アニメイトラシック福岡天神 〒810-8544 福岡県福岡市中央区天神2-1-1 ラシック福岡天神8階 入場料：無料",
+          "checked": "2026-10-25"
+        },
+        {
+          "url": "https://www.animate.co.jp/onlyshop/52151/",
+          "tier": "official",
+          "quote": "開催期間 : 2026年10月24日(土)～2026年11月29日(日) 開催店舗 : ラシック福岡天神店",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "일러스트레이터 겸 버튜버 시구레 우이의 기획전 「Uitopia」 순회전이에요. 하라주쿠 본전 전시 일부를 무료로 보고 공식 굿즈도 살 수 있어요.",
+      "lat": 33.587925,
+      "lon": 130.400894,
+      "summary_source": "https://7th.uishigure.com/uitopia/news/229/",
+      "thumb_small": "thumbs/f382cb0206ca9b6c.webp",
+      "image_local": "img/f382cb0206ca9b6c.webp"
+    },
+    {
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "checked_date": "2026-10-25",
+      "source_tier": "official",
+      "verified_at": "2026-10-25",
+      "translation_check": true,
+      "id": "fukuoka-bungosd-art-design-exhibition",
+      "title_ko": "문호 스트레이독스 ART & DESIGN 전시회 (후쿠오카)",
+      "title_ja": "文豪ストレイドッグス ART & DESIGN EXHIBITION（福岡会場）",
+      "category": "전시·행사",
+      "venue": "Space Galleria FUKUOKA (라식 후쿠오카 텐진 8층)",
+      "start": "2026-11-20",
+      "end": "2026-12-21",
+      "reservation": "11/20~22는 일시 지정권, 11/23부터 기간 내 유효권",
+      "price": "예매 2,000엔 · 당일 2,200엔 (세금 포함)",
+      "official_url": "https://bungosd-art-exhibition.com/",
+      "source_url": "https://www.animate.co.jp/spacegalleria/fukuoka/",
+      "notes": "10:00~20:00 (마지막 입장 30분 전, 마지막 날 12/21은 17:00 종료). 예매는 이플러스·애니메이트 티켓에서 11/19까지. 입장 특전 엽서(랜덤)",
+      "map_query": "ラシック福岡天神",
+      "thumbnail": "https://bungosd-art-exhibition.com/ogp.png",
+      "evidence": [
+        {
+          "url": "https://bungosd-art-exhibition.com/",
+          "tier": "official",
+          "quote": "会場 Space Galleria FUKUOKA 住所 〒810-8544 福岡市中央区天神2-1-1 ラシック福岡天神8F 開催期間 2026年11月20日(金)～12月21日(月) 開催時間 10:00～20:00",
+          "checked": "2026-10-25"
+        },
+        {
+          "url": "https://www.animate.co.jp/spacegalleria/fukuoka/",
+          "tier": "official",
+          "quote": "文豪ストレイドッグス ART & DESIGN EXHIBITION 2026.11.20（金）〜2026.12.21（月）",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "TV 애니 「문호 스트레이독스」 10주년 기념 전시의 후쿠오카 순회전이에요. 새로 그린 메인 비주얼, 역대 재킷 일러스트 패널, 프로젝션 매핑 등 아트·디자인 중심으로 보여줘요.",
+      "lat": 33.587925,
+      "lon": 130.400894,
+      "summary_source": "https://bungosd-art-exhibition.com/",
+      "thumbnail_source": "https://bungosd-art-exhibition.com/",
+      "thumb_small": "thumbs/8a440b33388f90d2.webp",
+      "image_local": "img/8a440b33388f90d2.webp"
+    },
+    {
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "checked_date": "2026-10-25",
+      "source_tier": "official",
+      "verified_at": "2026-10-25",
+      "translation_check": true,
+      "id": "fukuoka-chiikawa-popup-mitsukoshi",
+      "title_ko": "치이카와 팝업스토어 (후쿠오카 미쓰코시)",
+      "title_ja": "ちいかわ POP UP STORE（福岡三越）",
+      "category": "팝업스토어",
+      "venue": "후쿠오카 미쓰코시 9층 미쓰코시 갤러리",
+      "start": "2026-10-16",
+      "end": "2026-11-03",
+      "reservation": "LINE 입장 정리권 (상황에 따라 변경)",
+      "price": "입장 무료",
+      "official_url": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+      "source_url": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+      "notes": "10:00~19:00 (마지막 날 17:00 종료). 「먀우마!! 치이카와 초밥」 팝업·나가노 마켓·코우펜짱 매장도 함께 열려요. 신분증 확인 있음",
+      "map_query": "福岡三越",
+      "thumbnail": "https://www.iwataya-mitsukoshi.mistore.jp/content/iwataya-mitsukoshi/mistore/mitsukoshi/event_calendar/chiikawa/_jcr_content/root/sectioning_1010589857/sectioning/sectioning_2080733782/sectioning/sectioning/carousel/item1.transform/thumbnail/img.jpg",
+      "evidence": [
+        {
+          "url": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+          "tier": "official",
+          "quote": "ちいかわ POP UP STORE 2026年10月16日(金) ～ 2026年11月3日(火·祝) 午前10時～午後7時 [最終日午後5時終了]",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "치이카와 굿즈가 가득한 팝업으로, 기념 굿즈와 신상품을 팔아요. 치이카와 초밥 팝업과 나가노 마켓도 같은 층에서 열려요.",
+      "lat": 33.587925,
+      "lon": 130.400894,
+      "summary_source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+      "thumbnail_source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+      "thumb_small": "thumbs/4a25c33e9d24a9d1.webp",
+      "image_fb": "gfb/4a25c33e9d24a9d1.webp",
+      "image_local": "img/4a25c33e9d24a9d1.webp"
+    },
+    {
+      "id": "fukuoka-haikyu-and-gallery",
+      "title_ko": "하이큐!! × and GALLERY 콜라보 카페 (후쿠오카점)",
+      "title_ja": "ハイキュー!! × and GALLERY コラボカフェ 福岡店",
+      "category": "콜라보카페",
+      "area": "후쿠오카",
+      "venue": "and GALLERY 후쿠오카점 (LOVELESS COFFEE 안 1층, 야쿠인)",
+      "start": "2026-11-03",
+      "end": "2026-12-06",
+      "reservation": "선택 (예약 권장)",
+      "price": "예약 330엔/인 (세금 포함), 푸드 1,200~1,600엔, 드링크 850엔~",
+      "official_url": "https://collabocafe.and-gallery.com/haikyu",
+      "source_url": "https://and-gallery.com/haikyu/",
+      "notes": "11:00~20:10. 전국 6개 매장 동시 개최(메뉴·굿즈 공통). 사전 예약 시 엽서 특전(랜덤 1장)",
+      "map_query": "福岡県福岡市中央区大宮1-3-22",
+      "evidence": [
+        {
+          "url": "https://and-gallery.com/haikyu/",
+          "tier": "official",
+          "quote": "アニメ「ハイキュー!!」のコラボカフェを池袋店・有楽町店・なんば1号店・名古屋1号店・福岡店・仙台店の6店舗で、2026年11月3日(火・祝)〜12月6日(日)の期間にて開催いたします。",
+          "checked": "2026-10-25"
+        },
+        {
+          "url": "https://and-gallery.com/",
+          "tier": "official",
+          "quote": "福岡店 〒810-0013 福岡県福岡市中央区大宮1-3-22 1F LOVELESS COFFEE内 OPEN 11:00/CLOSE 20:10",
+          "checked": "2026-10-25"
+        }
+      ],
+      "summary_ko": "애니메이션 「하이큐!!」 콜라보 카페의 후쿠오카 매장이에요. 캐릭터를 이미지한 메뉴와 새로 그린 비주얼 굿즈를 판매하고, 사전 예약하면 엽서 특전(랜덤 1장)을 줘요.",
+      "gallery": [
+        {
+          "group": "푸드 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_f87b954d-c987-4482-861a-8e256971370b.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_f87b954d-c987-4482-861a-8e256971370b.webp",
+          "caption_ko": "히나타의 달걀밥(TKG) 스타일 파르페",
+          "caption_ja": "日向のたまごかけごはん風パフェ",
+          "price": "1,200엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/e2e98de5f3066536.webp",
+          "img_local": "img/e2e98de5f3066536.webp"
+        },
+        {
+          "group": "푸드 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_2e2a6d52-14d9-4652-bf8f-3ed2f2d9d740.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_2e2a6d52-14d9-4652-bf8f-3ed2f2d9d740.webp",
+          "caption_ko": "카게야마의 흑돼지 카레 온천달걀 토핑",
+          "caption_ja": "影山の黒ポークカレー温卵のせ",
+          "price": "1,600엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/8cf8c1b4672d13e1.webp",
+          "img_local": "img/8cf8c1b4672d13e1.webp"
+        },
+        {
+          "group": "푸드 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_c25e9822-5510-4e17-a19f-abb86ad6cba0.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_c25e9822-5510-4e17-a19f-abb86ad6cba0.webp",
+          "caption_ko": "츠키시마의 쇼트케이크 스타일 달걀말이",
+          "caption_ja": "月島のショートケーキ風たまご焼き",
+          "price": "1,200엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/c9f89e8bb6c19b31.webp",
+          "img_local": "img/c9f89e8bb6c19b31.webp"
+        },
+        {
+          "group": "푸드 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_e4ee0f92-cc78-4d0c-850c-d8f6d3ecefa7.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_e4ee0f92-cc78-4d0c-850c-d8f6d3ecefa7.webp",
+          "caption_ko": "사와무라의 간장 라멘",
+          "caption_ja": "澤村の醤油ラーメン",
+          "price": "1,500엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/5cc4aac63debb41e.webp",
+          "img_local": "img/5cc4aac63debb41e.webp"
+        },
+        {
+          "group": "푸드 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_1b72f9ff-9ef0-44f9-a8ee-201aa3bd3c6c.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_1b72f9ff-9ef0-44f9-a8ee-201aa3bd3c6c.webp",
+          "caption_ko": "스가와라의 아주 매운 마파두부",
+          "caption_ja": "菅原の激辛麻婆豆腐",
+          "price": "1,500엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/43e8aa65872ce08e.webp",
+          "img_local": "img/43e8aa65872ce08e.webp"
+        },
+        {
+          "group": "푸드 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_1c2986f2-1a31-419d-8630-f31d8166c961.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3936x2624_v-frms_1c2986f2-1a31-419d-8630-f31d8166c961.webp",
+          "caption_ko": "아즈마네의 돈코츠 라멘",
+          "caption_ja": "東峰のとんこつラーメン",
+          "price": "1,500엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/b33e47da3dddf9a4.webp",
+          "img_local": "img/b33e47da3dddf9a4.webp"
+        },
+        {
+          "group": "드링크 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_d0db1547-130b-4de4-9555-e275c608e2d7.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_d0db1547-130b-4de4-9555-e275c608e2d7.webp",
+          "caption_ko": "히나타의 오렌지 믹스 주스",
+          "caption_ja": "日向のオレンジミックスジュース",
+          "price": "850엔 / 드링크 참 포함 1,500엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/9c0734022e16dcf0.webp",
+          "img_local": "img/9c0734022e16dcf0.webp"
+        },
+        {
+          "group": "드링크 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_330866d9-0064-4e9e-915a-a1efa481025b.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_330866d9-0064-4e9e-915a-a1efa481025b.webp",
+          "caption_ko": "카게야마의 요구르트 플로트",
+          "caption_ja": "影山のヨーグルトフロート",
+          "price": "850엔 / 드링크 참 포함 1,500엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/4e1c1256b291800e.webp",
+          "img_local": "img/4e1c1256b291800e.webp"
+        },
+        {
+          "group": "드링크 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_a03753f7-1f48-476d-a323-b8a5211d3f41.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_a03753f7-1f48-476d-a323-b8a5211d3f41.webp",
+          "caption_ko": "츠키시마의 레몬 젤리 드링크",
+          "caption_ja": "月島のレモンゼリードリンク",
+          "price": "850엔 / 드링크 참 포함 1,500엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/dff131e7a3ef3b9a.webp",
+          "img_local": "img/dff131e7a3ef3b9a.webp"
+        },
+        {
+          "group": "드링크 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_9c63a12d-90c7-4e18-a93c-1acd36cfb740.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_9c63a12d-90c7-4e18-a93c-1acd36cfb740.webp",
+          "caption_ko": "사와무라의 키위 드링크",
+          "caption_ja": "澤村のキウイドリンク",
+          "price": "850엔 / 드링크 참 포함 1,500엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/6a2d99ad543dc3ef.webp",
+          "img_local": "img/6a2d99ad543dc3ef.webp"
+        },
+        {
+          "group": "드링크 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_9b62cee2-d973-4716-a02a-06aaf71e1f1b.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_9b62cee2-d973-4716-a02a-06aaf71e1f1b.webp",
+          "caption_ko": "스가와라의 터쿼이즈 블루 밀크셰이크",
+          "caption_ja": "菅原のターコイズブルーミルクセーキ",
+          "price": "850엔 / 드링크 참 포함 1,500엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/90a45c2a8b86bf31.webp",
+          "img_local": "img/90a45c2a8b86bf31.webp"
+        },
+        {
+          "group": "드링크 메뉴",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_6fbf914c-f8dd-48fa-a264-252f7c24f8b9.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-3024x3024_v-frms_6fbf914c-f8dd-48fa-a264-252f7c24f8b9.webp",
+          "caption_ko": "아즈마네의 아사이 플로트",
+          "caption_ja": "東峰のアサイーフロート",
+          "price": "850엔 / 드링크 참 포함 1,500엔 (세금 포함)",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/4825cd11c85f7e36.webp",
+          "img_local": "img/4825cd11c85f7e36.webp"
+        },
+        {
+          "group": "특전",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_5296d9fc-3319-4ccf-a876-2da5066bfea0.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_5296d9fc-3319-4ccf-a876-2da5066bfea0.webp",
+          "caption_ko": "드링크 참 (수베니어)",
+          "caption_ja": "スーベニア ドリンクチャーム（全6種）",
+          "kinds": "전 6종 · 참 포함 드링크 1잔당 랜덤 1개",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/2631867fb34d4c93.webp",
+          "img_local": "img/2631867fb34d4c93.webp"
+        },
+        {
+          "group": "특전",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_d53d73f8-0b4f-48e5-8ec0-df147d11aa61.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_d53d73f8-0b4f-48e5-8ec0-df147d11aa61.webp",
+          "caption_ko": "종이 코스터",
+          "caption_ja": "メニュー注文特典 ペーパーコースター(全6種)",
+          "kinds": "전 6종 · 콜라보 메뉴·드링크 1개 주문당 랜덤 1장",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/9414e3e16ae2e294.webp",
+          "img_local": "img/9414e3e16ae2e294.webp"
+        },
+        {
+          "group": "특전",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_6cab6e85-8ed3-42c8-a593-a4b1780071ab.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_6cab6e85-8ed3-42c8-a593-a4b1780071ab.webp",
+          "caption_ko": "스티커",
+          "caption_ja": "グッズ購入特典 ステッカー(全6種)",
+          "kinds": "전 6종 · 굿즈 3,000엔(세금 포함)마다 랜덤 1장",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/ed7606f8e7ad05b5.webp",
+          "img_local": "img/ed7606f8e7ad05b5.webp"
+        },
+        {
+          "group": "특전",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_2c23c994-c30f-45cc-a7e4-4aa600123a84.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_2c23c994-c30f-45cc-a7e4-4aa600123a84.webp",
+          "caption_ko": "엽서 (사전 예약 특전)",
+          "caption_ja": "事前予約特典 ポストカード(全6種)",
+          "kinds": "전 6종 · 사전 예약(330엔) 이용 시 전원 랜덤 1장",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/d61ac61d572857c7.webp",
+          "img_local": "img/d61ac61d572857c7.webp"
+        },
+        {
+          "group": "굿즈",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_53ec4f76-3d55-458a-93b4-852be4bb5d0a.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_53ec4f76-3d55-458a-93b4-852be4bb5d0a.webp",
+          "caption_ko": "트레이딩 캔뱃지",
+          "caption_ja": "トレーディング缶バッジ(全6種)",
+          "price": "550엔 (세금 포함)",
+          "kinds": "전 6종 · 랜덤",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/051679232b491b63.webp",
+          "img_local": "img/051679232b491b63.webp"
+        },
+        {
+          "group": "굿즈",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_5821f099-8f1e-48c8-96c2-3431765173b4.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_5821f099-8f1e-48c8-96c2-3431765173b4.webp",
+          "caption_ko": "BIG 아크릴 스탠드",
+          "caption_ja": "BIGアクリルスタンド(全6種)",
+          "price": "각 3,300엔 (세금 포함)",
+          "kinds": "전 6종",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/7347e203536d936f.webp",
+          "img_local": "img/7347e203536d936f.webp"
+        },
+        {
+          "group": "굿즈",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_1178c14a-25a5-480b-8fc1-d869ee6f30e5.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_1178c14a-25a5-480b-8fc1-d869ee6f30e5.webp",
+          "caption_ko": "트레이딩 미니 아크릴 스탠드",
+          "caption_ja": "トレーディングミニアクリルスタンド(全6種)",
+          "price": "850엔 (세금 포함)",
+          "kinds": "전 6종 · 랜덤",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/88750c795c89f3f6.webp",
+          "img_local": "img/88750c795c89f3f6.webp"
+        },
+        {
+          "group": "굿즈",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_3a730f43-8a20-4328-8bbf-c8e8969e348a.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_3a730f43-8a20-4328-8bbf-c8e8969e348a.webp",
+          "caption_ko": "네임 스타일 아크릴 키홀더",
+          "caption_ja": "ネーム風アクリルキーホルダー(全6種)",
+          "price": "750엔 (세금 포함)",
+          "kinds": "전 6종",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/7a9c6d62ed9d3085.webp",
+          "img_local": "img/7a9c6d62ed9d3085.webp"
+        },
+        {
+          "group": "굿즈",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_6cbe7a5b-96ff-4f0a-9232-ca39808953cd.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_6cbe7a5b-96ff-4f0a-9232-ca39808953cd.webp",
+          "caption_ko": "클리어 파일",
+          "caption_ja": "クリアファイル(全1種)",
+          "price": "770엔 (세금 포함)",
+          "kinds": "전 1종",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/9da6a2431a6116cc.webp",
+          "img_local": "img/9da6a2431a6116cc.webp"
+        },
+        {
+          "group": "굿즈",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_d5c47dd9-1c01-44fa-8960-c24d47acddb3.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_d5c47dd9-1c01-44fa-8960-c24d47acddb3.webp",
+          "caption_ko": "페이스 핸드 롱 타월",
+          "caption_ja": "フェイスハンドロングタオル(全1種)",
+          "price": "1,320엔 (세금 포함)",
+          "kinds": "전 1종",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/9a204f894f354f57.webp",
+          "img_local": "img/9a204f894f354f57.webp"
+        },
+        {
+          "group": "굿즈",
+          "img": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_670a6aab-5071-460b-8f80-8bfd32f5cea7.webp",
+          "full": "https://storage.googleapis.com/studio-design-asset-files/projects/V5a7NDKnqR/s-960x720_v-fs_670a6aab-5071-460b-8f80-8bfd32f5cea7.webp",
+          "caption_ko": "트레이딩 클리어 카드",
+          "caption_ja": "トレーディングクリアカード(全7種)",
+          "price": "660엔 (세금 포함)",
+          "kinds": "전 7종 · 랜덤",
+          "source": "https://collabocafe.and-gallery.com/haikyu",
+          "img_fb": "gfb/731af90ab76ca6fd.webp",
+          "img_local": "img/731af90ab76ca6fd.webp"
+        }
+      ],
+      "gallery_note": "메뉴·굿즈 사진은 공식 사이트 이미지예요",
+      "gallery_source": "https://collabocafe.and-gallery.com/haikyu",
+      "thumbnail": "https://storage.googleapis.com/production-os-assets/assets/f8b85326-9d48-4bd9-b1e8-c3debd25433e",
+      "thumbnail_source": "https://collabocafe.and-gallery.com/haikyu",
+      "region": "fukuoka",
+      "checked_date": "2026-10-25",
+      "source_tier": "official",
+      "verified_at": "2026-10-25",
+      "summary_source": "https://collabocafe.and-gallery.com/haikyu",
+      "translation_check": true,
+      "lat": 33.578739,
+      "lon": 130.402298,
+      "thumb_small": "thumbs/139dc590f61e4dbb.webp",
+      "image_fb": "gfb/139dc590f61e4dbb.webp",
+      "image_local": "img/139dc590f61e4dbb.webp"
     }
   ]
 }

@@ -243,6 +243,16 @@
       "translation_check": true,
       "source_tier": "aggregator",
       "verified_at": "2026-10-22"
+    },
+    {
+      "title_ko": "헌터×헌터 NEON DINER 콜라보 카페 (애니메이트 카페 스탠드 라식 후쿠오카 텐진)",
+      "title_ja": "HUNTER×HUNTER（NEON DINER）",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "category": "콜라보카페",
+      "official_url": "https://www.animatecafe.jp/event/ac000779_2",
+      "lead": "fukuoka-otaku.net: 2026-11-19~12-15",
+      "reason": "공식 페이지에서 후쿠오카 회장 날짜 문구 미확인 (2026-10-25)"
     }
   ],
   "base_date": "2026-10-22"

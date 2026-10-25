@@ -16,5 +16,6 @@
 {"id":"junkudo_ike","region":"tokyo","type":"book","ko":"준쿠도 이케부쿠로 본점","ja":"ジュンク堂書店 池袋本店","desc":"건물 한 동 전체(지하1~9층)가 서점, 만화 코너도 커요","lat":35.72686,"lon":139.712143,"url":"https://honto.jp/store/detail_1570019_14HB320.html"},
 {"id":"osakacastle","region":"osaka","type":"landmark","ko":"오사카성 천수각","ja":"大阪城天守閣","desc":"오사카를 대표하는 성, 천수각은 박물관이에요","lat":34.6873,"lon":135.5259,"url":"https://www.osakacastle.net/"},
 {"id":"animate_ume","region":"osaka","type":"shop","ko":"애니메이트 우메다","ja":"アニメイト梅田","desc":"차야마치 NU차야마치 3층의 애니메이트","lat":34.706814,"lon":135.499069,"url":"https://www.animate.co.jp/shop/umeda/"},
-{"id":"mandarake_gcs","region":"osaka","type":"shop","ko":"만다라케 그랜드 카오스","ja":"まんだらけ グランドカオス","desc":"오사카의 대형 만다라케 매장","lat":34.659107,"lon":135.505692,"url":"https://www.mandarake.co.jp/dir/gcs/"}
+{"id":"mandarake_gcs","region":"osaka","type":"shop","ko":"만다라케 그랜드 카오스","ja":"まんだらけ グランドカオス","desc":"오사카의 대형 만다라케 매장","lat":34.659107,"lon":135.505692,"url":"https://www.mandarake.co.jp/dir/gcs/"},
+{"id":"animate-lachic-tenjin","region":"fukuoka","type":"shop","ko":"애니메이트 라식 후쿠오카 텐진","ja":"アニメイトラシック福岡天神","desc":"2026년 10월 문 연 규슈 최대 애니메이트, 전시장·테이크아웃 카페 스탠드도 있어요","lat":33.587925,"lon":130.400894,"url":"https://www.animate.co.jp/news/48611/"}
 ]}

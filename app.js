@@ -4,8 +4,8 @@ const hasGal=e=>!!(e.gallery&&e.gallery.length);const hasDetail=e=>!!e;const MAG
 const CATCLS={"팝업스토어":"c-pop","콜라보카페":"c-cafe","전시·행사":"c-expo","축제":"c-fest","가챠":"c-gacha","쿠지":"c-kuji","플리마켓":"c-flea","잡지 부록":"c-mag"};
 const st={qd:"all",cat:"",area:"",q:"",s:"all",from:"",to:"",bm:false,region:"tokyo"};
 // 🗾 지역(도쿄/오사카) 토글: events.json의 region(tokyo/osaka/all). all(전국: 가챠·쿠지·잡지 부록)은 두 지역 모두에 보여요.
-const REG={tokyo:"도쿄",osaka:"오사카"};const REGK="qj_region";
-const regionOf=e=>e.region||(e.area==="오사카"?"osaka":e.area==="전국"?"all":"tokyo");
+const REG={tokyo:"도쿄",osaka:"오사카",fukuoka:"후쿠오카"};const REGK="qj_region";
+const regionOf=e=>e.region||(e.area==="오사카"?"osaka":e.area==="후쿠오카"?"fukuoka":e.area==="전국"?"all":"tokyo");
 const inRegion=e=>{const r=regionOf(e);return r==="all"||r===st.region};
 (()=>{let r=null;try{r=new URLSearchParams(location.search).get("region")}catch(e){}if(!REG[r]){try{r=localStorage.getItem(REGK)}catch(e){}}st.region=REG[r]?r:"tokyo";window.QJ_REGION=st.region;document.documentElement.setAttribute("data-region",st.region);document.querySelectorAll("#region button[data-r]").forEach(b=>{const on=b.dataset.r===st.region;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on)})})();
 // ⭐ 북마크: 이 기기 브라우저(localStorage)에만 저장. 묶인 카드도 같은 키(seriesKey)로 저장돼요.
@@ -125,7 +125,7 @@ function render(keep){if(!keep)PAGE=0;
   CARDS=rows.map(r=>r.e);
   {const vl=document.getElementById("vline");if(vl){const n=units().filter(({e,x})=>inRegion(e)&&(x.k==="now"||x.k==="ending")).length;vl.innerHTML=`지금 ${REG[st.region]}에서 열리는 애니·팝업 <b>${n}건</b>`}}
   window.QJCAL&&QJCAL(CARDS);
-  document.getElementById("count").textContent=st.bm?`${rows.length}건 (도쿄·오사카 전체)`:`${REG[st.region]} ${rows.length}건`;
+  document.getElementById("count").textContent=st.bm?`${rows.length}건 (전 지역)`:`${REG[st.region]} ${rows.length}건`;
   const fc=document.getElementById("fcnt");if(fc){const n=(st.area?1:0)+((st.from||st.to)?1:0)+(st.s!=="all"?1:0);fc.hidden=!n;fc.textContent=n?`${n}개 적용 중`:""}
   document.getElementById("magintro").hidden=st.bm||st.cat!==MAG;
   const NP=Math.max(1,Math.ceil(rows.length/PER));PAGE=Math.min(Math.max(0,PAGE),NP-1);const P0=PAGE*PER;
