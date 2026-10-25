@@ -271,6 +271,24 @@
       "official_url": "https://www.animate.co.jp/",
       "reason": "공식 페이지에서 기간 확인 못함",
       "checked_date": "2026-10-25"
+    },
+    {
+      "id": "pending-osaka-kemono-teatime",
+      "title_ja": "けものティータイム POP UP（CAFE EPIC TALE 日本橋）",
+      "area": "오사카",
+      "region": "osaka",
+      "official_url": "https://www.cafe-epictale.jp/",
+      "reason": "CAFE EPIC TALE 공식 홈에는 같은 기간(11/18~11/29) 「古書店街の橋姫 々」 순회만 있고 けものティータイム 일정이 없음",
+      "checked_date": "2026-10-25"
+    },
+    {
+      "id": "pending-osaka-hanakokun2-oni-nambamarui",
+      "title_ja": "地縛少年花子くん2 鬼ver. POP UP（なんばマルイ5F）",
+      "area": "오사카",
+      "region": "osaka",
+      "official_url": "",
+      "reason": "공식 페이지 못 찾음 (제보: 11/14~11/29)",
+      "checked_date": "2026-10-25"
     }
   ],
   "base_date": "2026-10-22"
