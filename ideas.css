@@ -84,3 +84,13 @@
 .wmlogo:hover{transform:scale(1.05)}
 .wm .wma{transform:rotate(-4deg)}
 @media(max-width:640px){.wmlogo{width:36px;height:36px}}
+/* 헤더 지역 배너 */
+.hdbg{position:absolute;inset:0;z-index:-1;pointer-events:none;overflow:hidden}
+.hdbg-i{position:absolute;top:0;right:0;height:100%;width:min(62%,1000px);background:no-repeat right center/auto 100%;opacity:0;transition:opacity .6s ease;
+  -webkit-mask-image:linear-gradient(90deg,transparent 0,rgba(0,0,0,.35) 18%,#000 42%);mask-image:linear-gradient(90deg,transparent 0,rgba(0,0,0,.35) 18%,#000 42%)}
+.hdbg-i.on{opacity:1}
+[data-theme="dark"] .hdbg{isolation:auto}
+[data-theme="dark"] .hdbg-i{mix-blend-mode:screen;filter:invert(1) hue-rotate(180deg) brightness(.55) saturate(.7)}
+[data-theme="dark"] .hdbg-i.on{opacity:.8}
+@media(max-width:900px){.hdbg{display:none}}
+@media(prefers-reduced-motion:reduce){.hdbg-i{transition:none}}

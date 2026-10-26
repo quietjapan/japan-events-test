@@ -35,6 +35,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@800&text=%EC%9D%BC%EB%B3%B8%20%ED%96%89%EC%82%AC%20%EC%BA%98%EB%A6%B0%EB%8D%94%EC%98%A4%EC%8B%9C%EC%B9%B4%EC%B8%A0%EC%9E%AC%ED%8C%AC&display=swap">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="calendar.css">
+<script>(function(){if(!matchMedia("(min-width:901px)").matches)return;var r=null;try{r=new URLSearchParams(location.search).get("region")||localStorage.getItem("qj_region")}catch(e){}if(["tokyo","osaka","fukuoka"].indexOf(r)<0)r="tokyo";var l=document.createElement("link");l.rel="preload";l.as="image";l.href="hdbg/"+r+"-"+((devicePixelRatio||1)>=1.5||innerWidth>1700?1600:960)+".webp";document.head.appendChild(l)})();</script>
 <link rel="stylesheet" href="ideas.css">
 <link rel="alternate" type="application/rss+xml" title="오시카츠 재팬 · 새로 추가된 행사" href="rss.xml">
 <script>
@@ -154,6 +155,7 @@
 <script src="weather.js"></script>
 <script src="theme.js"></script>
 <script src="chiprow.js"></script>
+<script src="hdbg.js"></script>
 <script>(function(){var b=document.getElementById("qmenu"),p=document.getElementById("qmenup");if(!b)return;function t(o){p.hidden=!o;b.setAttribute("aria-expanded",o)}b.onclick=function(e){e.stopPropagation();t(p.hidden)};p.onclick=function(e){var x=e.target.closest("button[data-a]");if(!x)return;t(false);if(x.dataset.a==="fx")document.getElementById("fxbtn").click();else scrollTo({top:0,behavior:"smooth"})};document.addEventListener("click",function(e){if(!p.hidden&&!p.contains(e.target))t(false)})})();</script>
 <script>(function(){if(matchMedia("(min-width:720px)").matches){[].forEach(function(id){var d=document.getElementById(id);if(d)d.open=true})}})();</script>
 </body></html>

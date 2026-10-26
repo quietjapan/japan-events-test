@@ -24010,36 +24010,49 @@
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256912_1.jpg",
           "caption_ko": "메인 이미지",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4570118206206000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4570118206206000",
+          "img_fb": "gfb/7cd1928895858d72.webp",
+          "img_local": "img/7cd1928895858d72.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256912_2.jpg",
           "caption_ko": "라인업 1",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4570118206206000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4570118206206000",
+          "img_fb": "gfb/3638a1d77ea436f9.webp",
+          "img_local": "img/3638a1d77ea436f9.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256912_3.jpg",
           "caption_ko": "라인업 2",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4570118206206000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4570118206206000",
+          "img_fb": "gfb/3128fdad74322ff4.webp",
+          "img_local": "img/3128fdad74322ff4.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256912_4.jpg",
           "caption_ko": "라인업 3",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4570118206206000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4570118206206000",
+          "img_fb": "gfb/3c0965d8ce8ccc0c.webp",
+          "img_local": "img/3c0965d8ce8ccc0c.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256912_5.jpg",
           "caption_ko": "라인업 4",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4570118206206000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4570118206206000",
+          "img_fb": "gfb/6da52aa7829172ac.webp",
+          "img_local": "img/6da52aa7829172ac.webp"
         }
       ],
       "gallery_source": "https://gashapon.jp/products/detail.php?jan_code=4570118206206000",
       "translation_check": true,
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "thumb_small": "thumbs/7cd1928895858d72.webp",
+      "image_fb": "gfb/7cd1928895858d72.webp",
+      "image_local": "img/7cd1928895858d72.webp"
     },
     {
       "title_ko": "포켓몬 러버 마스코트 31 (가챠)",
@@ -24077,7 +24090,9 @@
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258527_1.jpg",
           "caption_ko": "메인 이미지",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770139747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770139747000",
+          "img_fb": "gfb/42e0eecf41afdf1f.webp",
+          "img_local": "img/42e0eecf41afdf1f.webp"
         },
         {
           "group": "상품 이미지 (공식)",
@@ -24099,7 +24114,9 @@
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258527_4.jpg",
           "caption_ko": "라인업 3",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770139747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770139747000",
+          "img_fb": "gfb/a343e39d636f3ea7.webp",
+          "img_local": "img/a343e39d636f3ea7.webp"
         },
         {
           "group": "상품 이미지 (공식)",
@@ -24113,13 +24130,17 @@
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258527_6.jpg",
           "caption_ko": "라인업 5",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770139747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770139747000",
+          "img_fb": "gfb/eb2183ad10e8a041.webp",
+          "img_local": "img/eb2183ad10e8a041.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258527_7.jpg",
           "caption_ko": "라인업 6",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770139747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770139747000",
+          "img_fb": "gfb/da7f14452e1aee38.webp",
+          "img_local": "img/da7f14452e1aee38.webp"
         },
         {
           "group": "상품 이미지 (공식)",
@@ -24133,12 +24154,17 @@
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258527_9.jpg",
           "caption_ko": "라인업 8",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770139747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770139747000",
+          "img_fb": "gfb/3adb3019890d93f2.webp",
+          "img_local": "img/3adb3019890d93f2.webp"
         }
       ],
       "gallery_source": "https://gashapon.jp/products/detail.php?jan_code=4582770139747000",
       "translation_check": true,
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "thumb_small": "thumbs/42e0eecf41afdf1f.webp",
+      "image_fb": "gfb/42e0eecf41afdf1f.webp",
+      "image_local": "img/42e0eecf41afdf1f.webp"
     },
     {
       "title_ko": "포켓몬 츠만데 츠나게테 마스코트 16 (가챠)",
@@ -24176,72 +24202,97 @@
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256799_1.jpg",
           "caption_ko": "메인 이미지",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
+          "img_fb": "gfb/9d82b4d3cc6cb1fb.webp",
+          "img_local": "img/9d82b4d3cc6cb1fb.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256799_2.jpg",
           "caption_ko": "라인업 1",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
+          "img_fb": "gfb/00df63413fc0cf27.webp",
+          "img_local": "img/00df63413fc0cf27.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256799_3.jpg",
           "caption_ko": "라인업 2",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
+          "img_fb": "gfb/250dca5fea22f62e.webp",
+          "img_local": "img/250dca5fea22f62e.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256799_4.jpg",
           "caption_ko": "라인업 3",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
+          "img_fb": "gfb/440ea4ddf01bee1b.webp",
+          "img_local": "img/440ea4ddf01bee1b.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256799_5.jpg",
           "caption_ko": "라인업 4",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
+          "img_fb": "gfb/97f483d62df9ad72.webp",
+          "img_local": "img/97f483d62df9ad72.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256799_6.jpg",
           "caption_ko": "라인업 5",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
+          "img_fb": "gfb/a083c6508bd83e14.webp",
+          "img_local": "img/a083c6508bd83e14.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256799_7.jpg",
           "caption_ko": "라인업 6",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
+          "img_fb": "gfb/2cf0177fa7ef2c4c.webp",
+          "img_local": "img/2cf0177fa7ef2c4c.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256799_8.jpg",
           "caption_ko": "라인업 7",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
+          "img_fb": "gfb/2a1f276884697a77.webp",
+          "img_local": "img/2a1f276884697a77.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256799_9.jpg",
           "caption_ko": "라인업 8",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
+          "img_fb": "gfb/223d401c2a18da47.webp",
+          "img_local": "img/223d401c2a18da47.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256799_10.jpg",
           "caption_ko": "라인업 9",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
+          "img_fb": "gfb/3f7b877d860b19ea.webp",
+          "img_local": "img/3f7b877d860b19ea.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256799_11.jpg",
           "caption_ko": "라인업 10",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
+          "img_fb": "gfb/e8a9f509c93f3d8d.webp",
+          "img_local": "img/e8a9f509c93f3d8d.webp"
         }
       ],
       "gallery_source": "https://gashapon.jp/products/detail.php?jan_code=4582770001747000",
       "translation_check": true,
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "thumb_small": "thumbs/9d82b4d3cc6cb1fb.webp",
+      "image_fb": "gfb/9d82b4d3cc6cb1fb.webp",
+      "image_local": "img/9d82b4d3cc6cb1fb.webp"
     },
     {
       "title_ko": "메지루시 액세서리 산리오 캐릭터즈 올스타즈 Part.3 (가챠)",
@@ -24279,25 +24330,33 @@
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258568_1.jpg",
           "caption_ko": "메인 이미지",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000",
+          "img_fb": "gfb/7d0017b9788e9fcb.webp",
+          "img_local": "img/7d0017b9788e9fcb.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258568_2.jpg",
           "caption_ko": "라인업 1",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000",
+          "img_fb": "gfb/5decbf4c28ad1ecd.webp",
+          "img_local": "img/5decbf4c28ad1ecd.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258568_3.jpg",
           "caption_ko": "라인업 2",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000",
+          "img_fb": "gfb/c1bc5a7b8619e750.webp",
+          "img_local": "img/c1bc5a7b8619e750.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258568_4.jpg",
           "caption_ko": "라인업 3",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000",
+          "img_fb": "gfb/bc061aa3be999359.webp",
+          "img_local": "img/bc061aa3be999359.webp"
         },
         {
           "group": "상품 이미지 (공식)",
@@ -24311,19 +24370,25 @@
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258568_6.jpg",
           "caption_ko": "라인업 5",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000",
+          "img_fb": "gfb/4d81e2f75db4722a.webp",
+          "img_local": "img/4d81e2f75db4722a.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258568_7.jpg",
           "caption_ko": "라인업 6",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000",
+          "img_fb": "gfb/34e0a392b79616c1.webp",
+          "img_local": "img/34e0a392b79616c1.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258568_8.jpg",
           "caption_ko": "라인업 7",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000",
+          "img_fb": "gfb/2ae69057e52f852c.webp",
+          "img_local": "img/2ae69057e52f852c.webp"
         },
         {
           "group": "상품 이미지 (공식)",
@@ -24337,18 +24402,25 @@
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258568_10.jpg",
           "caption_ko": "라인업 9",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000",
+          "img_fb": "gfb/8ac6b52735de260b.webp",
+          "img_local": "img/8ac6b52735de260b.webp"
         },
         {
           "group": "상품 이미지 (공식)",
           "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000258568_11.jpg",
           "caption_ko": "라인업 10",
-          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000"
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000",
+          "img_fb": "gfb/e773a51a366aec1b.webp",
+          "img_local": "img/e773a51a366aec1b.webp"
         }
       ],
       "gallery_source": "https://gashapon.jp/products/detail.php?jan_code=4582770054705000",
       "translation_check": true,
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "thumb_small": "thumbs/7d0017b9788e9fcb.webp",
+      "image_fb": "gfb/7d0017b9788e9fcb.webp",
+      "image_local": "img/7d0017b9788e9fcb.webp"
     },
     {
       "title_ko": "카타즌 Fig. 주술회전 애니 5주년 -弍- (가챠)",
