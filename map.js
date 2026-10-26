@@ -12,11 +12,18 @@
     fukuoka:[["하카타역",33.5900,130.4200,16],["텐진",33.5895,130.3990,16],["나카스·캐널시티",33.5895,130.4110,16],["야쿠인",33.5810,130.4020,16]]};
   const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const md=s=>s?`${+s.slice(5,7)}/${+s.slice(8,10)}`:"";
-  let L_=null,map=null,layer=null,ROWS=[],soon=false,loading=null,lastRegion=null;
+  let fitted=false;const sheetMode=()=>matchMedia("(max-width:1023px)").matches;let L_=null,map=null,layer=null,ROWS=[],soon=false,loading=null,lastRegion=null;
   const sec=document.createElement("section");sec.id="qmap";sec.className="qmap";sec.hidden=true;
-  sec.innerHTML=`<div class="qmhd"><div class="qmopts"><label class="qmsoon"><input type="checkbox" id="qmsoon"> 곧 시작(7일 안)도 보기</label><label class="qmsoon qmspt"><input type="checkbox" id="qmspot" checked> ⭐ 덕질·명소 스팟</label></div><span class="qmcnt" id="qmcnt"></span></div><div class="qmjump" id="qmjump" role="group" aria-label="지역 바로가기"></div><div class="qmleg"><span style="--c:#d9603b">진행 중</span><span style="--c:#a61e3a">종료 임박 (3일 안)</span><span class="s" style="--c:#2f4b7c">곧 시작 (7일 안)</span><b class="qmlg-sp" id="qmlgsp"><i class="qmsq">🗼</i>명소 <i class="qmsq">🛍️</i>덕질숍 <i class="qmsq">📚</i>서점</b></div><div id="qmapc" class="qmapc" role="region" aria-label="진행 중인 행사 지도"></div><p class="qmnote" id="qmnote"></p>`;
+  sec.innerHTML=`<div class="qmhd"><div class="qmopts"><label class="qmsoon"><input type="checkbox" id="qmsoon"> 곧 시작(7일 안)도 보기</label><label class="qmsoon qmspt"><input type="checkbox" id="qmspot" checked> ⭐ 덕질·명소 스팟</label><label class="qmsoon qmarea"><input type="checkbox" id="qmarea"> 📐 이 지역만 보기</label></div><span class="qmcnt" id="qmcnt"></span></div><div class="qmjump" id="qmjump" role="group" aria-label="지역 바로가기"></div><div class="qmleg"><span style="--c:#d9603b">진행 중</span><span style="--c:#a61e3a">종료 임박 (3일 안)</span><span class="s" style="--c:#2f4b7c">곧 시작 (7일 안)</span><b class="qmlg-sp" id="qmlgsp"><i class="qmsq">🗼</i>명소 <i class="qmsq">🛍️</i>덕질숍 <i class="qmsq">📚</i>서점</b></div><div id="qmapc" class="qmapc" role="region" aria-label="진행 중인 행사 지도"></div><p class="qmnote" id="qmnote"></p><div class="qmsheet" id="qmsheet" hidden role="dialog" aria-label="행사 정보"><button type="button" class="qmshx" aria-label="닫기">✕</button><div class="qmshb"></div></div>`;
   const list=document.getElementById("list");list.parentNode.insertBefore(sec,list.nextSibling);
   sec.querySelector("#qmsoon").onchange=ev=>{soon=ev.target.checked;draw()};
+  // 📐 이 지역만 보기: 지도를 움직이면 왼쪽 목록을 지금 보이는 범위의 행사로 좁혀요(켰을 때만).
+  let areaOn=false,MK=new Map();const sheet=sec.querySelector("#qmsheet");
+  const bnd=()=>{if(!map)return null;const b=map.getBounds();return e=>b.contains([+e.lat,+e.lon])};
+  const applyArea=()=>{window.QJ_BOUNDS=areaOn?bnd():null;window.QJ_render&&QJ_render()};
+  sec.querySelector("#qmarea").onchange=ev=>{areaOn=ev.target.checked;applyArea();window.gtag&&gtag("event","map_area_filter",{on:areaOn})};
+  window.QJ_clearBounds=()=>{areaOn=false;window.QJ_BOUNDS=null;const c=sec.querySelector("#qmarea");if(c)c.checked=false};
+  const closeSheet=()=>{sheet.hidden=true;document.body.classList.remove("qmsheet-open")};sheet.onclick=ev=>{if(ev.target.closest(".qmshx")){closeSheet();return}const b=ev.target.closest("[data-i]");if(b)openE(+b.dataset.i)};
   // ⭐ 덕질·명소 스팟 레이어(spots.json): 행사 핀과 다른 네모 아이콘
   let SPOTS=null,spotLayer=null,spotOn=true,spotReg=null;const SPI={landmark:"🗼",shop:"🛍️",book:"📚"},SPN={landmark:"명소",shop:"덕질숍",book:"서점"};
   sec.querySelector("#qmspot").onchange=ev=>{spotOn=ev.target.checked;sec.querySelector("#qmlgsp").hidden=!spotOn;paintSpots(true)};
@@ -66,8 +73,8 @@
     map.on("zoomend",upd);map.whenReady(upd)}
   function draw(){if(sec.hidden)return;load().then(L=>{L_=L;
     if(!map){map=L.map("qmapc",{scrollWheelZoom:true,wheelPxPerZoomLevel:90,tap:true,maxZoom:18,minZoom:5});const mob=matchMedia("(max-width:719px)").matches;if(mob){map.attributionControl.setPrefix(false);map.attributionControl.setPosition("bottomleft");sec.classList.add("qmob")}addBase(L,mob);addLabels(L);layer=(L.markerClusterGroup?L.markerClusterGroup({maxClusterRadius:36,showCoverageOnHover:false,spiderfyOnMaxZoom:true,iconCreateFunction:cl=>{const n=cl.getAllChildMarkers().reduce((t,m)=>t+(m.options.qn||1),0);return L.divIcon({className:"qmpin",html:`<span class="qmdot qmcl">${n}</span>`,iconSize:[34,34],iconAnchor:[17,17]})}}):L.layerGroup()).addTo(map);
-      map.on("popupopen",ev=>{ev.popup.getElement().onclick=x=>{const b=x.target.closest("[data-i]");if(b)openE(+b.dataset.i)}})}
-    const reg=window.QJ_REGION||"tokyo";paintJump(reg);paintSpots(false);layer.clearLayers();
+      map.on("moveend",()=>{if(areaOn)applyArea()});map.on("click",closeSheet);map.on("popupopen",ev=>{ev.popup.getElement().onclick=x=>{const b=x.target.closest("[data-i]");if(b)openE(+b.dataset.i)}})}
+    const reg=window.QJ_REGION||"tokyo";paintJump(reg);paintSpots(false);layer.clearLayers();MK.clear();closeSheet();
     const grp=new Map();let total=0,nocoord=0;
     ROWS.forEach((e,i)=>{if(!pick(e))return;const q=window.QJ_qstat&&QJ_qstat(e);const s=q?q.k:(pick(e)==="soon"?"start7":"live");total++;if(!(e.lat&&e.lon)){nocoord++;return}
       const key=(+e.lat).toFixed(4)+","+(+e.lon).toFixed(4);if(!grp.has(key))grp.set(key,[]);grp.get(key).push({e,i,s})});
@@ -75,14 +82,18 @@
     grp.forEach((a,key)=>{const [la,lo]=key.split(",").map(Number);pts.push([la,lo]);const allSoon=a.every(o=>o.s==="start7");const ks=a.map(o=>o.s);const k=ks.includes("end3")?"end3":ks.includes("live")?"live":"start7";const c=SC[k];
       const icon=L.divIcon({className:"qmpin",html:`<span class="qmdot${allSoon?" soon":""}${k==="end3"?" hot":""}" style="--c:${c}">${a.length>1?a.length:""}</span>`,iconSize:[28,28],iconAnchor:[14,14],popupAnchor:[0,-12]});
       const venue=a[0].e.venue||"";
-      const html=`<div class="qmpop">${a.length>1?`<p class="qmvn">📍 ${esc(venue.replace(/\s*\(.*$/,""))} · ${a.length}건</p>`:""}${a.map(o=>{const e=o.e;return`<button type="button" class="qmit" data-i="${o.i}">${e.thumb_small?`<img src="${esc(e.thumb_small)}" alt="" loading="lazy">`:`<span class="qmnoimg" style="--c:${CC[e.category]||"#b5523b"}"></span>`}<span class="qmtx"><em style="--c:${CC[e.category]||"#b5523b"}">${esc(e.category)}</em><i class="qmst" style="--c:${SC[o.s]}">${SL[o.s]}</i><b>${esc(e.title_ko)}</b><small>${md(e.start)}${e.end&&e.end!==e.start?" ~ "+md(e.end):""}${a.length>1?"":" · "+esc(venue)}</small></span></button>`}).join("")}</div>`;
-      L.marker([la,lo],{icon,qn:a.length,title:a.map(o=>o.e.title_ko).join(" / ")}).bindPopup(html,{maxWidth:300,minWidth:230,autoPanPadding:[20,60]}).addTo(layer)});
+      const html=`<div class="qmpop">${a.length>1?`<p class="qmvn">📍 ${esc(venue.replace(/\s*\(.*$/,""))} · ${a.length}건</p>`:""}${a.map(o=>{const e=o.e;return`<button type="button" class="qmit" data-i="${o.i}">${e.thumb_small?`<img src="${esc(e.thumb_small)}" alt="" loading="lazy">`:`<span class="qmnoimg" style="--c:${CC[e.category]||"#b5523b"}"></span>`}<span class="qmtx"><em style="--c:${CC[e.category]||"#b5523b"}">${esc(e.category)}</em><i class="qmst" style="--c:${SC[o.s]}">${SL[o.s]}</i><b>${esc(e.title_ko)}</b><small>${md(e.start)}${e.end&&e.end!==e.start?" ~ "+md(e.end):""}${a.length>1?"":" · "+esc(venue)}</small><u class="qmgo">자세히 보기 ›</u></span></button>`}).join("")}</div>`;
+      const mk=L.marker([la,lo],{icon,qn:a.length,title:a.map(o=>o.e.title_ko).join(" / ")});
+      if(sheetMode())mk.on("click",()=>{sheet.querySelector(".qmshb").innerHTML=html;sheet.hidden=false;document.body.classList.add("qmsheet-open");window.gtag&&gtag("event","map_sheet",{n:a.length})});else mk.bindPopup(html,{maxWidth:300,minWidth:230,autoPanPadding:[20,60]});
+      mk.addTo(layer);a.forEach(o=>MK.set(o.i,mk))});
     document.getElementById("qmcnt").textContent=`핀 ${grp.size}곳 · 행사 ${total-nocoord}건`;
     document.getElementById("qmnote").textContent=(nocoord?`위치 정보가 없는 ${nocoord}건은 지도에서 빠졌어요(목록에서 볼 수 있어요). `:"")+"쿠지·가챠·잡지 부록처럼 정해진 행사장이 없는 건 표시하지 않아요.";
     map.invalidateSize();
-    if(reg!==lastRegion||!pts.length){const c=CENTER[reg]||CENTER.tokyo;map.setView([c[0],c[1]],c[2]);lastRegion=reg}
-    if(pts.length){const cb=CORE[reg],cp=cb?pts.filter(p=>p[0]>=cb[0]&&p[0]<=cb[2]&&p[1]>=cb[1]&&p[1]<=cb[3]):[];const b=L.latLngBounds(cp.length>=2?cp:pts);map.fitBounds(b.pad(0.12),{maxZoom:14})}
+    if(areaOn&&reg===lastRegion){}else if(reg!==lastRegion||!pts.length){const c=CENTER[reg]||CENTER.tokyo;map.setView([c[0],c[1]],c[2]);lastRegion=reg}
+    if(pts.length&&!(areaOn&&reg===lastRegion&&fitted)){fitted=true;const cb=CORE[reg],cp=cb?pts.filter(p=>p[0]>=cb[0]&&p[0]<=cb[2]&&p[1]>=cb[1]&&p[1]<=cb[3]):[];const b=L.latLngBounds(cp.length>=2?cp:pts);map.fitBounds(b.pad(0.12),{maxZoom:14})}
   }).catch(err=>{console.error("QJMAP",err);document.getElementById("qmnote").textContent="지도를 불러오지 못했어요. 잠시 후 다시 시도해 주세요."})}
   function openE(i){const e=ROWS[i];if(!e)return;if(window.QJ_hasDetail&&QJ_hasDetail(e))QJ_openDetail(e);else if(e.official_url)window.open(e.official_url,"_blank","noopener")}
-  window.QJMAP={show(on){sec.hidden=!on;if(on)draw()},rows(r){ROWS=r||[];draw()}};
+  let hlEl=null;
+  window.QJMAP={show(on,side){sec.hidden=!on;sec.classList.toggle("side",!!side);if(!on)closeSheet();if(on){if(map)setTimeout(()=>map.invalidateSize(),0);draw()}},rows(r){ROWS=r||[];draw()},
+    hl(i,on){if(hlEl){hlEl.classList.remove("qmhl");hlEl=null}if(!on||!map)return;const m=MK.get(i);if(!m)return;let el=m.getElement&&m.getElement();if(!el&&layer.getVisibleParent){const p=layer.getVisibleParent(m);el=p&&p.getElement&&p.getElement()}if(el){el.classList.add("qmhl");hlEl=el}}};
 })();

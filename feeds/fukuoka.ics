@@ -1,0 +1,364 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//quietjapan//japan-events-test//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:오시카츠 재팬 · 후쿠오카 행사
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fukuoka-hunterxhunter-gi-popup-hakatamarui-2026-11-14@quietjapan.github
+ .io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261130
+SUMMARY:헌터×헌터 팝업스토어 「그리드 아일랜드 아카이
+ 브」 (하카타 마루이)
+DESCRIPTION:「헌터×헌터」 그리드 아일랜드 편을 테마로 
+ 한 팝업이에요. 매드하우스가 새로 그린 일러스트와 애
+ 니 원화·장면 사진을 쓴 굿즈가 나와요.\n공식: https://www
+ .0101.co.jp/090/event/detail.html?article_seq=144415&article_type=sto\n자
+ 세히: https://quietjapan.github.io/japan-events-test/i/fukuoka-hunterxhu
+ nter-gi-popup-hakatamarui/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-hunterxhunter-
+ gi-popup-hakatamarui/
+LOCATION:하카타 마루이 5층 이벤트 스페이스
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-shigureui-uitopia-mini-2026-10-24@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261130
+SUMMARY:시구레 우이 전시 「Uitopia (mini_FUKUOKA)」 (애니메이
+ 트 라식 후쿠오카 텐진)
+DESCRIPTION:일러스트레이터 겸 버튜버 시구레 우이의 기획
+ 전 「Uitopia」 순회전이에요. 하라주쿠 본전 전시 일부를
+  무료로 보고 공식 굿즈도 살 수 있어요.\n공식: https://7th
+ .uishigure.com/uitopia/news/229/\n자세히: https://quietjapan.github.io/
+ japan-events-test/i/fukuoka-shigureui-uitopia-mini/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-shigureui-uito
+ pia-mini/
+LOCATION:애니메이트 라식 후쿠오카 텐진 (후쿠오카 미쓰코
+ 시 8층)
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-bungosd-art-design-exhibition-2026-11-20@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261222
+SUMMARY:문호 스트레이독스 ART & DESIGN 전시회 (후쿠오카)
+DESCRIPTION:TV 애니 「문호 스트레이독스」 10주년 기념 전
+ 시의 후쿠오카 순회전이에요. 새로 그린 메인 비주얼\, 
+ 역대 재킷 일러스트 패널\, 프로젝션 매핑 등 아트·디자
+ 인 중심으로 보여줘요.\n공식: https://bungosd-art-exhibition.com
+ /\n자세히: https://quietjapan.github.io/japan-events-test/i/fukuoka-bun
+ gosd-art-design-exhibition/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-bungosd-art-de
+ sign-exhibition/
+LOCATION:Space Galleria FUKUOKA (라식 후쿠오카 텐진 8층)
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-chiikawa-popup-mitsukoshi-2026-10-16@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261104
+SUMMARY:치이카와 팝업스토어 (후쿠오카 미쓰코시)
+DESCRIPTION:치이카와 굿즈가 가득한 팝업으로\, 기념 굿즈
+ 와 신상품을 팔아요. 치이카와 초밥 팝업과 나가노 마켓
+ 도 같은 층에서 열려요.\n공식: https://www.iwataya-mitsukoshi.mi
+ store.jp/mitsukoshi/event_calendar/chiikawa.html\n자세히: https://quiet
+ japan.github.io/japan-events-test/i/fukuoka-chiikawa-popup-mitsukoshi/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-chiikawa-popup
+ -mitsukoshi/
+LOCATION:후쿠오카 미쓰코시 9층 미쓰코시 갤러리
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-haikyu-and-gallery-2026-11-03@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261207
+SUMMARY:하이큐!! × and GALLERY 콜라보 카페 (후쿠오카점)
+DESCRIPTION:애니메이션 「하이큐!!」 콜라보 카페의 후쿠오
+ 카 매장이에요. 캐릭터를 이미지한 메뉴와 새로 그린 비
+ 주얼 굿즈를 판매하고\, 사전 예약하면 엽서 특전(랜덤 1
+ 장)을 줘요.\n공식: https://collabocafe.and-gallery.com/haikyu\n자
+ 세히: https://quietjapan.github.io/japan-events-test/i/fukuoka-haikyu-an
+ d-gallery/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-haikyu-and-gal
+ lery/
+LOCATION:and GALLERY 후쿠오카점 (LOVELESS COFFEE 안 1층\, 야쿠인)
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-dai-avan-popup-hakatamarui-2026-10-31@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261109
+SUMMARY:드래곤 퀘스트 다이의 대모험 용사 아반과 옥염의 
+ 마왕 팝업스토어 (하카타 마루이)
+DESCRIPTION:애니메이션 『용사 아반과 옥염의 마왕』 팝업
+ 으로\, 신작 굿즈를 판매해요. 11/7에는 추첨제 사인회도 
+ 있어요.\n공식: https://hero-avan.tk-visual.com/\n자세히: https://q
+ uietjapan.github.io/japan-events-test/i/fukuoka-dai-avan-popup-hakatamarui
+ /
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-dai-avan-popup
+ -hakatamarui/
+LOCATION:하카타 마루이 7층 이벤트 스페이스
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-kusuriya-sweetsparadise-parco-2026-11-02@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261124
+SUMMARY:약사의 혼잣말 × 스위츠 파라다이스 제3탄 (후쿠오
+ 카 파르코점)
+DESCRIPTION:스위츠 뷔페 스위파라와 『약사의 혼잣말』 콜
+ 라보로\, 콜라보 메뉴와 특전을 즐길 수 있어요.\n공식: h
+ ttps://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3\n자세
+ 히: https://quietjapan.github.io/japan-events-test/i/fukuoka-kusuriya-swe
+ etsparadise-parco/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-kusuriya-sweet
+ sparadise-parco/
+LOCATION:후쿠오카 파르코 본관 6층 스위츠 파라다이스
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-jackjeanne-exhibition-hakatamarui-2026-11-13@quietjapan.github.
+ io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261130
+SUMMARY:잭잔느 전시회 (하카타 마루이)
+DESCRIPTION:소년가극 게임 『잭잔느』 전시회의 하카타 순
+ 회 개최예요.\n공식: https://www.0101.co.jp/090/event/detail.html?ar
+ ticle_seq=144014&article_type=sto\n자세히: https://quietjapan.github.io
+ /japan-events-test/i/fukuoka-jackjeanne-exhibition-hakatamarui/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-jackjeanne-exh
+ ibition-hakatamarui/
+LOCATION:하카타 마루이 7층 이벤트 스페이스
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-kimetsu-kinosumimachi-crossstore-2026-10-30@quietjapan.github.i
+ o
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261124
+SUMMARY:귀멸의 칼날 -오니노스미마치- (Cross Store 하카타)
+DESCRIPTION:애니메이션 『귀멸의 칼날』 체험형 이벤트 하
+ 카타 개최예요.\n공식: https://event.bandainamco-am.co.jp/namja/kim
+ etsu2026_08nt/\n자세히: https://quietjapan.github.io/japan-events-test/
+ i/fukuoka-kimetsu-kinosumimachi-crossstore/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-kimetsu-kinosu
+ mimachi-crossstore/
+LOCATION:캐널시티 하카타 사우스빌딩 B1 반다이남코 Cross St
+ ore 하카타
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-kimetsu-tsuioku-crossstore-2026-10-30@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20270112
+SUMMARY:귀멸의 칼날 추억회랑의 길 (Cross Store 하카타)
+DESCRIPTION:『귀멸의 칼날』 장면을 따라 걷는 회랑형 이벤
+ 트예요.\n공식: https://event.bandainamco-am.co.jp/cx/kimetsu2026_06/\
+ n자세히: https://quietjapan.github.io/japan-events-test/i/fukuoka-kimet
+ su-tsuioku-crossstore/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-kimetsu-tsuiok
+ u-crossstore/
+LOCATION:캐널시티 하카타 사우스빌딩 B1 반다이남코 Cross St
+ ore 하카타
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-kabuto-20th-crossstore-2026-09-19@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20261124
+SUMMARY:가면라이더 카부토 월드 20th CAST OFF (Cross Store 하카
+ 타)
+DESCRIPTION:『가면라이더 카부토』 20주년 기념 이벤트로 
+ 요코하마·교토·하카타에서 열려요.\n공식: https://event.ba
+ ndainamco-am.co.jp/cx/kabuto_event/\n자세히: https://quietjapan.github.
+ io/japan-events-test/i/fukuoka-kabuto-20th-crossstore/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-kabuto-20th-cr
+ ossstore/
+LOCATION:캐널시티 하카타 사우스빌딩 B1 반다이남코 Cross St
+ ore 하카타
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-revuestarlight-9th-crossstore-2026-10-31@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261123
+SUMMARY:소녀☆가극 레뷰 스타라이트 9주년 캐릭팝스토어 (
+ 하카타)
+DESCRIPTION:『레뷰 스타라이트』 9주년 기념 굿즈 팝업이에
+ 요.\n공식: https://bandainamco-am.co.jp/chara_shop/revuestarlight/\n자
+ 세히: https://quietjapan.github.io/japan-events-test/i/fukuoka-revuestar
+ light-9th-crossstore/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-revuestarlight
+ -9th-crossstore/
+LOCATION:캐널시티 하카타 사우스빌딩 B1 반다이남코 Cross St
+ ore 하카타
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-heroaca-charapop-crossstore-2026-11-28@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261221
+SUMMARY:나의 히어로 아카데미아 캐릭팝스토어 (하카타)
+DESCRIPTION:『히로아카』 굿즈 팝업 하카타 개최예요.\n공
+ 식: https://bandainamco-am.co.jp/chara_shop/heroaca/\n자세히: https://
+ quietjapan.github.io/japan-events-test/i/fukuoka-heroaca-charapop-crosssto
+ re/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-heroaca-charap
+ op-crossstore/
+LOCATION:캐널시티 하카타 사우스빌딩 B1 반다이남코 Cross St
+ ore 하카타
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-jujutsu-world-crossstore-2026-12-04@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20270224
+SUMMARY:JUJUTSU KAISEN WORLD 하카타 (주술회전)
+DESCRIPTION:『주술회전』 세계관 체험 이벤트의 하카타 개
+ 최예요.\n공식: https://event.bandainamco-am.co.jp/cx/jujutsu-kaisen-w
+ orld/\n자세히: https://quietjapan.github.io/japan-events-test/i/fukuoka
+ -jujutsu-world-crossstore/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-jujutsu-world-
+ crossstore/
+LOCATION:캐널시티 하카타 사우스빌딩 B1 반다이남코 Cross St
+ ore 하카타
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-chocoyaba-gratte-lachic-2026-11-12@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261207
+SUMMARY:쵸콧토 야바시티 × 그라테 (애니메이트 라식 후쿠
+ 오카 텐진)
+DESCRIPTION:『쵸콧토 야바시티』 그라테 콜라보로\, 라테·
+ 쿠키·아이스와 코스터 특전이 있어요.\n공식: https://www.a
+ nimate.co.jp/gratte/49515/\n자세히: https://quietjapan.github.io/japan-
+ events-test/i/fukuoka-chocoyaba-gratte-lachic/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-chocoyaba-grat
+ te-lachic/
+LOCATION:애니메이트 라식 후쿠오카 텐진 (그라테)
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-kurobas-hokago-tower-parco-2026-11-06@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261116
+SUMMARY:쿠로코의 농구 「방과후」 팝업 (타워레코드 후쿠
+ 오카 파르코)
+DESCRIPTION:'방과후' 테마 『쿠로코의 농구』 새 일러스트 
+ 굿즈 팝업이에요. 3\,300엔 구매마다 포토샷 특전을 줘요.
+ \n공식: https://tower.jp/article/news/2026/09/26/p101\n자세히: https:
+ //quietjapan.github.io/japan-events-test/i/fukuoka-kurobas-hokago-tower-pa
+ rco/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-kurobas-hokago
+ -tower-parco/
+LOCATION:후쿠오카 파르코 6층 타워레코드 TOWER SPACE FUKUOKA
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-shingeki-dj-tower-parco-2026-11-20@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261130
+SUMMARY:진격의 거인 DJ 팝업 (타워레코드 후쿠오카 파르코)
+DESCRIPTION:DJ 테마 『진격의 거인』 새 일러스트 굿즈 팝업
+ 이에요. 회장마다 다른 브로마이드 특전을 줘요.\n공식: 
+ https://tower.jp/article/news/2026/09/26/p102\n자세히: https://quietjap
+ an.github.io/japan-events-test/i/fukuoka-shingeki-dj-tower-parco/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-shingeki-dj-to
+ wer-parco/
+LOCATION:후쿠오카 파르코 6층 타워레코드 TOWER SPACE FUKUOKA
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-meicho-gratte3-2026-10-30@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261130
+SUMMARY:명조 × 애니메이트 그라테 제3탄 (후쿠오카)
+DESCRIPTION:게임 「명조」 할로윈 테마 라테·쿠키·아이스
+ 를 파는 콜라보예요. 후쿠오카는 라식 후쿠오카 텐진 매
+ 장에서 열려요.\n공식: https://www.animate.co.jp/gratte/51483/\n자
+ 세히: https://quietjapan.github.io/japan-events-test/i/fukuoka-meicho-gr
+ atte3/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-meicho-gratte3
+ /
+LOCATION:애니메이트 라식 후쿠오카 텐진
+END:VEVENT
+BEGIN:VEVENT
+UID:fukuoka-chiipoke-popup4-parco-2026-11-06@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261124
+SUMMARY:치이카와 포켓 POP UP STORE 제4탄 (후쿠오카 PARCO)
+DESCRIPTION:치이카와 게임 앱 「치이카와 포켓」의 팝업스
+ 토어 제4탄 후쿠오카 회장이에요. 도시락·가게 시리즈 
+ 굿즈가 나와요.\n공식: https://chiikawa-info.jp/p26/chiikawa_pocket
+ 042610/fukuoka.html\n자세히: https://quietjapan.github.io/japan-events-
+ test/i/fukuoka-chiipoke-popup4-parco/
+URL:https://quietjapan.github.io/japan-events-test/i/fukuoka-chiipoke-popup
+ 4-parco/
+LOCATION:후쿠오카 PARCO
+END:VEVENT
+BEGIN:VEVENT
+UID:1fa9oq6-2026-11-14@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261125
+SUMMARY:마법소녀의 마녀재판 × GiGO POP UP STORE (후쿠오카 텐
+ 진)
+DESCRIPTION:게임 「마법소녀의 마녀재판」 고딕 세일러 버
+ 전 굿즈 팝업 후쿠오카 회장이에요. 회장 한정 오미쿠지
+  등도 있어요.\n공식: https://www.cocollabo.net/pages/manosaba-2026\
+ n자세히: https://quietjapan.github.io/japan-events-test/i/1fa9oq6/
+URL:https://quietjapan.github.io/japan-events-test/i/1fa9oq6/
+LOCATION:GiGO 후쿠오카 텐진
+END:VEVENT
+BEGIN:VEVENT
+UID:zg282e-2026-11-14@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261130
+SUMMARY:호오즈키의 냉철 연재 15주년 기념 애니메이트 특
+ 별 전시 (후쿠오카 텐진)
+DESCRIPTION:「호오즈키의 냉철」 연재 15주년 특별 전시 후
+ 쿠오카 회장이에요. '화장(和装) 어레인지' 신규 일러스
+ 트 굿즈를 먼저 팔아요.\n공식: https://event.amnibus.com/hozuki-
+ animate/\n자세히: https://quietjapan.github.io/japan-events-test/i/zg28
+ 2e/
+URL:https://quietjapan.github.io/japan-events-test/i/zg282e/
+LOCATION:애니메이트 라식 후쿠오카 텐진
+END:VEVENT
+BEGIN:VEVENT
+UID:1tl52x7-2026-11-20@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261130
+SUMMARY:TV애니 「힘내라! 나카무라 군!!」 POP UP SHOP in HMV (HM
+ V&BOOKS HAKATA)
+DESCRIPTION:TV애니 「힘내라! 나카무라 군!!」 팝업이에요. 
+ 새로 그린 미니 캐릭터 굿즈가 나오고 HMV 4개 매장을 순
+ 회해요.\n공식: https://www.hmv.co.jp/news/article/260910142/\n자세
+ 히: https://quietjapan.github.io/japan-events-test/i/1tl52x7/
+URL:https://quietjapan.github.io/japan-events-test/i/1tl52x7/
+LOCATION:HMV&BOOKS HAKATA
+END:VEVENT
+BEGIN:VEVENT
+UID:1t3wwdf-2026-12-10@quietjapan.github.io
+DTSTAMP:20261026T052402Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261221
+SUMMARY:뿌요뿌요 × 하피단V POPUP STORE (후쿠오카)
+DESCRIPTION:「뿌요뿌요」와 산리오 남자아이 유닛 「하피
+ 단V」(포차코·턱시도샘 등) 콜라보 굿즈 팝업이에요. 도
+ 쿄→오사카→후쿠오카 순으로 순회해요.\n공식: https://ha
+ pi-pop.com/PH/\n자세히: https://quietjapan.github.io/japan-events-test/
+ i/1t3wwdf/
+URL:https://quietjapan.github.io/japan-events-test/i/1t3wwdf/
+LOCATION:라라포트 후쿠오카 로프트 (2F)
+END:VEVENT
+END:VCALENDAR

@@ -2,13 +2,14 @@ const CATS=["팝업스토어","콜라보카페","전시·행사","축제","가�
 const STOCK=new Set(["가챠","쿠지"]);const SHOP=new Set(["팝업스토어","콜라보카페","쿠지","가챠","잡지 부록"]);
 const hasGal=e=>!!(e.gallery&&e.gallery.length);const hasDetail=e=>!!e;const MAG="잡지 부록";const MAG_DAYS=35;
 const CATCLS={"팝업스토어":"c-pop","콜라보카페":"c-cafe","전시·행사":"c-expo","축제":"c-fest","가챠":"c-gacha","쿠지":"c-kuji","플리마켓":"c-flea","잡지 부록":"c-mag"};
-const st={qd:"all",cat:"",area:"",q:"",s:"all",from:"",to:"",bm:false,region:"tokyo"};
+const GEN={"콜라보카페":"cafe","팝업스토어":"pop","전시·행사":"expo","쿠지":"kuji","가챠":"kuji","잡지 부록":"mag","축제":"etc","플리마켓":"etc"};const GENL=[["cafe","☕ 콜라보카페"],["pop","🛍️ 팝업"],["expo","🖼️ 원화전·전시"],["kuji","🎟️ 쿠지·가챠"],["mag","📚 잡지 부록"],["etc","🎪 기타"]];window.QJ_GEN=GEN;
+const st={g:new Set(),qd:"all",cat:"",area:"",q:"",s:"all",from:"",to:"",bm:false,region:"tokyo"};
 // 🗾 지역(도쿄/오사카) 토글: events.json의 region(tokyo/osaka/all). all(전국: 가챠·쿠지·잡지 부록)은 두 지역 모두에 보여요.
 const REG={tokyo:"도쿄",osaka:"오사카",fukuoka:"후쿠오카"};const REGK="qj_region";
 const regionOf=e=>e.region||(e.area==="오사카"?"osaka":e.area==="후쿠오카"?"fukuoka":e.area==="전국"?"all":"tokyo");
 const isNat=e=>regionOf(e)==="all";let NAT0=-1,NATN=0;
 const inRegion=e=>{const r=regionOf(e);return r==="all"||r===st.region};
-(()=>{let r=null;try{r=new URLSearchParams(location.search).get("region")}catch(e){}if(!REG[r]){try{r=localStorage.getItem(REGK)}catch(e){}}st.region=REG[r]?r:"tokyo";window.QJ_REGION=st.region;document.documentElement.setAttribute("data-region",st.region);document.querySelectorAll("#region button[data-r]").forEach(b=>{const on=b.dataset.r===st.region;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on)})})();
+(()=>{let r=null;try{r=new URLSearchParams(location.search).get("region")}catch(e){}if(!REG[r]){try{r=localStorage.getItem(REGK)}catch(e){}}st.region=REG[r]?r:"tokyo";try{const sp=new URLSearchParams(location.search);(sp.get("g")||"").split(",").forEach(x=>{if(x)st.g.add(x)});st.q=sp.get("q")||""}catch(e){}window.QJ_REGION=st.region;document.documentElement.setAttribute("data-region",st.region);document.querySelectorAll("#region button[data-r]").forEach(b=>{const on=b.dataset.r===st.region;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on)})})();
 // ⭐ 북마크: 이 기기 브라우저(localStorage)에만 저장. 묶인 카드도 같은 키(seriesKey)로 저장돼요.
 const BMK="qj_bm";let BM=new Set();try{BM=new Set(JSON.parse(localStorage.getItem(BMK)||"[]"))}catch(e){}
 const saveBM=()=>{try{localStorage.setItem(BMK,JSON.stringify([...BM]))}catch(e){}};let EV=[];
@@ -114,11 +115,14 @@ function pagerHTML(cur,n){if(n<2)return"";const set=new Set([0,n-1,cur-1,cur,cur
   ps.forEach(i=>{if(i-last>1)h+=`<span class="pgdots">…</span>`;h+=`<button type="button" class="pg${i===cur?" on":""}" data-p="${i}" ${i===cur?'aria-current="page"':""} aria-label="${i+1}페이지">${i+1}</button>`;last=i});
   return h+`<button type="button" class="pg pnav" data-p="${cur+1}" ${cur===n-1?"disabled":""} aria-label="다음 페이지">›</button>`}
 window.QJ_pagerHTML=pagerHTML;
+let LAST="";
+function syncURL(){if(DETAIL_E||!EV.length)return;try{const sp=new URLSearchParams(location.search);sp.delete("item");sp.set("region",st.region);st.g.size?sp.set("g",[...st.g].join(",")):sp.delete("g");st.q.trim()?sp.set("q",st.q.trim()):sp.delete("q");history.replaceState(history.state,"",location.pathname+"?"+sp.toString()+location.hash)}catch(e){}}
+window.QJ_render=k=>render(k);window.QJ_cards=()=>CARDS;
 function render(keep){if(!keep)PAGE=0;
   const q=st.q.trim().normalize("NFKC").toLowerCase();
   const rows=units().filter(({e,x})=>x.k!=="end"
     &&(st.bm?BM.has(seriesKey(e)):inRegion(e))
-    &&(st.bm||!st.cat||e.category===st.cat)&&(!st.area||e.area===st.area)
+    &&(st.bm||!st.g.size||st.g.has(GEN[e.category]))&&(st.bm||!window.QJ_BOUNDS||(!isNat(e)&&e.lat&&e.lon&&QJ_BOUNDS(e)))&&(!st.area||e.area===st.area)
     &&(st.s==="all"||(st.s==="soon"?x.k==="soon":x.k!=="soon"))
     &&(e._dates?e._dates.some(inRange):inRange(e))&&(e._dates?e._dates.some(inQD):inQD(e))
     &&(!q||[e.title_ko,e.title_ja,e.venue,e.summary_ko].join(" ").normalize("NFKC").toLowerCase().includes(q)))
@@ -130,13 +134,13 @@ function render(keep){if(!keep)PAGE=0;
   window.QJCAL&&QJCAL(CARDS);
   document.getElementById("count").textContent=st.bm?`${rows.length}건 (전 지역)`:(NATN?`${REG[st.region]} ${rows.length-NATN}건 + 전국 공통 ${NATN}건`:`${REG[st.region]} ${rows.length}건`);
   const fc=document.getElementById("fcnt");if(fc){const n=(st.area?1:0)+((st.from||st.to)?1:0)+(st.s!=="all"?1:0);fc.hidden=!n;fc.textContent=n?`${n}개 적용 중`:""}
-  document.getElementById("magintro").hidden=st.bm||st.cat!==MAG;
+  document.getElementById("magintro").hidden=st.bm||!(st.g.size===1&&st.g.has("mag"));syncURL();window.QJ_afterRender&&QJ_afterRender({units:units().filter(({e,x})=>x.k!=="end"&&inRegion(e)),region:st.region,REG,status,openDetail,fmt,last:LAST});
   const NP=Math.max(1,Math.ceil(rows.length/PER));PAGE=Math.min(Math.max(0,PAGE),NP-1);const P0=PAGE*PER;
   {let pg=document.getElementById("pager");if(!pg){pg=document.createElement("nav");pg.id="pager";pg.className="pager";pg.setAttribute("aria-label","페이지");const L=document.getElementById("list");L.parentNode.appendChild(pg);
     pg.onclick=ev=>{const b=ev.target.closest("button[data-p]");if(!b||b.disabled)return;PAGE=+b.dataset.p;render(true);const L2=document.getElementById("list");const y=L2.getBoundingClientRect().top+scrollY-12;scrollTo({top:Math.max(0,y-(document.querySelector(".vtoggle")?60:0)),behavior:"smooth"})}}
    pg.innerHTML=pagerHTML(PAGE,NP);pg.hidden=NP<2}
   document.getElementById("list").innerHTML=rows.length?rows.slice(P0,P0+PER).map(({e,x},ci0)=>{const ci=ci0+P0;const u=e._dates?null:urg(e,x);return `${ci===NAT0||(ci0===0&&NAT0>=0&&ci>NAT0)?`<div class="natsec" role="heading" aria-level="2"><b>🗾 전국 공통 · 일본 어디서나</b> <span>쿠지·가챠·잡지 부록 ${NATN}건</span><p>지역과 상관없이 전국 편의점·서점·가챠 코너에서 살 수 있는 상품이에요.</p></div>`:""}
-  <article tabindex="0" role="button" aria-label="${esc(e.title_ko)} 자세히 보기" class="card${u?" "+u.c:""}${e._dates?" series":""}" data-i="${ci}">${u?`<div class="ub">${u.t}</div>`:""}${(()=>{const on=BM.has(seriesKey(e));return `<button type="button" class="bm${on?" on":""}" aria-pressed="${on}" aria-label="${on?"북마크 해제":"북마크"}" title="${on?"북마크 해제":"북마크"}">${on?"★":"☆"}</button>`})()}
+  <article tabindex="0" role="button" aria-label="${esc(e.title_ko)} 자세히 보기" class="card${u?" "+u.c:""}${e._dates?" series":""}" data-i="${ci}">${u?`<div class="ub">${u.t}</div>`:""}${(()=>{const on=BM.has(seriesKey(e));return `<button type="button" class="bm${on?" on":""}" aria-pressed="${on}" aria-label="${on?"북마크 해제":"북마크"}" title="${on?"북마크 해제":"북마크"}">${on?"★":"☆"}</button>`})()}${e.start?`<button type="button" class="cadd" data-ci="${ci}" aria-label="내 캘린더에 넣기" title="내 캘린더에 넣기">📅</button>`:""}
   <div class="top">${thumb(e)}<div class="tx"><div class="badges"><span class="b cat ${CATCLS[e.category]||""}">${esc(e.category)}</span>${(()=>{const q=qstat(e,x);return q?`<span class="b sb sb-${q.k}">${esc(q.t)}</span>`:`<span class="b ${x.k}">${u&&x.k==="ending"?"곧 종료":x.t}</span>`})()}${isNat(e)?`<span class="b natb">전국 공통</span>`:`<span class="b">${esc(e.area)}</span>`}</div>
   <h2 class="dt">${esc(e.title_ko)}</h2>${e.title_ja?`<p class="ja">${esc(e.title_ja)}</p>`:""}</div></div>
   <ul class="cmeta"><li><span class="ci">🗓️</span>${e._dates?`다음 ${esc(fmt(e._dates[0].start))} <em>외 ${e._dates.length-1}회</em>`:esc(period(e))}</li>${e.venue?`<li><span class="ci">📍</span>${esc(e.venue)}</li>`:""}${e.price?`<li><span class="ci">🏷️</span>${pricet(e.price)}</li>`:""}</ul>
@@ -164,12 +168,14 @@ function setUpdateLabel(last){
 }
 
 fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
-  EV=d.events||[];buildGroups();document.getElementById("base").textContent=`기준일: ${d.base_date}`;
+  EV=d.events||[];LAST=d.last_updated||"";buildGroups();document.getElementById("base").textContent=`기준일: ${d.base_date}`;
   setUpdateLabel(d.last_updated);
   if(d.is_sample)document.getElementById("banner").hidden=false;
   const chips=document.getElementById("chips");
-  chips.innerHTML=["",...CATS].map(c=>`<button data-c="${c}" class="${c?"":"on"}">${c||"전체"}</button>`).join("")+`<button data-bm="1" class="bmtab">⭐ 북마크</button>`;
-  chips.onclick=ev=>{const b=ev.target.closest("button");if(!b)return;st.bm=!!b.dataset.bm;st.cat=st.bm?"":b.dataset.c;chips.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));render();window.gtag&&gtag("event","select_tab",{tab:st.bm?"북마크":(b.dataset.c||"전체")})};
+  chips.setAttribute("role","group");chips.setAttribute("aria-label","장르 (여러 개 선택 가능)");
+  const paintChips=()=>chips.querySelectorAll("button").forEach(x=>{const on=x.dataset.bm?st.bm:x.dataset.g?(!st.bm&&st.g.has(x.dataset.g)):(!st.bm&&!st.g.size);x.classList.toggle("on",on);x.setAttribute("aria-pressed",on)});window.QJ_paintChips=paintChips;
+  chips.innerHTML=`<button data-g="">전체</button>`+GENL.map(([k,l])=>`<button data-g="${k}">${l}</button>`).join("")+`<button data-bm="1" class="bmtab">⭐ 북마크</button>`;paintChips();
+  chips.onclick=ev=>{const b=ev.target.closest("button");if(!b)return;if(b.dataset.bm){st.bm=!st.bm}else{st.bm=false;const k=b.dataset.g;if(!k)st.g.clear();else st.g.has(k)?st.g.delete(k):st.g.add(k)}paintChips();render();window.gtag&&gtag("event","select_tab",{tab:st.bm?"북마크":([...st.g].join(",")||"전체")})};
   const qd=document.getElementById("qd");if(qd){qd.onclick=ev=>{const b=ev.target.closest("button[data-qd]");if(!b)return;st.qd=b.dataset.qd;qd.querySelectorAll("button").forEach(x=>{const on=x===b;x.classList.toggle("on",on);x.setAttribute("aria-pressed",on)});render();window.gtag&&gtag("event","select_date_chip",{chip:st.qd})}}
   const sel=document.getElementById("area");
   const fillArea=()=>{const areas=[...new Set(EV.filter(inRegion).map(e=>e.area))];while(sel.options.length>1)sel.remove(1);areas.forEach(a=>sel.add(new Option(a,a)));if(st.area&&!areas.includes(st.area))st.area="";sel.value=st.area};fillArea();
@@ -184,17 +190,16 @@ fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
   const setR=()=>{st.from=fr.value;st.to=to.value;if(st.from&&st.to&&st.from>st.to){st.to=st.from;to.value=st.from}to.min=st.from||"";render()};
   fr.onchange=setR;to.onchange=setR;
   document.getElementById("rreset").onclick=()=>{fr.value=to.value="";setR()};
-  window.resetFilters=()=>{fr.value=to.value="";st.from=st.to="";to.min="";sel.value="";st.area="";const qi=document.getElementById("q");qi.value="";st.q="";st.s="all";st.cat="";st.bm=false;st.qd="all";document.querySelectorAll("#qd button").forEach(x=>{const on=x.dataset.qd==="all";x.classList.toggle("on",on);x.setAttribute("aria-pressed",on)});
-    document.querySelectorAll("#status button").forEach(x=>x.classList.toggle("on",x.dataset.s==="all"));chips.querySelectorAll("button").forEach((x,i)=>x.classList.toggle("on",i===0));render()};
-  document.getElementById("q").oninput=e=>{st.q=e.target.value;render()};
+  window.resetFilters=()=>{fr.value=to.value="";st.from=st.to="";to.min="";sel.value="";st.area="";const qi=document.getElementById("q");qi.value="";st.q="";st.s="all";st.cat="";st.g.clear();st.bm=false;window.QJ_clearBounds&&QJ_clearBounds();st.qd="all";document.querySelectorAll("#qd button").forEach(x=>{const on=x.dataset.qd==="all";x.classList.toggle("on",on);x.setAttribute("aria-pressed",on)});
+    document.querySelectorAll("#status button").forEach(x=>x.classList.toggle("on",x.dataset.s==="all"));paintChips();render()};
+  {const qi=document.getElementById("q");qi.value=st.q;qi.oninput=e=>{st.q=e.target.value;render()};window.QJ_setQ=v=>{qi.value=v;st.q=v;render()};window.QJ_EV=()=>EV.filter(inRegion)}
   const tg=document.getElementById("status");tg.onclick=ev=>{const b=ev.target.closest("button");if(!b)return;st.s=b.dataset.s;tg.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));render()};
   render();
-  try{const sp=new URLSearchParams(location.search);if(sp.has("region")){sp.delete("region");const q=sp.toString();history.replaceState(null,"",location.pathname+(q?"?"+q:"")+location.hash)}}catch(x){}
   const want=new URLSearchParams(location.search).get("item");
   if(want){try{history.replaceState(null,"",baseURL()+location.hash)}catch(x){}
     {const raw0=EV.find(c=>itemId(c)===want);if(raw0){const r0=regionOf(raw0);if(r0!=="all"&&r0!==st.region&&window.setRegion)setRegion(r0,{persist:false})}}
     let e=CARDS.find(c=>itemId(c)===want)||CARDS.find(c=>(c._dates||[]).some(d=>itemId(d)===want));
-    if(!e){const raw=EV.find(c=>itemId(c)===want);if(raw){const b=[...chips.querySelectorAll("button")].find(x=>x.dataset.c===raw.category);if(b)b.click();e=CARDS.find(c=>c.title_ko===raw.title_ko&&c.category===raw.category)||raw}}
+    if(!e){const raw=EV.find(c=>itemId(c)===want);if(raw){st.g=new Set([GEN[raw.category]]);st.q="";document.getElementById("q").value="";paintChips();render();e=CARDS.find(c=>c.title_ko===raw.title_ko&&c.category===raw.category)||raw}}
     if(e){const ix=CARDS.indexOf(e);if(ix>=PER){PAGE=Math.floor(ix/PER);render(true)}}
     if(e&&hasDetail(e))openDetail(e)}
   }).catch(()=>document.getElementById("list").innerHTML='<p class="empty">데이터를 불러오지 못했어요.</p>');
@@ -220,7 +225,7 @@ function detail(e){const g=e.gallery||[];const groups=[...new Set(g.map(x=>x.gro
     <ul><li>📍 ${esc(e.venue)}</li><li>🗓️ ${esc(period(e))}</li>${e.price?`<li>🏷️ ${pricet(e.price)}</li>`:""}</ul>
     <div class="dtag">#${esc(e.category)} · ${esc(e.area)}</div>
     ${e.thumbnail?`<div class="dsrc">이미지 출처: <a href="${esc(e.thumbnail_source||e.official_url)}" target="_blank" rel="noopener">${esc(host(e.thumbnail_source||e.official_url||e.thumbnail))}</a></div>`:""}</div></div>
-  <div class="dact"><button type="button" class="dshare">🔗 링크 복사</button></div>
+  <div class="dact"><button type="button" class="dshare">🔗 링크 복사</button>${window.QJ_calBtns?QJ_calBtns(e):""}</div>
   ${dmeta(e)}
   ${(e.info||[]).length?`<div class="dinfo">${e.info.map(b=>`<section><h3 class="dgh">${esc(b.h)}</h3><ul>${(b.items||[]).map(t=>`<li>${pricet(t)}</li>`).join("")}</ul></section>`).join("")}${e.info_source?`<p class="dnote">출처: <a href="${esc(e.info_source)}" target="_blank" rel="noopener">${esc(host(e.info_source))}</a></p>`:""}</div>`:""}
   ${g.length?groups.map(gr=>`<h3 class="dgh">${esc(gr||"갤러리")}</h3><div class="dgrid">${g.filter(x=>(x.group||"")===gr).map(x=>`<figure><a class="zoom" href="${esc(x.img_local||x.full||x.img)}" target="_blank" rel="noopener" data-cap="${esc(x.caption_ko)}" data-orig="${esc(x.full||x.img)}"${(x.img_local||x.img_fb)?` data-fb="${esc(x.img_local?(x.full||x.img):x.img_fb)}"`:""}><img src="${esc(x.img_local||x.img)}" alt="${esc(x.caption_ko)}" loading="lazy" referrerpolicy="no-referrer" ${fbAttr([x.img_local?x.img:"",x.img_fb])||`onerror="qjFb(this)"`}></a><figcaption><b>${esc(x.caption_ko)}</b>${x.caption_ja?`<span>${esc(x.caption_ja)}</span>`:""}${x.kinds||x.size?`<i>${esc([x.kinds,x.size].filter(Boolean).join(" · "))}</i>`:""}${x.price?`<em>${pricet(x.price)}</em>`:""}</figcaption></figure>`).join("")}</div>`).join("")
@@ -246,7 +251,7 @@ document.addEventListener("click",async ev=>{const b=ev.target.closest(".dshare"
 function openDetail(e){window.gtag&&gtag("event","open_detail",{item:e.title_ko,category:e.category,has_gallery:hasGal(e)});if(document.querySelector(".dov"))return;DETAIL_E=e;const o=document.createElement("div");o.className="dov";o.innerHTML=detail(e);document.body.appendChild(o);document.body.style.overflow="hidden";document.body.classList.add("modal-open");pushLayer("detail","?item="+encodeURIComponent(itemId(e)));o.querySelector(".dvx").focus();
   o.addEventListener("click",ev=>{if(ev.target===o||ev.target.closest(".dvx"))closeDetail()})}
 function closeDetail(fromPop){const o=document.querySelector(".dov");if(!o)return;const l=document.querySelector(".lb");if(l)l.remove();o.remove();document.body.style.overflow="";document.body.classList.remove("modal-open");DETAIL_E=null;
-  const fixURL=()=>{if(location.search.includes("item=")){try{history.replaceState(history.state,"",baseURL()+location.hash)}catch(e){}}};setTimeout(fixURL,60);
+  const fixURL=()=>{if(location.search.includes("item=")){syncURL()}};setTimeout(fixURL,60);
   if(!fromPop){const st=history.state&&history.state.qj;const n=st==="lb"?2:st==="detail"?1:0;if(n){POP_SKIP++;history.go(-n)}}}
 function closeLB(fromPop){const l=document.querySelector(".lb");if(!l)return false;l.remove();if(!fromPop)popLayer("lb");return true}
 document.addEventListener("keydown",ev=>{if(ev.key==="Escape"){if(!closeLB())closeDetail()}});
@@ -265,7 +270,7 @@ document.addEventListener("click",ev=>{const a=ev.target.closest(".dgrid a.zoom"
   l.addEventListener("touchend",t=>{if(sx===null)return;const dx=t.changedTouches[0].clientX-sx,dy=t.changedTouches[0].clientY-sy;sx=null;if(Math.abs(dx)>45&&Math.abs(dx)>Math.abs(dy)*1.3)lbStep(dx<0?1:-1)});
   document.body.appendChild(l);lbShow();pushLayer("lb")},true);
 document.addEventListener("keydown",ev=>{if(!document.querySelector(".lb"))return;if(ev.key==="ArrowLeft")lbStep(-1);else if(ev.key==="ArrowRight")lbStep(1)});
-document.addEventListener("click",ev=>{if(ev.target.closest(".card .bm,.card a"))return;const c=ev.target.closest(".card[data-i]");if(!c)return;const e=CARDS[+c.dataset.i];if(e)openDetail(e)});
+document.addEventListener("click",ev=>{if(ev.target.closest(".card .bm,.card a,.card .cadd"))return;const c=ev.target.closest(".card[data-i]");if(!c)return;const e=CARDS[+c.dataset.i];if(e)openDetail(e)});
 
 window.addEventListener("fxrate",()=>{if(typeof render==="function")render(true);const o=document.querySelector(".dov");if(o&&DETAIL_E){const sc=o.scrollTop;o.innerHTML=detail(DETAIL_E);o.scrollTop=sc}});
 document.addEventListener("click",ev=>{const b=ev.target.closest(".moredates");if(!b)return;const x=b.nextElementSibling;if(x){x.hidden=false;b.remove()}});

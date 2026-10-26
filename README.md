@@ -88,3 +88,13 @@ python -m http.server 8000
 - **표준 빌드(정기 업데이트 월/목·새 항목 추가 후 매번):** `bash tools/build.sh` = mkthumbs → mkfallback → mkimg → mkshare. 모두 증분이라 이미 받은 파일은 건너뛰고, 실패해도 기존 파일은 지우지 않아요.
 - ⭐ 북마크: 카드의 ☆ 버튼, localStorage `qj_bm`(seriesKey 목록), "⭐ 북마크" 탭은 시작일순. GA 이벤트 `toggle_bookmark`(item, category, on).
 - `gallery_more: {url, label}` 이 있으면 갤러리 끝에 "전체 보기" 링크를 보여줘요 (MAPPA EXPO).
+
+## 이벤트 필드: `added` (테스트 사이트, 10/26 추가)
+- `added`: 사이트에 처음 올라간 날 (YYYY-MM-DD, KST). `last_updated`와 같은 날짜인 항목이 상단 "✨ 이번 업데이트에 추가" 줄에 나와요.
+- 정기 업데이트(월/목)에서 새 항목을 넣을 때 직접 넣어도 되고, 안 넣어도 `bash tools/build.sh`가 `tools/added.py --backfill`로 git 기록에서 처음 등장한 날(없으면 오늘)을 채워요. 이미 있는 값은 바꾸지 않아요.
+- 메인 데이터로 동기화할 때 메인 events.json에 `added`가 없어도 build.sh가 다시 채워요.
+- `title_ja`: 일본어 원제 (작품명 자동완성에 같이 쓰여요).
+
+## 빌드 산출물 (tools/mkfeeds.py)
+- `feeds/{tokyo,osaka,fukuoka,nationwide}.ics` 구독용 캘린더, `rss.xml` 새로 추가된 행사, `index.html`의 ItemList JSON-LD(`<!--LD:start-->`~`<!--LD:end-->`).
+- 항목별 Event JSON-LD는 `tools/mkshare.py`가 `i/<id>/index.html`에 넣어요.

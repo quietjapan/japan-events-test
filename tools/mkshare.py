@@ -25,6 +25,22 @@ def og_img(src_bytes,dst):
     im=Image.open(io.BytesIO(src_bytes)).convert("RGB");W,H=1200,630
     s=max(W/im.width,H/im.height);im=im.resize((round(im.width*s),round(im.height*s)),Image.LANCZOS)
     l=(im.width-W)//2;t=max(0,(im.height-H)//3);im.crop((l,t,l+W,t+H)).save(dst,"JPEG",quality=80,optimize=True,progressive=True)
+def ld(e,i,url,img):
+    """schema.org Event JSON-LD (검색엔진용). 전국 공통(쿠지·가챠·잡지 부록)은 장소가 없어 Product 성격이라 Event로 넣지 않아요."""
+    if not e.get("start") or (e.get("region")=="all" or e.get("area")=="전국"): return ""
+    addr=e.get("map_query") or ""
+    place={"@type":"Place","name":e.get("venue") or e.get("area"),"address":{"@type":"PostalAddress","streetAddress":addr,"addressLocality":e.get("area") or "","addressCountry":"JP"} if addr else {"@type":"PostalAddress","addressLocality":e.get("area") or "","addressCountry":"JP"}}
+    if e.get("lat") and e.get("lon"): place["geo"]={"@type":"GeoCoordinates","latitude":e["lat"],"longitude":e["lon"]}
+    o={"@context":"https://schema.org","@type":"Event","name":e.get("title_ko"),"alternateName":e.get("title_ja") or None,"startDate":e["start"],"endDate":e.get("end") or e["start"],
+       "eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":place,
+       "image":[img],"description":(e.get("summary_ko") or e.get("title_ko") or "")[:300],"url":e.get("official_url") or url,"sameAs":url,
+       "organizer":{"@type":"Organization","name":host(e.get("official_url")) or "공식 주최","url":e.get("official_url") or url}}
+    o={k:v for k,v in o.items() if v is not None}
+    return '<script type="application/ld+json">'+json.dumps(o,ensure_ascii=False).replace("</","<\\/")+'</script>'
+def host(u):
+    from urllib.parse import urlparse
+    try: return urlparse(u or "").hostname.replace("www.","")
+    except Exception: return ""
 d=json.loads((ROOT/"events.json").read_text());seen={};fail=0
 for e in d["events"]:
     i=item_id(e)
@@ -57,6 +73,7 @@ for i,e in seen.items():
 <meta property="og:url" content="{url}"><meta property="og:image" content="{img}">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{q(t)}"><meta name="twitter:description" content="{q(desc)}"><meta name="twitter:image" content="{img}">
+{ld(e,i,url,img)}
 <script>location.replace("{dest}"+location.hash)</script>
 </head><body><p><a href="{dest}">{q(e.get('title_ko',''))} 자세히 보기 →</a></p>{'<p>'+q(e['copyright'])+'</p>' if e.get('copyright') else ''}</body></html>
 """)
