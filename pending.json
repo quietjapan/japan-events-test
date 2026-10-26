@@ -78,7 +78,7 @@
       "evidence": [],
       "source_tier": "",
       "verified_at": "",
-      "pending_reason": "날짜(시작일) 미정 — 근거로 확정할 수 없음",
+      "pending_reason": "발매 시기 「2026年11月未定」 — 주차 확정되면 등록 (2026-10-26 재확인)",
       "pending_reason_hint": "発売時期 2026年11月未定 価格(税",
       "translation_check": true,
       "thumbnail": "",
@@ -130,29 +130,6 @@
       "thumbnail_source": "https://parks2.bandainamco-am.co.jp/item/PRE_4582770056044.html"
     },
     {
-      "area": "도쿄",
-      "reservation": "",
-      "price": "",
-      "checked_date": "2026-10-19",
-      "evidence": [],
-      "translation_check": true,
-      "source_tier": "",
-      "verified_at": "",
-      "title_ko": "마법소녀의 마녀재판 × GiGO POP UP STORE (아키하바라)",
-      "title_ja": "魔法少女ノ魔女裁判×GiGO POP UP STORE",
-      "category": "팝업스토어",
-      "venue": "GiGO 아키하바라 5호관",
-      "start": "2026-10-24",
-      "end": "2026-11-08",
-      "official_url": "https://www.gigo.co.jp/cafe-and-goods/2026-10-manosaba-popup",
-      "notes": "공식 KV 이미지: 아키하바라 5호관 10/24~11/8, 오사카 11/7~22, 후쿠오카·센다이 11/14~24. 10/24·25 오전 GiGO 앱 추첨(이로하 제보). 가격(아크릴 스탠드 1,650엔·캔배지 550엔)은 미확인",
-      "pending_reason": "근거 없음: 공식/출처 페이지에서 이 날짜가 적힌 원문을 찾지 못함",
-      "source_url": "https://www.gigo.co.jp/cafe-and-goods/2026-10-manosaba-popup",
-      "thumbnail": "https://assets.gigo.co.jp/img/news/gigo-portal-ogp.png",
-      "thumbnail_source": "https://www.gigo.co.jp/cafe-and-goods/2026-10-manosaba-popup",
-      "map_query": ""
-    },
-    {
       "area": "전국",
       "reservation": "",
       "price": "1회 400엔",
@@ -185,64 +162,12 @@
       "official_url": "",
       "source_url": "",
       "notes": "이로하 제보(10/19 19:34). 공식 기간 문구 미확인 → 공식 페이지 확인 후 등록",
-      "checked_date": "2026-10-20",
+      "checked_date": "2026-10-26",
       "source_tier": "",
       "translation_check": true,
       "evidence": [],
       "verified_at": "",
-      "pending_reason": "근거 없음: 공식/출처 페이지에서 이 날짜가 적힌 원문을 찾지 못함"
-    },
-    {
-      "title_ko": "고질라-0.0 공개 기념 클래퍼즈 다이너 콜라보 메뉴 (그랜드 시네마 선샤인 이케부쿠로)",
-      "title_ja": "ゴジラ-0.0 クラッパーズダイナー コラボメニュー",
-      "category": "콜라보카페",
-      "area": "도쿄",
-      "venue": "그랜드 시네마 선샤인 이케부쿠로 5층 클래퍼즈 다이너",
-      "start": null,
-      "end": null,
-      "official_url": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
-      "notes": "공식: 2026/10/23~11월 하순(예정). 종료일 미확정이라 게시 보류",
-      "pending_reason": "종료일 미확정 — 공식 표기가 '10/23〜11月下旬(予定)'뿐 (종료일 확정되면 날짜 넣고 재검증)",
-      "checked_date": "2026-10-22",
-      "reservation": "",
-      "price": "",
-      "source_url": "https://www.cinemasunshine.co.jp/theater/gdcs/news/3806/",
-      "evidence": [],
-      "translation_check": true,
-      "thumbnail": "",
-      "thumbnail_source": "",
-      "map_query": "東京都豊島区東池袋1-30-3",
-      "source_tier": "",
-      "verified_at": ""
-    },
-    {
-      "title_ko": "사이키 쿠스오의 재난 ΨCHIC DINER (콜라보카페)",
-      "title_ja": "アニメ「斉木楠雄のΨ難」ΨCHIC DINER",
-      "category": "콜라보카페",
-      "area": "도쿄",
-      "venue": "(장소 미확인)",
-      "start": "2026-11-06",
-      "end": "2026-11-29",
-      "official_url": null,
-      "source_url": "https://charaum.com/saikikusuo2611/",
-      "notes": "charaum.com 기간 11/6~11/29(전기 ~11/19, 후기 11/20~). 개최 장소가 공식 페이지에 없음",
-      "pending_reason": "장소 미확인 — 공식 페이지(charaum.com)에 기간은 있으나 개최 매장 표기가 없음",
-      "checked_date": "2026-10-22",
-      "reservation": "",
-      "price": "",
-      "evidence": [
-        {
-          "url": "https://charaum.com/saikikusuo2611/",
-          "tier": "aggregator",
-          "quote": "コンテンツへスキップ アニメ「斉木楠雄のΨ難」ΨCHIC DINER 2026/11/6 (金)-2026/11/29(日) < コラボメニュー> 前期・後期を通して、限定コラボメニューが登場いたします。 ※前期と後",
-          "checked": "2026-10-22"
-        }
-      ],
-      "thumbnail": "https://charaum.com/wp-content/uploads/2026/09/e69689e69ca8_cafekv_e6a8aa.jpg",
-      "thumbnail_source": "https://charaum.com/saikikusuo2611/",
-      "translation_check": true,
-      "source_tier": "aggregator",
-      "verified_at": "2026-10-22"
+      "pending_reason": "eeo Store 공식 페이지에 기간 문구 없음 (2026-10-26 재확인) — 공식 기간 표기 확인되면 등록"
     },
     {
       "title_ko": "헌터×헌터 NEON DINER 콜라보 카페 (애니메이트 카페 스탠드 라식 후쿠오카 텐진)",
@@ -252,7 +177,10 @@
       "category": "콜라보카페",
       "official_url": "https://www.animatecafe.jp/event/ac000779_2",
       "lead": "fukuoka-otaku.net: 2026-11-19~12-15",
-      "reason": "공식 페이지에서 후쿠오카 회장 날짜 문구 미확인 (2026-10-25)"
+      "reason": "공식 페이지에서 후쿠오카 회장 날짜 문구 미확인 (2026-10-25)",
+      "checked_date": "2026-10-26",
+      "pending_reason": "공식 페이지(animatecafe ac000779_2)에 후쿠오카 회장 날짜 문구 아직 없음 (2026-10-26 재확인)",
+      "translation_check": true
     },
     {
       "id": "pending-fukuoka-0",
@@ -261,16 +189,9 @@
       "region": "fukuoka",
       "official_url": "https://www.0101.co.jp/090/event/",
       "reason": "博多マルイ 공식 이벤트 목록에 없음 — 공식 일정 미확인",
-      "checked_date": "2026-10-25"
-    },
-    {
-      "id": "pending-fukuoka-1",
-      "title_ja": "鬼灯の冷徹 15th 特別展示（アニメイト福岡天神ラシック）",
-      "area": "후쿠오카",
-      "region": "fukuoka",
-      "official_url": "https://www.animate.co.jp/",
-      "reason": "공식 페이지에서 기간 확인 못함",
-      "checked_date": "2026-10-25"
+      "checked_date": "2026-10-25",
+      "title_ko": "하이큐!! 어글리 스웨터 POP UP (하카타 마루이)",
+      "translation_check": true
     },
     {
       "id": "pending-osaka-kemono-teatime",
@@ -279,7 +200,9 @@
       "region": "osaka",
       "official_url": "https://www.cafe-epictale.jp/",
       "reason": "CAFE EPIC TALE 공식 홈에는 같은 기간(11/18~11/29) 「古書店街の橋姫 々」 순회만 있고 けものティータイム 일정이 없음",
-      "checked_date": "2026-10-25"
+      "checked_date": "2026-10-25",
+      "title_ko": "케모노 티타임 POP UP (CAFE EPIC TALE 닛폰바시)",
+      "translation_check": true
     },
     {
       "id": "pending-osaka-hanakokun2-oni-nambamarui",
@@ -288,8 +211,10 @@
       "region": "osaka",
       "official_url": "",
       "reason": "공식 페이지 못 찾음 (제보: 11/14~11/29)",
-      "checked_date": "2026-10-25"
+      "checked_date": "2026-10-25",
+      "title_ko": "지박소년 하나코 군 2 오니 ver. POP UP (난바 마루이 5F)",
+      "translation_check": true
     }
   ],
-  "base_date": "2026-10-22"
+  "base_date": "2026-10-26"
 }
