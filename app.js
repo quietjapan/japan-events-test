@@ -2,14 +2,14 @@ const CATS=["팝업스토어","콜라보카페","전시·행사","축제","가�
 const STOCK=new Set(["가챠","쿠지"]);const SHOP=new Set(["팝업스토어","콜라보카페","쿠지","가챠","잡지 부록"]);
 const hasGal=e=>!!(e.gallery&&e.gallery.length);const hasDetail=e=>!!e;const MAG="잡지 부록";const MAG_DAYS=35;
 const CATCLS={"팝업스토어":"c-pop","콜라보카페":"c-cafe","전시·행사":"c-expo","축제":"c-fest","가챠":"c-gacha","쿠지":"c-kuji","플리마켓":"c-flea","잡지 부록":"c-mag"};
-const GEN={"콜라보카페":"cafe","팝업스토어":"pop","전시·행사":"expo","쿠지":"kuji","가챠":"kuji","잡지 부록":"mag","축제":"etc","플리마켓":"etc"};const GENL=[["cafe","☕ 콜라보카페"],["pop","🛍️ 팝업"],["expo","🖼️ 원화전·전시"],["kuji","🎟️ 쿠지·가챠"],["mag","📚 잡지 부록"],["etc","🎪 기타"]];window.QJ_GEN=GEN;
+const GEN={"콜라보카페":"cafe","팝업스토어":"pop","전시·행사":"expo","쿠지":"kuji","가챠":"kuji","잡지 부록":"mag","축제":"fest","플리마켓":"flea"};const GENL=[["cafe","☕ 콜라보카페"],["pop","🛍️ 팝업"],["expo","🖼️ 원화전·전시"],["fest","🎪 축제"],["flea","🧺 플리마켓"],["kuji","🎟️ 쿠지·가챠"],["mag","📚 잡지 부록"]];window.QJ_GEN=GEN;
 const st={g:new Set(),qd:"all",cat:"",area:"",q:"",s:"all",from:"",to:"",bm:false,region:"tokyo"};
 // 🗾 지역(도쿄/오사카) 토글: events.json의 region(tokyo/osaka/all). all(전국: 가챠·쿠지·잡지 부록)은 두 지역 모두에 보여요.
 const REG={tokyo:"도쿄",osaka:"오사카",fukuoka:"후쿠오카"};const REGK="qj_region";
 const regionOf=e=>e.region||(e.area==="오사카"?"osaka":e.area==="후쿠오카"?"fukuoka":e.area==="전국"?"all":"tokyo");
 const isNat=e=>regionOf(e)==="all";let NAT0=-1,NATN=0;
 const inRegion=e=>{const r=regionOf(e);return r==="all"||r===st.region};
-(()=>{let r=null;try{r=new URLSearchParams(location.search).get("region")}catch(e){}if(!REG[r]){try{r=localStorage.getItem(REGK)}catch(e){}}st.region=REG[r]?r:"tokyo";try{const sp=new URLSearchParams(location.search);(sp.get("g")||"").split(",").forEach(x=>{if(x)st.g.add(x)});st.q=sp.get("q")||""}catch(e){}window.QJ_REGION=st.region;document.documentElement.setAttribute("data-region",st.region);document.querySelectorAll("#region button[data-r]").forEach(b=>{const on=b.dataset.r===st.region;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on)})})();
+(()=>{let r=null;try{r=new URLSearchParams(location.search).get("region")}catch(e){}if(!REG[r]){try{r=localStorage.getItem(REGK)}catch(e){}}st.region=REG[r]?r:"tokyo";try{const sp=new URLSearchParams(location.search);(sp.get("g")||"").split(",").forEach(x=>{if(x==="etc"){st.g.add("fest");st.g.add("flea")}else if(x)st.g.add(x)});st.q=sp.get("q")||""}catch(e){}window.QJ_REGION=st.region;document.documentElement.setAttribute("data-region",st.region);document.querySelectorAll("#region button[data-r]").forEach(b=>{const on=b.dataset.r===st.region;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on)})})();
 // ⭐ 북마크: 이 기기 브라우저(localStorage)에만 저장. 묶인 카드도 같은 키(seriesKey)로 저장돼요.
 const BMK="qj_bm";let BM=new Set();try{BM=new Set(JSON.parse(localStorage.getItem(BMK)||"[]"))}catch(e){}
 const saveBM=()=>{try{localStorage.setItem(BMK,JSON.stringify([...BM]))}catch(e){}};let EV=[];

@@ -54,3 +54,24 @@
   .qmap.side .qmarea{display:inline-flex}
   .qmap.side .qmleg{font-size:11px}
 }
+/* 핀: 장르 색 + 상태 테두리/배지 */
+.qmdot.st-live{border:3px solid #fff}
+.qmdot.st-end3{border:3px solid #fff;outline:3px solid #e03131;outline-offset:0}
+.qmdot.st-end3::after{content:"!";position:absolute;top:-7px;right:-7px;width:15px;height:15px;border-radius:50%;background:#e03131;color:#fff;font:800 10px/15px Pretendard,sans-serif;text-align:center;border:1.5px solid #fff}
+.qmdot{position:relative}
+.qmdot.st-start7{background:#fff;color:var(--c);border:3px dashed var(--c)}
+[data-theme=dark] .qmdot.st-start7{background:#211d18}
+.qmlegd{margin:0 2px 8px}.qmlegd summary{cursor:pointer;font-size:12px;font-weight:700;color:var(--mute);list-style:none}
+.qmlegd summary::-webkit-details-marker{display:none}.qmlegd summary::after{content:" ▾"}.qmlegd[open] summary::after{content:" ▴"}
+.qmlegd .qmleg{margin:6px 0 0;gap:6px 12px}
+.qmlsep{width:1px;height:14px;background:var(--line)}
+.qmleg span.st::before{background:#adb5bd;width:10px;height:10px;box-shadow:none;border:2px solid #fff;outline:1px solid #adb5bd}
+.qmleg span.st-end3::before{outline:2.5px solid #e03131}
+.qmleg span.st-start7::before{background:var(--card);border:2px dashed #868e96;outline:none}
+.qmtip{padding:6px!important;border-radius:12px!important;border:1px solid var(--line)!important;background:var(--card)!important;color:var(--ink)!important;box-shadow:var(--sh2)!important}
+.qmtip::before{display:none}
+.qmtipb{display:flex;gap:8px;align-items:center;width:240px;white-space:normal}
+.qmtipb img{width:64px;height:64px;border-radius:8px;object-fit:cover;flex:none}
+.qmtipb span{display:flex;flex-direction:column;gap:2px;min-width:0}
+.qmtipb em{font-style:normal;font-size:11px;font-weight:700;color:var(--c)}
+.qmtipb b{font-size:13px;line-height:1.3}.qmtipb small{font-size:11px;color:var(--mute)}
