@@ -35,7 +35,7 @@
       L_.marker([o.lat,o.lon],{icon:ic,title:o.ko,zIndexOffset:-200}).bindPopup(`<div class="qmsp"><em>${SPI[o.type]||""} ${SPN[o.type]||""}</em><b>${esc(o.ko)}</b><small>${esc(o.ja)}</small><p>${esc(o.desc)}</p>${o.url?`<a href="${esc(o.url)}" target="_blank" rel="noopener">공식 사이트 ↗</a>`:""}</div>`,{maxWidth:260,minWidth:200}).addTo(spotLayer)})}
   let jumpReg=null;function paintJump(reg){if(jumpReg===reg)return;jumpReg=reg;const el=sec.querySelector("#qmjump");el.innerHTML=(JUMP[reg]||[]).map((j,i)=>`<button type="button" data-j="${i}">${j[0]}</button>`).join("")+`<button type="button" data-j="all" class="qmall">전체 보기</button>`;
     el.onclick=ev=>{const b=ev.target.closest("button[data-j]");if(!b||!map)return;el.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));if(b.dataset.j==="all"){lastRegion=null;draw();return}const j=JUMP[reg][+b.dataset.j];map.flyTo([j[1],j[2]],j[3],{duration:.8});window.gtag&&gtag("event","map_jump",{area:j[0]})}}
-  function load(){if(window.L)return Promise.resolve(window.L);if(loading)return loading;
+  function load(){if(loading)return loading;if(window.L&&window.L.maplibreGL)return Promise.resolve(window.L);
     loading=new Promise((ok,ng)=>{const c=document.createElement("link");c.rel="stylesheet";c.href="vendor/leaflet/leaflet.css";document.head.appendChild(c);
       const s=document.createElement("script");s.src="vendor/leaflet/leaflet.js";s.onload=()=>{const MC="vendor/markercluster/";const c2=document.createElement("link");c2.rel="stylesheet";c2.href=MC+"MarkerCluster.css";document.head.appendChild(c2);const s2=document.createElement("script");s2.src=MC+"leaflet.markercluster.js";const fin=()=>ok(window.L);const MLP="vendor/maplibre/";const loadML=()=>{const c3=document.createElement("link");c3.rel="stylesheet";c3.href=MLP+"maplibre-gl.css";document.head.appendChild(c3);const s3=document.createElement("script");s3.src=MLP+"maplibre-gl.js";s3.onload=()=>{const s4=document.createElement("script");s4.src=MLP+"leaflet-maplibre-gl.js";s4.onload=fin;s4.onerror=fin;document.head.appendChild(s4)};s3.onerror=fin;document.head.appendChild(s3)};s2.onload=loadML;s2.onerror=loadML;document.head.appendChild(s2)};s.onerror=ng;document.head.appendChild(s)});return loading}
   const pick=e=>{if(NOFIX.has(e.category))return null;const k=status(e).k;
@@ -45,11 +45,11 @@
   const ATTR='<a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> &copy; <a href="https://www.openmaptiles.org/" target="_blank" rel="noopener">OpenMapTiles</a> Data from <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>';
   const ATTR_S='&copy; <a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> · <a href="https://www.openmaptiles.org/" target="_blank" rel="noopener">OpenMapTiles</a> · <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OSM</a>';
   const isDark=()=>document.documentElement.getAttribute("data-theme")==="dark";
-  const styleUrl=()=>"vendor/maplibre/style-"+(isDark()?"dark":"light")+"-nolabels.json";
+  const styleUrl=()=>"vendor/maplibre/style-"+(isDark()?"dark":"light")+".json";
   let base=null,baseDark=null;
   function webgl(){try{const c=document.createElement("canvas");return !!(c.getContext("webgl2")||c.getContext("webgl"))}catch(e){return false}}
   function addBase(L,mob){
-    if(L.maplibreGL&&window.maplibregl&&webgl()){baseDark=isDark();base=L.maplibreGL({style:styleUrl(),attribution:mob?ATTR_S:ATTR,interactive:false}).addTo(map);
+    if(L.maplibreGL&&window.maplibregl&&webgl()){baseDark=isDark();map.getContainer().classList.add("qm-gl");base=L.maplibreGL({style:styleUrl(),attribution:mob?ATTR_S:ATTR,interactive:false}).addTo(map);
       new MutationObserver(()=>{if(isDark()!==baseDark){baseDark=isDark();try{base.getMaplibreMap().setStyle(styleUrl())}catch(e){}}}).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]})}
     else L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'}).addTo(map)}
   // [이름, 위도, 경도, 종류(a=지역 b=랜드마크 s=역), 보이는 최소 줌, 최대 줌]

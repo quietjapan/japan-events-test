@@ -75,3 +75,12 @@
 .qmtipb span{display:flex;flex-direction:column;gap:2px;min-width:0}
 .qmtipb em{font-style:normal;font-size:11px;font-weight:700;color:var(--c)}
 .qmtipb b{font-size:13px;line-height:1.3}.qmtipb small{font-size:11px;color:var(--mute)}
+
+.qm-gl .leaflet-qmlbl-pane{display:none}
+.hd h1.wm::before{content:none;display:none}
+.hd h1.wm{align-items:center}
+.wmlogo{flex:none;display:block;width:44px;height:44px;border-radius:50%;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.15);transition:transform .15s}
+.wmlogo img{display:block;width:100%;height:100%}
+.wmlogo:hover{transform:scale(1.05)}
+.wm .wma{transform:rotate(-4deg)}
+@media(max-width:640px){.wmlogo{width:36px;height:36px}}
