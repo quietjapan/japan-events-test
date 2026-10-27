@@ -1,0 +1,25 @@
+.visited{margin:40px 0 8px;padding-top:28px;border-top:1px dashed var(--line);scroll-margin-top:16px}
+.vhd{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.vhd h2{margin:0;font-family:"Nanum Myeongjo",Pretendard,serif;font-weight:800;font-size:24px;letter-spacing:-.01em}
+.vhd #vcnt{font-size:13px;color:var(--mute)}
+.vsub{margin:4px 0 12px;color:var(--mute);font-size:14px}
+.vseg{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 14px}
+.vseg button{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:5px 12px;border-radius:999px;font:inherit;font-size:13px;cursor:pointer}
+.vseg button.on{background:var(--solid);color:var(--on-solid);border-color:var(--solid)}
+.vlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.vcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:8px}
+.vtop{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--mute)}
+.vrg{background:var(--soft);color:var(--ink);padding:2px 9px;border-radius:999px;font-size:12px}
+.vstar{margin-left:auto;color:var(--accent);letter-spacing:1px}.vstar i{font-style:normal;opacity:.25}
+.vname{margin:0;font-size:17px;line-height:1.35}.vname small{display:block;font-size:12px;font-weight:400;color:var(--mute);margin-top:2px}
+.vverd{margin:0;font-weight:700;color:var(--accent);font-size:14px}
+.vph{display:grid;grid-template-columns:repeat(auto-fill,minmax(90px,1fr));gap:6px}.vph img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px;border:1px solid var(--line)}
+.vcom{margin:0;padding:10px 12px;background:var(--soft);border-left:3px solid var(--accent);border-radius:4px 10px 10px 4px;font-size:14.5px;line-height:1.65;white-space:normal}
+.vcom cite{display:block;margin-top:6px;font-style:normal;font-size:12px;color:var(--mute);text-align:right}
+.vlk{margin:0;display:flex;gap:12px;font-size:13px}.vlk a{color:var(--accent);text-decoration:none;font-weight:600}
+.vempty{grid-column:1/-1;text-align:center;padding:34px 16px;border:1px dashed var(--line);border-radius:14px;background:var(--card)}
+.vempty b{font-family:"Nanum Myeongjo",Pretendard,serif;font-size:18px}.vempty p{margin:6px 0 0;color:var(--mute);font-size:14px}
+.card .vmk{align-self:flex-start;font-size:11.5px;font-weight:700;color:#2f7a3e;background:#e3f2e1;padding:2px 8px;border-radius:999px}
+[data-theme="dark"] .card .vmk{background:#22361f;color:#9fd197}
+@media(max-width:600px){.vlist{grid-template-columns:1fr}.vhd h2{font-size:21px}}
+.vnav{font-size:13px;color:var(--accent);text-decoration:none;font-weight:600;margin-left:8px}.vnav:hover{text-decoration:underline}

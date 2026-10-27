@@ -32,11 +32,12 @@
 </script>
 <link rel="preconnect" href="https://www.google.com"><link rel="preconnect" href="https://maps.gstatic.com" crossorigin><link rel="preconnect" href="https://maps.googleapis.com" crossorigin><link rel="dns-prefetch" href="https://api.open-meteo.com">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@800&text=%EC%9D%BC%EB%B3%B8%20%ED%96%89%EC%82%AC%20%EC%BA%98%EB%A6%B0%EB%8D%94%EC%98%A4%EC%8B%9C%EC%B9%B4%EC%B8%A0%EC%9E%AC%ED%8C%AC&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@800&text=%EC%9D%BC%EB%B3%B8%20%ED%96%89%EC%82%AC%20%EC%BA%98%EB%A6%B0%EB%8D%94%EC%98%A4%EC%8B%9C%EC%B9%B4%EC%B8%A0%EC%9E%AC%ED%8C%AC%EB%8B%A4%EB%85%80%EC%98%A8%EA%B3%B3&display=swap">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="calendar.css">
 <script>(function(){if(!matchMedia("(min-width:901px)").matches)return;var r=null;try{r=new URLSearchParams(location.search).get("region")||localStorage.getItem("qj_region")}catch(e){}if(["tokyo","osaka","fukuoka"].indexOf(r)<0)r="tokyo";var l=document.createElement("link");l.rel="preload";l.as="image";l.href="hdbg/"+r+"-"+((devicePixelRatio||1)>=1.5||innerWidth>1700?1600:960)+".webp";document.head.appendChild(l)})();</script>
 <link rel="stylesheet" href="ideas.css">
+<link rel="stylesheet" href="visited.css">
 <link rel="alternate" type="application/rss+xml" title="오시카츠 재팬 · 새로 추가된 행사" href="rss.xml">
 <script>
 (function(){
@@ -88,7 +89,7 @@
   <p class="sub wmsub">일본 덕질(推し活) 팝업·콜라보 행사 지도·달력</p>
   <p class="sub" id="vline">도쿄·오사카·후쿠오카의 팝업·카페·전시 일정을 한눈에</p>
   <div class="region" id="region" role="group" aria-label="지역 선택"><button type="button" data-r="tokyo" class="on" aria-pressed="true">🗼 도쿄</button><button type="button" data-r="osaka" aria-pressed="false">🏯 오사카</button><button type="button" data-r="fukuoka" aria-pressed="false">🍜 후쿠오카</button></div>
-  <div class="hdinfo"><span class="trust">✓ 공식 발표 기준</span><p class="upd" id="upd" hidden></p><div class="meta" hidden><span id="base">기준일: -</span></div></div>
+  <div class="hdinfo"><span class="trust">✓ 공식 발표 기준</span><a class="vnav" href="#visited">🧳 다녀온 곳</a><p class="upd" id="upd" hidden></p><div class="meta" hidden><span id="base">기준일: -</span></div></div>
 </div></header>
 <main class="wrap">
   <div id="banner" class="banner" hidden>⚠️ 현재 예시 데이터입니다. 실제 일정은 공식 사이트에서 확인해 주세요.</div>
@@ -110,11 +111,17 @@
   <aside id="magintro" class="sum magintro" hidden><span class="sumlbl">📚 잡지 부록, 알고 보면 꿀템이에요</span><p>일본 잡지는 매달 부록이 바뀌어요. 파우치, 에코백, 캐릭터 굿즈처럼 잡지보다 부록이 주인공인 경우가 많고, 그달에만 구할 수 있는 한정판이라 레어템이 되기도 해요. 그런데 가격은 잡지 값이라 굿즈를 따로 사는 것보다 훨씬 저렴한 편이에요. 준쿠도·키노쿠니야 같은 대형 서점의 잡지 코너나 편의점에서 살 수 있고, 인기 부록은 발매 직후 품절되기도 하니 발매일을 꼭 확인하세요.</p><p class="magsub">발매일 기준 약 5주 동안 보여요(다음 호가 나오면 바뀌어요). 가격은 잡지 가격(세금 포함)이에요.</p><p class="magsub">💡 5주는 이 사이트에 올려두는 기간일 뿐이에요. 다음 호가 나와도 지난 호가 모든 서점에서 바로 사라지진 않아서 실제로는 더 오래 살 수 있어요. 반대로 인기 부록은 더 일찍 품절되기도 해요.</p></aside>
   <p id="count" class="count"></p>
   <section id="list" class="list"></section>
+  <section id="visited" class="visited" aria-labelledby="vtitle">
+    <div class="vhd"><h2 id="vtitle">다녀온 곳</h2><span id="vcnt"></span></div>
+    <p class="vsub">준호가 직접 가 보고 남긴 한 줄 후기예요 ✍️</p>
+    <div class="vseg" id="vseg" role="group" aria-label="다녀온 곳 지역"><button type="button" data-v="all" class="on" aria-pressed="true">전체</button><button type="button" data-v="tokyo" aria-pressed="false">🗼 도쿄</button><button type="button" data-v="osaka" aria-pressed="false">🏯 오사카</button><button type="button" data-v="fukuoka" aria-pressed="false">🍜 후쿠오카</button></div>
+    <div class="vlist" id="vlist" aria-live="polite"></div>
+  </section>
 </main>
 <footer class="wrap ft"><p class="ftl">정보는 바뀔 수 있으니 방문 전 공식 안내를 확인해 주세요 · © 오시카츠 재팬</p></footer>
 
 <div class="fabs"><button type="button" id="themebtn" class="fxbtn themebtn theme-toggle" aria-label="다크모드로 바꾸기">🌙 다크모드</button><button type="button" id="fxbtn" class="fxbtn" aria-expanded="false" aria-controls="fxpanel">💱 환율계산기</button></div>
-<button type="button" id="qmenu" class="qmenu" aria-expanded="false" aria-controls="qmenup" aria-label="메뉴">☰</button><div id="qmenup" class="qmenup" hidden><button type="button" data-a="fx">💱 환율계산기</button><button type="button" data-a="top">⬆️ 맨 위로</button></div>
+<button type="button" id="qmenu" class="qmenu" aria-expanded="false" aria-controls="qmenup" aria-label="메뉴">☰</button><div id="qmenup" class="qmenup" hidden><button type="button" data-a="fx">💱 환율계산기</button><button type="button" data-a="visited">🧳 다녀온 곳</button><button type="button" data-a="top">⬆️ 맨 위로</button></div>
 <div id="fxov" class="fxov" hidden>
 <div id="fxpanel" class="fxpanel" role="dialog" aria-modal="true" aria-label="환율 계산기">
   <div class="fxhd"><b>💱 환율 계산기</b><button type="button" id="fxx" class="fxx" aria-label="닫기">✕</button></div>
@@ -156,6 +163,7 @@
 <script src="theme.js"></script>
 <script src="chiprow.js"></script>
 <script src="hdbg.js"></script>
-<script>(function(){var b=document.getElementById("qmenu"),p=document.getElementById("qmenup");if(!b)return;function t(o){p.hidden=!o;b.setAttribute("aria-expanded",o)}b.onclick=function(e){e.stopPropagation();t(p.hidden)};p.onclick=function(e){var x=e.target.closest("button[data-a]");if(!x)return;t(false);if(x.dataset.a==="fx")document.getElementById("fxbtn").click();else scrollTo({top:0,behavior:"smooth"})};document.addEventListener("click",function(e){if(!p.hidden&&!p.contains(e.target))t(false)})})();</script>
+<script src="visited.js"></script>
+<script>(function(){var b=document.getElementById("qmenu"),p=document.getElementById("qmenup");if(!b)return;function t(o){p.hidden=!o;b.setAttribute("aria-expanded",o)}b.onclick=function(e){e.stopPropagation();t(p.hidden)};p.onclick=function(e){var x=e.target.closest("button[data-a]");if(!x)return;t(false);if(x.dataset.a==="fx")document.getElementById("fxbtn").click();else if(x.dataset.a==="visited")document.getElementById("visited").scrollIntoView({behavior:"smooth"});else scrollTo({top:0,behavior:"smooth"})};document.addEventListener("click",function(e){if(!p.hidden&&!p.contains(e.target))t(false)})})();</script>
 <script>(function(){if(matchMedia("(min-width:720px)").matches){[].forEach(function(id){var d=document.getElementById(id);if(d)d.open=true})}})();</script>
 </body></html>
