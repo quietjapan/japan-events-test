@@ -17,7 +17,7 @@
   const spans=e=>e._dates?e._dates.map(d=>[d.start,d.end||d.start]):(e.start?[[e.start,e.end||e.start]]:[]);
   const on=(e,day)=>spans(e).some(([s,en])=>s<=day&&day<=en);
   function paint(){bar.querySelectorAll("button").forEach(b=>{const o=b.dataset.v===view;b.classList.toggle("on",o);b.setAttribute("aria-pressed",o)});
-    list.hidden=view!=="list";cal.hidden=view!=="cal";if(view==="cal")draw();{const side=view==="list"&&window.QJ_SPLIT&&QJ_SPLIT();window.QJMAP&&QJMAP.show(view==="map"||side,side)}document.documentElement.setAttribute("data-view",view);const pg=document.querySelector(".pager:not(.calpager)");if(pg)pg.hidden=view!=="list"}
+    list.hidden=view!=="list";cal.hidden=view!=="cal";if(view==="cal")draw();{const side=view==="list"&&window.QJ_SPLIT&&QJ_SPLIT()&&!document.documentElement.classList.contains("nomap");window.QJMAP&&QJMAP.show(view==="map"||side,side)}document.documentElement.setAttribute("data-view",view);const pg=document.querySelector(".pager:not(.calpager)");if(pg)pg.hidden=view!=="list"}
   function draw(){const [y,m]=ym;const first=new Date(y,m,1),days=new Date(y,m+1,0).getDate(),lead=first.getDay();
     const cells=[];for(let i=0;i<lead;i++)cells.push(null);for(let d=1;d<=days;d++)cells.push(ymd(new Date(y,m,d)));while(cells.length%7)cells.push(null);
     const by={};cells.forEach(c=>{if(c)by[c]=ROWS.map((e,i)=>({e,i})).filter(o=>on(o.e,c))});

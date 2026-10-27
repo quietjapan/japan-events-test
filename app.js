@@ -135,7 +135,7 @@ function render(keep){if(!keep)PAGE=0;
   {const vl=document.getElementById("vline");if(vl){const n=units().filter(({e,x})=>inRegion(e)&&(x.k==="now"||x.k==="ending")).length;vl.innerHTML=`지금 ${REG[st.region]}에서 열리는 애니·팝업 <b>${n}건</b>`}}
   window.QJCAL&&QJCAL(CARDS);
   document.getElementById("count").textContent=st.bm?`${rows.length}건 (전 지역)`:(NATN?`${REG[st.region]} ${rows.length-NATN}건 + 전국 공통 ${NATN}건`:`${REG[st.region]} ${rows.length}건`);
-  const fc=document.getElementById("fcnt");if(fc){const n=(st.area?1:0)+((st.from||st.to)?1:0)+(st.s!=="all"?1:0);fc.hidden=!n;fc.textContent=n?`${n}개 적용 중`:""}
+  const fc=document.getElementById("fcnt");if(fc){const n=(st.area?1:0)+((st.from||st.to)?1:0)+(st.s!=="all"?1:0)+st.tg.size+(st.bm?1:0)+(st.qd!=="all"?1:0);fc.hidden=!n;fc.textContent=n?String(n):"";fc.setAttribute("aria-label",n?`${n}개 적용 중`:"");const fr0=document.getElementById("fpreset");if(fr0)fr0.disabled=!n}
   document.getElementById("magintro").hidden=st.bm||!(st.g.size===1&&st.g.has("mag"));syncURL();window.QJ_afterRender&&QJ_afterRender({units:units().filter(({e,x})=>x.k!=="end"&&inRegion(e)),region:st.region,REG,status,openDetail,fmt,last:LAST});
   const NP=Math.max(1,Math.ceil(rows.length/PER));PAGE=Math.min(Math.max(0,PAGE),NP-1);const P0=PAGE*PER;
   {let pg=document.getElementById("pager");if(!pg){pg=document.createElement("nav");pg.id="pager";pg.className="pager";pg.setAttribute("aria-label","페이지");const L=document.getElementById("list");L.parentNode.appendChild(pg);
@@ -175,9 +175,9 @@ fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
   if(d.is_sample)document.getElementById("banner").hidden=false;
   const chips=document.getElementById("chips");
   chips.setAttribute("role","group");chips.setAttribute("aria-label","장르 (여러 개 선택 가능)");
-  const paintChips=()=>chips.querySelectorAll("button").forEach(x=>{const on=x.dataset.bm?st.bm:x.dataset.g?(!st.bm&&st.g.has(x.dataset.g)):(!st.bm&&!st.g.size);x.classList.toggle("on",on);x.setAttribute("aria-pressed",on)});window.QJ_paintChips=paintChips;
-  chips.innerHTML=`<button data-g="">전체</button>`+GENL.map(([k,l])=>`<button data-g="${k}">${l}</button>`).join("")+`<button data-bm="1" class="bmtab">⭐ 북마크</button>`;paintChips();
-  chips.onclick=ev=>{const b=ev.target.closest("button");if(!b)return;if(b.dataset.bm){st.bm=!st.bm}else{st.bm=false;const k=b.dataset.g;if(!k)st.g.clear();else st.g.has(k)?st.g.delete(k):st.g.add(k)}paintChips();render();window.gtag&&gtag("event","select_tab",{tab:st.bm?"북마크":([...st.g].join(",")||"전체")})};
+  const paintChips=()=>document.querySelectorAll("#chips button,#bmwrap button").forEach(x=>{const on=x.dataset.bm?st.bm:x.dataset.g?(!st.bm&&st.g.has(x.dataset.g)):(!st.bm&&!st.g.size);x.classList.toggle("on",on);x.setAttribute("aria-pressed",on)});window.QJ_paintChips=paintChips;
+  chips.innerHTML=`<button data-g="">전체</button>`+GENL.map(([k,l])=>`<button data-g="${k}">${l}</button>`).join("");const bmw=document.getElementById("bmwrap");if(bmw)bmw.innerHTML=`<button type="button" data-bm="1" class="bmtab">⭐ 북마크만 보기</button>`;else chips.insertAdjacentHTML("beforeend",`<button data-bm="1" class="bmtab">⭐ 북마크</button>`);paintChips();
+  const chipClick=ev=>{const b=ev.target.closest("button");if(!b)return;if(b.dataset.bm){st.bm=!st.bm}else{st.bm=false;const k=b.dataset.g;if(!k)st.g.clear();else st.g.has(k)?st.g.delete(k):st.g.add(k)}paintChips();render();window.gtag&&gtag("event","select_tab",{tab:st.bm?"북마크":([...st.g].join(",")||"전체")})};chips.onclick=chipClick;if(bmw)bmw.onclick=chipClick;
   const tgb=document.getElementById("tg");if(tgb){tgb.onclick=ev=>{const b=ev.target.closest("button[data-tg]");if(!b)return;const k=b.dataset.tg;st.tg.has(k)?st.tg.delete(k):st.tg.add(k);const on=st.tg.has(k);b.classList.toggle("on",on);b.setAttribute("aria-pressed",on);render();window.gtag&&gtag("event","select_tag_chip",{chip:k,on})}}
   const qd=document.getElementById("qd");if(qd){qd.onclick=ev=>{const b=ev.target.closest("button[data-qd]");if(!b)return;st.qd=b.dataset.qd;qd.querySelectorAll("button").forEach(x=>{const on=x===b;x.classList.toggle("on",on);x.setAttribute("aria-pressed",on)});render();window.gtag&&gtag("event","select_date_chip",{chip:st.qd})}}
   const sel=document.getElementById("area");

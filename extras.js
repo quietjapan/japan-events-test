@@ -23,11 +23,11 @@ if(dv)Promise.all([fetch("data/deadlines.json",{cache:"no-store"}).then(function
   if(!rows.length)return;
   dl.innerHTML=rows.map(function(r){var id=r.e.id;return '<li><span class="dday'+(r.n<=3?" hot":"")+'">'+(r.n?"D-"+r.n:"D-DAY")+'</span><div><b>'+(id?'<a href="i/'+encodeURIComponent(id)+'/">':"")+esc(r.e.title_ko)+(id?"</a>":"")+'</b><small>'+esc(RG[r.e.region]||"")+' · '+esc(r.d.label)+' '+md(r.d.deadline)+'까지</small></div></li>'}).join("");
   document.getElementById("dlsub").textContent=rows.length+"건 · 가장 빠른 마감 "+md(rows[0].d.deadline);
-  dv.hidden=false;if(matchMedia("(min-width:720px)").matches)dv.open=true;
+  dv.hidden=false;
 }).catch(function(){});
 /* 북마크 일괄 .ics */
 var bb=document.getElementById("bmbar"),bt=document.getElementById("bmtx");
-function bmu(){if(!window.QJ_bm||!bb)return;var s=QJ_bm();bb.hidden=!(s.on&&s.list.length);if(!bb.hidden)bt.textContent="⭐ 북마크 "+s.list.length+"건"}
-var L=document.getElementById("list");if(L)new MutationObserver(bmu).observe(L,{childList:true});
+function bmu(){if(!window.QJ_bm||!bb)return;var s=QJ_bm();bb.hidden=!s.list.length;if(!bb.hidden)bt.textContent="저장한 행사 "+s.list.length+"건"}
+window.QJ_bmu=bmu;var L=document.getElementById("list");bmu();if(L)new MutationObserver(bmu).observe(L,{childList:true});
 document.getElementById("bmics").onclick=function(){var s=QJ_bm();if(s.list.length&&window.QJ_icsMulti)QJ_icsMulti(s.list)};
 })();

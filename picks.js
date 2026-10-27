@@ -9,6 +9,6 @@ Promise.all([fetch("data/picks.json",{cache:"no-store"}).then(function(r){return
     .filter(function(r){return r&&!(r.e.end&&r.e.end<now)});
   if(!rows.length){box.hidden=true;return}
   ul.innerHTML=rows.map(function(r){return '<li><a href="'+esc(r.p.blog_url)+'" target="_blank" rel="noopener"><b>'+esc(r.e.title_ko)+'</b><span>✍️ '+esc(r.p.post_title)+'</span></a></li>'}).join("");
-  box.hidden=false;
+  box.hidden=false;var ps=document.getElementById("pksub");if(ps)ps.textContent=rows.length+"건 · 블로그에 직접 정리한 행사";
 }).catch(function(){box.hidden=true});
 })();
