@@ -38,6 +38,7 @@
 <script>(function(){if(!matchMedia("(min-width:901px)").matches)return;var r=null;try{r=new URLSearchParams(location.search).get("region")||localStorage.getItem("qj_region")}catch(e){}if(["tokyo","osaka","fukuoka"].indexOf(r)<0)r="tokyo";var l=document.createElement("link");l.rel="preload";l.as="image";l.href="hdbg/"+r+"-"+((devicePixelRatio||1)>=1.5||innerWidth>1700?1600:960)+".webp";document.head.appendChild(l)})();</script>
 <link rel="stylesheet" href="ideas.css">
 <link rel="stylesheet" href="visited.css">
+<link rel="stylesheet" href="picks.css">
 <link rel="alternate" type="application/rss+xml" title="오시카츠 재팬 · 새로 추가된 행사" href="rss.xml">
 <script>
 (function(){
@@ -93,12 +94,13 @@
 </div></header>
 <main class="wrap">
   <div id="banner" class="banner" hidden>⚠️ 현재 예시 데이터입니다. 실제 일정은 공식 사이트에서 확인해 주세요.</div>
+  <section id="picks" class="picks" aria-labelledby="pktitle" hidden><p class="pkhd"><b id="pktitle">📝 준호 픽</b><span>블로그에 직접 정리한 행사</span></p><ul class="pklist" id="pklist"></ul></section>
   <section class="filters">
     <div class="row">
       <input id="q" type="search" placeholder="🔍 작품명·장소 검색 (예: 체인소맨)" aria-label="검색">
     </div>
     <div class="tbar">
-    <div class="chipwrap"><div class="chrow"><div id="chips" class="chips"></div><span class="chsep" aria-hidden="true"></span><div id="qd" class="qdchips" role="group" aria-label="빠른 날짜"><span class="qdl">📅</span><button type="button" data-qd="all" class="on" aria-pressed="true">전체</button><button type="button" data-qd="today" aria-pressed="false">오늘</button><button type="button" data-qd="weekend" aria-pressed="false">이번 주말</button><button type="button" data-qd="2w" aria-pressed="false">2주 이내</button></div></div></div>
+    <div class="chipwrap"><div class="chrow"><div id="chips" class="chips"></div><span class="chsep" aria-hidden="true"></span><div id="qd" class="qdchips" role="group" aria-label="빠른 날짜"><span class="qdl">📅</span><button type="button" data-qd="all" class="on" aria-pressed="true">전체</button><button type="button" data-qd="today" aria-pressed="false">오늘</button><button type="button" data-qd="weekend" aria-pressed="false">이번 주말</button><button type="button" data-qd="2w" aria-pressed="false">2주 이내</button></div><span class="chsep" aria-hidden="true"></span><div id="tg" class="qdchips tgchips" role="group" aria-label="입장 조건"><button type="button" data-tg="free" aria-pressed="false">🆓 입장 무료</button><button type="button" data-tg="resv" aria-pressed="false">🎫 예약 필수</button><button type="button" data-tg="lot" aria-pressed="false">🎲 추첨</button></div></div></div>
     <details class="fmore" id="fmore"><summary>⚙️ 필터 <span class="fsub">지역 · 기간 · 상태</span><span class="fcnt" id="fcnt" hidden></span></summary><div class="fbody">
     <div class="row"><select id="area" aria-label="지역"><option value="">전체 지역</option></select></div>
     <div class="range"><span class="rl">✈️ 여행 기간</span><input id="from" type="date" aria-label="시작일"><span>~</span><input id="to" type="date" aria-label="종료일"><button type="button" id="rreset">초기화</button></div>
@@ -164,6 +166,7 @@
 <script src="chiprow.js"></script>
 <script src="hdbg.js"></script>
 <script src="visited.js"></script>
+<script src="picks.js"></script>
 <script>(function(){var b=document.getElementById("qmenu"),p=document.getElementById("qmenup");if(!b)return;function t(o){p.hidden=!o;b.setAttribute("aria-expanded",o)}b.onclick=function(e){e.stopPropagation();t(p.hidden)};p.onclick=function(e){var x=e.target.closest("button[data-a]");if(!x)return;t(false);if(x.dataset.a==="fx")document.getElementById("fxbtn").click();else if(x.dataset.a==="visited")document.getElementById("visited").scrollIntoView({behavior:"smooth"});else scrollTo({top:0,behavior:"smooth"})};document.addEventListener("click",function(e){if(!p.hidden&&!p.contains(e.target))t(false)})})();</script>
 <script>(function(){if(matchMedia("(min-width:720px)").matches){[].forEach(function(id){var d=document.getElementById(id);if(d)d.open=true})}})();</script>
 </body></html>

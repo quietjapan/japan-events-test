@@ -1,0 +1,10 @@
+.picks{margin:4px 0 14px;padding:12px 14px;border:1px solid var(--line);border-radius:14px;background:var(--card);box-shadow:var(--sh1)}
+.picks .pkhd{display:flex;align-items:baseline;gap:8px;margin:0 0 8px;font-size:14px}.picks .pkhd b{font-weight:800}.picks .pkhd span{font-size:12px;opacity:.7}
+.pklist{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:8px}
+.pklist a{display:flex;flex-direction:column;gap:3px;padding:8px 10px;border-radius:10px;border:1px solid var(--line);color:var(--ink);text-decoration:none;min-width:0}
+.pklist a:hover{border-color:var(--accent)}.pklist b{font-size:13.5px;line-height:1.35}.pklist span{font-size:12px;opacity:.75;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+@media(max-width:640px){.pklist{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:2px}.pklist li{flex:0 0 78%;scroll-snap-align:start;min-width:0}}
+.tg{font-size:11px!important;font-weight:700;padding:1px 7px!important;border-radius:999px;border:1px solid currentColor;background:transparent!important}
+.tg-free{color:#2f8a5b}.tg-resv{color:#b0621c}.tg-lot{color:#8a4fb8}
+[data-theme="dark"] .tg-free{color:#7fd3a6}[data-theme="dark"] .tg-resv{color:#f0b37a}[data-theme="dark"] .tg-lot{color:#c9a2ee}
+.tgchips{display:flex;gap:6px;flex:none;flex-wrap:nowrap}

@@ -1,0 +1,9 @@
+{
+  "_note": "준호가 네이버 블로그에 실제로 발행한 글만. match는 events.json의 id 또는 title_ko. 예약 글(치이카와 224455306952, 하이큐 224455311625)은 발행 후 추가.",
+  "picks": [
+    {"match": "주술회전 PLAZA 시부야 로프트", "post_title": "주술회전 PLAZA 시부야 로프트 | 기간·입장 방법·구매 특전 정리 (10/23~11/10)", "blog_url": "https://blog.naver.com/rownsh00/224449447639", "published": "2026-10-21"},
+    {"match": "conan-diner", "post_title": "11월 도쿄 여행 | 코난 다이너 콜라보 레스토랑", "blog_url": "https://blog.naver.com/rownsh00/224448157501", "published": "2026-10-20"},
+    {"match": "체인소맨 킷사 (체인소맨 콜라보 카페)", "post_title": "체인소맨 카페 도쿄 신주쿠 루미네에스트 예약 (11/8까지)", "blog_url": "https://blog.naver.com/rownsh00/224441699963", "published": "2026-10-14"},
+    {"match": "MAPPA EXPO 15주년", "post_title": "MAPPA EXPO 티켓 한국에서 예매하는 법｜해외용 로손티켓 신용카드 결제 (굿즈 세트권)", "blog_url": "https://blog.naver.com/rownsh00/224440627007", "published": "2026-10-13"}
+  ]
+}
