@@ -89,8 +89,7 @@
 .hdbg-i{position:absolute;top:0;right:0;height:100%;width:min(62%,1000px);background:no-repeat right center/auto 100%;opacity:0;transition:opacity .6s ease;
   -webkit-mask-image:linear-gradient(90deg,transparent 0,rgba(0,0,0,.35) 18%,#000 42%);mask-image:linear-gradient(90deg,transparent 0,rgba(0,0,0,.35) 18%,#000 42%)}
 .hdbg-i.on{opacity:1}
-[data-theme="dark"] .hdbg{isolation:auto}
-[data-theme="dark"] .hdbg-i{mix-blend-mode:screen;filter:invert(1) hue-rotate(180deg) brightness(.55) saturate(.7)}
-[data-theme="dark"] .hdbg-i.on{opacity:.8}
+[data-theme="dark"] .hdbg-i{filter:brightness(.6) saturate(.75) sepia(.12);-webkit-mask-image:linear-gradient(90deg,transparent 0,transparent 30%,rgba(0,0,0,.5) 50%,#000 68%);mask-image:linear-gradient(90deg,transparent 0,transparent 30%,rgba(0,0,0,.5) 50%,#000 68%)}
+[data-theme="dark"] .hdbg-i.on{opacity:.85}
 @media(max-width:900px){.hdbg{display:none}}
 @media(prefers-reduced-motion:reduce){.hdbg-i{transition:none}}

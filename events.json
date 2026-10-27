@@ -11354,7 +11354,8 @@
       "thumb_small": "thumbs/a8f35153fe64c9c8.webp",
       "summary_ko": "「걸즈 밴드 크라이」 무료 기획전이에요. 등신대 아크릴 스탠드, 작중 장면 재현 코너, 역대 라이브 포스터·CD 전시, 니나 포토 스폿, AR 체험이 있어요.",
       "region": "tokyo",
-      "added": "2026-10-21"
+      "added": "2026-10-21",
+      "image_local": "img/a8f35153fe64c9c8.webp"
     },
     {
       "title_ko": "超 다마고치 축제 in 시부하라",
@@ -12820,8 +12821,9 @@
       "image_fit": "contain",
       "translation_check": true,
       "region": "all",
-      "image_fb": "thumbs/b3a2a94165446696.webp",
-      "added": "2026-10-16"
+      "image_fb": "gfb/b3a2a94165446696.webp",
+      "added": "2026-10-16",
+      "image_local": "img/b3a2a94165446696.webp"
     },
     {
       "title_ko": "치이카와 캡슐 스틱 (가챠)",
