@@ -1,6 +1,6 @@
 {
   "base_date": "2026-10-26",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-27",
   "is_sample": false,
   "events": [
     {
@@ -4237,7 +4237,43 @@
       "region": "tokyo",
       "image_fb": "gfb/dd0e0a126cf452df.webp",
       "image_local": "img/dd0e0a126cf452df.webp",
-      "added": "2026-10-15"
+      "added": "2026-10-15",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/7006/20112/7006-20112-e6fde28720cca1f5f8cb12347eb0955c-680x370.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.kadokawa.co.jp/topics/17844/",
+          "img_fb": "gfb/dd0e0a126cf452df.webp",
+          "img_local": "img/dd0e0a126cf452df.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/7006/20112/7006-20112-360ce87e08a4b14a04a78db02d88e3f1-1909x2700.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.kadokawa.co.jp/topics/17844/",
+          "img_fb": "gfb/c98e1edb1f8191d0.webp",
+          "img_local": "img/c98e1edb1f8191d0.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/7006/20112/7006-20112-5e9375e039b0dfd2fa92e8abf8880efa-1928x2700.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://www.kadokawa.co.jp/topics/17844/",
+          "img_fb": "gfb/eb43b19038a88b2e.webp",
+          "img_local": "img/eb43b19038a88b2e.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/7006/20112/7006-20112-7c8656fc34eb0eb665499dc116c3c541-2000x2000.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://www.kadokawa.co.jp/topics/17844/",
+          "img_fb": "gfb/29395f69c99345b7.webp",
+          "img_local": "img/29395f69c99345b7.webp"
+        }
+      ],
+      "gallery_source": "https://www.kadokawa.co.jp/topics/17844/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "title_ko": "동방 Project × 도쿄타워",
@@ -4359,7 +4395,27 @@
       "region": "tokyo",
       "image_fb": "gfb/f9be1727402b21f8.webp",
       "image_local": "img/f9be1727402b21f8.webp",
-      "added": "2026-10-15"
+      "added": "2026-10-15",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/16756/8866/16756-8866-0f231e98b4827c596a8ba5dc762fadd3-1200x1200.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
+          "img_fb": "gfb/d7b531bbb3784837.webp",
+          "img_local": "img/d7b531bbb3784837.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/16756/8866/16756-8866-395fb3eda2895b7692daa34bd172b9df-1200x975.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
+          "img_fb": "gfb/5d7172bd63ef4d2a.webp",
+          "img_local": "img/5d7172bd63ef4d2a.webp"
+        }
+      ],
+      "gallery_source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "title_ko": "치이카와 ☆ 별 내리는 스카이트리와 비밀의 섬",
@@ -4602,7 +4658,27 @@
       "region": "tokyo",
       "image_fb": "gfb/f9be1727402b21f8.webp",
       "image_local": "img/f9be1727402b21f8.webp",
-      "added": "2026-10-15"
+      "added": "2026-10-15",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/16756/8866/16756-8866-0f231e98b4827c596a8ba5dc762fadd3-1200x1200.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
+          "img_fb": "gfb/d7b531bbb3784837.webp",
+          "img_local": "img/d7b531bbb3784837.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/16756/8866/16756-8866-395fb3eda2895b7692daa34bd172b9df-1200x975.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
+          "img_fb": "gfb/5d7172bd63ef4d2a.webp",
+          "img_local": "img/5d7172bd63ef4d2a.webp"
+        }
+      ],
+      "gallery_source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "title_ko": "오이 경마장 플리마켓 (Tokyo City Flea Market)",
@@ -5054,7 +5130,20 @@
       "image_local": "img/fff98a1adceb0fe1.webp",
       "lat": 35.7307,
       "lon": 139.7158,
-      "added": "2026-10-20"
+      "added": "2026-10-20",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://chocoyaba.com/core_sys/images/news/00000004/block/00000006/00000002.jpg?1792052490",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://chocoyaba.com/news/index00040000.html",
+          "caption_ja": "ちょこっとヤバシティ × animate cafe<br>ちょこヤバカフェスタンド in MZYB FAIR 2026開催！",
+          "img_fb": "gfb/9860572cd8612f01.webp",
+          "img_local": "img/9860572cd8612f01.webp"
+        }
+      ],
+      "gallery_source": "https://chocoyaba.com/news/index00040000.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "title_ko": "요괴학교 선생님 시작했습니다! POP UP SHOP",
@@ -9133,7 +9222,66 @@
       "region": "tokyo",
       "image_fb": "gfb/5e71b586fdbf2c5f.webp",
       "image_local": "img/5e71b586fdbf2c5f.webp",
-      "added": "2026-10-21"
+      "added": "2026-10-21",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-aedcf40dee4743671de67db8b40b8416-1140x640.jpg?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
+          "img_fb": "gfb/142fbb982b78799c.webp",
+          "img_local": "img/142fbb982b78799c.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-dcc221825acdf670943240f536b62d1e-3900x2758.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
+          "img_fb": "gfb/ca9098d3cece19a5.webp",
+          "img_local": "img/ca9098d3cece19a5.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-9fb0be71befe40588bdb71aef3b94e66-3900x2758.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
+          "img_fb": "gfb/35fa03a01f2f112a.webp",
+          "img_local": "img/35fa03a01f2f112a.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-d611ed120735c13b3d53d2b8fdc5b3c9-1600x1200.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
+          "img_fb": "gfb/8f4b7389d9d0fdbd.webp",
+          "img_local": "img/8f4b7389d9d0fdbd.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-7696eb63ddbadfebd5758b320c2fc110-1600x1200.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
+          "img_fb": "gfb/51d83a465faa3c64.webp",
+          "img_local": "img/51d83a465faa3c64.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-337054e3b286bfc4a65f4a2f7c3dbfc8-1600x1200.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
+          "img_fb": "gfb/00c07442828ca21b.webp",
+          "img_local": "img/00c07442828ca21b.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prtimes.jp/data/corp/16064/tmp-63a1675cdac425ec7ed512a51fddbf99-9b2ecb121a327ce10d76efa58918a543.jpg?auto=avif",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
+          "img_fb": "gfb/ef0e93c84325f1ed.webp",
+          "img_local": "img/ef0e93c84325f1ed.webp"
+        }
+      ],
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "trigun-shinjuku",
@@ -9426,7 +9574,29 @@
       "image_local": "img/5fce9a6466ff1f89.webp",
       "lat": 35.7318,
       "lon": 139.7124,
-      "added": "2026-10-22"
+      "added": "2026-10-22",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://eeo.today/store/101/html/user_data/tokusyu/yugioh-vrains-popup/after_special.webp",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://eeo.today/store/101/specialfeature/yugioh-vrains-popup",
+          "caption_ja": "特典情報",
+          "img_fb": "gfb/ed28aa897de049cb.webp",
+          "img_local": "img/ed28aa897de049cb.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://eeo.today/store/101/html/user_data/tokusyu/yugioh-vrains-popup/after_item.webp?v1",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://eeo.today/store/101/specialfeature/yugioh-vrains-popup",
+          "caption_ja": "商品一覧",
+          "img_fb": "gfb/c989d5cb7078ae38.webp",
+          "img_local": "img/c989d5cb7078ae38.webp"
+        }
+      ],
+      "gallery_source": "https://eeo.today/store/101/specialfeature/yugioh-vrains-popup",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "area": "도쿄",
@@ -9855,7 +10025,29 @@
       "image_local": "img/131153ac91b76be8.webp",
       "lat": 35.7318,
       "lon": 139.7124,
-      "added": "2026-10-22"
+      "added": "2026-10-22",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://eeo.today/store/101/html/user_data/tokusyu/mmppp-popup/special_mmppp-popup.webp?v2",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://eeo.today/store/101/specialfeature/mmppp-popup",
+          "caption_ja": "特典情報",
+          "img_fb": "gfb/019c75cbd45e9aec.webp",
+          "img_local": "img/019c75cbd45e9aec.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://eeo.today/store/101/html/user_data/tokusyu/mmppp-popup/item_mmppp-popup.webp?v2",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://eeo.today/store/101/specialfeature/mmppp-popup",
+          "caption_ja": "商品一覧",
+          "img_fb": "gfb/32871a35fadf0b99.webp",
+          "img_local": "img/32871a35fadf0b99.webp"
+        }
+      ],
+      "gallery_source": "https://eeo.today/store/101/specialfeature/mmppp-popup",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "area": "도쿄",
@@ -9894,7 +10086,99 @@
       "image_local": "img/7f24a763420f576d.webp",
       "lat": 35.727123,
       "lon": 139.710342,
-      "added": "2026-10-22"
+      "added": "2026-10-22",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-84c79790cc3f9f5d2e114249356da2ad-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+          "img_fb": "gfb/fc469c3b77fa59e0.webp",
+          "img_local": "img/fc469c3b77fa59e0.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-cbaa3f0f2f987780e0be13109b9985bc-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+          "img_fb": "gfb/2ed1bcaf23a2ff3d.webp",
+          "img_local": "img/2ed1bcaf23a2ff3d.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-fdee51243343e567cc3ca8eaacf119c3-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+          "img_fb": "gfb/fb4fc81bc3c4d43b.webp",
+          "img_local": "img/fb4fc81bc3c4d43b.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-af708ac2f8eafc17a386009d82d5a74c-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+          "img_fb": "gfb/97db1c5403bd90c8.webp",
+          "img_local": "img/97db1c5403bd90c8.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-7f13299bf3889c3ecd60c8ac3cda5384-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+          "img_fb": "gfb/436340ddb08f6e1f.webp",
+          "img_local": "img/436340ddb08f6e1f.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-ad6b837ee4b3a71485d6705029be2344-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+          "img_fb": "gfb/b8ca96d5df9ad887.webp",
+          "img_local": "img/b8ca96d5df9ad887.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-e27cd46df343cbfe69de723850278e64-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+          "img_fb": "gfb/c27e4a36c2322f76.webp",
+          "img_local": "img/c27e4a36c2322f76.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-2557dacca1cf27cca3e0d786f57e9ddd-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 8",
+          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+          "img_fb": "gfb/69072e574c2236ad.webp",
+          "img_local": "img/69072e574c2236ad.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-efb35a72bda3c6295d6a29e0ca2546e8-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 9",
+          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+          "img_fb": "gfb/09c68ffa01a9d425.webp",
+          "img_local": "img/09c68ffa01a9d425.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-986fa71b2fcef1ea6861c8a2f3913bfa-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 10",
+          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+          "img_fb": "gfb/2c8b9b758a55d176.webp",
+          "img_local": "img/2c8b9b758a55d176.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-d5e6bd2fe25b24ed3c356af6d7431714-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 11",
+          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+          "img_fb": "gfb/e19417fe2388b54a.webp",
+          "img_local": "img/e19417fe2388b54a.webp"
+        }
+      ],
+      "gallery_source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "area": "도쿄",
@@ -11278,7 +11562,74 @@
       "region": "tokyo",
       "image_fb": "gfb/a45e8f0a566f7556.webp",
       "image_local": "img/a45e8f0a566f7556.webp",
-      "added": "2026-10-21"
+      "added": "2026-10-21",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/50845/437/50845-437-c4c753e9f90a5f8c5349b12d5c84252b-1920x1080.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://prtimes.jp/main/html/rd/p/000000437.000050845.html",
+          "img_fb": "gfb/d224f5e4ab300ae6.webp",
+          "img_local": "img/d224f5e4ab300ae6.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/50845/437/50845-437-9ed997f8009bb44938ca8605e5e92a6f-3900x3900.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://prtimes.jp/main/html/rd/p/000000437.000050845.html",
+          "img_fb": "gfb/cf6bf1c6feba00f0.webp",
+          "img_local": "img/cf6bf1c6feba00f0.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/50845/437/50845-437-97d9f69fa9b20934d6f99dc04e81ade0-3900x3900.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://prtimes.jp/main/html/rd/p/000000437.000050845.html",
+          "img_fb": "gfb/f30c70fc8407b138.webp",
+          "img_local": "img/f30c70fc8407b138.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/50845/437/50845-437-2b675fbf7636dfae6a44eaacb1e7dfcf-3900x3900.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://prtimes.jp/main/html/rd/p/000000437.000050845.html",
+          "img_fb": "gfb/9cbe74257e01f641.webp",
+          "img_local": "img/9cbe74257e01f641.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/50845/437/50845-437-838369cb500f2d53c655aa7aa4404c63-3900x3900.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://prtimes.jp/main/html/rd/p/000000437.000050845.html",
+          "img_fb": "gfb/dd2942e200b0876e.webp",
+          "img_local": "img/dd2942e200b0876e.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/50845/437/50845-437-8b72d627c2a3dedc06935f91faaab30a-2048x2560.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://prtimes.jp/main/html/rd/p/000000437.000050845.html",
+          "img_fb": "gfb/1874f620a7f88017.webp",
+          "img_local": "img/1874f620a7f88017.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/50845/437/50845-437-f283afe8c8c9ac6f537c33556ca07d14-1566x1044.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://prtimes.jp/main/html/rd/p/000000437.000050845.html",
+          "img_fb": "gfb/439efe550286b3d9.webp",
+          "img_local": "img/439efe550286b3d9.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prtimes.jp/data/corp/50845/tmp-2ca1b68bf6f15190e64602116dee650b-e29ca0cee5bbf0d741d0debcdc40d5f7.jpg?auto=avif",
+          "caption_ko": "공식 이미지 8",
+          "source": "https://prtimes.jp/main/html/rd/p/000000437.000050845.html",
+          "img_fb": "gfb/52278ef8b603451d.webp",
+          "img_local": "img/52278ef8b603451d.webp"
+        }
+      ],
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "maebashi-witches-popup",
@@ -11317,7 +11668,34 @@
       "region": "tokyo",
       "image_fb": "gfb/f2296dfab3c87d22.webp",
       "image_local": "img/f2296dfab3c87d22.webp",
-      "added": "2026-10-21"
+      "added": "2026-10-21",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://img.sunrise-inc.co.jp/images/2026/10/thm_202610062309343462.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.maebashi-witches.com/news/detail.php?id=25791",
+          "img_fb": "gfb/fd39cfbf37132756.webp",
+          "img_local": "img/fd39cfbf37132756.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://img.sunrise-inc.co.jp/images/2026/10/thm_202610062322222182.jpg",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.maebashi-witches.com/news/detail.php?id=25791",
+          "img_fb": "gfb/ac6c30e8708fbccd.webp",
+          "img_local": "img/ac6c30e8708fbccd.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://img.sunrise-inc.co.jp/images/2026/10/thm_202610062323024691.jpg",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://www.maebashi-witches.com/news/detail.php?id=25791",
+          "img_fb": "gfb/f6f0cb3c44457da7.webp",
+          "img_local": "img/f6f0cb3c44457da7.webp"
+        }
+      ],
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "gbc-animetokyo",
@@ -11442,7 +11820,59 @@
       "region": "tokyo",
       "image_fb": "gfb/8c23d306aa9f6ec2.webp",
       "image_local": "img/8c23d306aa9f6ec2.webp",
-      "added": "2026-10-15"
+      "added": "2026-10-15",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://image.parco.jp/SCCWEB/image/cafe/store/storage/w850xh850/menu_bleach_food_ichigokurosaki.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://cafe.parco.jp/event/BLEACH_cafe",
+          "img_fb": "gfb/9acc7d2925a695b0.webp",
+          "img_local": "img/9acc7d2925a695b0.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://image.parco.jp/SCCWEB/image/cafe/store/storage/w850xh850/menu_bleachtoshirohitsugaya.jpg",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://cafe.parco.jp/event/BLEACH_cafe",
+          "img_fb": "gfb/79240ef576e31303.webp",
+          "img_local": "img/79240ef576e31303.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://image.parco.jp/SCCWEB/image/cafe/store/storage/w850xh850/products_bleach_web_goods_m_can.jpg",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://cafe.parco.jp/event/BLEACH_cafe",
+          "img_fb": "gfb/853a8911e001934b.webp",
+          "img_local": "img/853a8911e001934b.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://image.parco.jp/SCCWEB/image/cafe/store/storage/w850xh850/products_bleach_web_goods_poster_00.jpg",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://cafe.parco.jp/event/BLEACH_cafe",
+          "img_fb": "gfb/935cb04199f3e688.webp",
+          "img_local": "img/935cb04199f3e688.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://image.parco.jp/SCCWEB/image/cafe/store/storage/w850xh850/products_bleach_web_goods_ds.jpg",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://cafe.parco.jp/event/BLEACH_cafe",
+          "img_fb": "gfb/0b991c7336bcef78.webp",
+          "img_local": "img/0b991c7336bcef78.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://image.parco.jp/SCCWEB/image/cafe/store/storage/w850xh850/products_bleach_webshikishi.jpg",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://cafe.parco.jp/event/BLEACH_cafe",
+          "img_fb": "gfb/c6ac6c7b09f47d5b.webp",
+          "img_local": "img/c6ac6c7b09f47d5b.webp"
+        }
+      ],
+      "gallery_source": "https://cafe.parco.jp/event/BLEACH_cafe",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "title_ko": "스위트 12월호 부록 ― 질 바이 질스튜어트 퍼 백&파우치 참",
@@ -14329,7 +14759,43 @@
       "thumb_small": "thumbs/bbf3f6aead69ada0.webp",
       "image_fb": "gfb/bbf3f6aead69ada0.webp",
       "image_local": "img/bbf3f6aead69ada0.webp",
-      "added": "2026-10-22"
+      "added": "2026-10-22",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://livepocket.jp/public/event_image/filename/673341/cc78aae513372afdd099acc7c044bf446091ebde83693f03e807786a6581a535.webp",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://livepocket.jp/e/4xk_3",
+          "img_fb": "gfb/bbf3f6aead69ada0.webp",
+          "img_local": "img/bbf3f6aead69ada0.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://livepocket.jp/public/event_image/filename/673356/9cb42eb2c945cb2d07f1f7c5bdd00ba1c4037e900f07e53d506e46e7b968dc47.webp",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://livepocket.jp/e/4xk_3",
+          "img_fb": "gfb/b763540a1b680bd2.webp",
+          "img_local": "img/b763540a1b680bd2.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://livepocket.jp/public/event_image/filename/673343/12c38bce2f50399dac00bb623b4858f150879eb5065b0e0e2d313f0786981223.webp",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://livepocket.jp/e/4xk_3",
+          "img_fb": "gfb/e25259a65d67889e.webp",
+          "img_local": "img/e25259a65d67889e.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://livepocket.jp/public/event_image/filename/673351/0012d60f23338fa61d504acc43fbc7fd175b115e1a7c10ecb101338da5201a59.webp",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://livepocket.jp/e/4xk_3",
+          "img_fb": "gfb/e70421e02a3e1d08.webp",
+          "img_local": "img/e70421e02a3e1d08.webp"
+        }
+      ],
+      "gallery_source": "https://livepocket.jp/e/4xk_3",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "osaka-bungo-stray-dogs-art-design-exhibition",
@@ -14473,7 +14939,11 @@
       "translation_check": true,
       "lat": 34.6372,
       "lon": 135.4133,
-      "added": "2026-10-22"
+      "added": "2026-10-22",
+      "thumbnail": "https://www.toei-anim.co.jp/lp/wt/exh_2026/img/mv.jpg",
+      "thumbnail_source": "https://www.toei-anim.co.jp/lp/wt/exh_2026/",
+      "thumb_small": "thumbs/c102d36a9ba238e1.webp",
+      "image_local": "img/c102d36a9ba238e1.webp"
     },
     {
       "id": "osaka-japanimation-rocks-2026",
@@ -14987,7 +15457,20 @@
       "thumb_small": "thumbs/f41e0d1881b630e3.webp",
       "image_fb": "gfb/f41e0d1881b630e3.webp",
       "image_local": "img/f41e0d1881b630e3.webp",
-      "added": "2026-10-22"
+      "added": "2026-10-22",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.kdkw.jp/cover_1000/322512/322512000963.webp",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.kadokawa.co.jp/product/322512000963/",
+          "caption_ja": "コンプティーク ２０２７年１月号",
+          "img_fb": "gfb/f41e0d1881b630e3.webp",
+          "img_local": "img/f41e0d1881b630e3.webp"
+        }
+      ],
+      "gallery_source": "https://www.kadokawa.co.jp/product/322512000963/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "불필요",
@@ -15231,7 +15714,35 @@
       "image_local": "img/2a5af8f50280d29a.webp",
       "lat": 34.7007,
       "lon": 135.4975,
-      "added": "2026-10-22"
+      "added": "2026-10-22",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://loft-images.s3.ap-northeast-1.amazonaws.com/original_2302137__%E3%83%81%E3%83%A7%E3%83%83%E3%83%91%E3%83%BC%E3%83%8E%E3%83%99%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A2%E3%83%97%E3%83%AA%E7%94%A8.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.loft.co.jp/shop_list/info.php?info_id=705617&shop_id=143",
+          "img_fb": "gfb/a7c301328d37de70.webp",
+          "img_local": "img/a7c301328d37de70.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://loft-images.s3.ap-northeast-1.amazonaws.com/original_2302133__%E3%83%AD%E3%83%95%E3%83%88%E6%A7%98%E4%BD%BF%E7%94%A8KV.jpg",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.loft.co.jp/shop_list/info.php?info_id=705617&shop_id=143",
+          "img_fb": "gfb/2a5af8f50280d29a.webp",
+          "img_local": "img/2a5af8f50280d29a.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://loft-images.s3.ap-northeast-1.amazonaws.com/original_2302135__%E3%83%81%E3%83%A7%E3%83%83%E3%83%91%E3%83%BC%E3%81%8A%E5%93%81%E6%9B%B8%E3%81%8D%E3%82%A2%E3%83%97%E3%83%AA%E7%94%A8.jpg",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://www.loft.co.jp/shop_list/info.php?info_id=705617&shop_id=143",
+          "img_fb": "gfb/297e77da626335e3.webp",
+          "img_local": "img/297e77da626335e3.webp"
+        }
+      ],
+      "gallery_source": "https://www.loft.co.jp/shop_list/info.php?info_id=705617&shop_id=143",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "불필요",
@@ -15270,7 +15781,19 @@
       "image_local": "img/7df1052e06c1540c.webp",
       "lat": 34.6617,
       "lon": 135.5021,
-      "added": "2026-10-22"
+      "added": "2026-10-22",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://loft-images.s3.ap-northeast-1.amazonaws.com/original_2335601__original_2310975__LLhasu_loft_kokuchi_700x700px.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.loft.co.jp/shop_list/info.php?info_id=715411&shop_id=47",
+          "img_fb": "gfb/7df1052e06c1540c.webp",
+          "img_local": "img/7df1052e06c1540c.webp"
+        }
+      ],
+      "gallery_source": "https://www.loft.co.jp/shop_list/info.php?info_id=715411&shop_id=47",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "불필요",
@@ -16139,7 +16662,59 @@
       "image_local": "img/bd3030bcf7dfbf4e.webp",
       "lat": 34.6725,
       "lon": 135.4987,
-      "added": "2026-10-23"
+      "added": "2026-10-23",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/48489/345/48489-345-ef74ae9745e7652fb911b43dfd767a57-3900x2654.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+          "img_fb": "gfb/c5aefd0265334193.webp",
+          "img_local": "img/c5aefd0265334193.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/48489/345/48489-345-3ea993f25d038ab484ab967ee271c713-1917x2700.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+          "img_fb": "gfb/71b2266ef02dab48.webp",
+          "img_local": "img/71b2266ef02dab48.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/48489/345/48489-345-1b20a08de06e15f5ec994034a79ecb7b-1910x2700.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+          "img_fb": "gfb/7445b57db47fbd26.webp",
+          "img_local": "img/7445b57db47fbd26.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/48489/345/48489-345-67eab53a069f88082e56d3f698b71e00-1920x1080.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+          "img_fb": "gfb/a3eb0238312cd14f.webp",
+          "img_local": "img/a3eb0238312cd14f.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/48489/345/48489-345-a55b8e4b72a4e594da75fed786c5412b-1920x1080.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+          "img_fb": "gfb/18661d5bb1a2337c.webp",
+          "img_local": "img/18661d5bb1a2337c.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/48489/345/48489-345-6ef30dc5b023aca44eb7630d7d964ae7-1280x853.jpg?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+          "img_fb": "gfb/d8aa61b500fdc7ed.webp",
+          "img_local": "img/d8aa61b500fdc7ed.webp"
+        }
+      ],
+      "gallery_source": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "milky-subway-towercafe-shibuya",
@@ -16887,7 +17462,19 @@
       "image_local": "img/3d7f44de5ec04e1f.webp",
       "lat": 35.6609,
       "lon": 139.6996,
-      "added": "2026-10-23"
+      "added": "2026-10-23",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://loft-images.s3.ap-northeast-1.amazonaws.com/original_2348289__%E8%BB%BD%E9%87%8F%E5%8C%96%EF%BC%9A%E6%AD%A3%E6%96%B9%E5%BD%A2.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.loft.co.jp/shop_list/info.php?info_id=718439&shop_id=189",
+          "img_fb": "gfb/3d7f44de5ec04e1f.webp",
+          "img_local": "img/3d7f44de5ec04e1f.webp"
+        }
+      ],
+      "gallery_source": "https://www.loft.co.jp/shop_list/info.php?info_id=718439&shop_id=189",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "lycoris-recoil-popup-shinjuku-marui-2026",
@@ -16959,7 +17546,11 @@
       "map_query": "あべのand",
       "lat": 34.644634,
       "lon": 135.513763,
-      "added": "2026-10-23"
+      "added": "2026-10-23",
+      "thumbnail": "https://cb-event.net/p/wp-content/themes/cb-event.net/pages/haruhi20th/assets/images/kv.webp",
+      "thumbnail_source": "https://cb-event.net/haruhi20th",
+      "thumb_small": "thumbs/ba0f2e015beb8287.webp",
+      "image_local": "img/ba0f2e015beb8287.webp"
     },
     {
       "id": "osaka-godzilla-haku-minus",
@@ -16993,7 +17584,11 @@
       "map_query": "大丸梅田店",
       "lat": 34.7019,
       "lon": 135.4964,
-      "added": "2026-10-23"
+      "added": "2026-10-23",
+      "thumbnail": "https://dmdepart.jp/museum/umeda/godzilla-tokusatsu2026/img/mainimg_pc.png",
+      "thumbnail_source": "https://dmdepart.jp/museum/umeda/godzilla-tokusatsu2026/",
+      "thumb_small": "thumbs/da9a09518de32bad.webp",
+      "image_local": "img/da9a09518de32bad.webp"
     },
     {
       "id": "1kuji-miabyss",
@@ -17377,7 +17972,43 @@
       "image_local": "img/21990d02980be767.webp",
       "lat": 35.7308,
       "lon": 139.7124,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://media.chiikawa-pocket.com/f48e3db2-81c1-4ca7-853c-33f63a28141b/1024_popup_main_w.png",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+          "img_fb": "gfb/3791891006b389f6.webp",
+          "img_local": "img/3791891006b389f6.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://media.chiikawa-pocket.com/15dcdbb2-15eb-4907-8c53-86aff6f3a276/vol.4_bonus_1.png",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+          "img_fb": "gfb/f4f77242ec111f7c.webp",
+          "img_local": "img/f4f77242ec111f7c.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://media.chiikawa-pocket.com/bd1c0ae6-f604-4c40-87e7-27b7c2728b22/vol.4_bonus_2.png",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+          "img_fb": "gfb/acf2bed64205b82f.webp",
+          "img_local": "img/acf2bed64205b82f.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://media.chiikawa-pocket.com/9ff32bc2-cbf2-4e69-9a13-7d1bafb3a015/vol.4_bonus_3.png",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+          "img_fb": "gfb/f82a6cdb7a388fb9.webp",
+          "img_local": "img/f82a6cdb7a388fb9.webp"
+        }
+      ],
+      "gallery_source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "source_tier": "official",
@@ -17416,7 +18047,43 @@
       "image_local": "img/21990d02980be767.webp",
       "lat": 34.6467,
       "lon": 135.5145,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://media.chiikawa-pocket.com/f48e3db2-81c1-4ca7-853c-33f63a28141b/1024_popup_main_w.png",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+          "img_fb": "gfb/3791891006b389f6.webp",
+          "img_local": "img/3791891006b389f6.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://media.chiikawa-pocket.com/15dcdbb2-15eb-4907-8c53-86aff6f3a276/vol.4_bonus_1.png",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+          "img_fb": "gfb/f4f77242ec111f7c.webp",
+          "img_local": "img/f4f77242ec111f7c.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://media.chiikawa-pocket.com/bd1c0ae6-f604-4c40-87e7-27b7c2728b22/vol.4_bonus_2.png",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+          "img_fb": "gfb/acf2bed64205b82f.webp",
+          "img_local": "img/acf2bed64205b82f.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://media.chiikawa-pocket.com/9ff32bc2-cbf2-4e69-9a13-7d1bafb3a015/vol.4_bonus_3.png",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+          "img_fb": "gfb/f82a6cdb7a388fb9.webp",
+          "img_local": "img/f82a6cdb7a388fb9.webp"
+        }
+      ],
+      "gallery_source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "source_tier": "official",
@@ -17493,7 +18160,75 @@
       "image_local": "img/7872505755ed0f8d.webp",
       "lat": 34.7006,
       "lon": 135.4948,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://chiikawapark-tokyo.jp/cms/images/news/102301.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+          "img_fb": "gfb/74c9945c294a8a6d.webp",
+          "img_local": "img/74c9945c294a8a6d.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://chiikawapark-tokyo.jp/cms/images/news/tenpo02.png",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+          "img_fb": "gfb/44e0b740a24d7401.webp",
+          "img_local": "img/44e0b740a24d7401.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://chiikawapark-tokyo.jp/cms/images/news/%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88.jpg",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+          "img_fb": "gfb/91d15a26b44db214.webp",
+          "img_local": "img/91d15a26b44db214.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://chiikawapark-tokyo.jp/cms/images/news/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%83%E3%83%88.jpg",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+          "img_fb": "gfb/ebfcc32ae82e32de.webp",
+          "img_local": "img/ebfcc32ae82e32de.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://chiikawapark-tokyo.jp/cms/images/news/%E3%82%BD%E3%83%BC%E3%83%97%E3%83%87%E3%82%A3%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B5%E3%83%BC1.jpg",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+          "img_fb": "gfb/febede96025135c1.webp",
+          "img_local": "img/febede96025135c1.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://chiikawapark-tokyo.jp/cms/images/news/%E3%82%BF%E3%82%AA%E3%83%AB.jpg",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+          "img_fb": "gfb/4c6a52f63b934b1b.webp",
+          "img_local": "img/4c6a52f63b934b1b.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://chiikawapark-tokyo.jp/cms/images/news/pop.jpg",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+          "img_fb": "gfb/8f767e3b941066a2.webp",
+          "img_local": "img/8f767e3b941066a2.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://chiikawapark-tokyo.jp/cms/images/news/260918_Cpark_figurewithstand_1.jpg",
+          "caption_ko": "공식 이미지 8",
+          "source": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+          "img_fb": "gfb/f7f9b909eb1d08f4.webp",
+          "img_local": "img/f7f9b909eb1d08f4.webp"
+        }
+      ],
+      "gallery_source": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "source_tier": "official",
@@ -17613,7 +18348,19 @@
       "image_local": "img/69afa72b2cd407e5.webp",
       "lat": 35.730286,
       "lon": 139.713333,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://horimiya.motto-cafe.com/assets/images/home/kv.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://horimiya.motto-cafe.com/",
+          "img_fb": "gfb/ec31c3d5f289e745.webp",
+          "img_local": "img/ec31c3d5f289e745.webp"
+        }
+      ],
+      "gallery_source": "https://horimiya.motto-cafe.com/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "source_tier": "official",
@@ -17651,7 +18398,19 @@
       "image_local": "img/69afa72b2cd407e5.webp",
       "lat": 34.672115,
       "lon": 135.502289,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://horimiya.motto-cafe.com/assets/images/home/kv.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://horimiya.motto-cafe.com/",
+          "img_fb": "gfb/ec31c3d5f289e745.webp",
+          "img_local": "img/ec31c3d5f289e745.webp"
+        }
+      ],
+      "gallery_source": "https://horimiya.motto-cafe.com/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "source_tier": "official",
@@ -17799,7 +18558,27 @@
       "image_local": "img/a6b92cf1e6c5f01b.webp",
       "lat": 35.673,
       "lon": 139.7599,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.chibimaru.tv/news/assets_c/2026/10/marukorou_hibiya_KV_1200-thumb-600xauto-16370.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.chibimaru.tv/news/entry/2026/008462.html",
+          "img_fb": "gfb/bca46ba4b0884ff8.webp",
+          "img_local": "img/bca46ba4b0884ff8.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.chibimaru.tv/news/assets_c/2026/10/4e97fac4fe742c6349afebc299547291f78cdabe-thumb-500xauto-16372.jpg",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.chibimaru.tv/news/entry/2026/008462.html",
+          "img_fb": "gfb/f9934f017fa08dca.webp",
+          "img_local": "img/f9934f017fa08dca.webp"
+        }
+      ],
+      "gallery_source": "https://www.chibimaru.tv/news/entry/2026/008462.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "matsuken-anime-popup-shibuya",
@@ -17877,7 +18656,19 @@
       "image_local": "img/1594baef5671f63c.webp",
       "lat": 35.6901,
       "lon": 139.706,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://anime-precure.com/news/00236/file/0357a454828a20e406367a224aefec6b.webp",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://anime-precure.com/news/00236/index.html",
+          "img_fb": "gfb/e60f61ed321a7b41.webp",
+          "img_local": "img/e60f61ed321a7b41.webp"
+        }
+      ],
+      "gallery_source": "https://anime-precure.com/news/00236/index.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "sao-wedding-anniversary-popup-annivroad",
@@ -17955,7 +18746,116 @@
       "image_local": "img/1e1ab4940c022b50.webp",
       "lat": 35.6987,
       "lon": 139.7706,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/manosaba_26_1_ts-main_770_590.jpg?v=3887017635603612465",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "img_fb": "gfb/c57c59b75400e44e.webp",
+          "img_local": "img/c57c59b75400e44e.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/manosaba_26_1_novelty_1.jpg?v=14888734021297235713",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "img_fb": "gfb/734a5f4062351981.webp",
+          "img_local": "img/734a5f4062351981.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168763_1.jpg?v=5734989393587474015",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "魔法少女ノ魔女裁判 アクリルスタンド / 桜羽エマ Gothic Sailor ver.",
+          "img_fb": "gfb/045225e239ee6da2.webp",
+          "img_local": "img/045225e239ee6da2.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168763_2.jpg?v=10281769043281241489",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "img_fb": "gfb/c2952ec5a4681d1d.webp",
+          "img_local": "img/c2952ec5a4681d1d.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168770_1.jpg?v=16834138819243069615",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 夏目アンアン Gothic Sailor ver.",
+          "img_fb": "gfb/204b95c9841decec.webp",
+          "img_local": "img/204b95c9841decec.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168787_1.jpg?v=10134326091050023234",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 城ケ崎ノア Gothic Sailor ver.",
+          "img_fb": "gfb/752df723fa14c0a7.webp",
+          "img_local": "img/752df723fa14c0a7.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168794_1.jpg?v=18073378683203059400",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 黒部ナノカ Gothic Sailor ver.",
+          "img_fb": "gfb/6ec6c26d30aea483.webp",
+          "img_local": "img/6ec6c26d30aea483.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168800_1.jpg?v=5856903893371303898",
+          "caption_ko": "공식 이미지 8",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 紫藤アリサ Gothic Sailor ver.",
+          "img_fb": "gfb/460333e9091bdc51.webp",
+          "img_local": "img/460333e9091bdc51.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168817_1.jpg?v=10585717879421258965",
+          "caption_ko": "공식 이미지 9",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 橘シェリー Gothic Sailor ver.",
+          "img_fb": "gfb/dbfda36a47a2b1bf.webp",
+          "img_local": "img/dbfda36a47a2b1bf.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168824_1.jpg?v=2873041012858867634",
+          "caption_ko": "공식 이미지 10",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 遠野ハンナ Gothic Sailor ver.",
+          "img_fb": "gfb/f3c41606fdd9ad9d.webp",
+          "img_local": "img/f3c41606fdd9ad9d.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168831_1.jpg?v=15261710853884750370",
+          "caption_ko": "공식 이미지 11",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 沢渡ココ Gothic Sailor ver.",
+          "img_fb": "gfb/6bd2ac854061940f.webp",
+          "img_local": "img/6bd2ac854061940f.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168848_1.jpg?v=2029952720800728583",
+          "caption_ko": "공식 이미지 12",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "トレーディングホログラム缶バッジ (BOX) Gothic Sailor ver.",
+          "img_fb": "gfb/474dd9554394e836.webp",
+          "img_local": "img/474dd9554394e836.webp"
+        }
+      ],
+      "gallery_source": "https://www.cocollabo.net/pages/manosaba-2026",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "osaka-manosaba-gigo-popup-dotonbori",
@@ -17994,7 +18894,116 @@
       "image_local": "img/1e1ab4940c022b50.webp",
       "lat": 34.6687,
       "lon": 135.5017,
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/manosaba_26_1_ts-main_770_590.jpg?v=3887017635603612465",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "img_fb": "gfb/c57c59b75400e44e.webp",
+          "img_local": "img/c57c59b75400e44e.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/manosaba_26_1_novelty_1.jpg?v=14888734021297235713",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "img_fb": "gfb/734a5f4062351981.webp",
+          "img_local": "img/734a5f4062351981.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168763_1.jpg?v=5734989393587474015",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "魔法少女ノ魔女裁判 アクリルスタンド / 桜羽エマ Gothic Sailor ver.",
+          "img_fb": "gfb/045225e239ee6da2.webp",
+          "img_local": "img/045225e239ee6da2.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168763_2.jpg?v=10281769043281241489",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "img_fb": "gfb/c2952ec5a4681d1d.webp",
+          "img_local": "img/c2952ec5a4681d1d.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168770_1.jpg?v=16834138819243069615",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 夏目アンアン Gothic Sailor ver.",
+          "img_fb": "gfb/204b95c9841decec.webp",
+          "img_local": "img/204b95c9841decec.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168787_1.jpg?v=10134326091050023234",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 城ケ崎ノア Gothic Sailor ver.",
+          "img_fb": "gfb/752df723fa14c0a7.webp",
+          "img_local": "img/752df723fa14c0a7.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168794_1.jpg?v=18073378683203059400",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 黒部ナノカ Gothic Sailor ver.",
+          "img_fb": "gfb/6ec6c26d30aea483.webp",
+          "img_local": "img/6ec6c26d30aea483.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168800_1.jpg?v=5856903893371303898",
+          "caption_ko": "공식 이미지 8",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 紫藤アリサ Gothic Sailor ver.",
+          "img_fb": "gfb/460333e9091bdc51.webp",
+          "img_local": "img/460333e9091bdc51.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168817_1.jpg?v=10585717879421258965",
+          "caption_ko": "공식 이미지 9",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 橘シェリー Gothic Sailor ver.",
+          "img_fb": "gfb/dbfda36a47a2b1bf.webp",
+          "img_local": "img/dbfda36a47a2b1bf.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168824_1.jpg?v=2873041012858867634",
+          "caption_ko": "공식 이미지 10",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 遠野ハンナ Gothic Sailor ver.",
+          "img_fb": "gfb/f3c41606fdd9ad9d.webp",
+          "img_local": "img/f3c41606fdd9ad9d.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168831_1.jpg?v=15261710853884750370",
+          "caption_ko": "공식 이미지 11",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 沢渡ココ Gothic Sailor ver.",
+          "img_fb": "gfb/6bd2ac854061940f.webp",
+          "img_local": "img/6bd2ac854061940f.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168848_1.jpg?v=2029952720800728583",
+          "caption_ko": "공식 이미지 12",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "トレーディングホログラム缶バッジ (BOX) Gothic Sailor ver.",
+          "img_fb": "gfb/474dd9554394e836.webp",
+          "img_local": "img/474dd9554394e836.webp"
+        }
+      ],
+      "gallery_source": "https://www.cocollabo.net/pages/manosaba-2026",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "watanare-alice-popup-akiba",
@@ -18111,7 +19120,19 @@
       "image_local": "img/5017e1cd4fc19c60.webp",
       "lat": 34.6451,
       "lon": 135.5137,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.d-kintetsu.co.jp/hoop/news/202610/p09.webp",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.d-kintetsu.co.jp/hoop/pickup/3573/index.html",
+          "img_fb": "gfb/cd9132206a09563f.webp",
+          "img_local": "img/cd9132206a09563f.webp"
+        }
+      ],
+      "gallery_source": "https://www.d-kintetsu.co.jp/hoop/pickup/3573/index.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "meicho-gratte3-tokyo",
@@ -18493,7 +19514,28 @@
       "image_local": "img/4a570cc22798f453.webp",
       "lat": 35.6685,
       "lon": 139.705,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://shop.anique.jp/cdn/shop/articles/boukyaku__KV_1014_800x.png?v=1791912114",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://shop.anique.jp/blogs/news/boukyakubattery",
+          "caption_ja": "TVアニメ『忘却バッテリー』コラボカフェ at 洒落CAFE 【ルーフトップ】が原宿&心斎橋&名古屋にて開催決定！",
+          "img_fb": "gfb/7b9dccdc78945c71.webp",
+          "img_local": "img/7b9dccdc78945c71.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/48489/376/48489-376-97152c784f7fcead69681a6675e86a76-1280x853.jpg?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://shop.anique.jp/blogs/news/boukyakubattery",
+          "img_fb": "gfb/3facd3d2a9d64eae.webp",
+          "img_local": "img/3facd3d2a9d64eae.webp"
+        }
+      ],
+      "gallery_source": "https://shop.anique.jp/blogs/news/boukyakubattery",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "osaka-boukyaku-battery-sharecafe-bigstep",
@@ -18532,7 +19574,28 @@
       "image_local": "img/4a570cc22798f453.webp",
       "lat": 34.6726,
       "lon": 135.4988,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://shop.anique.jp/cdn/shop/articles/boukyaku__KV_1014_800x.png?v=1791912114",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://shop.anique.jp/blogs/news/boukyakubattery",
+          "caption_ja": "TVアニメ『忘却バッテリー』コラボカフェ at 洒落CAFE 【ルーフトップ】が原宿&心斎橋&名古屋にて開催決定！",
+          "img_fb": "gfb/7b9dccdc78945c71.webp",
+          "img_local": "img/7b9dccdc78945c71.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/48489/376/48489-376-97152c784f7fcead69681a6675e86a76-1280x853.jpg?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://shop.anique.jp/blogs/news/boukyakubattery",
+          "img_fb": "gfb/3facd3d2a9d64eae.webp",
+          "img_local": "img/3facd3d2a9d64eae.webp"
+        }
+      ],
+      "gallery_source": "https://shop.anique.jp/blogs/news/boukyakubattery",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "kuji-sumikko27",
@@ -20338,7 +21401,31 @@
       "thumb_small": "thumbs/4efd92d0222b00a9.webp",
       "image_fb": "gfb/4efd92d0222b00a9.webp",
       "image_local": "img/4efd92d0222b00a9.webp",
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "gallery": [
+        {
+          "group": "상품 라인업 (공식)",
+          "img": "https://sf.1kuji.com/page/imas/gkmas07/1112/img.jpg",
+          "caption_ko": "전 등급 라인업 이미지",
+          "caption_ja": "A賞 葛城リーリヤ フィギュア 1/7 Gracemaster / B賞 紫雲清夏 フィギュア 1/7 Gracemaster / C賞 姫崎莉波 フィギュア 1/7 Gracemaster / D賞 きららいずマスコット / E賞 描きおろし ミニのぼりスタンド / F賞 描きおろし ラバーチャーム / G賞 描きおろし クリアファイル＆ステッカー / H賞 描きおろし アクリルスタンド / ラストワン賞 紫雲清夏 フィギュア 1/7 Gracemaster ラストワンVer.",
+          "source": "https://1kuji.com/products/gkmas07",
+          "img_fb": "gfb/2cee903dbb0ab076.webp",
+          "img_local": "img/2cee903dbb0ab076.webp"
+        }
+      ],
+      "gallery_source": "https://1kuji.com/products/gkmas07",
+      "gallery_note": "공식 라인업 이미지예요. 등급별 개별 사진은 공식 공개 후 추가돼요",
+      "prizes": [
+        "A賞 葛城リーリヤ フィギュア 1/7 Gracemaster",
+        "B賞 紫雲清夏 フィギュア 1/7 Gracemaster",
+        "C賞 姫崎莉波 フィギュア 1/7 Gracemaster",
+        "D賞 きららいずマスコット",
+        "E賞 描きおろし ミニのぼりスタンド",
+        "F賞 描きおろし ラバーチャーム",
+        "G賞 描きおろし クリアファイル＆ステッカー",
+        "H賞 描きおろし アクリルスタンド",
+        "ラストワン賞 紫雲清夏 フィギュア 1/7 Gracemaster ラストワンVer."
+      ]
     },
     {
       "id": "kuji-5hanayome22",
@@ -22065,11 +23152,29 @@
       "thumbnail_source": "https://www.animatecafe.jp/event/ac000813",
       "image_hd": "https://cdn.animatecafe.jp/cafeweb/images/lwzZD3SMlhs8qtRVBisYRUjQg5XP6C5s.jpg",
       "gallery_source": "https://www.animatecafe.jp/event/ac000813",
-      "gallery": [],
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/lwzZD3SMlhs8qtRVBisYRUjQg5XP6C5s.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.animatecafe.jp/event/ac000813",
+          "img_fb": "gfb/ca3ea92b09861394.webp",
+          "img_local": "img/ca3ea92b09861394.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/jDQgAtEKYcUmJ11I8tsJUGH5ne5HwHj5.jpg",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.animatecafe.jp/event/ac000813",
+          "img_fb": "gfb/02d9a7fdd14f08b0.webp",
+          "img_local": "img/02d9a7fdd14f08b0.webp"
+        }
+      ],
       "thumb_small": "thumbs/ca3ea92b09861394.webp",
       "image_local": "img/ca3ea92b09861394.webp",
       "image_fb": "gfb/ca3ea92b09861394.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "추첨 예약",
@@ -22105,13 +23210,31 @@
       "thumbnail_source": "https://www.animatecafe.jp/event/ac000813",
       "image_hd": "https://cdn.animatecafe.jp/cafeweb/images/lwzZD3SMlhs8qtRVBisYRUjQg5XP6C5s.jpg",
       "gallery_source": "https://www.animatecafe.jp/event/ac000813",
-      "gallery": [],
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/lwzZD3SMlhs8qtRVBisYRUjQg5XP6C5s.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.animatecafe.jp/event/ac000813",
+          "img_fb": "gfb/ca3ea92b09861394.webp",
+          "img_local": "img/ca3ea92b09861394.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/jDQgAtEKYcUmJ11I8tsJUGH5ne5HwHj5.jpg",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.animatecafe.jp/event/ac000813",
+          "img_fb": "gfb/02d9a7fdd14f08b0.webp",
+          "img_local": "img/02d9a7fdd14f08b0.webp"
+        }
+      ],
       "thumb_small": "thumbs/ca3ea92b09861394.webp",
       "image_local": "img/ca3ea92b09861394.webp",
       "image_fb": "gfb/ca3ea92b09861394.webp",
       "lat": 34.6471,
       "lon": 135.5122,
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "",
@@ -22263,13 +23386,71 @@
       "thumbnail_source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
       "image_hd": "https://www.0101.co.jp/contents2/storenews/085/bdb732d033d60f74e06c88ca5a1986fe_02_01_l.webp",
       "gallery_source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
-      "gallery": [],
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.0101.co.jp/contents2/storenews/085/bdb732d033d60f74e06c88ca5a1986fe_02_01_l.webp",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+          "img_fb": "gfb/5b3c65dd86942bce.webp",
+          "img_local": "img/5b3c65dd86942bce.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.0101.co.jp/contents2/storenews/085/7b56abc6bbbfaf8db204e4a285d619d6_02_03_l.webp",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+          "img_fb": "gfb/084efa39447f04c7.webp",
+          "img_local": "img/084efa39447f04c7.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.0101.co.jp/contents2/storenews/085/58edbd1da1e5aea2cc346d114b00ca00_02_03_l.webp",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+          "img_fb": "gfb/39db57e32d0ccc96.webp",
+          "img_local": "img/39db57e32d0ccc96.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.0101.co.jp/contents2/storenews/085/3e0d542b1bd75acffb51a63a82cd84b1_02_03_l.webp",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+          "img_fb": "gfb/f4f89d8aae5dc1e9.webp",
+          "img_local": "img/f4f89d8aae5dc1e9.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.0101.co.jp/contents2/storenews/085/918bcbd86b7a20b4a48210e009ab3895_02_01_l.webp",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+          "img_fb": "gfb/9d88cf1e345899d6.webp",
+          "img_local": "img/9d88cf1e345899d6.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.0101.co.jp/contents2/storenews/085/f59951f786da1f56f76f5ae16eb4e5cf_02_01_l.webp",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+          "img_fb": "gfb/89212ae199a66081.webp",
+          "img_local": "img/89212ae199a66081.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.0101.co.jp/contents2/storenews/085/82f6c485e99f19cc52930528e9ebed3e_02_01_l.webp",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://www.0101.co.jp/085/event/detail.html?article_seq=145409&article_type=sto",
+          "img_fb": "gfb/b5bb3e40fa219c89.webp",
+          "img_local": "img/b5bb3e40fa219c89.webp"
+        }
+      ],
       "lat": 34.6655,
       "lon": 135.5008,
       "thumb_small": "thumbs/5b3c65dd86942bce.webp",
       "image_local": "img/5b3c65dd86942bce.webp",
       "image_fb": "gfb/5b3c65dd86942bce.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "",
@@ -22646,7 +23827,43 @@
       "thumb_small": "thumbs/a256416b7fd4c256.webp",
       "image_fb": "gfb/a256416b7fd4c256.webp",
       "image_local": "img/a256416b7fd4c256.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.0101.co.jp/contents2/storenews/090/29baa99245bb279e8d4e1273ea78d8c8_02_01_l.webp",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.0101.co.jp/090/event/detail.html?article_seq=144415&article_type=sto",
+          "img_fb": "gfb/a256416b7fd4c256.webp",
+          "img_local": "img/a256416b7fd4c256.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.0101.co.jp/contents2/storenews/090/8ce7ce97c143979aafa3bdee926d942a_02_01_l.webp",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.0101.co.jp/090/event/detail.html?article_seq=144415&article_type=sto",
+          "img_fb": "gfb/78e440a0a90090ba.webp",
+          "img_local": "img/78e440a0a90090ba.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.0101.co.jp/contents2/storenews/090/117b68ceb47b60ee32584b2e388d0e02_02_01_l.webp",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://www.0101.co.jp/090/event/detail.html?article_seq=144415&article_type=sto",
+          "img_fb": "gfb/36a1d72adba865fc.webp",
+          "img_local": "img/36a1d72adba865fc.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.0101.co.jp/contents2/storenews/090/11e516703a62d0cf7f5254cd3b547005_02_01_l.webp",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://www.0101.co.jp/090/event/detail.html?article_seq=144415&article_type=sto",
+          "img_fb": "gfb/a745e8d81e0ec848.webp",
+          "img_local": "img/a745e8d81e0ec848.webp"
+        }
+      ],
+      "gallery_source": "https://www.0101.co.jp/090/event/detail.html?article_seq=144415&article_type=sto",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "area": "후쿠오카",
@@ -22773,7 +23990,92 @@
       "thumb_small": "thumbs/4a25c33e9d24a9d1.webp",
       "image_fb": "gfb/4a25c33e9d24a9d1.webp",
       "image_local": "img/4a25c33e9d24a9d1.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa/_jcr_content/root/sectioning_1010589857/sectioning/sectioning_2080733782/sectioning/sectioning/carousel/item1.transform/uploaded/img.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+          "img_fb": "gfb/a899af37e029abc3.webp",
+          "img_local": "img/a899af37e029abc3.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa/_jcr_content/root/sectioning_1010589857/sectioning_1851257400/sectioning_139949893/sectioning_32644863_/sectioning/image_293650056.coreimg.png/1790304412615/%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E7%89%B9%E5%85%B8%E3%82%B7%E3%83%A7%E3%83%83%E3%83%91%E3%83%BC.png",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+          "img_fb": "gfb/fa3564ba083612c7.webp",
+          "img_local": "img/fa3564ba083612c7.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa/_jcr_content/root/sectioning_1010589857/sectioning_1851257400/sectioning_139949893/sectioning_32644863_/sectioning/image_2044613136.coreimg.png/1790304562538/%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E7%89%B9%E5%85%B8%E3%82%B9%E3%83%86%E3%83%83%E3%82%AB%E3%83%BC.png",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+          "img_fb": "gfb/8b2e1cdb290cc446.webp",
+          "img_local": "img/8b2e1cdb290cc446.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa/_jcr_content/root/sectioning_1010589857/sectioning_1851257400/sectioning_139949893/sectioning/sectioning_copy_815697535/sectioning_1299219339/image_1217845858.coreimg.jpeg/1791199975563/261016-chiikawazushi-fukuokamitukoshi-b1.jpeg",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+          "img_fb": "gfb/de43870cf5f36c90.webp",
+          "img_local": "img/de43870cf5f36c90.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa/_jcr_content/root/sectioning_1010589857/sectioning_1851257400/sectioning_139949893/sectioning/sectioning_copy_815697535/sectioning_1299219339/image.coreimg.jpeg/1791617787859/2610-%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E5%AF%BF%E5%8F%B8-%E8%B2%A9%E4%BF%83%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%89.jpeg",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+          "img_fb": "gfb/7f6a075980e17ccf.webp",
+          "img_local": "img/7f6a075980e17ccf.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa/_jcr_content/root/sectioning_1010589857/sectioning_1851257400/sectioning_139949893/sectioning/sectioning_105124929/sectioning/sectioning_1299219339/image_1217845858.coreimg.png/1789731741081/%E3%83%8A%E3%82%AC%E3%83%8E.png",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+          "img_fb": "gfb/589d5bcad6dec476.webp",
+          "img_local": "img/589d5bcad6dec476.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa/_jcr_content/root/sectioning_1010589857/sectioning_1851257400/sectioning_139949893/sectioning/sectioning_105124929/sectioning/sectioning_1299219339/image.coreimg.png/1790992597709/%E3%83%8A%E3%82%AC%E3%83%8E%E7%89%B9%E5%85%B8%E3%82%B9%E3%83%86%E3%83%83%E3%82%AB%E3%83%BC.png",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+          "img_fb": "gfb/c1431f889f7b1348.webp",
+          "img_local": "img/c1431f889f7b1348.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa/_jcr_content/root/sectioning_1010589857/sectioning_1851257400/sectioning_139949893/sectioning/sectioning_105124929/sectioning_156880096/sectioning/sectioning/image_2121464150_cop.coreimg.png/1789731837038/%E3%82%B3%E3%82%A6%E3%83%9A%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93.png",
+          "caption_ko": "공식 이미지 8",
+          "source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+          "img_fb": "gfb/adc74767fea59e20.webp",
+          "img_local": "img/adc74767fea59e20.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa/_jcr_content/root/sectioning_1010589857/sectioning_1851257400/sectioning_139949893/sectioning/sectioning_105124929/sectioning_156880096/sectioning/sectioning/image.coreimg.png/1790993068103/%E3%82%B3%E3%82%A6%E3%83%9A%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93%E7%89%B9%E5%85%B8.png",
+          "caption_ko": "공식 이미지 9",
+          "source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+          "img_fb": "gfb/7b7db9f967350700.webp",
+          "img_local": "img/7b7db9f967350700.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa/_jcr_content/root/sectioning_1010589857/sectioning/sectioning_2080733782/sectioning/sectioning/carousel/item1.transform/thumbnail/img.jpg",
+          "caption_ko": "공식 이미지 10",
+          "source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+          "caption_ja": "ちいかわ POP UP STORE",
+          "img_fb": "gfb/2efcf6bb414db6aa.webp",
+          "img_local": "img/2efcf6bb414db6aa.webp"
+        }
+      ],
+      "gallery_source": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/chiikawa.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "fukuoka-haikyu-and-gallery",
@@ -23121,7 +24423,107 @@
       "thumb_small": "thumbs/72826269b0421a0d.webp",
       "image_fb": "gfb/72826269b0421a0d.webp",
       "image_local": "img/72826269b0421a0d.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item01/slide5.webp",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/71f7270579b236d5.webp",
+          "img_local": "img/71f7270579b236d5.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item01/slide1.webp",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/560b8e71a686b235.webp",
+          "img_local": "img/560b8e71a686b235.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item01/slide2.webp",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/f2133058908a502b.webp",
+          "img_local": "img/f2133058908a502b.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item01/slide3.webp",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/ca9c3a4b09f0fc80.webp",
+          "img_local": "img/ca9c3a4b09f0fc80.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item01/slide4.webp",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/9720c63cbd839d42.webp",
+          "img_local": "img/9720c63cbd839d42.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item02/slide7.webp",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/d17bc59c26f37bc5.webp",
+          "img_local": "img/d17bc59c26f37bc5.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item02/slide1.webp",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/6a8e14c466b1d020.webp",
+          "img_local": "img/6a8e14c466b1d020.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item02/slide2.webp",
+          "caption_ko": "공식 이미지 8",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/129fa75ba137c2e6.webp",
+          "img_local": "img/129fa75ba137c2e6.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item02/slide3.webp",
+          "caption_ko": "공식 이미지 9",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/6b334afd74408833.webp",
+          "img_local": "img/6b334afd74408833.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item02/slide4.webp",
+          "caption_ko": "공식 이미지 10",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/d27d6d9879408a0c.webp",
+          "img_local": "img/d27d6d9879408a0c.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item02/slide5.webp",
+          "caption_ko": "공식 이미지 11",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/cddb60296c8e400f.webp",
+          "img_local": "img/cddb60296c8e400f.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://hero-avan.tk-visual.com/images/goods/item02/slide6.webp",
+          "caption_ko": "공식 이미지 12",
+          "source": "https://hero-avan.tk-visual.com/",
+          "img_fb": "gfb/2f881558b65366c2.webp",
+          "img_local": "img/2f881558b65366c2.webp"
+        }
+      ],
+      "gallery_source": "https://hero-avan.tk-visual.com/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "area": "후쿠오카",
@@ -23313,7 +24715,92 @@
       "thumb_small": "thumbs/cb654f99d01be637.webp",
       "image_fb": "gfb/cb654f99d01be637.webp",
       "image_local": "img/cb654f99d01be637.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img1.jpg",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
+          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
+          "img_fb": "gfb/d8e866a80baaeaa3.webp",
+          "img_local": "img/d8e866a80baaeaa3.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img2.jpg",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
+          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
+          "img_fb": "gfb/e325602a953c5b17.webp",
+          "img_local": "img/e325602a953c5b17.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img3.jpg",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
+          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
+          "img_fb": "gfb/038fa0e3c214c845.webp",
+          "img_local": "img/038fa0e3c214c845.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img4.jpg",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
+          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
+          "img_fb": "gfb/5c4c764c190d73b8.webp",
+          "img_local": "img/5c4c764c190d73b8.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img5.jpg",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
+          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
+          "img_fb": "gfb/95738578d8fc5e1e.webp",
+          "img_local": "img/95738578d8fc5e1e.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img6.jpg",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
+          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
+          "img_fb": "gfb/8e76bb2891f8ef67.webp",
+          "img_local": "img/8e76bb2891f8ef67.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img7.jpg",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
+          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
+          "img_fb": "gfb/2ff2795525305ecb.webp",
+          "img_local": "img/2ff2795525305ecb.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/gochizo/img1.jpg",
+          "caption_ko": "공식 이미지 8",
+          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
+          "caption_ja": "DXレジェンドライダーゴチゾウシリーズ -仮面ライダーカブト Edition-",
+          "img_fb": "gfb/24a328db0a1acf4c.webp",
+          "img_local": "img/24a328db0a1acf4c.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/gochizo/img2.jpg",
+          "caption_ko": "공식 이미지 9",
+          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
+          "caption_ja": "DXレジェンドライダーゴチゾウシリーズ -仮面ライダーカブト Edition-",
+          "img_fb": "gfb/7c4252d55308a7a0.webp",
+          "img_local": "img/7c4252d55308a7a0.webp"
+        }
+      ],
+      "gallery_source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "area": "후쿠오카",
@@ -23468,7 +24955,119 @@
       "thumb_small": "thumbs/be54c337b736f71c.webp",
       "image_fb": "gfb/be54c337b736f71c.webp",
       "image_local": "img/be54c337b736f71c.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/tokuten_casual_visual.png",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "特典ステッカー（全6種）イメージ",
+          "img_fb": "gfb/a599246c10afd5a8.webp",
+          "img_local": "img/a599246c10afd5a8.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-01.png",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ブラインド缶バッジ カジュアルコーデ（全6種） 単品：550円（税込） BOX：3,300円（税込） ※ランダム商品となります。絵柄はお選びいただけません。",
+          "img_fb": "gfb/37d9850296ab43b9.webp",
+          "img_local": "img/37d9850296ab43b9.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-02.png",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "アクリルスタンド カジュアルコーデ（3種） 1,980円（税込）",
+          "img_fb": "gfb/e923766ae6337e4e.webp",
+          "img_local": "img/e923766ae6337e4e.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-03.png",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "BIGアクリルスタンド カジュアルコーデ（3種） 3,850円（税込）",
+          "img_fb": "gfb/94033e2b0403cd7c.webp",
+          "img_local": "img/94033e2b0403cd7c.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-04.png",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "アクリルキーホルダー カジュアルコーデ（3種） 770円（税込）",
+          "img_fb": "gfb/8f24d731e2d7d0ec.webp",
+          "img_local": "img/8f24d731e2d7d0ec.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-05.png",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ブラインドカード カジュアルコーデ（全9種） 単品：440円（税込） BOX：3,960円（税込） ※ランダム商品となります。絵柄はお選びいただけません。",
+          "img_fb": "gfb/2921d10a5967210c.webp",
+          "img_local": "img/2921d10a5967210c.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-06.png",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ブラインドブロマイド カジュアルコーデ（全6種） 単品：440円（税込） BOX：2,640円（税込） ※ランダム商品となります。絵柄はお選びいただけません。",
+          "img_fb": "gfb/114453d7bdd9e8a4.webp",
+          "img_local": "img/114453d7bdd9e8a4.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-07.png",
+          "caption_ko": "공식 이미지 8",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "クリアファイル カジュアルコーデ（3種） 550円（税込）",
+          "img_fb": "gfb/d20d4c900cfb1012.webp",
+          "img_local": "img/d20d4c900cfb1012.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-08.png",
+          "caption_ko": "공식 이미지 9",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "アクリルパネル カジュアルコーデ（2種） 2,750円（税込）",
+          "img_fb": "gfb/fdf1c11c2ee66c31.webp",
+          "img_local": "img/fdf1c11c2ee66c31.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-09.png",
+          "caption_ko": "공식 이미지 10",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ブラインドミニキャラホロ缶バッジ カジュアルコーデ（全6種） 単品：550円（税込） BOX：3,300円（税込） ※ランダム商品となります。絵柄はお選びいただ",
+          "img_fb": "gfb/be8ec40472cc8f49.webp",
+          "img_local": "img/be8ec40472cc8f49.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-10.png",
+          "caption_ko": "공식 이미지 11",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ミニキャラアクリルスタンド カジュアルコーデ（3種） 550円（税込）",
+          "img_fb": "gfb/5413ddd47b8e8f63.webp",
+          "img_local": "img/5413ddd47b8e8f63.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-11.png",
+          "caption_ko": "공식 이미지 12",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ミニキャラステッカー カジュアルコーデ（3種） 880円（税込）",
+          "img_fb": "gfb/428965c9a2b796ae.webp",
+          "img_local": "img/428965c9a2b796ae.webp"
+        }
+      ],
+      "gallery_source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "area": "오사카",
@@ -23507,7 +25106,119 @@
       "thumb_small": "thumbs/be54c337b736f71c.webp",
       "image_fb": "gfb/be54c337b736f71c.webp",
       "image_local": "img/be54c337b736f71c.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/tokuten_casual_visual.png",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "特典ステッカー（全6種）イメージ",
+          "img_fb": "gfb/a599246c10afd5a8.webp",
+          "img_local": "img/a599246c10afd5a8.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-01.png",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ブラインド缶バッジ カジュアルコーデ（全6種） 単品：550円（税込） BOX：3,300円（税込） ※ランダム商品となります。絵柄はお選びいただけません。",
+          "img_fb": "gfb/37d9850296ab43b9.webp",
+          "img_local": "img/37d9850296ab43b9.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-02.png",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "アクリルスタンド カジュアルコーデ（3種） 1,980円（税込）",
+          "img_fb": "gfb/e923766ae6337e4e.webp",
+          "img_local": "img/e923766ae6337e4e.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-03.png",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "BIGアクリルスタンド カジュアルコーデ（3種） 3,850円（税込）",
+          "img_fb": "gfb/94033e2b0403cd7c.webp",
+          "img_local": "img/94033e2b0403cd7c.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-04.png",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "アクリルキーホルダー カジュアルコーデ（3種） 770円（税込）",
+          "img_fb": "gfb/8f24d731e2d7d0ec.webp",
+          "img_local": "img/8f24d731e2d7d0ec.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-05.png",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ブラインドカード カジュアルコーデ（全9種） 単品：440円（税込） BOX：3,960円（税込） ※ランダム商品となります。絵柄はお選びいただけません。",
+          "img_fb": "gfb/2921d10a5967210c.webp",
+          "img_local": "img/2921d10a5967210c.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-06.png",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ブラインドブロマイド カジュアルコーデ（全6種） 単品：440円（税込） BOX：2,640円（税込） ※ランダム商品となります。絵柄はお選びいただけません。",
+          "img_fb": "gfb/114453d7bdd9e8a4.webp",
+          "img_local": "img/114453d7bdd9e8a4.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-07.png",
+          "caption_ko": "공식 이미지 8",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "クリアファイル カジュアルコーデ（3種） 550円（税込）",
+          "img_fb": "gfb/d20d4c900cfb1012.webp",
+          "img_local": "img/d20d4c900cfb1012.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-08.png",
+          "caption_ko": "공식 이미지 9",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "アクリルパネル カジュアルコーデ（2種） 2,750円（税込）",
+          "img_fb": "gfb/fdf1c11c2ee66c31.webp",
+          "img_local": "img/fdf1c11c2ee66c31.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-09.png",
+          "caption_ko": "공식 이미지 10",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ブラインドミニキャラホロ缶バッジ カジュアルコーデ（全6種） 単品：550円（税込） BOX：3,300円（税込） ※ランダム商品となります。絵柄はお選びいただ",
+          "img_fb": "gfb/be8ec40472cc8f49.webp",
+          "img_local": "img/be8ec40472cc8f49.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-10.png",
+          "caption_ko": "공식 이미지 11",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ミニキャラアクリルスタンド カジュアルコーデ（3種） 550円（税込）",
+          "img_fb": "gfb/5413ddd47b8e8f63.webp",
+          "img_local": "img/5413ddd47b8e8f63.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-11.png",
+          "caption_ko": "공식 이미지 12",
+          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+          "caption_ja": "ミニキャラステッカー カジュアルコーデ（3種） 880円（税込）",
+          "img_fb": "gfb/428965c9a2b796ae.webp",
+          "img_local": "img/428965c9a2b796ae.webp"
+        }
+      ],
+      "gallery_source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "area": "도쿄",
@@ -24888,7 +26599,116 @@
       "thumb_small": "thumbs/76e74d283b080a37.webp",
       "image_fb": "gfb/76e74d283b080a37.webp",
       "image_local": "img/76e74d283b080a37.webp",
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/manosaba_26_1_ts-main_770_590.jpg?v=3887017635603612465",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "img_fb": "gfb/c57c59b75400e44e.webp",
+          "img_local": "img/c57c59b75400e44e.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/manosaba_26_1_novelty_1.jpg?v=14888734021297235713",
+          "caption_ko": "공식 이미지 2",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "img_fb": "gfb/734a5f4062351981.webp",
+          "img_local": "img/734a5f4062351981.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168763_1.jpg?v=5734989393587474015",
+          "caption_ko": "공식 이미지 3",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "魔法少女ノ魔女裁判 アクリルスタンド / 桜羽エマ Gothic Sailor ver.",
+          "img_fb": "gfb/045225e239ee6da2.webp",
+          "img_local": "img/045225e239ee6da2.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168763_2.jpg?v=10281769043281241489",
+          "caption_ko": "공식 이미지 4",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "img_fb": "gfb/c2952ec5a4681d1d.webp",
+          "img_local": "img/c2952ec5a4681d1d.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168770_1.jpg?v=16834138819243069615",
+          "caption_ko": "공식 이미지 5",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 夏目アンアン Gothic Sailor ver.",
+          "img_fb": "gfb/204b95c9841decec.webp",
+          "img_local": "img/204b95c9841decec.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168787_1.jpg?v=10134326091050023234",
+          "caption_ko": "공식 이미지 6",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 城ケ崎ノア Gothic Sailor ver.",
+          "img_fb": "gfb/752df723fa14c0a7.webp",
+          "img_local": "img/752df723fa14c0a7.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168794_1.jpg?v=18073378683203059400",
+          "caption_ko": "공식 이미지 7",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 黒部ナノカ Gothic Sailor ver.",
+          "img_fb": "gfb/6ec6c26d30aea483.webp",
+          "img_local": "img/6ec6c26d30aea483.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168800_1.jpg?v=5856903893371303898",
+          "caption_ko": "공식 이미지 8",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 紫藤アリサ Gothic Sailor ver.",
+          "img_fb": "gfb/460333e9091bdc51.webp",
+          "img_local": "img/460333e9091bdc51.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168817_1.jpg?v=10585717879421258965",
+          "caption_ko": "공식 이미지 9",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 橘シェリー Gothic Sailor ver.",
+          "img_fb": "gfb/dbfda36a47a2b1bf.webp",
+          "img_local": "img/dbfda36a47a2b1bf.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168824_1.jpg?v=2873041012858867634",
+          "caption_ko": "공식 이미지 10",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 遠野ハンナ Gothic Sailor ver.",
+          "img_fb": "gfb/f3c41606fdd9ad9d.webp",
+          "img_local": "img/f3c41606fdd9ad9d.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168831_1.jpg?v=15261710853884750370",
+          "caption_ko": "공식 이미지 11",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "アクリルスタンド / 沢渡ココ Gothic Sailor ver.",
+          "img_fb": "gfb/6bd2ac854061940f.webp",
+          "img_local": "img/6bd2ac854061940f.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140168848_1.jpg?v=2029952720800728583",
+          "caption_ko": "공식 이미지 12",
+          "source": "https://www.cocollabo.net/pages/manosaba-2026",
+          "caption_ja": "トレーディングホログラム缶バッジ (BOX) Gothic Sailor ver.",
+          "img_fb": "gfb/474dd9554394e836.webp",
+          "img_local": "img/474dd9554394e836.webp"
+        }
+      ],
+      "gallery_source": "https://www.cocollabo.net/pages/manosaba-2026",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "",
@@ -25003,7 +26823,19 @@
       "thumb_small": "thumbs/8038f35474ee4ac9.webp",
       "image_fb": "gfb/8038f35474ee4ac9.webp",
       "image_local": "img/8038f35474ee4ac9.webp",
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://img.hmv.co.jp//sp/2026/nakamura/g2.webp",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.hmv.co.jp/news/article/260910142/",
+          "img_fb": "gfb/b90026da2ae14c98.webp",
+          "img_local": "img/b90026da2ae14c98.webp"
+        }
+      ],
+      "gallery_source": "https://www.hmv.co.jp/news/article/260910142/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "",
@@ -25040,7 +26872,19 @@
       "thumb_small": "thumbs/8038f35474ee4ac9.webp",
       "image_fb": "gfb/8038f35474ee4ac9.webp",
       "image_local": "img/8038f35474ee4ac9.webp",
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://img.hmv.co.jp//sp/2026/nakamura/g2.webp",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.hmv.co.jp/news/article/260910142/",
+          "img_fb": "gfb/b90026da2ae14c98.webp",
+          "img_local": "img/b90026da2ae14c98.webp"
+        }
+      ],
+      "gallery_source": "https://www.hmv.co.jp/news/article/260910142/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "",
@@ -25077,7 +26921,19 @@
       "thumb_small": "thumbs/8038f35474ee4ac9.webp",
       "image_fb": "gfb/8038f35474ee4ac9.webp",
       "image_local": "img/8038f35474ee4ac9.webp",
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://img.hmv.co.jp//sp/2026/nakamura/g2.webp",
+          "caption_ko": "공식 이미지 1",
+          "source": "https://www.hmv.co.jp/news/article/260910142/",
+          "img_fb": "gfb/b90026da2ae14c98.webp",
+          "img_local": "img/b90026da2ae14c98.webp"
+        }
+      ],
+      "gallery_source": "https://www.hmv.co.jp/news/article/260910142/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "",
@@ -25191,6 +27047,478 @@
       "image_fb": "gfb/7029fe24369eb14f.webp",
       "image_local": "img/7029fe24369eb14f.webp",
       "added": "2026-10-26"
+    },
+    {
+      "title_ko": "원피스 「원피의 열매」 제27해전 (가챠)",
+      "title_ja": "ワンピの実 第二十七海戦",
+      "category": "가챠",
+      "area": "전국",
+      "venue": "전국 판매처 (가챠 코너 등)",
+      "start": "2026-11-01",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 500엔",
+      "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+      "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-10-27",
+      "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259560_1.jpg",
+      "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+      "evidence": [
+        {
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+          "tier": "official",
+          "quote": "発売時期 2026年11月未定 価格(税込) 500円 種類数 全6種 対象年齢",
+          "checked": "2026-10-27"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-27",
+      "thumb_kind": "product",
+      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "region": "all",
+      "added": "2026-10-27",
+      "summary_ko": "「원피스」 가챠예요. 1회 500엔, 전 6종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+      "gallery": [
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259560_1.jpg",
+          "caption_ko": "메인 이미지",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+          "img_fb": "gfb/6f726eb4349620c4.webp",
+          "img_local": "img/6f726eb4349620c4.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259560_2.jpg",
+          "caption_ko": "라인업 1",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+          "img_fb": "gfb/174a5cc99960e43b.webp",
+          "img_local": "img/174a5cc99960e43b.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259560_3.jpg",
+          "caption_ko": "라인업 2",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+          "img_fb": "gfb/d87738a8b9316d6f.webp",
+          "img_local": "img/d87738a8b9316d6f.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259560_4.jpg",
+          "caption_ko": "라인업 3",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+          "img_fb": "gfb/78d144f314b478dd.webp",
+          "img_local": "img/78d144f314b478dd.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259560_5.jpg",
+          "caption_ko": "라인업 4",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+          "img_fb": "gfb/69d02374dc6638ed.webp",
+          "img_local": "img/69d02374dc6638ed.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259560_6.jpg",
+          "caption_ko": "라인업 5",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+          "img_fb": "gfb/ee3c2918568622cb.webp",
+          "img_local": "img/ee3c2918568622cb.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259560_7.jpg",
+          "caption_ko": "라인업 6",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+          "img_fb": "gfb/7e6987b739b5f0d0.webp",
+          "img_local": "img/7e6987b739b5f0d0.webp"
+        }
+      ],
+      "gallery_source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/6f726eb4349620c4.webp",
+      "image_fb": "gfb/6f726eb4349620c4.webp",
+      "image_local": "img/6f726eb4349620c4.webp"
+    },
+    {
+      "title_ko": "명탐정 코난 규코토 2 (가챠)",
+      "title_ja": "名探偵コナン ぎゅーこっと2",
+      "category": "가챠",
+      "area": "전국",
+      "venue": "전국 판매처 (가챠 코너 등)",
+      "start": "2026-11-01",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 500엔",
+      "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+      "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-10-27",
+      "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259566_1.jpg",
+      "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+      "evidence": [
+        {
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+          "tier": "official",
+          "quote": "発売時期 2026年11月未定 価格(税込) 500円 種類数 全5種 対象年齢",
+          "checked": "2026-10-27"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-27",
+      "thumb_kind": "product",
+      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "region": "all",
+      "added": "2026-10-27",
+      "summary_ko": "「명탐정 코난」 가챠예요. 1회 500엔, 전 5종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+      "gallery": [
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259566_1.jpg",
+          "caption_ko": "메인 이미지",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+          "img_fb": "gfb/dba42aff85c29fcc.webp",
+          "img_local": "img/dba42aff85c29fcc.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259566_2.jpg",
+          "caption_ko": "라인업 1",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+          "img_fb": "gfb/0c9bc88c3bd1921c.webp",
+          "img_local": "img/0c9bc88c3bd1921c.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259566_3.jpg",
+          "caption_ko": "라인업 2",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+          "img_fb": "gfb/a539f3bac8b18c87.webp",
+          "img_local": "img/a539f3bac8b18c87.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259566_4.jpg",
+          "caption_ko": "라인업 3",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+          "img_fb": "gfb/1b085949a9d521e7.webp",
+          "img_local": "img/1b085949a9d521e7.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259566_5.jpg",
+          "caption_ko": "라인업 4",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+          "img_fb": "gfb/e950b66e8c144ea4.webp",
+          "img_local": "img/e950b66e8c144ea4.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259566_6.jpg",
+          "caption_ko": "라인업 5",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+          "img_fb": "gfb/5a67a72b0d94ce89.webp",
+          "img_local": "img/5a67a72b0d94ce89.webp"
+        }
+      ],
+      "gallery_source": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/dba42aff85c29fcc.webp",
+      "image_fb": "gfb/dba42aff85c29fcc.webp",
+      "image_local": "img/dba42aff85c29fcc.webp"
+    },
+    {
+      "title_ko": "하이큐!! 네무라세타이 3 (가챠)",
+      "title_ja": "ハイキュー!! ねむらせ隊3",
+      "category": "가챠",
+      "area": "전국",
+      "venue": "전국 판매처 (가챠 코너 등)",
+      "start": "2026-11-01",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 400엔",
+      "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+      "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-10-27",
+      "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259526_1.jpg",
+      "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+      "evidence": [
+        {
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+          "tier": "official",
+          "quote": "発売時期 2026年11月未定 価格(税込) 400円 種類数 全7種 対象年齢",
+          "checked": "2026-10-27"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-27",
+      "thumb_kind": "product",
+      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "region": "all",
+      "added": "2026-10-27",
+      "summary_ko": "「하이큐」 가챠예요. 1회 400엔, 전 7종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+      "gallery": [
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259526_1.jpg",
+          "caption_ko": "메인 이미지",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+          "img_fb": "gfb/9578c54601d22538.webp",
+          "img_local": "img/9578c54601d22538.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259526_2.jpg",
+          "caption_ko": "라인업 1",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+          "img_fb": "gfb/6dae7d3e13396f93.webp",
+          "img_local": "img/6dae7d3e13396f93.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259526_3.jpg",
+          "caption_ko": "라인업 2",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+          "img_fb": "gfb/e2903e0fb644d30d.webp",
+          "img_local": "img/e2903e0fb644d30d.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259526_4.jpg",
+          "caption_ko": "라인업 3",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+          "img_fb": "gfb/c03e6b9f65fd167e.webp",
+          "img_local": "img/c03e6b9f65fd167e.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259526_5.jpg",
+          "caption_ko": "라인업 4",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+          "img_fb": "gfb/997f89ca716e65c2.webp",
+          "img_local": "img/997f89ca716e65c2.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259526_6.jpg",
+          "caption_ko": "라인업 5",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+          "img_fb": "gfb/7811a108cfff43bb.webp",
+          "img_local": "img/7811a108cfff43bb.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259526_7.jpg",
+          "caption_ko": "라인업 6",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+          "img_fb": "gfb/334e838f70c4b6d7.webp",
+          "img_local": "img/334e838f70c4b6d7.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259526_8.jpg",
+          "caption_ko": "라인업 7",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+          "img_fb": "gfb/4c6f6646b89d803f.webp",
+          "img_local": "img/4c6f6646b89d803f.webp"
+        }
+      ],
+      "gallery_source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/9578c54601d22538.webp",
+      "image_fb": "gfb/9578c54601d22538.webp",
+      "image_local": "img/9578c54601d22538.webp"
+    },
+    {
+      "title_ko": "포켓몬스터 스윙 컬렉션 Type:Water (가챠)",
+      "title_ja": "ポケットモンスター スイングコレクションType:Water",
+      "category": "가챠",
+      "area": "전국",
+      "venue": "전국 판매처 (가챠 코너 등)",
+      "start": "2026-11-01",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 300엔",
+      "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+      "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-10-27",
+      "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259532_1.jpg",
+      "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+      "evidence": [
+        {
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+          "tier": "official",
+          "quote": "発売時期 2026年11月未定 価格(税込) 300円 種類数 全5種 対象年齢",
+          "checked": "2026-10-27"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-27",
+      "thumb_kind": "product",
+      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "region": "all",
+      "added": "2026-10-27",
+      "summary_ko": "「포켓몬」 가챠예요. 1회 300엔, 전 5종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+      "gallery": [
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259532_1.jpg",
+          "caption_ko": "메인 이미지",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+          "img_fb": "gfb/3897794b00ba2578.webp",
+          "img_local": "img/3897794b00ba2578.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259532_2.jpg",
+          "caption_ko": "라인업 1",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+          "img_fb": "gfb/534de93b9623e5ff.webp",
+          "img_local": "img/534de93b9623e5ff.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259532_3.jpg",
+          "caption_ko": "라인업 2",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+          "img_fb": "gfb/0d2f105de6d70c30.webp",
+          "img_local": "img/0d2f105de6d70c30.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259532_4.jpg",
+          "caption_ko": "라인업 3",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+          "img_fb": "gfb/ad708b5971e2caf8.webp",
+          "img_local": "img/ad708b5971e2caf8.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259532_5.jpg",
+          "caption_ko": "라인업 4",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+          "img_fb": "gfb/c4e7f309606d84e8.webp",
+          "img_local": "img/c4e7f309606d84e8.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259532_6.jpg",
+          "caption_ko": "라인업 5",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+          "img_fb": "gfb/4953791f86eaa3f6.webp",
+          "img_local": "img/4953791f86eaa3f6.webp"
+        }
+      ],
+      "gallery_source": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/3897794b00ba2578.webp",
+      "image_fb": "gfb/3897794b00ba2578.webp",
+      "image_local": "img/3897794b00ba2578.webp"
+    },
+    {
+      "title_ko": "산리오 캐릭터즈 별자리 스윙 마스코트 PART1 (가챠)",
+      "title_ja": "サンリオキャラクターズ 星座スイングマスコットPART1",
+      "category": "가챠",
+      "area": "전국",
+      "venue": "전국 판매처 (가챠 코너 등)",
+      "start": "2026-11-01",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 400엔",
+      "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+      "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-10-27",
+      "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259544_1.jpg",
+      "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+      "evidence": [
+        {
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+          "tier": "official",
+          "quote": "発売時期 2026年11月未定 価格(税込) 400円 種類数 全6種 対象年齢",
+          "checked": "2026-10-27"
+        }
+      ],
+      "source_tier": "official",
+      "verified_at": "2026-10-27",
+      "thumb_kind": "product",
+      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "region": "all",
+      "added": "2026-10-27",
+      "summary_ko": "「산리오」 가챠예요. 1회 400엔, 전 6종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+      "gallery": [
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259544_1.jpg",
+          "caption_ko": "메인 이미지",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+          "img_fb": "gfb/8924c4c30a39dcd6.webp",
+          "img_local": "img/8924c4c30a39dcd6.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259544_2.jpg",
+          "caption_ko": "라인업 1",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+          "img_fb": "gfb/d23d20d71b55e640.webp",
+          "img_local": "img/d23d20d71b55e640.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259544_3.jpg",
+          "caption_ko": "라인업 2",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+          "img_fb": "gfb/82dd2955909e6647.webp",
+          "img_local": "img/82dd2955909e6647.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259544_4.jpg",
+          "caption_ko": "라인업 3",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+          "img_fb": "gfb/864cad04686dc2d9.webp",
+          "img_local": "img/864cad04686dc2d9.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259544_5.jpg",
+          "caption_ko": "라인업 4",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+          "img_fb": "gfb/e3b3e7295fe9f5b6.webp",
+          "img_local": "img/e3b3e7295fe9f5b6.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259544_6.jpg",
+          "caption_ko": "라인업 5",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+          "img_fb": "gfb/c4ecfd71fafffbf8.webp",
+          "img_local": "img/c4ecfd71fafffbf8.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259544_7.jpg",
+          "caption_ko": "라인업 6",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+          "img_fb": "gfb/9896e0cb4a1b6b2d.webp",
+          "img_local": "img/9896e0cb4a1b6b2d.webp"
+        }
+      ],
+      "gallery_source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/8924c4c30a39dcd6.webp",
+      "image_fb": "gfb/8924c4c30a39dcd6.webp",
+      "image_local": "img/8924c4c30a39dcd6.webp"
     }
   ]
 }
