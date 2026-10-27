@@ -2,6 +2,14 @@
  "_note": "events.json 필드에 날짜가 명시된 신청·예매 마감만. source_text는 해당 필드 원문 그대로.",
  "deadlines": [
   {
+   "match": "주술회전 PLAZA 긴자 로프트",
+   "deadline": "2026-10-28",
+   "label": "LivePocket 입장 추첨 신청 (11/7·8분)",
+   "source_text": "販売受付期間 2026年10月23日(金) 11:00〜2026年10月28日(水) 23:59",
+   "source_url": "https://livepocket.jp/e/jujutsukaisen-ginza1107",
+   "field": "official"
+  },
+  {
    "match": "conan-diner",
    "deadline": "2026-11-01",
    "label": "일반 추첨 신청",
@@ -31,11 +39,35 @@
    "field": "reservation"
   },
   {
+   "match": "osaka-hetalia-20th-worldfesta",
+   "deadline": "2026-11-06",
+   "label": "예매 (e+ 일반 판매)",
+   "source_text": "＜一般販売＞【販売期間】9月26日(土)10:00～11月6日(金) 23:59",
+   "source_url": "https://www.hetalia-20thex.com/ticket/",
+   "field": "official"
+  },
+  {
    "match": "jujutsu-kanketsuten-shinjuku",
    "deadline": "2026-11-08",
    "label": "사전 추첨",
    "source_text": "사전 추첨 10/26~11/8, 일반 판매 11/21 12:00~",
    "field": "reservation"
+  },
+  {
+   "match": "BLACK LAGOON 25주년 원화전",
+   "deadline": "2026-11-12",
+   "label": "예매",
+   "source_text": "前売券販売期間 … 11月12日(木)23:59",
+   "source_url": "https://s.mxtv.jp/event/blacklagoon25th/",
+   "field": "official"
+  },
+  {
+   "match": "osaka-world-trigger-exhibition-reboot",
+   "deadline": "2026-11-13",
+   "label": "예매",
+   "source_text": "・前売券は2026年11月13日（金）23:59までの販売です。",
+   "source_url": "https://www.toei-anim.co.jp/lp/wt/exh_2026/",
+   "field": "official"
   },
   {
    "match": "fukuoka-bungosd-art-design-exhibition",
