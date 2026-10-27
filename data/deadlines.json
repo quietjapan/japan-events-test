@@ -16,6 +16,14 @@
    "field": "notes"
   },
   {
+   "match": "chainsawman-plaza-reze-shibuya-loft",
+   "deadline": "2026-11-03",
+   "label": "LivePocket 입장 추첨 신청",
+   "source_text": "【事前予約申込み期間】 10月23日(金)14:00～11月3日(火・祝)23:59まで 【当選発表】 11月4日(水)～順次",
+   "source_url": "https://livepocket.jp/t/chainsawman-shibuya-20261113-15",
+   "field": "reservation"
+  },
+  {
    "match": "osaka-code-geass-20th-exhibition",
    "deadline": "2026-11-05",
    "label": "11/6~8 일시 지정 예매",
