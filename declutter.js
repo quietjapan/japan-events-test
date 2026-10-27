@@ -2,13 +2,13 @@
 (function(){
 var H=document.documentElement,fm=document.getElementById("fmore");
 if(fm){
-  fm.addEventListener("toggle",function(){if(fm.open&&window.QJ_bmu)QJ_bmu()});
+  fm.addEventListener("toggle",function(){document.body.classList.toggle("fopen",fm.open);if(fm.open&&window.QJ_bmu)QJ_bmu()});
   document.getElementById("fclose").onclick=function(){fm.open=false};
   document.getElementById("fpreset").onclick=function(){if(window.resetFilters)resetFilters()};
   document.addEventListener("click",function(e){if(fm.open&&!fm.contains(e.target)&&document.contains(e.target))fm.open=false});
   document.addEventListener("keydown",function(e){if(e.key==="Escape"&&fm.open){fm.open=false;fm.querySelector("summary").focus()}});
 }
-/* 지도 켜기/끄기: 1024px 이상(목록+지도 한 화면)에서만 보여요 */
+/* 지도 켜기/끄기(기본 꺼짐, 저장값 "on"일 때만 켜짐): 1024px 이상(목록+지도 한 화면)에서만 보여요 */
 var bar=document.querySelector(".vtoggle");if(!bar)return;
 var b=document.createElement("button");b.type="button";b.id="maptg";b.className="maptg";
 function on(){return !H.classList.contains("nomap")}
