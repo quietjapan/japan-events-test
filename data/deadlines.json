@@ -1,0 +1,40 @@
+{
+ "_note": "events.json 필드에 날짜가 명시된 신청·예매 마감만. source_text는 해당 필드 원문 그대로.",
+ "deadlines": [
+  {
+   "match": "conan-diner",
+   "deadline": "2026-11-01",
+   "label": "일반 추첨 신청",
+   "source_text": "일반 추첨 10/27 18:00~11/1(발표 11/5)",
+   "field": "notes"
+  },
+  {
+   "match": "fukuoka-hunterxhunter-gi-popup-hakatamarui",
+   "deadline": "2026-11-01",
+   "label": "LINE 추첨 신청",
+   "source_text": "LINE 추첨(신청 10/23 17:00~11/1 23:59, 발표 11/4 12시경)",
+   "field": "notes"
+  },
+  {
+   "match": "osaka-code-geass-20th-exhibition",
+   "deadline": "2026-11-05",
+   "label": "11/6~8 일시 지정 예매",
+   "source_text": "11/6~8은 일시 지정 예매권 (e+, 11/5 23:59까지)",
+   "field": "reservation"
+  },
+  {
+   "match": "jujutsu-kanketsuten-shinjuku",
+   "deadline": "2026-11-08",
+   "label": "사전 추첨",
+   "source_text": "사전 추첨 10/26~11/8, 일반 판매 11/21 12:00~",
+   "field": "reservation"
+  },
+  {
+   "match": "fukuoka-bungosd-art-design-exhibition",
+   "deadline": "2026-11-19",
+   "label": "예매",
+   "source_text": "예매는 이플러스·애니메이트 티켓에서 11/19까지",
+   "field": "notes"
+  }
+ ]
+}

@@ -95,12 +95,13 @@
 <main class="wrap">
   <div id="banner" class="banner" hidden>⚠️ 현재 예시 데이터입니다. 실제 일정은 공식 사이트에서 확인해 주세요.</div>
   <section id="picks" class="picks" aria-labelledby="pktitle" hidden><p class="pkhd"><b id="pktitle">📝 준호 픽</b><span>블로그에 직접 정리한 행사</span></p><ul class="pklist" id="pklist"></ul></section>
+  <details id="dlv" class="picks dlv" hidden><summary class="pkhd"><b>⏰ 마감 D-day</b><span id="dlsub">추첨·예매 신청 마감이 다가오는 행사</span></summary><ul class="dllist" id="dllist"></ul><p class="dlnote">공식 안내에 날짜가 적힌 신청·예매 마감만 모았어요. 신청 전 공식 페이지를 꼭 확인해 주세요.</p></details>
   <section class="filters">
     <div class="row">
       <input id="q" type="search" placeholder="🔍 작품명·장소 검색 (예: 체인소맨)" aria-label="검색">
     </div>
     <div class="tbar">
-    <div class="chipwrap"><div class="chrow"><div id="chips" class="chips"></div><span class="chsep" aria-hidden="true"></span><div id="qd" class="qdchips" role="group" aria-label="빠른 날짜"><span class="qdl">📅</span><button type="button" data-qd="all" class="on" aria-pressed="true">전체</button><button type="button" data-qd="today" aria-pressed="false">오늘</button><button type="button" data-qd="weekend" aria-pressed="false">이번 주말</button><button type="button" data-qd="2w" aria-pressed="false">2주 이내</button></div><span class="chsep" aria-hidden="true"></span><div id="tg" class="qdchips tgchips" role="group" aria-label="입장 조건"><button type="button" data-tg="free" aria-pressed="false">🆓 입장 무료</button><button type="button" data-tg="resv" aria-pressed="false">🎫 예약 필수</button><button type="button" data-tg="lot" aria-pressed="false">🎲 추첨</button></div></div></div>
+    <div class="chipwrap"><div class="chrow"><div id="chips" class="chips"></div><span class="chsep" aria-hidden="true"></span><div id="qd" class="qdchips" role="group" aria-label="빠른 날짜"><span class="qdl">📅</span><button type="button" data-qd="all" class="on" aria-pressed="true">전체</button><button type="button" data-qd="today" aria-pressed="false">오늘</button><button type="button" data-qd="weekend" aria-pressed="false">이번 주말</button><button type="button" data-qd="2w" aria-pressed="false">2주 이내</button></div><span class="chsep" aria-hidden="true"></span><div id="tg" class="qdchips tgchips" role="group" aria-label="입장 조건"><button type="button" id="tripbtn" aria-pressed="false">✈️ 여행 날짜</button><button type="button" data-tg="free" aria-pressed="false">🆓 입장 무료</button><button type="button" data-tg="resv" aria-pressed="false">🎫 예약 필수</button><button type="button" data-tg="lot" aria-pressed="false">🎲 추첨</button></div></div></div>
     <details class="fmore" id="fmore"><summary>⚙️ 필터 <span class="fsub">지역 · 기간 · 상태</span><span class="fcnt" id="fcnt" hidden></span></summary><div class="fbody">
     <div class="row"><select id="area" aria-label="지역"><option value="">전체 지역</option></select></div>
     <div class="range"><span class="rl">✈️ 여행 기간</span><input id="from" type="date" aria-label="시작일"><span>~</span><input id="to" type="date" aria-label="종료일"><button type="button" id="rreset">초기화</button></div>
@@ -111,6 +112,8 @@
   </section>
   <details id="wx" class="wx" aria-label="도쿄 날씨"><summary class="wx-hd"><b id="wxtitle">도쿄 7일 날씨</b><span id="wxsum" class="wxsum"></span></summary><div id="wxrow" class="wxrow wxload" aria-busy="true"><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><div class="wxd sk" aria-hidden="true"></div><span class="wx-msg sr">날씨 불러오는 중…</span></div><p class="wxsrc">날씨 정보: <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a> · 행사 정보와 별개</p></details>
   <aside id="magintro" class="sum magintro" hidden><span class="sumlbl">📚 잡지 부록, 알고 보면 꿀템이에요</span><p>일본 잡지는 매달 부록이 바뀌어요. 파우치, 에코백, 캐릭터 굿즈처럼 잡지보다 부록이 주인공인 경우가 많고, 그달에만 구할 수 있는 한정판이라 레어템이 되기도 해요. 그런데 가격은 잡지 값이라 굿즈를 따로 사는 것보다 훨씬 저렴한 편이에요. 준쿠도·키노쿠니야 같은 대형 서점의 잡지 코너나 편의점에서 살 수 있고, 인기 부록은 발매 직후 품절되기도 하니 발매일을 꼭 확인하세요.</p><p class="magsub">발매일 기준 약 5주 동안 보여요(다음 호가 나오면 바뀌어요). 가격은 잡지 가격(세금 포함)이에요.</p><p class="magsub">💡 5주는 이 사이트에 올려두는 기간일 뿐이에요. 다음 호가 나와도 지난 호가 모든 서점에서 바로 사라지진 않아서 실제로는 더 오래 살 수 있어요. 반대로 인기 부록은 더 일찍 품절되기도 해요.</p></aside>
+  <div id="tripbar" class="tripbar" hidden><span id="triptx"></span><button type="button" id="tripcopy">🔗 링크 복사</button><button type="button" id="tripx">✕ 해제</button></div>
+  <div id="bmbar" class="tripbar bmbar" hidden><span id="bmtx"></span><button type="button" id="bmics">📅 북마크 전체 캘린더(.ics) 받기</button></div>
   <p id="count" class="count"></p>
   <section id="list" class="list"></section>
   <section id="visited" class="visited" aria-labelledby="vtitle">
@@ -167,6 +170,7 @@
 <script src="hdbg.js"></script>
 <script src="visited.js"></script>
 <script src="picks.js"></script>
+<script src="extras.js"></script>
 <script>(function(){var b=document.getElementById("qmenu"),p=document.getElementById("qmenup");if(!b)return;function t(o){p.hidden=!o;b.setAttribute("aria-expanded",o)}b.onclick=function(e){e.stopPropagation();t(p.hidden)};p.onclick=function(e){var x=e.target.closest("button[data-a]");if(!x)return;t(false);if(x.dataset.a==="fx")document.getElementById("fxbtn").click();else if(x.dataset.a==="visited")document.getElementById("visited").scrollIntoView({behavior:"smooth"});else scrollTo({top:0,behavior:"smooth"})};document.addEventListener("click",function(e){if(!p.hidden&&!p.contains(e.target))t(false)})})();</script>
 <script>(function(){if(matchMedia("(min-width:720px)").matches){[].forEach(function(id){var d=document.getElementById(id);if(d)d.open=true})}})();</script>
 </body></html>

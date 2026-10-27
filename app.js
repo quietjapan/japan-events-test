@@ -118,7 +118,7 @@ function pagerHTML(cur,n){if(n<2)return"";const set=new Set([0,n-1,cur-1,cur,cur
 window.QJ_pagerHTML=pagerHTML;
 let LAST="";
 function syncURL(){if(DETAIL_E||!EV.length)return;try{const sp=new URLSearchParams(location.search);sp.delete("item");sp.set("region",st.region);st.g.size?sp.set("g",[...st.g].join(",")):sp.delete("g");st.q.trim()?sp.set("q",st.q.trim()):sp.delete("q");history.replaceState(history.state,"",location.pathname+"?"+sp.toString()+location.hash)}catch(e){}}
-window.QJ_render=k=>render(k);window.QJ_cards=()=>CARDS;
+window.QJ_render=k=>render(k);window.QJ_bm=()=>({on:st.bm,list:EV.filter(e=>BM.has(seriesKey(e))&&e.start)});window.QJ_cards=()=>CARDS;
 function render(keep){if(!keep)PAGE=0;
   const q=st.q.trim().normalize("NFKC").toLowerCase();
   const rows=units().filter(({e,x})=>x.k!=="end"
