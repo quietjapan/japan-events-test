@@ -22,7 +22,7 @@
 2. (행사 연결 시) id 찾기: `grep -rl "행사이름" i/*/index.html` → 폴더명이 id
 3. 추가:
    ```
-   python3 tools/add_visited.py --date 2026-11-09 --region tokyo --name "MAPPA EXPO" --comment "준호가 한 말 그대로" --rating 5 --event-id <id> --blog https://blog.naver.com/rownsh00/...
+   python3 tools/add_visited.py --date 2026-11-09 --region tokyo --name "MAPPA EXPO" --comment "준호가 한 말 그대로" --rating 5 --event-id <id> 
    ```
    먼저 확인만 하려면 `--dry-run`, 목록은 `--list`, 삭제는 `--remove-id <id>`.
 4. 빌드·푸시: `bash tools/build.sh && git add data/visited.json visited/ && git commit --author="JUNOFLO00 <JUNOFLO00@users.noreply.github.com>" -m "다녀온 곳: MAPPA EXPO" && git push`

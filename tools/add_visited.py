@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """다녀온 곳 항목 추가: data/visited.json 에 한 건을 검증 후 추가해요.
-예) python3 tools/add_visited.py --date 2026-11-09 --region tokyo --name "MAPPA EXPO" --comment "생각보다 넓었고..." [--name-ja ..] [--event-id 10846mo] [--rating 5] [--verdict "한 줄 평"] [--photo visited/a.webp ...] [--blog https://blog.naver.com/rownsh00/...]
+예) python3 tools/add_visited.py --date 2026-11-09 --region tokyo --name "MAPPA EXPO" --comment "생각보다 넓었고..." [--name-ja ..] [--event-id 10846mo] [--rating 5] [--verdict "한 줄 평"] [--photo visited/a.webp ...]
    또는 python3 tools/add_visited.py --json '{"date":"2026-11-09","region":"tokyo","name_ko":"...","comment":"..."}'
    --dry-run: 저장 없이 검증만, --remove-id <id>: 항목 삭제, --list: 목록"""
 import argparse,json,re,sys,hashlib

@@ -11,7 +11,7 @@ function paint(){
   if(!rows.length){box.innerHTML='<div class="vempty"><b>🧳 아직 비어 있어요</b><p>'+(all.length?"이 지역은 아직 다녀온 곳이 없어요.":"11월 여행 다녀와서 채워질 예정이에요. 직접 가 본 곳만, 솔직한 한 줄과 함께 올릴게요.")+'</p></div>';return}
   box.innerHTML=rows.map(function(e){
     var ph=(e.photos||[]).slice(0,4).map(function(p){return '<img src="'+esc(p)+'" alt="'+esc(e.name_ko)+' 방문 사진" loading="lazy" decoding="async">'}).join("");
-    var lk=[];if(e.event_id)lk.push('<a href="i/'+encodeURIComponent(e.event_id)+'/">📅 행사 정보</a>');if(e.blog_url)lk.push('<a href="'+esc(e.blog_url)+'" target="_blank" rel="noopener">✍️ 블로그 후기</a>');
+    var lk=[];if(e.event_id)lk.push('<a href="i/'+encodeURIComponent(e.event_id)+'/">📅 행사 정보</a>');
     return '<article class="vcard"><div class="vtop"><span class="vrg">'+(R[e.region]||"")+'</span><time datetime="'+esc(e.date)+'">'+fd(e.date)+'</time>'+stars(e.rating)+'</div>'+
       '<h3 class="vname">'+esc(e.name_ko)+(e.name_ja?' <small lang="ja">'+esc(e.name_ja)+'</small>':"")+'</h3>'+
       (e.verdict?'<p class="vverd">'+esc(e.verdict)+'</p>':"")+
