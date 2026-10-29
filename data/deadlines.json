@@ -2,14 +2,6 @@
  "_note": "events.json 필드에 날짜가 명시된 신청·예매 마감만. source_text는 해당 필드 원문 그대로.",
  "deadlines": [
   {
-   "match": "주술회전 PLAZA 긴자 로프트",
-   "deadline": "2026-10-28",
-   "label": "LivePocket 입장 추첨 신청 (11/7·8분)",
-   "source_text": "販売受付期間 2026年10月23日(金) 11:00〜2026年10月28日(水) 23:59",
-   "source_url": "https://livepocket.jp/e/jujutsukaisen-ginza1107",
-   "field": "official"
-  },
-  {
    "match": "conan-diner",
    "deadline": "2026-11-01",
    "label": "일반 추첨 신청",
@@ -75,6 +67,14 @@
    "label": "예매",
    "source_text": "예매는 이플러스·애니메이트 티켓에서 11/19까지",
    "field": "notes"
+  },
+  {
+   "match": "tokyo-graniph-chainsawman-reze-collab",
+   "deadline": "2026-11-02",
+   "label": "공식 온라인 웹 예약 (포인트 2배)",
+   "source_text": "予約期間：2026年10月28日(水)0:00〜11月2日(月)23:59",
+   "source_url": "https://www.zaikei.co.jp/releases/3687060/",
+   "field": "official"
   }
  ]
 }
