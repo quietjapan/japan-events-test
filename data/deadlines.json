@@ -75,6 +75,14 @@
    "source_text": "予約期間：2026年10月28日(水)0:00〜11月2日(月)23:59",
    "source_url": "https://www.zaikei.co.jp/releases/3687060/",
    "field": "official"
+  },
+  {
+   "match": "osaka-steinsgate-final-mission-nipponbashi",
+   "deadline": "2026-11-08",
+   "label": "회장 수령 사전 넷 오더",
+   "source_text": "受付期間 2026年10月27日（火）20:00～11月8日（日）23:59まで",
+   "source_url": "https://www.kagaku-adv.com/sp/sgfinalmission_osaka/",
+   "field": "official"
   }
  ]
 }
