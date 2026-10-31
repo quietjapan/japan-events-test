@@ -1,6 +1,6 @@
 {
   "base_date": "2026-10-26",
-  "last_updated": "2026-10-29",
+  "last_updated": "2026-10-31",
   "is_sample": false,
   "events": [
     {
@@ -31637,6 +31637,213 @@
       "thumb_small": "thumbs/26ff2904d8be5699.webp",
       "image_fb": "gfb/26ff2904d8be5699.webp",
       "image_local": "img/26ff2904d8be5699.webp"
+    },
+    {
+      "source_url": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+      "checked_date": "2026-10-31",
+      "source_tier": "official",
+      "verified_at": "2026-10-31",
+      "translation_check": true,
+      "summary_source": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+      "id": "tokyo-zombieland-saga-movie-1st-gamers-akiba",
+      "title_ko": "극장판 『좀비랜드 사가 유메긴가 파라다이스』 개봉 1주년 기념 팝업 스토어 (AKIHABARA 게이머즈 본점)",
+      "title_ja": "劇場版『ゾンビランドサガ ゆめぎんがパラダイス』公開1周年記念ポップアップストア",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "AKIHABARA 게이머즈 본점",
+      "start": "2026-10-24",
+      "end": "2026-11-08",
+      "reservation": "확인되지 않음 (10/31 기준)",
+      "price": "굿즈별 가격은 공식 페이지 참고 (일부 수주 상품 8,800~19,800엔, 세금 포함). 입장료 확인되지 않음 (10/31 기준)",
+      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=8005",
+      "notes": "영업시간 평일 11~21시, 토일공휴일 10~21시. 굿즈 구매 또는 예약 내금 2,200엔(세금 포함)마다 특전 브로마이드(전 13종) 랜덤 1장. 게이머즈 온라인숍 통판·수주(~2027/1/4) 동시 진행. 권리 표기 ©劇場版ゾンビランドサガ製作委員会",
+      "summary_ko": "극장판 『좀비랜드 사가 유메긴가 파라다이스』 개봉 1주년 기념 팝업이에요. 엑스포 라이브 의상을 입은 프랑슈슈 신규 일러스트 굿즈를 팔아요.",
+      "map_query": "AKIHABARAゲーマーズ本店",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+          "tier": "official",
+          "quote": "■2026年10月24日(土)～11月8日(日)： ・AKIHABARAゲーマーズ本店 (営業時間:平日▶11:00～21:00 土日祝▶10:00～21:00) … ■2026年11月21日(土)～12月6日(日)： ・ゲーマーズ仙台店 ・ゲーマーズなんば店 (営業時間:平日▶11:00～20:00 土日祝▶10:00～20:00) … ご購入またはご予約内金2,200円(税込)毎に【特典ブロマイド(全13種)】をランダムで1枚",
+          "checked": "2026-10-31"
+        }
+      ],
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/16756/9027/16756-9027-42ed9ab9bf41fddb5404598758b3be41-810x425.jpg",
+      "added": "2026-10-31",
+      "thumb_small": "thumbs/5caf11193fee46e0.webp",
+      "image_fb": "gfb/5caf11193fee46e0.webp",
+      "image_local": "img/5caf11193fee46e0.webp"
+    },
+    {
+      "source_url": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+      "checked_date": "2026-10-31",
+      "source_tier": "official",
+      "verified_at": "2026-10-31",
+      "translation_check": true,
+      "summary_source": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+      "id": "osaka-zombieland-saga-movie-1st-gamers-namba",
+      "title_ko": "극장판 『좀비랜드 사가 유메긴가 파라다이스』 개봉 1주년 기념 팝업 스토어 (게이머즈 난바점)",
+      "title_ja": "劇場版『ゾンビランドサガ ゆめぎんがパラダイス』公開1周年記念ポップアップストア",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "게이머즈 난바점",
+      "start": "2026-11-21",
+      "end": "2026-12-06",
+      "reservation": "확인되지 않음 (10/31 기준)",
+      "price": "굿즈별 가격은 공식 페이지 참고 (일부 수주 상품 8,800~19,800엔, 세금 포함). 입장료 확인되지 않음 (10/31 기준)",
+      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=8005",
+      "notes": "영업시간 평일 11~20시, 토일공휴일 10~20시. 굿즈 구매 또는 예약 내금 2,200엔(세금 포함)마다 특전 브로마이드(전 13종) 랜덤 1장. 게이머즈 온라인숍 통판·수주(~2027/1/4) 동시 진행. 권리 표기 ©劇場版ゾンビランドサガ製作委員会",
+      "summary_ko": "극장판 『좀비랜드 사가 유메긴가 파라다이스』 개봉 1주년 기념 팝업이에요. 엑스포 라이브 의상을 입은 프랑슈슈 신규 일러스트 굿즈를 팔아요.",
+      "map_query": "ゲーマーズなんば店",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+          "tier": "official",
+          "quote": "■2026年10月24日(土)～11月8日(日)： ・AKIHABARAゲーマーズ本店 (営業時間:平日▶11:00～21:00 土日祝▶10:00～21:00) … ■2026年11月21日(土)～12月6日(日)： ・ゲーマーズ仙台店 ・ゲーマーズなんば店 (営業時間:平日▶11:00～20:00 土日祝▶10:00～20:00) … ご購入またはご予約内金2,200円(税込)毎に【特典ブロマイド(全13種)】をランダムで1枚",
+          "checked": "2026-10-31"
+        }
+      ],
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/16756/9027/16756-9027-42ed9ab9bf41fddb5404598758b3be41-810x425.jpg",
+      "added": "2026-10-31",
+      "thumb_small": "thumbs/5caf11193fee46e0.webp",
+      "image_fb": "gfb/5caf11193fee46e0.webp",
+      "image_local": "img/5caf11193fee46e0.webp"
+    },
+    {
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000197.000067495.html",
+      "checked_date": "2026-10-31",
+      "source_tier": "official",
+      "verified_at": "2026-10-31",
+      "translation_check": true,
+      "summary_source": "https://prtimes.jp/main/html/rd/p/000000197.000067495.html",
+      "id": "tokyo-mayonaka-heart-tune-popup-calpop",
+      "title_ko": "TV 애니메이션 『한밤중 하트 튠』 POP UP SHOP (AKIBA 컬처즈 ZONE 4층 카르팝)",
+      "title_ja": "TVアニメ『真夜中ハートチューン』POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "AKIBA 컬처즈 ZONE 4층 카르팝",
+      "start": "2026-10-30",
+      "end": "2026-11-08",
+      "reservation": "불필요 (자유 입장, 혼잡 시 입장 제한·정리권 가능)",
+      "price": "입장무료 · 굿즈별 가격은 공식 페이지 참고",
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000197.000067495.html",
+      "notes": "영업시간 11~20시. 굿즈 3,000엔(세금 포함) 구매마다 랜덤 포스트카드(전 10종) 1장. 권리 표기 ©五十嵐正邦・講談社／「真夜中ハートチューン」製作委員会",
+      "summary_ko": "『한밤중 하트 튠』 '파자마 파티' 테마 신규 일러스트 굿즈 팝업이에요.",
+      "map_query": "AKIBAカルチャーズZONE",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000197.000067495.html",
+          "tier": "official",
+          "quote": "開催場所 AKIBAカルチャーズZONE4階 カルポップ 開催期間 2026年10月30日（金）〜 11月8日（日） 営業時間 11:00〜20:00 入場料 無料（フリー入場） … 3,000円（税込）ご購入ごとに、「ランダムポストカード（全10種）」を1枚プレゼント！",
+          "checked": "2026-10-31"
+        }
+      ],
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000197.000067495.html",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/67495/197/67495-197-7393e16ae8b9abc026b597a18e6d9891-1200x675.png",
+      "added": "2026-10-31",
+      "thumb_small": "thumbs/2ce43f38dcff36bb.webp",
+      "image_fb": "gfb/2ce43f38dcff36bb.webp",
+      "image_local": "img/2ce43f38dcff36bb.webp"
+    },
+    {
+      "source_url": "https://www.cocollabo.net/pages/mayochu",
+      "checked_date": "2026-10-31",
+      "source_tier": "official",
+      "verified_at": "2026-10-31",
+      "translation_check": true,
+      "summary_source": "https://www.cocollabo.net/pages/mayochu",
+      "id": "osaka-mayonaka-heart-tune-popup-lucbus",
+      "title_ko": "TV 애니메이션 『한밤중 하트 튠』 POP UP SHOP 오사카 (아베노 라쿠바스)",
+      "title_ja": "TVアニメ『真夜中ハートチューン』POP UP SHOP（cocollabo）",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "아베노 라쿠바스 (아베노 Hoop 4층)",
+      "start": "2026-11-20",
+      "end": "2026-11-29",
+      "reservation": "확인되지 않음 (10/31 기준, 혼잡 시 입장 제한·정리권 가능)",
+      "price": "아크릴 스탠드 1,650엔·아크릴 아트 스탠드 2,750엔 등 (세금 포함)",
+      "official_url": "https://www.cocollabo.net/pages/mayochu",
+      "notes": "1회 계산 2,000엔(세금 포함)마다 특전 스티커(전 5종) 랜덤 1장. 구매 제한: 트레이딩 1회 계산 5BOX, 오픈 상품 5개. 영업시간 확인되지 않음 (10/31 기준). 권리 표기 ©五十嵐正邦・講談社／「真夜中ハートチューン」製作委員会",
+      "summary_ko": "cocollabo 주최 『한밤중 하트 튠』 팝업 오사카 회차예요. 아크릴 스탠드 등 굿즈를 팔아요.",
+      "map_query": "あべのHoop",
+      "evidence": [
+        {
+          "url": "https://www.cocollabo.net/pages/mayochu",
+          "tier": "official",
+          "quote": "【大阪会場】 開催期間： 2026年11月20日(金)～11月29日(日) 開催場所： アベノラクバス(あべのHoop4階) … 1会計2,000円(税込)お買い上げごとに特典ステッカー(全5種)をランダムで1枚 … アクリルスタンド 販売価格 ¥1,650 (税込)",
+          "checked": "2026-10-31"
+        }
+      ],
+      "added": "2026-10-31"
+    },
+    {
+      "source_url": "https://www.the-chara.com/blog/?p=121605",
+      "checked_date": "2026-10-31",
+      "source_tier": "official",
+      "verified_at": "2026-10-31",
+      "translation_check": true,
+      "summary_source": "https://www.the-chara.com/blog/?p=121605",
+      "id": "tokyo-kori-no-joheki-popup-shinjuku-marui",
+      "title_ko": "TV 애니메이션 『얼음의 성벽』 POP UP SHOP (신주쿠 마루이 아넥스 7층)",
+      "title_ja": "TVアニメ『氷の城壁』POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "신주쿠 마루이 아넥스 7층",
+      "start": "2026-10-21",
+      "end": "2026-11-03",
+      "reservation": "불필요 (자유 입장 예정)",
+      "price": "인스턴트 포토풍 카드 550엔·캔배지 605엔·랜덤 아크릴 스탠드 880엔 등 (세금 포함)",
+      "official_url": "https://korinojoheki-pr.com",
+      "notes": "영업시간은 시설 영업시간에 따름 (마지막 날 18시까지). 특전 브로마이드(전 5종) 배포, 3,000엔(세금 포함)마다 추첨회 1회 참가(경품 아크릴 시계). 브로마이드 배포 조건 금액은 확인되지 않음 (10/31 기준). 혼잡 시 LINE 'mogily' 디지털 정리권. 권리 표기 ©阿賀沢紅茶／集英社・TVアニメ「氷の城壁」製作委員会",
+      "summary_ko": "TV 애니메이션 『얼음의 성벽』 가을옷 일러스트 팝업이에요. 인스턴트 포토풍 카드(550엔)·캔배지(605엔)·아크릴 스탠드(880엔) 등을 팔아요.",
+      "map_query": "新宿マルイアネックス",
+      "evidence": [
+        {
+          "url": "https://www.the-chara.com/blog/?p=121605",
+          "tier": "official",
+          "quote": "【東京】 開催期間：2026年10月21日(水)～11月3日(火) 開催場所：新宿マルイアネックス7F 営業時間：施設営業時間に準ずる(最終日18:00) 【大阪】 開催期間：2026年11月20日(金)～11月30日(月) 開催場所：アニメイト 梅田 ※アニメイト梅田ではポップアップコーナーの展開となります。 営業時間：11:00～21:00 … 【配布特典】ブロマイド：全5種 【抽選会景品】アクリルクロック … ※3,000円（税込）毎に抽選会1回参加",
+          "checked": "2026-10-31"
+        }
+      ],
+      "added": "2026-10-31"
+    },
+    {
+      "source_url": "https://www.the-chara.com/blog/?p=121605",
+      "checked_date": "2026-10-31",
+      "source_tier": "official",
+      "verified_at": "2026-10-31",
+      "translation_check": true,
+      "summary_source": "https://www.the-chara.com/blog/?p=121605",
+      "id": "osaka-kori-no-joheki-popup-animate-umeda",
+      "title_ko": "TV 애니메이션 『얼음의 성벽』 POP UP SHOP (애니메이트 우메다)",
+      "title_ja": "TVアニメ『氷の城壁』POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "애니메이트 우메다 (팝업 코너)",
+      "start": "2026-11-20",
+      "end": "2026-11-30",
+      "reservation": "불필요 (자유 입장 예정, 개점 전 대기 금지)",
+      "price": "인스턴트 포토풍 카드 550엔·캔배지 605엔·랜덤 아크릴 스탠드 880엔 등 (세금 포함)",
+      "official_url": "https://korinojoheki-pr.com",
+      "notes": "영업시간 11~21시. 특전 브로마이드(전 5종) 배포, 3,000엔(세금 포함)마다 추첨회 1회 참가(경품 아크릴 시계). 브로마이드 배포 조건 금액은 확인되지 않음 (10/31 기준). 혼잡 시 LINE 'mogily' 디지털 정리권. 권리 표기 ©阿賀沢紅茶／集英社・TVアニメ「氷の城壁」製作委員会",
+      "summary_ko": "TV 애니메이션 『얼음의 성벽』 가을옷 일러스트 팝업이에요. 인스턴트 포토풍 카드(550엔)·캔배지(605엔)·아크릴 스탠드(880엔) 등을 팔아요.",
+      "map_query": "アニメイト梅田",
+      "evidence": [
+        {
+          "url": "https://www.the-chara.com/blog/?p=121605",
+          "tier": "official",
+          "quote": "【東京】 開催期間：2026年10月21日(水)～11月3日(火) 開催場所：新宿マルイアネックス7F 営業時間：施設営業時間に準ずる(最終日18:00) 【大阪】 開催期間：2026年11月20日(金)～11月30日(月) 開催場所：アニメイト 梅田 ※アニメイト梅田ではポップアップコーナーの展開となります。 営業時間：11:00～21:00 … 【配布特典】ブロマイド：全5種 【抽選会景品】アクリルクロック … ※3,000円（税込）毎に抽選会1回参加",
+          "checked": "2026-10-31"
+        }
+      ],
+      "added": "2026-10-31"
     }
   ]
 }
