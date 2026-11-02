@@ -162,49 +162,12 @@
       "pending_reason": "eeo Store 공식 페이지에 기간 문구 없음 (2026-10-26 재확인) — 공식 기간 표기 확인되면 등록"
     },
     {
-      "id": "pending-osaka-junjiito-sanrio-nambacity",
-      "title_ja": "伊藤潤二×サンリオキャラクターズ POP UP SHOP（なんばCITY）",
-      "title_ko": "이토 준지 × 산리오 캐릭터즈 POP UP SHOP (난바 CITY)",
-      "area": "오사카",
-      "region": "osaka",
-      "official_url": "https://www.atpress.ne.jp/news/643252",
-      "lead": "이로하 제보: 11/11~11/29",
-      "reason": "공식 특설 페이지는 이미지·JS만 있어 날짜 문구 확인 불가, 주최 보도자료는 @Press(PR TIMES 아님)",
-      "checked_date": "2026-10-29",
-      "translation_check": true,
-      "thumbnail": "https://www.atpress.ne.jp/releases/643252/img_643252_1.jpg",
-      "thumbnail_source": "https://www.atpress.ne.jp/news/643252"
-    },
-    {
-      "id": "pending-tokyo-estherbunny-mymelody-lumineest",
-      "title_ja": "ESTHER BUNNY × MY MELODY POP UP（ルミネエスト新宿）",
-      "title_ko": "에스더 버니 × 마이멜로디 POP UP (루미네 에스트 신주쿠)",
-      "area": "도쿄",
-      "region": "tokyo",
-      "official_url": "https://www.characters-collab.net/estherbunny_mymelody/",
-      "lead": "collabo-cafe.com: 11/11~11/23",
-      "reason": "공식 페이지 날짜가 '11.11 WED — 11.23 MON' 형식뿐이라 연도 포함 날짜 문구 미확인",
-      "checked_date": "2026-10-29",
-      "translation_check": true,
-      "thumbnail": "https://www.characters-collab.net/estherbunny_mymelody/assets/social-preview.png?v=20261026-english1",
-      "thumbnail_source": "https://www.characters-collab.net/estherbunny_mymelody/"
-    },
-    {
       "title_ja": "ブルーロック × アニメイトカフェ (Hareza池袋・大阪)",
       "region": "tokyo",
       "start": "2026-12-01",
       "end": "2027-01-12",
       "official_url": "https://animatecafe.jp/event/ac000815_2",
-      "notes": "11/03 다른 캘린더(collabo-cafe) 단서. 공식 페이지가 JS라 기간·오사카 매장 원문 미확인 → 확인 후 등록",
-      "added": "2026-11-03"
-    },
-    {
-      "title_ja": "リラックマ × ハイキュー!! POP UP STORE (東京・大阪)",
-      "region": "tokyo",
-      "start": "2026-11-20",
-      "end": null,
-      "official_url": "",
-      "notes": "11/03 collabo-cafe 단서. 회장·종료일 공식 페이지 미확인 (11/20~22 LivePocket 사전추첨, 응모 11/8 23:59까지라고 함)",
+      "notes": "11/03 다른 캘린더(collabo-cafe) 단서. 공식 페이지가 JS라 기간·오사카 매장 원문 미확인 → 확인 후 등록 / 11/03 재확인: 공식 페이지에 기간 미표기, 그대로 보류",
       "added": "2026-11-03"
     }
   ],

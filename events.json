@@ -31641,8 +31641,8 @@
     },
     {
       "reservation": "사전 예약제 (LivePocket 1차 추첨: 매주 수 18시~목 24시)",
-      "price": "",
-      "notes": "나고야·도쿠시마·기타큐슈 매장도 같은 기간 (도쿠시마·기타큐슈는 자유 입장)",
+      "price": "푸드 1,400~1,700엔 · 드링크 각 700엔 (모두 특전 포함, 세금 포함) · 굿즈 440~2,500엔",
+      "notes": "나고야·도쿠시마·기타큐슈 매장도 같은 기간 (도쿠시마·기타큐슈는 자유 입장). 영업 9:00~20:00, 정기휴일 월(공휴일이면 화). 1회 예약 최대 2명. 굿즈만 구매는 각 회차 시작 30분 후부터. 2기 굿즈 웹숍 10/28~11/24",
       "checked_date": "2026-11-03",
       "source_tier": "official",
       "verified_at": "2026-11-03",
@@ -31668,6 +31668,12 @@
           "tier": "official",
           "quote": "テレビアニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ縁～ 2026年11月03日(火) ～ 11月23日(月) ▼ 事前予約制店舗 ufotable Cafe Tokyo / マチ★アソビCAFE東京 … ufotable Cafe＆マチ★アソビCAFE大阪",
           "checked": "2026-11-03"
+        },
+        {
+          "url": "https://www.ufotable.co.jp/cafe/menu/kimetu",
+          "tier": "official",
+          "quote": "「上弦の参」猗窩座の“鬼にならないなら殺す”サラダ 特典つき 1400円(税込) 販売期間 2026/11/03 ~ 2026/11/23 … 【前後半共通】敵対「炭治郎」「魘夢」 特典つき 700円(税込)",
+          "checked": "2026-11-03"
         }
       ],
       "lat": 35.7096,
@@ -31675,8 +31681,8 @@
     },
     {
       "reservation": "사전 예약제 (LivePocket 1차 추첨: 매주 수 18시~목 24시)",
-      "price": "",
-      "notes": "나고야·도쿠시마·기타큐슈 매장도 같은 기간 (도쿠시마·기타큐슈는 자유 입장)",
+      "price": "푸드 1,400~1,700엔 · 드링크 각 700엔 (모두 특전 포함, 세금 포함) · 굿즈 440~2,500엔",
+      "notes": "나고야·도쿠시마·기타큐슈 매장도 같은 기간 (도쿠시마·기타큐슈는 자유 입장). 영업 9:00~20:00, 정기휴일 월(공휴일이면 화). 1회 예약 최대 2명. 굿즈만 구매는 각 회차 시작 30분 후부터. 2기 굿즈 웹숍 10/28~11/24",
       "checked_date": "2026-11-03",
       "source_tier": "official",
       "verified_at": "2026-11-03",
@@ -31701,6 +31707,12 @@
           "url": "https://www.ufotable.co.jp/cafe/reservation/",
           "tier": "official",
           "quote": "テレビアニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ縁～ 2026年11月03日(火) ～ 11月23日(月) ▼ 事前予約制店舗 ufotable Cafe Tokyo / マチ★アソビCAFE東京 … ufotable Cafe＆マチ★アソビCAFE大阪",
+          "checked": "2026-11-03"
+        },
+        {
+          "url": "https://www.ufotable.co.jp/cafe/menu/kimetu",
+          "tier": "official",
+          "quote": "「上弦の参」猗窩座の“鬼にならないなら殺す”サラダ 特典つき 1400円(税込) 販売期間 2026/11/03 ~ 2026/11/23 … 【前後半共通】敵対「炭治郎」「魘夢」 特典つき 700円(税込)",
           "checked": "2026-11-03"
         }
       ],
@@ -31728,7 +31740,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y905575",
       "date_label": "11월 발매 예정 (주차 미정, 지역·매장별 상이)",
       "thumb_kind": "product",
-      "summary_ko": "「포켓몬」 30주년 메탈 참 가챠 5탄, 이브이 프렌즈예요. 1회 300엔이에요.",
+      "summary_ko": "「포켓몬」 30주년 메탈 참 가챠 5탄, 이브이 프렌즈예요. 이브이와 진화형 전 9종(약 5cm, 실리콘 고무 표시 사양), 1회 300엔이에요.",
       "thumbnail": "https://www.takaratomy-arts.co.jp/upfiles/products/Y905575_b.jpg",
       "gallery": [
         {
@@ -31755,6 +31767,246 @@
       "thumb_small": "thumbs/58c53b9de2028f0c.webp",
       "image_fb": "gfb/58c53b9de2028f0c.webp",
       "image_local": "img/58c53b9de2028f0c.webp"
+    },
+    {
+      "checked_date": "2026-11-03",
+      "verified_at": "2026-11-03",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "tokyo-rilakkuma-haikyu-popup-harajuku",
+      "title_ko": "리락쿠마×하이큐!! POP UP STORE (베이스야드 도쿄 하라주쿠점)",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "베이스야드 도쿄 하라주쿠점",
+      "map_query": "ベースヤード トーキョー 原宿店",
+      "lat": 35.6702,
+      "lon": 139.7027,
+      "title_ja": "リラックマ×ハイキュー!! POP UP STORE",
+      "category": "팝업스토어",
+      "start": "2026-11-20",
+      "end": "2026-12-06",
+      "reservation": "11/20~22 사전 추첨제 (LivePocket, 응모 10/30 12:00~11/8 23:59, 발표 11/9·11/10) · 11/23부터 자유 입장",
+      "price": "입장료 확인되지 않음 (11/03 기준) · 걸이 인형 각 3,200엔",
+      "notes": "3,300엔(세금 포함, 1회 계산)마다 포스트카드(전 13종) 랜덤 1장. 랜덤 상품 1회 계산 각 3BOX, 오픈 상품 각 3개까지. 삿포로·교토·히로시마는 12/18~1/17",
+      "official_url": "https://www.igport-onlinestore.com/pages/rilakkuma-haikyu",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/26161/46/26161-46-69261c5246d9b5cb2e5f2959e1d3f1e6-3900x2438.jpg",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000046.000026161.html",
+      "summary_ko": "Production I.G의 애니 「리락쿠마」×「하이큐!!」 콜라보 팝업이에요. 5개 학교 유니폼을 입은 리락쿠마 걸이 인형(전 21종) 등 굿즈를 팔아요.",
+      "source_url": "https://www.igport-onlinestore.com/pages/rilakkuma-haikyu",
+      "summary_source": "https://www.igport-onlinestore.com/pages/rilakkuma-haikyu",
+      "evidence": [
+        {
+          "url": "https://www.igport-onlinestore.com/pages/rilakkuma-haikyu",
+          "tier": "official",
+          "quote": "▼POP UP STORE 会期 ＜東京・大阪＞ ・会期：2026年11月20日(金)～12月6日(日) ・事前抽選対象日：11月20日(金)・11月21日(土)・11月22日(日) ・フリー入場開始：11月23日(月・祝)～ ・東京：ベースヤード トーキョー 原宿店 ・大阪：ベースヤード トーキョー あべのキューズモール店",
+          "checked": "2026-11-03"
+        }
+      ],
+      "thumb_small": "thumbs/d150f754d1fa2ad7.webp",
+      "image_fb": "gfb/d150f754d1fa2ad7.webp",
+      "image_local": "img/d150f754d1fa2ad7.webp"
+    },
+    {
+      "checked_date": "2026-11-03",
+      "verified_at": "2026-11-03",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "osaka-rilakkuma-haikyu-popup-abeno",
+      "title_ko": "리락쿠마×하이큐!! POP UP STORE (베이스야드 도쿄 아베노 큐즈몰점)",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "베이스야드 도쿄 아베노 큐즈몰점",
+      "map_query": "ベースヤード トーキョー あべのキューズモール店",
+      "lat": 34.6453,
+      "lon": 135.5135,
+      "title_ja": "リラックマ×ハイキュー!! POP UP STORE",
+      "category": "팝업스토어",
+      "start": "2026-11-20",
+      "end": "2026-12-06",
+      "reservation": "11/20~22 사전 추첨제 (LivePocket, 응모 10/30 12:00~11/8 23:59, 발표 11/9·11/10) · 11/23부터 자유 입장",
+      "price": "입장료 확인되지 않음 (11/03 기준) · 걸이 인형 각 3,200엔",
+      "notes": "3,300엔(세금 포함, 1회 계산)마다 포스트카드(전 13종) 랜덤 1장. 랜덤 상품 1회 계산 각 3BOX, 오픈 상품 각 3개까지. 삿포로·교토·히로시마는 12/18~1/17",
+      "official_url": "https://www.igport-onlinestore.com/pages/rilakkuma-haikyu",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/26161/46/26161-46-69261c5246d9b5cb2e5f2959e1d3f1e6-3900x2438.jpg",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000046.000026161.html",
+      "summary_ko": "Production I.G의 애니 「리락쿠마」×「하이큐!!」 콜라보 팝업이에요. 5개 학교 유니폼을 입은 리락쿠마 걸이 인형(전 21종) 등 굿즈를 팔아요.",
+      "source_url": "https://www.igport-onlinestore.com/pages/rilakkuma-haikyu",
+      "summary_source": "https://www.igport-onlinestore.com/pages/rilakkuma-haikyu",
+      "evidence": [
+        {
+          "url": "https://www.igport-onlinestore.com/pages/rilakkuma-haikyu",
+          "tier": "official",
+          "quote": "▼POP UP STORE 会期 ＜東京・大阪＞ ・会期：2026年11月20日(金)～12月6日(日) ・事前抽選対象日：11月20日(金)・11月21日(土)・11月22日(日) ・フリー入場開始：11月23日(月・祝)～ ・東京：ベースヤード トーキョー 原宿店 ・大阪：ベースヤード トーキョー あべのキューズモール店",
+          "checked": "2026-11-03"
+        }
+      ],
+      "thumb_small": "thumbs/d150f754d1fa2ad7.webp",
+      "image_fb": "gfb/d150f754d1fa2ad7.webp",
+      "image_local": "img/d150f754d1fa2ad7.webp"
+    },
+    {
+      "checked_date": "2026-11-03",
+      "verified_at": "2026-11-03",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "tokyo-estherbunny-mymelody-popup-lumine-est",
+      "title_ko": "에스더 버니 × 마이멜로디 POP-UP STORE (루미네 에스트 신주쿠)",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "루미네 에스트 신주쿠 B1 (JR 매표기 옆)",
+      "start": "2026-11-11",
+      "end": "2026-11-23",
+      "notes": "영업 평일 11:00~21:00, 토일공휴일 10:30~21:00. JR 신주쿠역 중앙동쪽·동쪽 개찰구 도보 약 1분. 오사카 루쿠아 이레 12/25~1/7",
+      "map_query": "ルミネエスト新宿",
+      "lat": 35.6913,
+      "lon": 139.7006,
+      "title_ja": "ESTHER BUNNY × MY MELODY POP-UP STORE",
+      "category": "팝업스토어",
+      "reservation": "불필요 (공식 안내에 예약 언급 없음)",
+      "price": "입장료 확인되지 않음 (11/03 기준)",
+      "official_url": "https://www.characters-collab.net/estherbunny_mymelody/",
+      "thumbnail": "https://www.characters-collab.net/estherbunny_mymelody/assets/social-preview.png",
+      "summary_ko": "에스더 버니(리본 버니)×마이멜로디 팝업이에요. 스쿨라이프·유원지 테마 포토 스폿과 파우치·마스코트 등 굿즈가 있어요.",
+      "source_url": "https://www.characters-collab.net/estherbunny_mymelody/",
+      "summary_source": "https://www.characters-collab.net/estherbunny_mymelody/",
+      "evidence": [
+        {
+          "url": "https://www.characters-collab.net/estherbunny_mymelody/",
+          "tier": "official",
+          "quote": "TOKYO 11.11 WED — 11.23 MON ルミネエスト新宿 B1 OSAKA 12.25 FRI — 01.07 THU ルクア イーレ 2F",
+          "checked": "2026-11-03"
+        }
+      ],
+      "thumbnail_source": "https://www.characters-collab.net/estherbunny_mymelody/",
+      "thumb_small": "thumbs/425503c4ac2eeac1.webp",
+      "image_fb": "gfb/425503c4ac2eeac1.webp",
+      "image_local": "img/425503c4ac2eeac1.webp"
+    },
+    {
+      "checked_date": "2026-11-03",
+      "verified_at": "2026-11-03",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "osaka-estherbunny-mymelody-popup-lucua1100",
+      "title_ko": "에스더 버니 × 마이멜로디 POP-UP STORE (루쿠아 이레)",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "루쿠아 이레 2F",
+      "start": "2026-12-25",
+      "end": "2027-01-07",
+      "notes": "영업시간 확인되지 않음 (11/03 기준). 도쿄 루미네 에스트 신주쿠 11/11~11/23",
+      "map_query": "ルクア イーレ",
+      "lat": 34.7036,
+      "lon": 135.496,
+      "title_ja": "ESTHER BUNNY × MY MELODY POP-UP STORE",
+      "category": "팝업스토어",
+      "reservation": "불필요 (공식 안내에 예약 언급 없음)",
+      "price": "입장료 확인되지 않음 (11/03 기준)",
+      "official_url": "https://www.characters-collab.net/estherbunny_mymelody/",
+      "thumbnail": "https://www.characters-collab.net/estherbunny_mymelody/assets/social-preview.png",
+      "summary_ko": "에스더 버니(리본 버니)×마이멜로디 팝업이에요. 스쿨라이프·유원지 테마 포토 스폿과 파우치·마스코트 등 굿즈가 있어요.",
+      "source_url": "https://www.characters-collab.net/estherbunny_mymelody/",
+      "summary_source": "https://www.characters-collab.net/estherbunny_mymelody/",
+      "evidence": [
+        {
+          "url": "https://www.characters-collab.net/estherbunny_mymelody/",
+          "tier": "official",
+          "quote": "TOKYO 11.11 WED — 11.23 MON ルミネエスト新宿 B1 OSAKA 12.25 FRI — 01.07 THU ルクア イーレ 2F",
+          "checked": "2026-11-03"
+        }
+      ],
+      "thumbnail_source": "https://www.characters-collab.net/estherbunny_mymelody/",
+      "thumb_small": "thumbs/425503c4ac2eeac1.webp",
+      "image_fb": "gfb/425503c4ac2eeac1.webp",
+      "image_local": "img/425503c4ac2eeac1.webp"
+    },
+    {
+      "checked_date": "2026-11-03",
+      "verified_at": "2026-11-03",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "osaka-itojunji-sanrio-popup-nambacity",
+      "title_ko": "이토 준지 × 산리오 캐릭터즈 POP UP STORE 앙코르 (난바 CITY)",
+      "title_ja": "伊藤潤二×サンリオキャラクターズ POP UP STORE in なんばCITY",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "난바 CITY 본관 B1F 팝업 넥스트",
+      "start": "2026-11-11",
+      "end": "2026-11-29",
+      "reservation": "확인되지 않음 (11/03 기준)",
+      "price": "입장료 확인되지 않음 (11/03 기준)",
+      "notes": "영업 11:00~21:00 (휴무는 관에 준함). 3,300엔(세금 포함)마다 홀로그램 포스트카드(전 10종) 랜덤 1장. 갸루 토미에×헬로키티 일부 재판매",
+      "official_url": "https://yte-ec.com/lp/junji-sanrio_2",
+      "source_url": "https://www.atpress.ne.jp/news/643252",
+      "thumbnail": "https://images.groobee.com/images/asobifactory/jxST90CuI43CS6DSB8Q5pzqzMcoiHmRGhP1kmWAm.jpg",
+      "thumbnail_source": "https://yte-ec.com/lp/junji-sanrio_2",
+      "map_query": "なんばCITY",
+      "lat": 34.6636,
+      "lon": 135.5016,
+      "summary_ko": "호러 만화가 이토 준지 작품과 산리오 캐릭터의 콜라보 팝업 앙코르 개최예요. 호러와 귀여움이 섞인 굿즈를 팔아요.",
+      "summary_source": "https://www.atpress.ne.jp/news/643252",
+      "evidence": [
+        {
+          "url": "https://www.atpress.ne.jp/news/643252",
+          "tier": "official",
+          "quote": "場所 ：なんばCITY本館B1F ポップアップネクスト(約13坪) 期間 ：2026年11月11日(水)～11月29日(日) 営業時間：11:00～21:00(定休日は館に準ずる)",
+          "checked": "2026-11-03"
+        }
+      ],
+      "thumb_small": "thumbs/f8acde15fc94b1f1.webp",
+      "image_fb": "gfb/f8acde15fc94b1f1.webp",
+      "image_local": "img/f8acde15fc94b1f1.webp"
+    },
+    {
+      "source_url": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+      "checked_date": "2026-11-03",
+      "source_tier": "official",
+      "verified_at": "2026-11-03",
+      "translation_check": true,
+      "summary_source": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+      "id": "fukuoka-zombieland-saga-movie-1st-gamers-hakata",
+      "title_ko": "극장판 『좀비랜드 사가 유메긴가 파라다이스』 개봉 1주년 기념 팝업 스토어 (게이머즈 하카타점)",
+      "title_ja": "劇場版『ゾンビランドサガ ゆめぎんがパラダイス』公開1周年記念ポップアップストア",
+      "category": "팝업스토어",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "게이머즈 하카타점",
+      "start": "2026-12-19",
+      "end": "2027-01-04",
+      "reservation": "확인되지 않음 (11/03 기준)",
+      "price": "굿즈별 가격은 공식 페이지 참고 (일부 수주 상품 8,800~19,800엔, 세금 포함). 입장료 확인되지 않음 (11/03 기준)",
+      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=8005",
+      "notes": "영업시간 10:00~21:00. 굿즈 구매 또는 예약 내금 2,200엔(세금 포함)마다 특전 브로마이드(전 13종) 랜덤 1장. 게이머즈 온라인숍 통판·수주(~2027/1/4) 동시 진행. 권리 표기 ©劇場版ゾンビランドサガ製作委員会",
+      "summary_ko": "극장판 『좀비랜드 사가 유메긴가 파라다이스』 개봉 1주년 기념 팝업이에요. 엑스포 라이브 의상을 입은 프랑슈슈 신규 일러스트 굿즈를 팔아요.",
+      "map_query": "ゲーマーズ博多店",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+          "tier": "official",
+          "quote": "■2026年12月19日(土)～2027年1月4日(月)： ・ゲーマーズ名古屋店 (営業時間:10:00～21:00) ・ゲーマーズ博多店 (営業時間:10:00～21:00)",
+          "checked": "2026-11-03"
+        },
+        {
+          "url": "https://zombielandsaga-movie.com/goods/list.php?id=1002863",
+          "tier": "official",
+          "quote": "2026年12月19日～1月4日： ゲーマーズ名古屋店 (営業時間:10:00～21:00) ゲーマーズ博多店 (営業時間:10:00～21:00)",
+          "checked": "2026-11-03"
+        }
+      ],
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/16756/9027/16756-9027-42ed9ab9bf41fddb5404598758b3be41-810x425.jpg",
+      "added": "2026-11-03",
+      "lat": 33.5903,
+      "lon": 130.4196,
+      "thumb_small": "thumbs/5caf11193fee46e0.webp",
+      "image_fb": "gfb/5caf11193fee46e0.webp",
+      "image_local": "img/5caf11193fee46e0.webp"
     }
   ]
 }
