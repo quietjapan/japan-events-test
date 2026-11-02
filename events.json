@@ -1,6 +1,6 @@
 {
   "base_date": "2026-10-26",
-  "last_updated": "2026-10-31",
+  "last_updated": "2026-11-02",
   "is_sample": false,
   "events": [
     {
@@ -13604,7 +13604,7 @@
     {
       "reservation": "",
       "price": "아크릴 스탠드 각 1,760엔, 트레이딩 캔배지 550엔, 아크릴 카드 스탠드 각 2,750엔 (세금 포함)",
-      "checked_date": "2026-10-19",
+      "checked_date": "2026-11-02",
       "source_tier": "official",
       "translation_check": true,
       "verified_at": "2026-10-19",
@@ -13615,13 +13615,13 @@
       "venue": "뱅가드 스토어 (AKIHABARA 게이머즈 4층), 애니메이트 이케부쿠로 본점·아키하바라·시부야·신주쿠 외",
       "start": "2026-11-06",
       "end": "2026-11-23",
-      "official_url": "https://bushiroad-creative.com/topics/104744/",
+      "official_url": "https://prtimes.jp/main/html/rd/p/000009749.000014827.html",
       "thumbnail": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/15195218/Animate_VG_banner_1920%C3%971080_MAIN-1-1024x576.jpg",
       "thumb_small": "thumbs/37580ec6e2f782b4.webp",
       "map_query": "AKIHABARAゲーマーズ本店",
       "notes": "3,300엔마다 새로 그린 뱅가드 PR 카드(전 8종) 랜덤 1장. 애니메이트 통판도 같이 해요",
       "summary_ko": "『카드파이트!! 뱅가드 Divinez』 완결 기념 팝업이에요. 'After Party ver.' 새 일러스트 굿즈를 팔고, 구매 특전으로 PR 카드를 줘요.",
-      "source_url": "https://bushiroad-creative.com/topics/104744/",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000009749.000014827.html",
       "summary_source": "https://bushiroad-creative.com/topics/104744/",
       "thumbnail_source": "https://bushiroad-creative.com/topics/104744/",
       "evidence": [
@@ -13720,7 +13720,8 @@
       "image_local": "img/37580ec6e2f782b4.webp",
       "lat": 35.698284,
       "lon": 139.771698,
-      "added": "2026-10-19"
+      "added": "2026-10-19",
+      "id": "jebbw9"
     },
     {
       "reservation": "",
@@ -18664,12 +18665,12 @@
       "venue": "GiGO 아키하바라 5호관",
       "start": "2026-10-24",
       "end": "2026-11-08",
-      "reservation": "",
-      "price": "",
+      "reservation": "10/24·25 10~13시는 GiGO 앱 사전 추첨 (종료), 그 외 혼잡 시 정리권",
+      "price": "아크릴 스탠드 각 1,650엔, 트레이딩 홀로그램 캔배지 550엔, B2 하프 태피스트리 각 2,750엔 등 (세금 포함)",
       "official_url": "https://www.cocollabo.net/pages/manosaba-2026",
       "source_url": "https://www.cocollabo.net/pages/manosaba-2026",
-      "notes": "",
-      "checked_date": "2026-10-26",
+      "notes": "영업 10:00~21:00. 2,000엔(세금 포함)마다 카드 슬리브(전 8종) 랜덤 1장 (영수증 합산 불가). 1회 계산당 구매 수량 제한 있음",
+      "checked_date": "2026-11-02",
       "evidence": [
         {
           "url": "https://www.cocollabo.net/pages/manosaba-2026",
@@ -18812,18 +18813,24 @@
       "venue": "GiGO 오사카 도톤보리 본점",
       "start": "2026-11-07",
       "end": "2026-11-22",
-      "reservation": "",
-      "price": "",
+      "reservation": "11/7·8 일부 시간대 GiGO 앱 사전 추첨 (11/7분 11/5 23:59, 11/8분 11/6 23:59 마감)",
+      "price": "아크릴 스탠드 각 1,650엔, 트레이딩 홀로그램 캔배지 550엔, B2 하프 태피스트리 각 2,750엔 등 (세금 포함)",
       "official_url": "https://www.cocollabo.net/pages/manosaba-2026",
       "source_url": "https://www.cocollabo.net/pages/manosaba-2026",
-      "notes": "",
-      "checked_date": "2026-10-26",
+      "notes": "영업 11:00~22:00. 2,000엔(세금 포함)마다 카드 슬리브(전 8종) 랜덤 1장 (영수증 합산 불가). 1회 계산당 구매 수량 제한 있음",
+      "checked_date": "2026-11-02",
       "evidence": [
         {
           "url": "https://www.cocollabo.net/pages/manosaba-2026",
           "tier": "official",
           "quote": "【大阪会場】 開催期間: 2026/11/7(土)〜11/22(日) 開催場所: GiGO大阪道頓堀本店 開催時間: 10:00〜1:00",
           "checked": "2026-10-26"
+        },
+        {
+          "url": "https://www.cocollabo.net/pages/manosaba-2026",
+          "tier": "official",
+          "quote": "混雑回避のため、11/7(土)、11/8(日)の一部時間帯はGiGOアプリでの事前抽選制とさせていただきます。 ①11月7日(土) エントリー期限：11/5(木)23:59まで ②11月8日(日) エントリー期限：11/6(金)23:59まで … 税込2,000円お買上げごとに カードスリーブ（全8種）をランダムで1枚プレゼント",
+          "checked": "2026-11-02"
         }
       ],
       "source_tier": "official",
@@ -31844,6 +31851,43 @@
         }
       ],
       "added": "2026-10-31"
+    },
+    {
+      "id": "osaka-drstone-popup-abeno-rakubasu",
+      "title_ko": "Dr.STONE POP UP SHOP (아베노 라쿠바스)",
+      "title_ja": "TVアニメ『Dr.STONE』POP UP SHOP アベノラクバス",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "아베노 Hoop 4층 아베노 라쿠바스",
+      "start": "2027-01-15",
+      "end": "2027-01-24",
+      "reservation": "확인되지 않음 (11/02 기준), 혼잡 시 입장 정리권 배부 가능",
+      "price": "",
+      "official_url": "https://eeo.today/pr/dr_stone2611-popup/",
+      "source_url": "https://eeo.today/pr/dr_stone2611-popup/",
+      "notes": "영업 11:00~19:00. 입장료·매장 구매 특전은 확인되지 않음 (11/02 기준) (공식 페이지의 2,200엔당 일러스트 카드 특전은 통판 기준으로 안내). 도쿄 신주쿠 회차 11/26~12/9",
+      "checked_date": "2026-11-02",
+      "map_query": "あべのHoop アベノラクバス",
+      "source_tier": "official",
+      "verified_at": "2026-11-02",
+      "translation_check": true,
+      "summary_source": "https://eeo.today/pr/dr_stone2611-popup/",
+      "summary_ko": "「Dr.STONE」 팝업의 오사카 회차예요. 아베노 Hoop 4층 아베노 라쿠바스에서 열려요.",
+      "thumbnail": "https://eeo.today/pr/dr_stone2611-popup/assets/images/ogp.jpg",
+      "thumbnail_source": "https://eeo.today/pr/dr_stone2611-popup/",
+      "evidence": [
+        {
+          "url": "https://eeo.today/pr/dr_stone2611-popup/",
+          "tier": "official",
+          "quote": "アベノラクバス 開催期間 2027年1月15日(金)～1月24日(日) 営業時間 11:00～19:00 開催場所 あべのHoop 4階 アベノラクバス",
+          "checked": "2026-11-02"
+        }
+      ],
+      "added": "2026-11-02",
+      "thumb_small": "thumbs/6080e5829c7612d6.webp",
+      "image_fb": "gfb/6080e5829c7612d6.webp",
+      "image_local": "img/6080e5829c7612d6.webp"
     }
   ]
 }

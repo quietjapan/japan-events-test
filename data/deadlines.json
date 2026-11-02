@@ -16,6 +16,14 @@
    "field": "notes"
   },
   {
+   "match": "tokyo-graniph-chainsawman-reze-collab",
+   "deadline": "2026-11-02",
+   "label": "공식 온라인 웹 예약 (포인트 2배)",
+   "source_text": "予約期間：2026年10月28日(水)0:00〜11月2日(月)23:59",
+   "source_url": "https://www.zaikei.co.jp/releases/3687060/",
+   "field": "official"
+  },
+  {
    "match": "chainsawman-plaza-reze-shibuya-loft",
    "deadline": "2026-11-03",
    "label": "LivePocket 입장 추첨 신청",
@@ -31,6 +39,15 @@
    "field": "reservation"
   },
   {
+   "match": "osaka-manosaba-gigo-popup-dotonbori",
+   "deadline": "2026-11-05",
+   "label": "11/7 GiGO 앱 입장 추첨 신청",
+   "tag": "추첨",
+   "source_text": "①11月7日(土) エントリー期限：11/5(木)23:59まで 抽選結果発表：11/6(金)",
+   "source_url": "https://www.cocollabo.net/pages/manosaba-2026",
+   "field": "reservation"
+  },
+  {
    "match": "osaka-hetalia-20th-worldfesta",
    "deadline": "2026-11-06",
    "label": "예매 (e+ 일반 판매)",
@@ -39,11 +56,28 @@
    "field": "official"
   },
   {
+   "match": "osaka-manosaba-gigo-popup-dotonbori",
+   "deadline": "2026-11-06",
+   "label": "11/8 GiGO 앱 입장 추첨 신청",
+   "tag": "추첨",
+   "source_text": "②11月8日(日) エントリー期限：11/6(金)23:59まで 抽選結果発表：11/7(土)",
+   "source_url": "https://www.cocollabo.net/pages/manosaba-2026",
+   "field": "reservation"
+  },
+  {
    "match": "jujutsu-kanketsuten-shinjuku",
    "deadline": "2026-11-08",
    "label": "사전 추첨",
    "source_text": "사전 추첨 10/26~11/8, 일반 판매 11/21 12:00~",
    "field": "reservation"
+  },
+  {
+   "match": "osaka-steinsgate-final-mission-nipponbashi",
+   "deadline": "2026-11-08",
+   "label": "회장 수령 사전 넷 오더",
+   "source_text": "受付期間 2026年10月27日（火）20:00～11月8日（日）23:59まで",
+   "source_url": "https://www.kagaku-adv.com/sp/sgfinalmission_osaka/",
+   "field": "official"
   },
   {
    "match": "BLACK LAGOON 25주년 원화전",
@@ -67,22 +101,6 @@
    "label": "예매",
    "source_text": "예매는 이플러스·애니메이트 티켓에서 11/19까지",
    "field": "notes"
-  },
-  {
-   "match": "tokyo-graniph-chainsawman-reze-collab",
-   "deadline": "2026-11-02",
-   "label": "공식 온라인 웹 예약 (포인트 2배)",
-   "source_text": "予約期間：2026年10月28日(水)0:00〜11月2日(月)23:59",
-   "source_url": "https://www.zaikei.co.jp/releases/3687060/",
-   "field": "official"
-  },
-  {
-   "match": "osaka-steinsgate-final-mission-nipponbashi",
-   "deadline": "2026-11-08",
-   "label": "회장 수령 사전 넷 오더",
-   "source_text": "受付期間 2026年10月27日（火）20:00～11月8日（日）23:59まで",
-   "source_url": "https://www.kagaku-adv.com/sp/sgfinalmission_osaka/",
-   "field": "official"
   }
  ]
 }
