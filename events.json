@@ -1,6 +1,6 @@
 {
   "base_date": "2026-10-26",
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "is_sample": false,
   "events": [
     {
@@ -270,50 +270,6 @@
       "region": "tokyo",
       "image_fb": "gfb/a2426a9aa8a2b5e7.webp",
       "image_local": "img/a2426a9aa8a2b5e7.webp",
-      "added": "2026-10-15"
-    },
-    {
-      "title_ko": "키타로 탄생: 게게게의 수수께끼 × and GALLERY 콜라보 카페",
-      "title_ja": "鬼太郎誕生 ゲゲゲの謎 × and GALLERY Collaboration Cafe",
-      "category": "콜라보카페",
-      "area": "도쿄",
-      "venue": "and GALLERY 유라쿠초점",
-      "start": "2026-10-03",
-      "end": "2026-10-31",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://collabocafe.and-gallery.com/kitaro-tanjo-2026",
-      "source_url": "https://charagoo.jp/collab/event/38a097c8f04e/",
-      "notes": "오사카·나고야에서도 열려요",
-      "checked_date": "2026-10-15",
-      "thumbnail": "https://storage.googleapis.com/production-os-assets/assets/42deff3c-5eac-44ce-abfd-0e3683350318",
-      "thumbnail_source": "https://collabocafe.and-gallery.com/kitaro-tanjo-2026",
-      "map_query": "東京都千代田区有楽町1丁目11-1",
-      "evidence": [
-        {
-          "url": "https://collabocafe.and-gallery.com/kitaro-tanjo-2026",
-          "tier": "official",
-          "quote": "ボカフェを 有楽町店・なんば2号店・名古屋1号店にて2026年10月3日(土)〜10月31日(土)まで開催いたします。 今回のテーマは🌙『月灯りの夜会Cafe』🌙 静かながらもきらびやかな秋をイメージした限定描き下ろし",
-          "checked": "2026-10-22"
-        },
-        {
-          "url": "https://charagoo.jp/collab/event/38a097c8f04e/",
-          "tier": "aggregator",
-          "quote": "ation Cafeは鬼太郎のコラボ・イベントです。期間は2026年10月3日〜10月31日。場所はand GALLERY 有楽町店(東京都)/and GALLERY なんば2号店(大阪府)/and GALLER",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "lat": 35.6745,
-      "lon": 139.7605,
-      "title_ko_source": "https://www.haveagood-holiday.com/ko/articles/kitaro-tanjo-and-gallery-collaboration-cafe-2026 (한국어 표기 확인; 鬼太郎=키타로)",
-      "summary_ko": "미즈키 시게루 탄생 100주년 기념작 「키타로 탄생: 게게게의 수수께끼」 콜라보 카페예요. '달빛 야회' 테마의 가을 느낌 신규 일러스트와 캐릭터 메뉴, 굿즈를 만날 수 있어요.",
-      "summary_source": "https://collabocafe.and-gallery.com/kitaro-tanjo-2026",
-      "thumb_small": "thumbs/9c07c95ceb9e89b1.webp",
-      "region": "tokyo",
-      "image_fb": "gfb/9c07c95ceb9e89b1.webp",
-      "image_local": "img/9c07c95ceb9e89b1.webp",
       "added": "2026-10-15"
     },
     {
@@ -2077,50 +2033,6 @@
       "thumb_small": "thumbs/fcf5d97f3d86bf45.webp",
       "region": "tokyo",
       "image_local": "img/fcf5d97f3d86bf45.webp",
-      "added": "2026-10-15"
-    },
-    {
-      "title_ko": "제66회 간다 헌책 축제",
-      "title_ja": "第66回 東京名物 神田古本まつり",
-      "category": "축제",
-      "area": "도쿄",
-      "venue": "진보초 고서점가 (야스쿠니도리 일대)",
-      "start": "2026-10-23",
-      "end": "2026-11-01",
-      "reservation": "불필요",
-      "price": "무료",
-      "official_url": "https://jimbou.info/news/20260908.html",
-      "source_url": "https://visit-chiyoda.tokyo/app/event/detail/957",
-      "notes": "10:00~18:00 (마지막 날 17:00까지)",
-      "checked_date": "2026-10-15",
-      "map_query": "",
-      "evidence": [
-        {
-          "url": "https://jimbou.info/news/20260908.html",
-          "tier": "official",
-          "quote": "田古本まつり 第66回 東京名物 神田古本まつり 2026年10月23日(金)〜11月1日(日) 【更新情報】 ・併催イベントに「『第66回神田古本まつり」リラックマトートバッグ限定発売!』を追加しました。(2026",
-          "checked": "2026-10-22"
-        },
-        {
-          "url": "https://visit-chiyoda.tokyo/app/event/detail/957",
-          "tier": "aggregator",
-          "quote": "、書店と書棚に囲まれた約500mの「本の回廊」が出現! 期間:10/23(金)〜11/1(日) 時間:10:00〜18:00(最終日は17:00まで) (雨天中止) 会場:神田神保町古書店街(靖国通り沿い・岩波中会",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "map_note": "공식 페이지 주소가 사무국 주소로 보여 지도 생략 (진보초 거리 일대)",
-      "lat": 35.6957,
-      "lon": 139.7577,
-      "translation_check": true,
-      "summary_ko": "고서점 약 120곳이 모인 진보초에서 열리는 가을 헌책 축제예요. 야스쿠니 거리에 100대가 넘는 책 수레가 늘어서 약 500m의 '책 회랑'이 생겨요.",
-      "summary_source": "https://jimbou.info/news/20260908.html",
-      "thumbnail": "https://jimbou.info/assets/img/news/2026_p1.jpg",
-      "thumbnail_source": "https://jimbou.info/news/20260908.html",
-      "thumb_small": "thumbs/71188b9615ecaf22.webp",
-      "region": "tokyo",
-      "image_local": "img/71188b9615ecaf22.webp",
       "added": "2026-10-15"
     },
     {
@@ -4190,191 +4102,6 @@
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
-      "title_ko": "동방 Project × 도쿄타워",
-      "title_ja": "東方Project×東京タワー",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "도쿄타워 풋타운·메인데크 (TokyoComix)",
-      "start": "2026-10-02",
-      "end": "2026-11-01",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://tt.tokyocomix.com/touhou-project/",
-      "source_url": "https://charagoo.jp/collab/event/f7a509ad942a/",
-      "notes": "",
-      "checked_date": "2026-10-15",
-      "thumbnail": "https://charagoo.jp/wp-content/uploads/2026/09/touhouproject-news-20261002.jpg",
-      "thumbnail_source": "https://charagoo.jp/collab/event/f7a509ad942a/",
-      "map_query": "東京都港区芝公園4-2-8",
-      "evidence": [
-        {
-          "url": "https://shop.hakurei-sukeikai.com/event/id/28141",
-          "tier": "official",
-          "quote": "2026年10月2日(金)〜11月1日(日)に東京タワーで開催の〈東方Project×東京タワー〉のフットタウン内・展望",
-          "checked": "2026-10-22"
-        },
-        {
-          "url": "https://charagoo.jp/collab/event/f7a509ad942a/",
-          "tier": "aggregator",
-          "quote": "oject×東京タワーは東方のコラボ・イベントです。期間は2026年10月2日〜11月1日。場所は東京タワー フットタウン内・展望台(メインデッキ) TokyoComix Tokyo Tower Collabo",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "lat": 35.6586,
-      "lon": 139.7454,
-      "translation_check": true,
-      "summary_ko": "도쿄타워에서 열리는 「동방 Project」 콜라보 이벤트예요. 풋타운과 전망대에서 굿즈 판매와 참가형 이벤트가 있고, 클리어하면 스티커를 줘요.",
-      "summary_source": "https://shop.hakurei-sukeikai.com/event/id/28141",
-      "thumb_small": "thumbs/864720faf423cc81.webp",
-      "gallery": [
-        {
-          "group": "콜라보 굿즈",
-          "img": "https://tt.tokyocomix.com/wp-content/themes/tt-tcx/touhou-project/images/toho_goods_v2.png",
-          "full": "https://tt.tokyocomix.com/wp-content/themes/tt-tcx/touhou-project/images/toho_goods_v2.png",
-          "caption_ko": "콜라보 굿즈",
-          "source": "https://tt.tokyocomix.com/touhou-project/",
-          "caption_ja": "コラボグッズ",
-          "img_fb": "gfb/ddf73990c6e9c6cb.webp",
-          "img_local": "img/ddf73990c6e9c6cb.webp"
-        },
-        {
-          "group": "콜라보 굿즈",
-          "img": "https://tt.tokyocomix.com/wp-content/themes/tt-tcx/touhou-project/images/toho_goods-tokuten_v2.png",
-          "full": "https://tt.tokyocomix.com/wp-content/themes/tt-tcx/touhou-project/images/toho_goods-tokuten_v2.png",
-          "caption_ko": "굿즈 구매 특전",
-          "source": "https://tt.tokyocomix.com/touhou-project/",
-          "img_fb": "gfb/dfbc3126c48be4fc.webp",
-          "img_local": "img/dfbc3126c48be4fc.webp"
-        },
-        {
-          "group": "콜라보 카페",
-          "img": "https://tt.tokyocomix.com/wp-content/themes/tt-tcx/touhou-project/images/toho_menu_v4.png",
-          "full": "https://tt.tokyocomix.com/wp-content/themes/tt-tcx/touhou-project/images/toho_menu_v4.png",
-          "caption_ko": "콜라보 카페 메뉴",
-          "source": "https://tt.tokyocomix.com/touhou-project/",
-          "caption_ja": "コラボカフェ",
-          "img_fb": "gfb/ab0a169dcca5957c.webp",
-          "img_local": "img/ab0a169dcca5957c.webp"
-        }
-      ],
-      "gallery_source": "https://tt.tokyocomix.com/touhou-project/",
-      "gallery_note": "이미지는 공식 페이지 이미지(실제와 다를 수 있음)",
-      "region": "tokyo",
-      "image_fb": "gfb/864720faf423cc81.webp",
-      "image_local": "img/864720faf423cc81.webp",
-      "added": "2026-10-15"
-    },
-    {
-      "title_ko": "제5인격 팝업숍 in 핸즈 (시부야)",
-      "title_ja": "第五人格 POP UP SHOP inハンズ",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "핸즈 시부야점",
-      "start": "2026-10-15",
-      "end": "2026-10-31",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
-      "notes": "2,200엔 구매마다 체키 풍 카드 1장 증정.",
-      "checked_date": "2026-10-15",
-      "map_query": "東京都渋谷区宇田川町12-18",
-      "evidence": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
-          "tier": "official",
-          "quote": "【第1弾】 開催期間: 2026年10月15日(木)〜10月31日(土) 開催店舗:渋谷店 【第2弾】 開催期間:2026年11月10日(火)〜11月24日(火) 開催店舗:新宿店 【第3弾】 開催期間: 2027年1月14日(木)〜1月27日(水) 開催店舗:横浜店、心斎橋店 ",
-          "note": "주최사 공식 보도자료",
-          "checked": "2026-10-22"
-        },
-        {
-          "url": "https://charagoo.jp/collab/event/48f2673babe0/",
-          "tier": "aggregator",
-          "quote": "OP inハンズは第五人格のコラボ・イベントです。期間は2026年10月15日〜2027年1月27日。場所は渋谷店、新宿店、横浜店、心斎橋店。 「ハロウィン」をテーマにした『第五人格』のPOP UP SHOP。新商品の先",
-          "checked": "2026-10-15"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "lat": 35.662,
-      "lon": 139.6979,
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/16756/8866/16756-8866-0f231e98b4827c596a8ba5dc762fadd3-1200x1200.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
-      "translation_check": true,
-      "summary_ko": "게임 「제5인격(Identity V)」 팝업숍이에요. '할로윈' 테마 신상품을 먼저 팔고, 대상 굿즈 2,200엔 구매마다 체키풍 카드 특전을 줘요.",
-      "summary_source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
-      "thumb_small": "thumbs/f9be1727402b21f8.webp",
-      "region": "tokyo",
-      "image_fb": "gfb/f9be1727402b21f8.webp",
-      "image_local": "img/f9be1727402b21f8.webp",
-      "added": "2026-10-15",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/16756/8866/16756-8866-0f231e98b4827c596a8ba5dc762fadd3-1200x1200.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 1",
-          "source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
-          "img_fb": "gfb/d7b531bbb3784837.webp",
-          "img_local": "img/d7b531bbb3784837.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/16756/8866/16756-8866-395fb3eda2895b7692daa34bd172b9df-1200x975.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 2",
-          "source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
-          "img_fb": "gfb/5d7172bd63ef4d2a.webp",
-          "img_local": "img/5d7172bd63ef4d2a.webp"
-        }
-      ],
-      "gallery_source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
-    },
-    {
-      "title_ko": "치이카와 ☆ 별 내리는 스카이트리와 비밀의 섬",
-      "title_ja": "ちいかわ☆星ふるスカイツリー(R)とひみつの島",
-      "category": "전시·행사",
-      "area": "도쿄",
-      "venue": "도쿄 스카이트리 덴보 데크·덴보 회랑",
-      "start": "2026-07-10",
-      "end": "2026-10-31",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://www.tokyo-skytree.jp/event/special/chiikawa/",
-      "source_url": "https://charagoo.jp/collab/event/a7d9e207df44/",
-      "notes": "전망대 입장권 필요. 콜라보 카페는 식사권 포함 입장권 필요",
-      "checked_date": "2026-10-15",
-      "thumbnail": "https://charagoo.jp/wp-content/uploads/2026/05/chiikawa-news-20260710.jpg",
-      "thumbnail_source": "https://charagoo.jp/collab/event/a7d9e207df44/",
-      "map_query": "東京都墨田区押上1丁目1−2",
-      "evidence": [
-        {
-          "url": "https://www.tokyo-skytree.jp/event/special/chiikawa/",
-          "tier": "official",
-          "quote": "日程 2026. 7.10 (金) 〜 10.31 (土) 場所 東京スカイツリ",
-          "checked": "2026-10-22"
-        },
-        {
-          "url": "https://charagoo.jp/collab/event/a7d9e207df44/",
-          "tier": "aggregator",
-          "quote": "(R)とひみつの島はちいかわのコラボ・イベントです。期間は2026年7月10日〜10月31日。場所は東京スカイツリー天望デッキ、天望回廊。 東京スカイツリーで「ちいかわ」との2度目のコラボイベント開催。限定グッズ",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "lat": 35.7108,
-      "lon": 139.8138,
-      "translation_check": true,
-      "summary_ko": "「영화 치이카와 인어 섬의 비밀」 콜라보 이벤트예요. 스카이트리 전망대에서 영화 세계관을 담은 특별 공간과 포토 스폿을 즐길 수 있어요(전망대 입장료 필요).",
-      "summary_source": "https://www.tokyo-skytree.jp/event/special/chiikawa/",
-      "thumb_small": "thumbs/7c1f484388ba2b66.webp",
-      "region": "tokyo",
-      "image_local": "img/7c1f484388ba2b66.webp",
-      "added": "2026-10-15"
-    },
-    {
       "title_ko": "고질라 박람회 마이너스의 세계",
       "title_ja": "ゴジラ博 マイナスの世界",
       "category": "전시·행사",
@@ -4593,43 +4320,6 @@
       ],
       "gallery_source": "https://prtimes.jp/main/html/rd/p/000008866.000016756.html",
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
-    },
-    {
-      "title_ko": "오이 경마장 플리마켓 (Tokyo City Flea Market)",
-      "title_ja": "大井競馬場フリーマーケット -Tokyo City Flea Market-",
-      "category": "플리마켓",
-      "area": "도쿄",
-      "venue": "오이 경마장 제1주차장",
-      "start": "2026-10-31",
-      "end": "2026-10-31",
-      "reservation": "불필요",
-      "price": "무료",
-      "official_url": "https://trx.jp/",
-      "source_url": "https://shinagawa-kanko.or.jp/event/tokyo-city-flea-market-202610/",
-      "notes": "주말 위주 개최: 10/24·25·31, 11/1·7·8·14·15·21·22·23·28·29, 12/5·6·12·13·19·20·26·27. 일부 날짜는 단축 운영, 비 오면 취소",
-      "checked_date": "2026-10-15",
-      "thumbnail": "https://trx.jp/wp-content/themes/trx2025/img/og.jpg",
-      "thumbnail_source": "https://trx.jp/",
-      "map_query": "東京都品川区勝島2-1-2",
-      "evidence": [
-        {
-          "url": "https://trx.jp/",
-          "tier": "official",
-          "quote": "10/31(土) 品川区 大井競馬場TokyoCityFleaMarket 10",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "lat": 35.5934,
-      "lon": 139.7405,
-      "translation_check": true,
-      "summary_ko": "오이 경마장에서 열리는 플리마켓 'Tokyo City Flea Market'이에요.",
-      "summary_source": "https://trx.jp/",
-      "thumb_small": "thumbs/aa84162be2e291ba.webp",
-      "region": "tokyo",
-      "image_local": "img/aa84162be2e291ba.webp",
-      "added": "2026-10-15"
     },
     {
       "title_ko": "크록스×체인소맨 콜라보 + atmos 이케부쿠로 팝업",
@@ -10935,43 +10625,6 @@
       "category": "플리마켓",
       "area": "도쿄",
       "venue": "오이 경마장 제1주차장",
-      "start": "2026-11-01",
-      "end": "2026-11-01",
-      "reservation": "불필요",
-      "price": "무료",
-      "official_url": "https://trx.jp/",
-      "source_url": "https://ooi20261101.peatix.com/",
-      "notes": "8:45~12:00 (단축). 비 오면 취소(소우천 결행). 주최: 도쿄 리사이클 운동 시민의 모임",
-      "checked_date": "2026-10-19",
-      "thumbnail": "https://trx.jp/wp-content/themes/trx2025/img/og.jpg",
-      "thumbnail_source": "https://trx.jp/",
-      "map_query": "東京都品川区勝島2-1-2",
-      "evidence": [
-        {
-          "url": "https://ooi20261101.peatix.com/",
-          "tier": "official",
-          "quote": "Date & time Sunday, November 1, 2026 8:45 AM - 12:00 PM JST",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "lat": 35.5934,
-      "lon": 139.7405,
-      "translation_check": true,
-      "summary_source": "https://trx.jp/",
-      "thumb_small": "thumbs/aa84162be2e291ba.webp",
-      "summary_ko": "오이 경마장에서 열리는 플리마켓 'Tokyo City Flea Market'이에요.",
-      "region": "tokyo",
-      "image_local": "img/aa84162be2e291ba.webp",
-      "added": "2026-10-19"
-    },
-    {
-      "title_ko": "오이 경마장 플리마켓 (Tokyo City Flea Market)",
-      "title_ja": "大井競馬場フリーマーケット -Tokyo City Flea Market-",
-      "category": "플리마켓",
-      "area": "도쿄",
-      "venue": "오이 경마장 제1주차장",
       "start": "2026-11-07",
       "end": "2026-11-07",
       "reservation": "불필요",
@@ -13973,40 +13626,6 @@
       "added": "2026-10-22"
     },
     {
-      "id": "osaka-heroaca-10th-bones-popup",
-      "title_ko": "히로아카 애니 10주년 bones store 팝업 (우메다 PACKS)",
-      "title_ja": "僕のヒーローアカデミア アニメ10周年× bones store POPUP",
-      "category": "팝업스토어",
-      "area": "오사카",
-      "venue": "우메다 PACKS (애니메이트 우메다점 안)",
-      "start": "2026-10-09",
-      "end": "2026-11-01",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://heroaca.com/news/28358/",
-      "source_url": "https://heroaca.com/news/28358/",
-      "notes": "11:00~21:00 (영업시간은 바뀔 수 있어요)",
-      "map_query": "アニメイト梅田",
-      "evidence": [
-        {
-          "url": "https://heroaca.com/news/28358/",
-          "tier": "official",
-          "quote": "◆梅田PACKS 【 開催期間 】 2026年10月9日(金)〜11月1日(日) 【 開催店舗 】 梅田PACKS(アニメイト梅田店内) 【 営業時間 】 11:00〜21:00 【 施設案内 】 https://ikebukuro-packs.com/sho",
-          "checked": "2026-10-22"
-        }
-      ],
-      "summary_ko": "「나의 히어로 아카데미아」 애니 10주년 팝업이에요. 호리코시 코헤이 선생님이 그린 정장 차림 A반·올마이트·아이자와 23명 일러스트를 애니 비주얼로 만든 굿즈와 bones store 오리지널 굿즈를 팔아요.",
-      "region": "osaka",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "summary_source": "https://heroaca.com/news/28358/",
-      "translation_check": true,
-      "lat": 34.7047,
-      "lon": 135.4959,
-      "added": "2026-10-22"
-    },
-    {
       "id": "osaka-naruto-konoha-market-2026",
       "title_ko": "나루토 질풍전 팝업스토어 「코노하 마켓 2026」 (우메다 PACKS)",
       "title_ja": "NARUTO-ナルト- 疾風伝 POP UP STORE -木ノ葉マーケット2026-",
@@ -14736,40 +14355,6 @@
       ],
       "gallery_source": "https://livepocket.jp/e/4xk_3",
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
-    },
-    {
-      "id": "osaka-bungo-stray-dogs-art-design-exhibition",
-      "title_ko": "문호 스트레이독스 ART & DESIGN EXHIBITION (문스독 · 오사카)",
-      "title_ja": "文豪ストレイドッグス ART & DESIGN EXHIBITION",
-      "category": "전시·행사",
-      "area": "오사카",
-      "venue": "Space Gratus (애니메이트 오사카 닛폰바시)",
-      "start": "2026-10-02",
-      "end": "2026-11-02",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://www.animate.co.jp/en/spacegalleria/gratusosaka/",
-      "source_url": "https://www.animate.co.jp/en/spacegalleria/gratusosaka/",
-      "notes": "",
-      "map_query": "大阪府大阪市浪速区日本橋西1-1-3 アニメイト大阪日本橋",
-      "evidence": [
-        {
-          "url": "https://www.animate.co.jp/en/spacegalleria/gratusosaka/",
-          "tier": "official",
-          "quote": "Space Gratus 文豪ストレイドッグス ART & DESIGN EXHIBITION 2026.10.02(Fri.)〜2026.11.02(Mon.) コードギアス20",
-          "checked": "2026-10-22"
-        }
-      ],
-      "summary_ko": "애니메이트 오사카 닛폰바시의 전시 공간 Space Gratus에서 열리는 「문호 스트레이독스」 아트&디자인 전시예요.",
-      "region": "osaka",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "summary_source": "https://www.animate.co.jp/en/spacegalleria/gratusosaka/",
-      "translation_check": true,
-      "lat": 34.6605,
-      "lon": 135.5047,
-      "added": "2026-10-22"
     },
     {
       "id": "osaka-code-geass-20th-exhibition",
@@ -19034,57 +18619,6 @@
       "lat": 34.660786,
       "lon": 135.506027,
       "added": "2026-10-24"
-    },
-    {
-      "id": "osaka-chi-popup-abeno-hoop",
-      "title_ko": "「チ。 지구의 운동에 대하여」 팝업 (오사카 아베노)",
-      "title_ja": "アニメ『チ。―地球の運動について―』POP UP SHOP",
-      "category": "팝업스토어",
-      "area": "오사카",
-      "region": "osaka",
-      "venue": "아베노 Hoop 4층 아베노 라쿠바스",
-      "start": "2026-10-24",
-      "end": "2026-11-01",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://www.d-kintetsu.co.jp/hoop/pickup/3573/index.html",
-      "source_url": "https://www.d-kintetsu.co.jp/hoop/pickup/3573/index.html",
-      "notes": "11:00~19:00",
-      "checked_date": "2026-10-24",
-      "evidence": [
-        {
-          "url": "https://www.d-kintetsu.co.jp/hoop/pickup/3573/index.html",
-          "tier": "official",
-          "quote": "■開催場所：4階 アベノラクバス ■開催期間：10/24(土)→11/1(日) ■営業時間：11:00～19:00 … 特典クリアしおり(全5種)の配布",
-          "checked": "2026-10-24"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-24",
-      "translation_check": true,
-      "summary_ko": "「チ。 지구의 운동에 대하여」 정장 테마 새 일러스트 굿즈 팝업이에요. 특전 클리어 책갈피(전 5종)와 실물 크기 패널이 있어요.",
-      "summary_source": "https://www.d-kintetsu.co.jp/hoop/pickup/3573/index.html",
-      "map_query": "あべのHoop",
-      "thumbnail": "https://www.d-kintetsu.co.jp/hoop/assets/pickup/pickup-thumb_image-3573.webp",
-      "thumbnail_source": "https://www.d-kintetsu.co.jp/hoop/pickup/3573/index.html",
-      "thumb_small": "thumbs/5017e1cd4fc19c60.webp",
-      "image_fb": "gfb/5017e1cd4fc19c60.webp",
-      "image_local": "img/5017e1cd4fc19c60.webp",
-      "lat": 34.6451,
-      "lon": 135.5137,
-      "added": "2026-10-24",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://www.d-kintetsu.co.jp/hoop/news/202610/p09.webp",
-          "caption_ko": "공식 이미지 1",
-          "source": "https://www.d-kintetsu.co.jp/hoop/pickup/3573/index.html",
-          "img_fb": "gfb/cd9132206a09563f.webp",
-          "img_local": "img/cd9132206a09563f.webp"
-        }
-      ],
-      "gallery_source": "https://www.d-kintetsu.co.jp/hoop/pickup/3573/index.html",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "meicho-gratte3-tokyo",
@@ -26737,57 +26271,6 @@
       "image_fb": "gfb/754ec03ff1cb4ffe.webp",
       "image_local": "img/754ec03ff1cb4ffe.webp",
       "added": "2026-10-26"
-    },
-    {
-      "reservation": "",
-      "price": "",
-      "notes": "혼잡 시 정리권 배포 등 입장 제한 가능",
-      "checked_date": "2026-10-26",
-      "source_tier": "official",
-      "verified_at": "2026-10-26",
-      "title_ko": "TV애니 「힘내라! 나카무라 군!!」 POP UP SHOP in HMV (HMV&BOOKS SHIBUYA)",
-      "title_ja": "TVアニメーション「ガンバレ!中村くん!!」POP UP SHOP in HMV",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "HMV&BOOKS SHIBUYA",
-      "start": "2026-10-23",
-      "end": "2026-11-01",
-      "official_url": "https://www.hmv.co.jp/news/article/260910142/",
-      "map_query": "HMV&BOOKS SHIBUYA",
-      "thumbnail": "https://img.hmv.co.jp/hybridimage/news/images/26/0910/142/headline_L.jpeg",
-      "image_fit": "contain",
-      "summary_ko": "TV애니 「힘내라! 나카무라 군!!」 팝업이에요. 새로 그린 미니 캐릭터 굿즈가 나오고 HMV 4개 매장을 순회해요.",
-      "source_url": "https://www.hmv.co.jp/news/article/260910142/",
-      "summary_source": "https://www.hmv.co.jp/news/article/260910142/",
-      "evidence": [
-        {
-          "url": "https://www.hmv.co.jp/news/article/260910142/",
-          "tier": "official",
-          "quote": "東京 HMV&BOOKS SHIBUYA 2026年10月23日(金) 〜 11月1日(日) 大阪 HMV&BOOKS NAMBA 2026年11月6日(金) 〜 11月15日(日) 名古屋・福岡 HMV栄 HMV&BOOKS HAKATA 2026年11月20日(金) 〜 11月29日(日)",
-          "checked": "2026-10-26"
-        }
-      ],
-      "thumbnail_source": "https://www.hmv.co.jp/news/article/260910142/",
-      "translation_check": true,
-      "lat": 35.6616,
-      "lon": 139.7006,
-      "thumb_small": "thumbs/8038f35474ee4ac9.webp",
-      "image_fb": "gfb/8038f35474ee4ac9.webp",
-      "image_local": "img/8038f35474ee4ac9.webp",
-      "added": "2026-10-26",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://img.hmv.co.jp//sp/2026/nakamura/g2.webp",
-          "caption_ko": "공식 이미지 1",
-          "source": "https://www.hmv.co.jp/news/article/260910142/",
-          "img_fb": "gfb/b90026da2ae14c98.webp",
-          "img_local": "img/b90026da2ae14c98.webp"
-        }
-      ],
-      "gallery_source": "https://www.hmv.co.jp/news/article/260910142/",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "",
