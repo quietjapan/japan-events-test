@@ -17976,7 +17976,10 @@
       "area": "도쿄",
       "lat": 35.7278,
       "lon": 139.72,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "thumbnail": "https://bandainamco-am.co.jp/images/crossstore/common/crossstore_ogp.png",
+      "thumb_small": "thumbs/6b954f9e1a3e35ab.webp",
+      "image_local": "img/6b954f9e1a3e35ab.webp"
     },
     {
       "source_tier": "official",
@@ -18011,7 +18014,10 @@
       "area": "오사카",
       "lat": 34.7041,
       "lon": 135.5004,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "thumbnail": "https://bandainamco-am.co.jp/images/crossstore/common/crossstore_ogp.png",
+      "thumb_small": "thumbs/6b954f9e1a3e35ab.webp",
+      "image_local": "img/6b954f9e1a3e35ab.webp"
     },
     {
       "id": "osaka-kusuriya-sweetspara3-tennoji-mio",
@@ -27413,7 +27419,9 @@
       "added": "2026-10-28",
       "thumb_small": "thumbs/748d83701413d671.webp",
       "image_fb": "gfb/748d83701413d671.webp",
-      "image_local": "img/748d83701413d671.webp"
+      "image_local": "img/748d83701413d671.webp",
+      "lat": 35.6913,
+      "lon": 139.7011
     },
     {
       "id": "tokyo-rezero-stellamap-drinkstand",
@@ -27487,7 +27495,9 @@
       "added": "2026-10-28",
       "thumb_small": "thumbs/0d9cd296dbaf270e.webp",
       "image_fb": "gfb/0d9cd296dbaf270e.webp",
-      "image_local": "img/0d9cd296dbaf270e.webp"
+      "image_local": "img/0d9cd296dbaf270e.webp",
+      "lat": 35.6124,
+      "lon": 139.6285
     },
     {
       "id": "tokyo-revuestarlight-9th-onlyshop-akiba",
@@ -27560,7 +27570,9 @@
       "added": "2026-10-28",
       "thumb_small": "thumbs/c56cee31883c7b3c.webp",
       "image_fb": "gfb/c56cee31883c7b3c.webp",
-      "image_local": "img/c56cee31883c7b3c.webp"
+      "image_local": "img/c56cee31883c7b3c.webp",
+      "lat": 34.6605,
+      "lon": 135.5047
     },
     {
       "id": "tokyo-yumeiro-patissiere-popup-ueno",
@@ -27597,7 +27609,9 @@
       "added": "2026-10-28",
       "thumb_small": "thumbs/a409ad154d1ce55e.webp",
       "image_fb": "gfb/a409ad154d1ce55e.webp",
-      "image_local": "img/a409ad154d1ce55e.webp"
+      "image_local": "img/a409ad154d1ce55e.webp",
+      "lat": 35.7105,
+      "lon": 139.7758
     },
     {
       "id": "osaka-yumeiro-patissiere-popup-namba",
@@ -27634,7 +27648,9 @@
       "added": "2026-10-28",
       "thumb_small": "thumbs/a409ad154d1ce55e.webp",
       "image_fb": "gfb/a409ad154d1ce55e.webp",
-      "image_local": "img/a409ad154d1ce55e.webp"
+      "image_local": "img/a409ad154d1ce55e.webp",
+      "lat": 34.6656,
+      "lon": 135.5011
     },
     {
       "id": "tokyo-teiichinokuni-popup-amnibus-green",
@@ -27707,7 +27723,9 @@
       "added": "2026-10-28",
       "thumb_small": "thumbs/1a98767f1f644ba3.webp",
       "image_fb": "gfb/1a98767f1f644ba3.webp",
-      "image_local": "img/1a98767f1f644ba3.webp"
+      "image_local": "img/1a98767f1f644ba3.webp",
+      "lat": 35.731,
+      "lon": 139.7164
     },
     {
       "id": "tokyo-tokrev-bloomfate-stellamap-cafe",
@@ -27817,7 +27835,9 @@
       "added": "2026-10-28",
       "thumb_small": "thumbs/a31bb4ac8cf2160b.webp",
       "image_fb": "gfb/a31bb4ac8cf2160b.webp",
-      "image_local": "img/a31bb4ac8cf2160b.webp"
+      "image_local": "img/a31bb4ac8cf2160b.webp",
+      "lat": 34.6656,
+      "lon": 135.5011
     },
     {
       "id": "tokyo-shugochara-popup-medicos-shinjuku",
@@ -30752,7 +30772,9 @@
       "thumbnail": "https://edition-88.com/cdn/shop/files/fujishima_release_poster.jpg",
       "summary_ko": "『오! 나의 여신님』『체포하겠어』『사쿠라대전』 등으로 유명한 후지시마 코스케의 데뷔 40주년 원화전이에요. 직필 원고와 컬러 일러스트 약 100점을 전시하고 포토스폿, 도록·굿즈 판매도 있어요.",
       "thumb_small": "thumbs/e3b9658d2a199652.webp",
-      "image_local": "img/e3b9658d2a199652.webp"
+      "image_local": "img/e3b9658d2a199652.webp",
+      "lat": 34.6656,
+      "lon": 135.5011
     },
     {
       "source_url": "https://prtimes.jp/main/html/rd/p/000000133.000165139.html",
@@ -30788,7 +30810,9 @@
       "thumbnail": "https://prcdn.freetls.fastly.net/release_image/165139/133/165139-133-6b9e9ef51775d96579296a8a54d0f5f6-865x1222.png",
       "summary_ko": "만화의 성지 도키와장 동네에서 열리는 애니·만화 페스예요. 「도키와장 마을 4컷 만화 대상」 수상작을 전시하고, 3구의 디자인 맨홀·애니 스폿을 도는 디지털 스탬프 랠리도 있어요.",
       "thumb_small": "thumbs/d0cc20a422f7b9df.webp",
-      "image_local": "img/d0cc20a422f7b9df.webp"
+      "image_local": "img/d0cc20a422f7b9df.webp",
+      "lat": 35.7243,
+      "lon": 139.6861
     },
     {
       "source_url": "https://www.city.suginami.tokyo.jp/s033/event/28657.html",
@@ -30824,7 +30848,9 @@
       "thumbnail": "https://www.city.suginami.tokyo.jp/images/28657/kv.jpg",
       "summary_ko": "스기나미구 애니 제작사(MAHO FILM·라이덴필름·GONZO·드라이브 등)의 상영회와 토크쇼, 애니송 합창 스테이지가 열려요. 작화·효과음 체험 부스도 있어요.",
       "thumb_small": "thumbs/b1d94d7b32622942.webp",
-      "image_local": "img/b1d94d7b32622942.webp"
+      "image_local": "img/b1d94d7b32622942.webp",
+      "lat": 35.7105,
+      "lon": 139.6077
     },
     {
       "source_url": "https://www.volks.co.jp/blog_sr/akiba2/2026/10/29/033363.html",
@@ -30898,7 +30924,9 @@
       "summary_ko": "『STEINS;GATE RE:BOOT』 굿즈를 파는 공식 팝업이에요. 아크릴 스탠드·백의·T셔츠와 오사카 한정 당첨 캔배지가 있어요.",
       "thumb_small": "thumbs/6768e061db7300fd.webp",
       "image_fb": "gfb/6768e061db7300fd.webp",
-      "image_local": "img/6768e061db7300fd.webp"
+      "image_local": "img/6768e061db7300fd.webp",
+      "lat": 34.6624,
+      "lon": 135.5064
     },
     {
       "source_url": "https://www.curemaid.jp/collab_cafe/touhou2026autumn/",
@@ -30978,7 +31006,9 @@
       "added": "2026-10-30",
       "thumb_small": "thumbs/973ade7dba422d46.webp",
       "image_fb": "gfb/973ade7dba422d46.webp",
-      "image_local": "img/973ade7dba422d46.webp"
+      "image_local": "img/973ade7dba422d46.webp",
+      "lat": 35.6983,
+      "lon": 139.7725
     },
     {
       "source_url": "https://hakurei-sukeikai.com/autumn2026granentas/",
@@ -31052,7 +31082,9 @@
       "added": "2026-10-30",
       "thumb_small": "thumbs/26ff2904d8be5699.webp",
       "image_fb": "gfb/26ff2904d8be5699.webp",
-      "image_local": "img/26ff2904d8be5699.webp"
+      "image_local": "img/26ff2904d8be5699.webp",
+      "lat": 35.7303,
+      "lon": 139.7152
     },
     {
       "source_url": "https://www.animate.co.jp/onlyshop/51764/",
@@ -31089,7 +31121,9 @@
       "added": "2026-10-30",
       "thumb_small": "thumbs/26ff2904d8be5699.webp",
       "image_fb": "gfb/26ff2904d8be5699.webp",
-      "image_local": "img/26ff2904d8be5699.webp"
+      "image_local": "img/26ff2904d8be5699.webp",
+      "lat": 34.6605,
+      "lon": 135.5047
     },
     {
       "source_url": "https://www.animate.co.jp/onlyshop/51764/",
@@ -31237,7 +31271,9 @@
       "added": "2026-10-31",
       "thumb_small": "thumbs/2ce43f38dcff36bb.webp",
       "image_fb": "gfb/2ce43f38dcff36bb.webp",
-      "image_local": "img/2ce43f38dcff36bb.webp"
+      "image_local": "img/2ce43f38dcff36bb.webp",
+      "lat": 35.6995,
+      "lon": 139.7704
     },
     {
       "source_url": "https://www.cocollabo.net/pages/mayochu",
@@ -31301,7 +31337,14 @@
           "checked": "2026-10-31"
         }
       ],
-      "added": "2026-10-31"
+      "added": "2026-10-31",
+      "thumbnail": "https://korinojoheki-pr.com/wp/wp-content/themes/bda003df6be3/static/ogp.jpg",
+      "thumbnail_source": "https://korinojoheki-pr.com",
+      "lat": 35.6901,
+      "lon": 139.7061,
+      "thumb_small": "thumbs/a57a741fcb35e344.webp",
+      "image_fb": "gfb/a57a741fcb35e344.webp",
+      "image_local": "img/a57a741fcb35e344.webp"
     },
     {
       "source_url": "https://www.the-chara.com/blog/?p=121605",
@@ -31333,7 +31376,14 @@
           "checked": "2026-10-31"
         }
       ],
-      "added": "2026-10-31"
+      "added": "2026-10-31",
+      "thumbnail": "https://korinojoheki-pr.com/wp/wp-content/themes/bda003df6be3/static/ogp.jpg",
+      "thumbnail_source": "https://korinojoheki-pr.com",
+      "lat": 34.7047,
+      "lon": 135.4959,
+      "thumb_small": "thumbs/a57a741fcb35e344.webp",
+      "image_fb": "gfb/a57a741fcb35e344.webp",
+      "image_local": "img/a57a741fcb35e344.webp"
     },
     {
       "id": "osaka-drstone-popup-abeno-rakubasu",
@@ -31371,6 +31421,340 @@
       "thumb_small": "thumbs/6080e5829c7612d6.webp",
       "image_fb": "gfb/6080e5829c7612d6.webp",
       "image_local": "img/6080e5829c7612d6.webp"
+    },
+    {
+      "reservation": "불필요",
+      "price": "2,000엔(세금 포함)마다 특전 비주얼 카드 1장 (랜덤)",
+      "notes": "영업 11:00~20:00. 특전 1탄 11/7~11/18, 2탄 11/19~11/29. 나고야 PARCO 회차 12/5~12/20",
+      "checked_date": "2026-11-03",
+      "source_tier": "official",
+      "verified_at": "2026-11-03",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "tokyo-heroaca-10th-bones-popup-ikebukuro-packs",
+      "title_ko": "히로아카 애니 10주년 × bones store POP UP (이케부쿠로 PACKS)",
+      "title_ja": "「僕のヒーローアカデミア」10周年 × bones store POP UP 池袋PACKS",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "이케부쿠로 PACKS 3층",
+      "start": "2026-11-07",
+      "end": "2026-11-29",
+      "official_url": "https://www.bones-onlinestore.com/shop/pages/heroaca-10th-popup.aspx",
+      "map_query": "池袋PACKS",
+      "summary_ko": "「히로아카」 애니 10주년 bones store 팝업이에요. 정장 차림 A반 23명 새 비주얼 굿즈를 팔아요.",
+      "thumbnail": "https://www.bones-onlinestore.com/img/freepage/heroaca-10th-popup/img/img-ogp.jpg",
+      "gallery": [
+        {
+          "group": "상품·특전 (공식)",
+          "img": "https://www.bones-onlinestore.com/img/freepage/heroaca-10th-popup/img/benefit-img_1_resize.jpg",
+          "caption_ko": "구매 특전 비주얼 카드 1",
+          "source": "https://www.bones-onlinestore.com/shop/pages/heroaca-10th-popup.aspx",
+          "img_fb": "gfb/a87c2e5c72f77572.webp",
+          "img_local": "img/a87c2e5c72f77572.webp"
+        },
+        {
+          "group": "상품·특전 (공식)",
+          "img": "https://www.bones-onlinestore.com/img/freepage/heroaca-10th-popup/img/benefit-img_2_resize.jpg",
+          "caption_ko": "구매 특전 비주얼 카드 2",
+          "source": "https://www.bones-onlinestore.com/shop/pages/heroaca-10th-popup.aspx",
+          "img_fb": "gfb/83211875b4223278.webp",
+          "img_local": "img/83211875b4223278.webp"
+        },
+        {
+          "group": "상품·특전 (공식)",
+          "img": "https://www.bones-onlinestore.com/img/freepage/heroaca-10th-popup/img/benefit-img_3_resize.jpg",
+          "caption_ko": "구매 특전 비주얼 카드 3",
+          "source": "https://www.bones-onlinestore.com/shop/pages/heroaca-10th-popup.aspx",
+          "img_fb": "gfb/783eee83ec344a3a.webp",
+          "img_local": "img/783eee83ec344a3a.webp"
+        },
+        {
+          "group": "상품·특전 (공식)",
+          "img": "https://www.bones-onlinestore.com/img/freepage/heroaca-10th-popup/img/item-img_1_resize.jpg",
+          "caption_ko": "상품 1",
+          "source": "https://www.bones-onlinestore.com/shop/pages/heroaca-10th-popup.aspx",
+          "img_fb": "gfb/1c92dbfc68c3a709.webp",
+          "img_local": "img/1c92dbfc68c3a709.webp"
+        },
+        {
+          "group": "상품·특전 (공식)",
+          "img": "https://www.bones-onlinestore.com/img/freepage/heroaca-10th-popup/img/item-img_2_resize.jpg",
+          "caption_ko": "상품 2",
+          "source": "https://www.bones-onlinestore.com/shop/pages/heroaca-10th-popup.aspx",
+          "img_fb": "gfb/f58e1129715bb800.webp",
+          "img_local": "img/f58e1129715bb800.webp"
+        }
+      ],
+      "gallery_source": "https://www.bones-onlinestore.com/shop/pages/heroaca-10th-popup.aspx",
+      "source_url": "https://www.bones-onlinestore.com/shop/pages/heroaca-10th-popup.aspx",
+      "summary_source": "https://www.bones-onlinestore.com/shop/pages/heroaca-10th-popup.aspx",
+      "thumbnail_source": "https://www.bones-onlinestore.com/shop/pages/heroaca-10th-popup.aspx",
+      "evidence": [
+        {
+          "url": "https://www.bones-onlinestore.com/shop/pages/heroaca-10th-popup.aspx",
+          "tier": "official",
+          "quote": "池袋PACKS 開催期間 2026年11月7日(土)～11月29日(日) 開催店舗 池袋PACKS 3F 営業時間 11:00～20:00",
+          "checked": "2026-11-03"
+        }
+      ],
+      "lat": 35.7301,
+      "lon": 139.7176,
+      "thumb_small": "thumbs/cdb823222d0307d8.webp",
+      "image_fb": "gfb/cdb823222d0307d8.webp",
+      "image_local": "img/cdb823222d0307d8.webp"
+    },
+    {
+      "reservation": "확인되지 않음 (11/03 기준)",
+      "price": "",
+      "notes": "특전 배포 전반 11/11~11/20, 후반 11/21~11/30 (소진 시 종료). 교토 IP서점 회차 12/11~1/7",
+      "checked_date": "2026-11-03",
+      "source_tier": "official",
+      "verified_at": "2026-11-03",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "tokyo-shinycolors-yujofumetsu-shibuya-tsutaya",
+      "title_ko": "샤니마스 【우정불멸선언】 POP UP SHOP (시부야 츠타야)",
+      "title_ja": "TSUTAYA×THE IDOLM@STER SHINY COLORS【友情不滅宣言】POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "SHIBUYA TSUTAYA 6층 IP서점",
+      "start": "2026-11-11",
+      "end": "2026-11-30",
+      "official_url": "https://shibuyatsutaya.tsite.jp/article/2840.html",
+      "map_query": "SHIBUYA TSUTAYA",
+      "summary_ko": "「아이돌마스터 샤이니 컬러즈」 팝업이에요. 방과후 클라이맥스 걸즈 새 일러스트 굿즈와 미니 캐릭터 상품을 팔아요.",
+      "thumbnail": "https://shibuyatsutaya.tsite.jp/menu_files/article/000/002/840/article_images/article_resize.1008TSUTAYAxShiny04-KV%20.jpg",
+      "source_url": "https://shibuyatsutaya.tsite.jp/article/2840.html",
+      "summary_source": "https://shibuyatsutaya.tsite.jp/article/2840.html",
+      "thumbnail_source": "https://shibuyatsutaya.tsite.jp/article/2840.html",
+      "evidence": [
+        {
+          "url": "https://shibuyatsutaya.tsite.jp/article/2840.html",
+          "tier": "official",
+          "quote": "【開催期間】 2026年11月11日(水)～2026年11月30日(月) 【開催会場】 SHIBUYA TSUTAYA IP書店：東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA 6階",
+          "checked": "2026-11-03"
+        }
+      ],
+      "lat": 35.6571,
+      "lon": 139.7019,
+      "thumb_small": "thumbs/a2a3004c60d0d851.webp",
+      "image_fb": "gfb/a2a3004c60d0d851.webp",
+      "image_local": "img/a2a3004c60d0d851.webp"
+    },
+    {
+      "reservation": "확인되지 않음 (11/03 기준), 혼잡 시 정리권 배부 가능",
+      "price": "",
+      "notes": "영업 10:00~20:00. 게이머즈 난바점·하카타점에서도 11/20부터 소진 시까지 취급",
+      "checked_date": "2026-11-03",
+      "source_tier": "official",
+      "verified_at": "2026-11-03",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "tokyo-aonohako-sanrio-premiumshop-ikebukuro",
+      "title_ko": "아오노하코 × 산리오 캐릭터즈 PremiumShop (이케부쿠로)",
+      "title_ja": "TVアニメ『アオのハコ』×サンリオキャラクターズPremiumShop",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "POP Culture Style IKEBUKURO (이케부쿠로 스퀘어 au Style 2층)",
+      "start": "2026-11-20",
+      "end": "2026-12-16",
+      "official_url": "https://premiumshop.tokyo/aonohako/",
+      "map_query": "池袋スクエア",
+      "summary_ko": "「아오노하코」와 산리오 캐릭터즈 콜라보 숍이에요. 새로 그린 일러스트 2종 굿즈를 팔아요.",
+      "thumbnail": "https://premiumshop.tokyo/images/aonohako/main_aohako_toshin.webp",
+      "gallery": [
+        {
+          "group": "일러스트 (공식)",
+          "img": "https://premiumshop.tokyo/images/aonohako/main_aohako_toshin.webp",
+          "caption_ko": "새 일러스트 (등신)",
+          "source": "https://premiumshop.tokyo/aonohako/",
+          "img_fb": "gfb/23ede85c2344eecb.webp",
+          "img_local": "img/23ede85c2344eecb.webp"
+        },
+        {
+          "group": "일러스트 (공식)",
+          "img": "https://premiumshop.tokyo/images/aonohako/main_aohako_mini.webp",
+          "caption_ko": "새 일러스트 (미니)",
+          "source": "https://premiumshop.tokyo/aonohako/",
+          "img_fb": "gfb/68401397094b6972.webp",
+          "img_local": "img/68401397094b6972.webp"
+        }
+      ],
+      "gallery_source": "https://premiumshop.tokyo/aonohako/",
+      "source_url": "https://premiumshop.tokyo/aonohako/",
+      "summary_source": "https://premiumshop.tokyo/aonohako/",
+      "thumbnail_source": "https://premiumshop.tokyo/aonohako/",
+      "evidence": [
+        {
+          "url": "https://premiumshop.tokyo/aonohako/",
+          "tier": "official",
+          "quote": "開催会場 東京･POP Culture Style IKEBUKURO 開催期間 2026年11月20日(金)〜2026年12月16日(水) 営業時間 10:00～20:00",
+          "checked": "2026-11-03"
+        }
+      ],
+      "lat": 35.7297,
+      "lon": 139.7167,
+      "thumb_small": "thumbs/23ede85c2344eecb.webp",
+      "image_fb": "gfb/23ede85c2344eecb.webp",
+      "image_local": "img/23ede85c2344eecb.webp"
+    },
+    {
+      "reservation": "유료 입장권 (11/21~23 일시 지정)",
+      "price": "확인되지 않음 (11/03 기준)",
+      "notes": "개장 10:00~19:00",
+      "checked_date": "2026-11-03",
+      "source_tier": "official",
+      "verified_at": "2026-11-03",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "fukuoka-limbus-company-exhibition-mitsukoshi",
+      "title_ko": "림버스 컴퍼니 -지옥편- 전시 (후쿠오카 미쓰코시)",
+      "title_ja": "Limbus Company -地獄篇- EXHIBITION 福岡会場",
+      "category": "전시·행사",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "후쿠오카 미쓰코시 9층 미쓰코시 갤러리",
+      "start": "2026-11-21",
+      "end": "2026-12-13",
+      "official_url": "https://limbuscompany-ex.com/",
+      "map_query": "福岡三越",
+      "summary_ko": "게임 「림버스 컴퍼니」 지옥편 전시의 후쿠오카 회차예요. 도쿄·서울·오사카에 이어 열려요.",
+      "thumbnail": "https://limbuscompany-ex.com/ogp.png",
+      "source_url": "https://limbuscompany-ex.com/",
+      "summary_source": "https://limbuscompany-ex.com/",
+      "thumbnail_source": "https://limbuscompany-ex.com/",
+      "evidence": [
+        {
+          "url": "https://limbuscompany-ex.com/",
+          "tier": "official",
+          "quote": "福岡会場 開催期間 2026年11月21日（土）～2026年12月13日（日） 会場 福岡三越 福岡三越9F 三越ギャラリー 開催時間 10:00～19:00",
+          "checked": "2026-11-03"
+        }
+      ],
+      "lat": 33.5887,
+      "lon": 130.4002,
+      "thumb_small": "thumbs/69138499c8709bd1.webp",
+      "image_local": "img/69138499c8709bd1.webp"
+    },
+    {
+      "reservation": "사전 예약제 (LivePocket 1차 추첨: 매주 수 18시~목 24시)",
+      "price": "",
+      "notes": "나고야·도쿠시마·기타큐슈 매장도 같은 기간 (도쿠시마·기타큐슈는 자유 입장)",
+      "checked_date": "2026-11-03",
+      "source_tier": "official",
+      "verified_at": "2026-11-03",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "tokyo-kimetsu-rerun-cafe-mugen-train-2",
+      "title_ko": "귀멸의 칼날 전편 재방송 콜라보 카페 ~맺은 인연~ 무한열차편 2기 (도쿄)",
+      "title_ja": "テレビアニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ縁～ 無限列車編 第2期",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "ufotable Cafe Tokyo / 마치★아소비 CAFE 도쿄 (나카노구 노가타)",
+      "start": "2026-11-03",
+      "end": "2026-11-23",
+      "official_url": "https://www.ufotable.co.jp/cafe/reservation/",
+      "map_query": "ufotable Cafe Tokyo",
+      "summary_ko": "「귀멸의 칼날」 재방송 연동 콜라보 카페 무한열차편 2기예요. 상현 3·렌고쿠 테마 메뉴와 굿즈가 나와요.",
+      "source_url": "https://www.ufotable.co.jp/cafe/reservation/",
+      "summary_source": "https://www.ufotable.co.jp/cafe/reservation/",
+      "evidence": [
+        {
+          "url": "https://www.ufotable.co.jp/cafe/reservation/",
+          "tier": "official",
+          "quote": "テレビアニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ縁～ 2026年11月03日(火) ～ 11月23日(月) ▼ 事前予約制店舗 ufotable Cafe Tokyo / マチ★アソビCAFE東京 … ufotable Cafe＆マチ★アソビCAFE大阪",
+          "checked": "2026-11-03"
+        }
+      ],
+      "lat": 35.7096,
+      "lon": 139.6549
+    },
+    {
+      "reservation": "사전 예약제 (LivePocket 1차 추첨: 매주 수 18시~목 24시)",
+      "price": "",
+      "notes": "나고야·도쿠시마·기타큐슈 매장도 같은 기간 (도쿠시마·기타큐슈는 자유 입장)",
+      "checked_date": "2026-11-03",
+      "source_tier": "official",
+      "verified_at": "2026-11-03",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "osaka-kimetsu-rerun-cafe-mugen-train-2",
+      "title_ko": "귀멸의 칼날 전편 재방송 콜라보 카페 ~맺은 인연~ 무한열차편 2기 (오사카)",
+      "title_ja": "テレビアニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ縁～ 無限列車編 第2期",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "ufotable Cafe Osaka / 마치★아소비 CAFE 오사카",
+      "start": "2026-11-03",
+      "end": "2026-11-23",
+      "official_url": "https://www.ufotable.co.jp/cafe/reservation/",
+      "map_query": "ufotable Cafe Osaka",
+      "summary_ko": "「귀멸의 칼날」 재방송 연동 콜라보 카페 무한열차편 2기예요. 상현 3·렌고쿠 테마 메뉴와 굿즈가 나와요.",
+      "source_url": "https://www.ufotable.co.jp/cafe/reservation/",
+      "summary_source": "https://www.ufotable.co.jp/cafe/reservation/",
+      "evidence": [
+        {
+          "url": "https://www.ufotable.co.jp/cafe/reservation/",
+          "tier": "official",
+          "quote": "テレビアニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ縁～ 2026年11月03日(火) ～ 11月23日(月) ▼ 事前予約制店舗 ufotable Cafe Tokyo / マチ★アソビCAFE東京 … ufotable Cafe＆マチ★アソビCAFE大阪",
+          "checked": "2026-11-03"
+        }
+      ],
+      "lat": 34.6611,
+      "lon": 135.5075
+    },
+    {
+      "reservation": "불필요",
+      "price": "1회 300엔",
+      "notes": "발매 시기: 2026년 11월 (예정, 주차 미정). 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-11-03",
+      "source_tier": "official",
+      "verified_at": "2026-11-03",
+      "translation_check": true,
+      "added": "2026-11-03",
+      "id": "all-gacha-pokemon30-metalcharm-eevee",
+      "title_ko": "포켓몬 30주년 메탈 참 마스코트 이브이 프렌즈 (가챠)",
+      "title_ja": "ポケモン 30周年 メタルチャームマスコット イーブイフレンズ",
+      "category": "가챠",
+      "area": "전국",
+      "region": "all",
+      "venue": "전국 판매처 (가챠 코너 등)",
+      "start": "2026-11-01",
+      "end": null,
+      "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y905575",
+      "date_label": "11월 발매 예정 (주차 미정, 지역·매장별 상이)",
+      "thumb_kind": "product",
+      "summary_ko": "「포켓몬」 30주년 메탈 참 가챠 5탄, 이브이 프렌즈예요. 1회 300엔이에요.",
+      "thumbnail": "https://www.takaratomy-arts.co.jp/upfiles/products/Y905575_b.jpg",
+      "gallery": [
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://www.takaratomy-arts.co.jp/upfiles/products/Y905575_b.jpg",
+          "caption_ko": "메인 이미지",
+          "source": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y905575",
+          "img_fb": "gfb/58c53b9de2028f0c.webp",
+          "img_local": "img/58c53b9de2028f0c.webp"
+        }
+      ],
+      "gallery_source": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y905575",
+      "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y905575",
+      "summary_source": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y905575",
+      "thumbnail_source": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y905575",
+      "evidence": [
+        {
+          "url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y905575",
+          "tier": "official",
+          "quote": "●価格：300円(税込) ■発売時期:2026年11月（予定）",
+          "checked": "2026-11-03"
+        }
+      ],
+      "thumb_small": "thumbs/58c53b9de2028f0c.webp",
+      "image_fb": "gfb/58c53b9de2028f0c.webp",
+      "image_local": "img/58c53b9de2028f0c.webp"
     }
   ]
 }
