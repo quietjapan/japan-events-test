@@ -9288,7 +9288,7 @@
       "id": "drstone-shinjuku",
       "area": "도쿄",
       "reservation": "불필요",
-      "checked_date": "2026-10-21",
+      "checked_date": "2026-11-02",
       "evidence": [
         {
           "url": "https://eeo.today/pr/dr_stone2611-popup/",
@@ -9311,7 +9311,7 @@
       "start": "2026-11-26",
       "end": "2026-12-09",
       "official_url": "https://eeo.today/pr/dr_stone2611-popup/",
-      "notes": "12:00~20:00 (마지막 날 18:00까지). 2,200엔(세금 포함) 구매마다 일러스트 카드(전 5종) 랜덤 1장. 혼잡 시 입장 정리권. 오사카 아베노 라쿠바스는 2027/1/15~1/24",
+      "notes": "12:00~20:00 (마지막 날 18:00까지). 매장 구매 특전은 확인되지 않음 (11/02 기준). 2,200엔(세금 포함)마다 일러스트 카드(전 5종) 랜덤 1장은 공식 페이지에 통판(특전 포함 동시 통판 11/26~12/9) 특전으로 안내돼 있어요. 혼잡 시 입장 정리권. 오사카 아베노 라쿠바스는 2027/1/15~1/24",
       "map_query": "JR新宿駅 新宿マーケットスペース",
       "lat": 35.6905,
       "lon": 139.7005,
@@ -9332,10 +9332,10 @@
           "group": "특전",
           "img": "https://eeo.today/pr/dr_stone2611-popup/assets/images/special.webp",
           "full": "https://eeo.today/pr/dr_stone2611-popup/assets/images/special.webp",
-          "caption_ko": "구매 특전 일러스트 카드",
+          "caption_ko": "통판 구매 특전 일러스트 카드",
           "source": "https://eeo.today/pr/dr_stone2611-popup/",
           "caption_ja": "購入特典イラストカード",
-          "kinds": "전 5종 · 2,200엔(세금 포함)마다 랜덤 1장",
+          "kinds": "전 5종 · 통판 2,200엔(세금 포함)마다 랜덤 1장",
           "img_fb": "gfb/4b995e70e7b50ff4.webp",
           "img_local": "img/4b995e70e7b50ff4.webp"
         }
