@@ -3,6 +3,7 @@
 set -e
 cd "$(dirname "$0")/.."
 python3 tools/added.py --backfill  # 새 항목에 added(처음 올라간 날, KST) 자동 기입 — 기존 값은 안 바꿈
+python3 tools/geo.py         # 좌표: data/venues.json 매장 사전 → 국토지리원/OSM 주소 지오코딩 (lat 없을 때만)
 python3 tools/mkthumbs.py    # 카드 썸네일 thumbs/*.webp (480px)
 python3 tools/mkfallback.py  # 작은 대체본 gfb/*.webp
 python3 tools/mkimg.py       # 원본 대표·갤러리 이미지 자체 보관 img/*.webp (최대 1200/1000px)

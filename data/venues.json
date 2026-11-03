@@ -1,0 +1,288 @@
+{
+  "_note": "자주 나오는 매장 주소·좌표 사전. keys 중 하나가 map_query/venue에 들어 있으면 적용. 주소는 공식 매장 페이지 기준.",
+  "venues": [
+    {
+      "keys": [
+        "アニメイト池袋本店",
+        "애니메이트 이케부쿠로 본점",
+        "애니메이트 그라테 이케부쿠로"
+      ],
+      "address": "東京都豊島区東池袋1-20-7",
+      "lat": 35.7303,
+      "lon": 139.7152,
+      "source": "https://www.animate.co.jp/shop/"
+    },
+    {
+      "keys": [
+        "アニメイト秋葉原",
+        "애니메이트 아키하바라",
+        "アニメイト秋葉原ANNEX",
+        "부시로드 크리에이티브 스토어 아키하바라"
+      ],
+      "address": "東京都千代田区外神田4-3-1",
+      "lat": 35.6987,
+      "lon": 139.7712,
+      "source": "https://www.animate.co.jp/shop/akihabara/"
+    },
+    {
+      "keys": [
+        "アニメイト大阪日本橋",
+        "애니메이트 오사카 닛폰바시",
+        "애니메이트 그라테 오사카"
+      ],
+      "address": "大阪府大阪市浪速区日本橋西1-1-3",
+      "lat": 34.6605,
+      "lon": 135.5047,
+      "source": "https://www.animate.co.jp/shop/"
+    },
+    {
+      "keys": [
+        "アニメイト梅田",
+        "애니메이트 우메다"
+      ],
+      "address": "大阪府大阪市北区茶屋町10-12 NU茶屋町3階",
+      "lat": 34.7047,
+      "lon": 135.4959,
+      "source": "https://www.animate.co.jp/shop/"
+    },
+    {
+      "keys": [
+        "ラシック福岡天神",
+        "ラシック",
+        "アニメイトラシック",
+        "애니메이트 라식"
+      ],
+      "address": "福岡県福岡市中央区天神2-1-1 ラシック福岡天神8階",
+      "lat": 33.587925,
+      "lon": 130.400894,
+      "source": "https://www.animate.co.jp/shop/"
+    },
+    {
+      "keys": [
+        "コトブキヤ秋葉原館",
+        "고토부키야 아키하바라",
+        "코토부키야 아키하바라"
+      ],
+      "address": "東京都千代田区外神田1-8-8 岡嶋ビル",
+      "lat": 35.699265,
+      "lon": 139.770554,
+      "source": "https://www.kotobukiya.co.jp/kotobukiya-shop/"
+    },
+    {
+      "keys": [
+        "コトブキヤ日本橋",
+        "고토부키야 닛폰바시",
+        "코토부키야 닛폰바시"
+      ],
+      "address": "大阪府大阪市浪速区日本橋4-15-18",
+      "lat": 34.66098,
+      "lon": 135.50496,
+      "source": "https://www.kotobukiya.co.jp/kotobukiya-shop/"
+    },
+    {
+      "keys": [
+        "コトブキヤなんば"
+      ],
+      "address": "大阪府大阪市中央区難波千日前7-10",
+      "lat": 34.66324,
+      "lon": 135.50439,
+      "source": "https://www.kotobukiya.co.jp/kotobukiya-shop/"
+    },
+    {
+      "keys": [
+        "AKIHABARAゲーマーズ本店",
+        "AKIHABARA 게이머즈"
+      ],
+      "address": "AKIHABARAゲーマーズ本店",
+      "lat": 35.698284,
+      "lon": 139.771698,
+      "source": "existing"
+    },
+    {
+      "keys": [
+        "ゲーマーズなんば",
+        "게이머즈 난바"
+      ],
+      "address": "大阪府大阪市浪速区日本橋3-8-16",
+      "lat": 34.66174,
+      "lon": 135.50501,
+      "source": "https://www.gamers.co.jp/shop/detail.php?id=13"
+    },
+    {
+      "keys": [
+        "ゲーマーズ博多",
+        "게이머즈 하카타"
+      ],
+      "address": "ゲーマーズ博多店",
+      "lat": 33.5903,
+      "lon": 130.4196,
+      "source": "existing"
+    },
+    {
+      "keys": [
+        "HMV&BOOKS NAMBA",
+        "なんばマルイ",
+        "난바 마루이"
+      ],
+      "address": "大阪府大阪市中央区難波3-8-9",
+      "lat": 34.6655,
+      "lon": 135.5008,
+      "source": "https://www.hmv.co.jp/store/list"
+    },
+    {
+      "keys": [
+        "HMV&BOOKS HAKATA",
+        "博多マルイ",
+        "하카타 마루이"
+      ],
+      "address": "福岡県福岡市博多区博多駅中央街9-1",
+      "lat": 33.58884,
+      "lon": 130.419357,
+      "source": "https://www.hmv.co.jp/store/list"
+    },
+    {
+      "keys": [
+        "なんばロフト",
+        "난바 로프트",
+        "なんばパークス"
+      ],
+      "address": "なんばパークス",
+      "lat": 34.6617,
+      "lon": 135.5021,
+      "source": "existing"
+    },
+    {
+      "keys": [
+        "ららぽーと福岡"
+      ],
+      "address": "福岡県福岡市博多区那珂6-23-1",
+      "lat": 33.56498,
+      "lon": 130.43869,
+      "source": "https://mitsui-shopping-park.com/lalaport/fukuoka/access/"
+    },
+    {
+      "keys": [
+        "有楽町マルイ",
+        "유라쿠초 마루이"
+      ],
+      "address": "有楽町マルイ",
+      "lat": 35.674213,
+      "lon": 139.763657,
+      "source": "existing"
+    },
+    {
+      "keys": [
+        "渋谷モディ",
+        "시부야 모디",
+        "시부야 MODI"
+      ],
+      "address": "東京都渋谷区神南1-21-3",
+      "lat": 35.6618,
+      "lon": 139.7007,
+      "source": "https://www.hmv.co.jp/store/list"
+    },
+    {
+      "keys": [
+        "紀伊國屋書店新宿本店",
+        "기노쿠니야 서점 신주쿠 본점"
+      ],
+      "address": "紀伊國屋書店新宿本店",
+      "lat": 35.692,
+      "lon": 139.7036,
+      "source": "existing"
+    },
+    {
+      "keys": [
+        "ボークス秋葉原ホビー天国2",
+        "보크스 아키하바라",
+        "볼크스 아키하바라"
+      ],
+      "address": "ボークス秋葉原ホビー天国2",
+      "lat": 35.700043,
+      "lon": 139.771683,
+      "source": "existing"
+    },
+    {
+      "keys": [
+        "あべのHoop",
+        "아베노 Hoop",
+        "아베노 라쿠바스"
+      ],
+      "address": "あべのHoop",
+      "lat": 34.6451,
+      "lon": 135.5137,
+      "source": "existing"
+    },
+    {
+      "keys": [
+        "池袋PACKS",
+        "이케부쿠로 PACKS"
+      ],
+      "address": "東京都豊島区東池袋3-2-1",
+      "lat": 35.7301,
+      "lon": 139.7176,
+      "source": "existing"
+    },
+    {
+      "keys": [
+        "aune",
+        "東池袋1-21-13"
+      ],
+      "address": "東京都豊島区東池袋1-21-13",
+      "lat": 35.73066,
+      "lon": 139.71597,
+      "source": "map_query"
+    },
+    {
+      "keys": [
+        "ufotable DINING"
+      ],
+      "address": "東京都新宿区新宿3-9-1",
+      "lat": 35.69096,
+      "lon": 139.70671,
+      "source": "https://www.ufotable.com/dining/"
+    },
+    {
+      "keys": [
+        "キャラウムカフェ",
+        "캐라움 카페"
+      ],
+      "address": "東京都豊島区東池袋1-29-1",
+      "lat": 35.73029,
+      "lon": 139.71652,
+      "source": "https://charaum.com/"
+    },
+    {
+      "keys": [
+        "STELLAMAP",
+        "ソフマップ AKIBA アミューズメント館",
+        "소프맵 AKIBA"
+      ],
+      "address": "東京都千代田区外神田1-10-8",
+      "lat": 35.6989,
+      "lon": 139.7711,
+      "source": "https://cafecreates.com/stellamapcafe/"
+    },
+    {
+      "keys": [
+        "オノデンビル",
+        "오노덴 빌딩"
+      ],
+      "address": "東京都千代田区外神田1-2-7",
+      "lat": 35.69835,
+      "lon": 139.77107,
+      "source": "http://www.curemaid.jp/"
+    },
+    {
+      "keys": [
+        "新宿マルイ アネックス",
+        "新宿マルイアネックス",
+        "신주쿠 마루이 아넥스"
+      ],
+      "address": "東京都新宿区新宿3-1-26",
+      "lat": 35.6901,
+      "lon": 139.706,
+      "source": "existing"
+    }
+  ]
+}

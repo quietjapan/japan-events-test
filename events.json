@@ -18660,7 +18660,10 @@
       "thumb_small": "thumbs/b8446ae4f965de86.webp",
       "image_fb": "gfb/b8446ae4f965de86.webp",
       "image_local": "img/b8446ae4f965de86.webp",
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "map_query": "東京都豊島区東池袋1-20-7",
+      "lat": 35.7303,
+      "lon": 139.7152
     },
     {
       "id": "osaka-meicho-gratte3",
@@ -18696,7 +18699,10 @@
       "thumb_small": "thumbs/b8446ae4f965de86.webp",
       "image_fb": "gfb/b8446ae4f965de86.webp",
       "image_local": "img/b8446ae4f965de86.webp",
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "map_query": "大阪府大阪市浪速区日本橋西1-1-3",
+      "lat": 34.6605,
+      "lon": 135.5047
     },
     {
       "id": "servamp-idol-popup-amnibus-white",
@@ -21648,7 +21654,7 @@
       "venue": "코토부키야 닛폰바시점",
       "start": "2026-12-04",
       "end": "2026-12-20",
-      "map_query": "コトブキヤ日本橋",
+      "map_query": "大阪府大阪市浪速区日本橋4-15-18",
       "notes": "도쿄 아키하바라관(11/6~11/23)에 이은 오사카 회장",
       "evidence": [
         {
@@ -21661,7 +21667,9 @@
       "thumb_small": "thumbs/382d7974adb5f3d5.webp",
       "image_local": "img/382d7974adb5f3d5.webp",
       "image_fb": "gfb/382d7974adb5f3d5.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "lat": 34.66098,
+      "lon": 135.50496
     },
     {
       "reservation": "추첨 예약",
@@ -21681,7 +21689,7 @@
       "end": "2026-12-16",
       "official_url": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
       "source_url": "https://www.ufotable.co.jp/kimetsu/event/demonspickup/return2026/",
-      "map_query": "ufotable DINING 東京都千代田区",
+      "map_query": "東京都新宿区新宿3-9-1",
       "notes": "MOCKTAIL BAR GINZA는 10/16부터. 입점은 ufotable Ticket 추첨 예약",
       "evidence": [
         {
@@ -21752,7 +21760,9 @@
       "thumb_small": "thumbs/8e02278b224d5877.webp",
       "image_local": "img/8e02278b224d5877.webp",
       "image_fb": "gfb/8e02278b224d5877.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "lat": 35.69096,
+      "lon": 139.70671
     },
     {
       "reservation": "",
@@ -22421,7 +22431,9 @@
       "thumb_small": "thumbs/c32de844ecdb8adb.webp",
       "image_local": "img/c32de844ecdb8adb.webp",
       "image_fb": "gfb/c32de844ecdb8adb.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "lat": 35.73066,
+      "lon": 139.71597
     },
     {
       "reservation": "추첨 예약",
@@ -22545,7 +22557,9 @@
       "thumb_small": "thumbs/cabb49d71864eef7.webp",
       "image_local": "img/cabb49d71864eef7.webp",
       "image_fb": "gfb/cabb49d71864eef7.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "lat": 35.7301,
+      "lon": 139.7176
     },
     {
       "reservation": "",
@@ -22666,7 +22680,9 @@
       "image_local": "img/ca3ea92b09861394.webp",
       "image_fb": "gfb/ca3ea92b09861394.webp",
       "added": "2026-10-25",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "lat": 35.7301,
+      "lon": 139.7176
     },
     {
       "reservation": "추첨 예약",
@@ -25788,7 +25804,7 @@
       "start": "2026-11-06",
       "end": "2026-11-29",
       "official_url": "https://www.medicos-e.net/newsdetail/saikikusuo_cafe/",
-      "map_query": "キャラウムカフェ 池袋 マルビル",
+      "map_query": "東京都豊島区東池袋1-29-1",
       "thumbnail": "https://www.medicos-e.net/wp-content/uploads/2026/10/261c930a385640b332158bdecac67863-1024x724.jpg",
       "image_fit": "contain",
       "summary_ko": "「사이키 쿠스오의 재난」 콜라보 카페 도쿄 회장이에요. 작품 테마 메뉴와 카페 한정 굿즈가 나와요.",
@@ -25900,7 +25916,9 @@
       "thumb_small": "thumbs/677b5561c759579c.webp",
       "image_fb": "gfb/677b5561c759579c.webp",
       "image_local": "img/677b5561c759579c.webp",
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "lat": 35.73029,
+      "lon": 139.71652
     },
     {
       "reservation": "",
@@ -25996,7 +26014,7 @@
       "start": "2026-10-30",
       "end": "2026-11-29",
       "official_url": "https://www.animate.co.jp/gratte/51483/",
-      "map_query": "ラシック福岡天神",
+      "map_query": "福岡県福岡市中央区天神2-1-1 ラシック福岡天神8階",
       "thumbnail": "https://www.animate.co.jp/assets/uploads/2027/10/1792144033-501b1b753eb46691fadea5499491f89a-1920x1356.jpg",
       "summary_ko": "게임 「명조」 할로윈 테마 라테·쿠키·아이스를 파는 콜라보예요. 후쿠오카는 라식 후쿠오카 텐진 매장에서 열려요.",
       "source_url": "https://www.animate.co.jp/gratte/51483/",
@@ -26014,7 +26032,9 @@
       "thumb_small": "thumbs/b8446ae4f965de86.webp",
       "image_fb": "gfb/b8446ae4f965de86.webp",
       "image_local": "img/b8446ae4f965de86.webp",
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "lat": 33.587925,
+      "lon": 130.400894
     },
     {
       "reservation": "",
@@ -26257,7 +26277,7 @@
       "start": "2026-11-14",
       "end": "2026-11-29",
       "official_url": "https://event.amnibus.com/hozuki-animate/",
-      "map_query": "ラシック福岡天神",
+      "map_query": "福岡県福岡市中央区天神2-1-1 ラシック福岡天神8階",
       "thumbnail": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/a6e65f62f6ee5189e919a8cbe36480c4.jpg",
       "image_fit": "contain",
       "summary_ko": "「호오즈키의 냉철」 연재 15주년 특별 전시 후쿠오카 회장이에요. '화장(和装) 어레인지' 신규 일러스트 굿즈를 먼저 팔아요.",
@@ -26276,7 +26296,9 @@
       "thumb_small": "thumbs/754ec03ff1cb4ffe.webp",
       "image_fb": "gfb/754ec03ff1cb4ffe.webp",
       "image_local": "img/754ec03ff1cb4ffe.webp",
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "lat": 33.587925,
+      "lon": 130.400894
     },
     {
       "reservation": "",
@@ -26294,7 +26316,7 @@
       "start": "2026-11-06",
       "end": "2026-11-15",
       "official_url": "https://www.hmv.co.jp/news/article/260910142/",
-      "map_query": "HMV&BOOKS NAMBA",
+      "map_query": "大阪府大阪市中央区難波3-8-9",
       "thumbnail": "https://img.hmv.co.jp/hybridimage/news/images/26/0910/142/headline_L.jpeg",
       "image_fit": "contain",
       "summary_ko": "TV애니 「힘내라! 나카무라 군!!」 팝업이에요. 새로 그린 미니 캐릭터 굿즈가 나오고 HMV 4개 매장을 순회해요.",
@@ -26325,7 +26347,9 @@
         }
       ],
       "gallery_source": "https://www.hmv.co.jp/news/article/260910142/",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "lat": 34.6655,
+      "lon": 135.5008
     },
     {
       "reservation": "",
@@ -26343,7 +26367,7 @@
       "start": "2026-11-20",
       "end": "2026-11-29",
       "official_url": "https://www.hmv.co.jp/news/article/260910142/",
-      "map_query": "HMV&BOOKS HAKATA",
+      "map_query": "福岡県福岡市博多区博多駅中央街9-1",
       "thumbnail": "https://img.hmv.co.jp/hybridimage/news/images/26/0910/142/headline_L.jpeg",
       "image_fit": "contain",
       "summary_ko": "TV애니 「힘내라! 나카무라 군!!」 팝업이에요. 새로 그린 미니 캐릭터 굿즈가 나오고 HMV 4개 매장을 순회해요.",
@@ -26374,7 +26398,9 @@
         }
       ],
       "gallery_source": "https://www.hmv.co.jp/news/article/260910142/",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "lat": 33.58884,
+      "lon": 130.419357
     },
     {
       "reservation": "",
@@ -26450,7 +26476,9 @@
       "thumb_small": "thumbs/7029fe24369eb14f.webp",
       "image_fb": "gfb/7029fe24369eb14f.webp",
       "image_local": "img/7029fe24369eb14f.webp",
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "lat": 34.6617,
+      "lon": 135.5021
     },
     {
       "reservation": "",
@@ -26468,7 +26496,7 @@
       "start": "2026-12-10",
       "end": "2026-12-20",
       "official_url": "https://hapi-pop.com/PH/",
-      "map_query": "ららぽーと福岡 ロフト",
+      "map_query": "福岡県福岡市博多区那珂6-23-1",
       "thumbnail": "https://hapi-pop.com/PH/assets/images/mainimg_pc.png",
       "image_fit": "contain",
       "summary_ko": "「뿌요뿌요」와 산리오 남자아이 유닛 「하피단V」(포차코·턱시도샘 등) 콜라보 굿즈 팝업이에요. 도쿄→오사카→후쿠오카 순으로 순회해요.",
@@ -26487,7 +26515,9 @@
       "thumb_small": "thumbs/7029fe24369eb14f.webp",
       "image_fb": "gfb/7029fe24369eb14f.webp",
       "image_local": "img/7029fe24369eb14f.webp",
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "lat": 33.56498,
+      "lon": 130.43869
     },
     {
       "title_ko": "원피스 「원피의 열매」 제27해전 (가챠)",
@@ -27079,7 +27109,9 @@
       "added": "2026-10-27",
       "thumb_small": "thumbs/8ee0197792661337.webp",
       "image_fb": "gfb/8ee0197792661337.webp",
-      "image_local": "img/8ee0197792661337.webp"
+      "image_local": "img/8ee0197792661337.webp",
+      "lat": 35.674213,
+      "lon": 139.763657
     },
     {
       "id": "osaka-sirotan-kanahei-popup-namba-marui",
@@ -27137,7 +27169,7 @@
       "checked_date": "2026-10-27",
       "thumbnail": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202611_mahoako/kvb2.png",
       "thumbnail_source": "https://www.kotobukiya.co.jp/event/detail/1403/",
-      "map_query": "コトブキヤ秋葉原館",
+      "map_query": "東京都千代田区外神田1-8-8 岡嶋ビル",
       "evidence": [
         {
           "url": "https://www.kotobukiya.co.jp/event/detail/1403/",
@@ -27155,7 +27187,9 @@
       "added": "2026-10-27",
       "thumb_small": "thumbs/3db52431d84ce370.webp",
       "image_fb": "gfb/3db52431d84ce370.webp",
-      "image_local": "img/3db52431d84ce370.webp"
+      "image_local": "img/3db52431d84ce370.webp",
+      "lat": 35.699265,
+      "lon": 139.770554
     },
     {
       "id": "osaka-mahoako-popup-kotobukiya-nipponbashi",
@@ -27174,7 +27208,7 @@
       "checked_date": "2026-10-27",
       "thumbnail": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202611_mahoako/kvb2.png",
       "thumbnail_source": "https://www.kotobukiya.co.jp/event/detail/1403/",
-      "map_query": "コトブキヤ日本橋",
+      "map_query": "大阪府大阪市浪速区日本橋4-15-18",
       "evidence": [
         {
           "url": "https://www.kotobukiya.co.jp/event/detail/1403/",
@@ -27192,7 +27226,9 @@
       "added": "2026-10-27",
       "thumb_small": "thumbs/3db52431d84ce370.webp",
       "image_fb": "gfb/3db52431d84ce370.webp",
-      "image_local": "img/3db52431d84ce370.webp"
+      "image_local": "img/3db52431d84ce370.webp",
+      "lat": 34.66098,
+      "lon": 135.50496
     },
     {
       "id": "osaka-haikyu-wakuwaku-bunkasai-popup-namba-marui",
@@ -27268,7 +27304,9 @@
       "added": "2026-10-27",
       "thumb_small": "thumbs/47fea98cf7b75b6e.webp",
       "image_fb": "gfb/47fea98cf7b75b6e.webp",
-      "image_local": "img/47fea98cf7b75b6e.webp"
+      "image_local": "img/47fea98cf7b75b6e.webp",
+      "lat": 35.6987,
+      "lon": 139.7712
     },
     {
       "id": "tokyo-mairuma-animate-fair-2026",
@@ -27365,7 +27403,7 @@
       "checked_date": "2026-10-27",
       "thumbnail": "https://prcdn.freetls.fastly.net/release_image/16064/9564/16064-9564-eea2cd4a9b62a7f68214efe20413cc27-1140x640.jpg",
       "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000009564.000016064.html",
-      "map_query": "ラシック 福岡",
+      "map_query": "福岡県福岡市中央区天神2-1-1 ラシック福岡天神8階",
       "evidence": [
         {
           "url": "https://prtimes.jp/main/html/rd/p/000009564.000016064.html",
@@ -27383,7 +27421,9 @@
       "added": "2026-10-27",
       "thumb_small": "thumbs/154408140c495cfd.webp",
       "image_fb": "gfb/154408140c495cfd.webp",
-      "image_local": "img/154408140c495cfd.webp"
+      "image_local": "img/154408140c495cfd.webp",
+      "lat": 33.587925,
+      "lon": 130.400894
     },
     {
       "id": "tokyo-booska-60th-popup-lumine-est",
@@ -27440,7 +27480,7 @@
       "checked_date": "2026-10-28",
       "thumbnail": "https://www.sofmap.com/tenpo/stellamap/img/collaboration/re_zero/ogp.jpg?1002",
       "thumbnail_source": "https://www.sofmap.com/pages/?id=stellamap_cafe&sid=re_zero_2610",
-      "map_query": "アニメガ×ソフマップ AKIBA アミューズメント館",
+      "map_query": "東京都千代田区外神田1-10-8",
       "evidence": [
         {
           "url": "https://www.sofmap.com/pages/?id=stellamap_cafe&sid=re_zero_2610",
@@ -27458,7 +27498,9 @@
       "added": "2026-10-28",
       "thumb_small": "thumbs/cf5d7685f396949f.webp",
       "image_fb": "gfb/cf5d7685f396949f.webp",
-      "image_local": "img/cf5d7685f396949f.webp"
+      "image_local": "img/cf5d7685f396949f.webp",
+      "lat": 35.6989,
+      "lon": 139.7711
     },
     {
       "id": "tokyo-graniph-chainsawman-reze-collab",
@@ -27516,7 +27558,7 @@
       "checked_date": "2026-10-28",
       "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/09/1789538212-f0e194a700c82463da891970a9790c22.jpg",
       "thumbnail_source": "https://www.animate.co.jp/onlyshop/48795/",
-      "map_query": "アニメイト秋葉原2号館",
+      "map_query": "東京都千代田区外神田4-3-1",
       "evidence": [
         {
           "url": "https://www.animate.co.jp/onlyshop/48795/",
@@ -27534,7 +27576,9 @@
       "added": "2026-10-28",
       "thumb_small": "thumbs/c56cee31883c7b3c.webp",
       "image_fb": "gfb/c56cee31883c7b3c.webp",
-      "image_local": "img/c56cee31883c7b3c.webp"
+      "image_local": "img/c56cee31883c7b3c.webp",
+      "lat": 35.6987,
+      "lon": 139.7712
     },
     {
       "id": "osaka-revuestarlight-9th-fair-animate",
@@ -27669,7 +27713,7 @@
       "checked_date": "2026-10-28",
       "thumbnail": "https://amnibus-store.s3.amazonaws.com/wp-content/uploads/391d53708910ba240850f951d4933110-1.jpg",
       "thumbnail_source": "https://store.amnibus.com/teiichinokuni-storegreen/",
-      "map_query": "渋谷モディ",
+      "map_query": "東京都渋谷区神南1-21-3",
       "evidence": [
         {
           "url": "https://store.amnibus.com/teiichinokuni-storegreen/",
@@ -27687,7 +27731,9 @@
       "added": "2026-10-28",
       "thumb_small": "thumbs/535d08bb6c474629.webp",
       "image_fb": "gfb/535d08bb6c474629.webp",
-      "image_local": "img/535d08bb6c474629.webp"
+      "image_local": "img/535d08bb6c474629.webp",
+      "lat": 35.6618,
+      "lon": 139.7007
     },
     {
       "id": "tokyo-moment-ameiro-11th-cafe-ikebukuro",
@@ -27744,7 +27790,7 @@
       "checked_date": "2026-10-28",
       "thumbnail": "https://www.sofmap.com/tenpo/stellamap/img/collaboration/tokyorevengers/ogp.jpg",
       "thumbnail_source": "https://www.sofmap.com/pages/?id=stellamap_cafe&sid=tokyorevengers_2611",
-      "map_query": "STELLAMAP CAFE 秋葉原",
+      "map_query": "東京都千代田区外神田1-10-8",
       "evidence": [
         {
           "url": "https://www.sofmap.com/pages/?id=stellamap_cafe&sid=tokyorevengers_2611",
@@ -27762,7 +27808,9 @@
       "thumb_small": "thumbs/ef2d1587f482ecd4.webp",
       "image_fb": "gfb/ef2d1587f482ecd4.webp",
       "image_local": "img/ef2d1587f482ecd4.webp",
-      "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)"
+      "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)",
+      "lat": 35.6989,
+      "lon": 139.7711
     },
     {
       "id": "tokyo-utsuranaindesu-popup-kinokuniya",
@@ -27799,7 +27847,9 @@
       "added": "2026-10-28",
       "thumb_small": "thumbs/8f77fcc3cb75aa2e.webp",
       "image_fb": "gfb/8f77fcc3cb75aa2e.webp",
-      "image_local": "img/8f77fcc3cb75aa2e.webp"
+      "image_local": "img/8f77fcc3cb75aa2e.webp",
+      "lat": 35.692,
+      "lon": 139.7036
     },
     {
       "id": "osaka-milky-subway-popup-namba-marui",
@@ -30887,7 +30937,9 @@
       "summary_ko": "『Summer Pockets』 「밀리터리 스타일」 새 일러스트 굿즈를 선행 판매하는 팝업이에요.",
       "thumb_small": "thumbs/e72cf09ec1e52f0e.webp",
       "image_fb": "gfb/e72cf09ec1e52f0e.webp",
-      "image_local": "img/e72cf09ec1e52f0e.webp"
+      "image_local": "img/e72cf09ec1e52f0e.webp",
+      "lat": 35.700043,
+      "lon": 139.771683
     },
     {
       "source_url": "https://www.kagaku-adv.com/sp/sgfinalmission_osaka/",
@@ -30951,7 +31003,7 @@
       "notes": "콜라보 메뉴 1품마다 콜라보 한정 스티커(11종 랜덤) 1장. 같은 층 지스토어·아키바에서 동방 굿즈 판매. 아트레 아키하바라 회장 영수증 지참 시 특전 1장 추가(회유 캠페인)",
       "thumbnail": "https://www.curemaid.jp/wp-content/uploads/2026/10/touhou2026autumn__banner.webp",
       "summary_ko": "『동방홍마향: New Classic』 발매 기념 콜라보 카페예요. 레이무·마리사·레밀리아·플랑드르 등 홍마관 캐릭터 메뉴가 나오고, 메뉴마다 한정 스티커를 받을 수 있어요.",
-      "map_query": "オノデンビル 秋葉原",
+      "map_query": "東京都千代田区外神田1-2-7",
       "evidence": [
         {
           "url": "https://www.curemaid.jp/collab_cafe/touhou2026autumn/",
@@ -30963,7 +31015,9 @@
       "added": "2026-10-30",
       "thumb_small": "thumbs/c5d9f094a64bf2c5.webp",
       "image_fb": "gfb/c5d9f094a64bf2c5.webp",
-      "image_local": "img/c5d9f094a64bf2c5.webp"
+      "image_local": "img/c5d9f094a64bf2c5.webp",
+      "lat": 35.69835,
+      "lon": 139.77107
     },
     {
       "source_url": "https://www.atre.co.jp/akihabara/news/7814/",
@@ -31033,7 +31087,7 @@
       "notes": "동방 굿즈 2,200엔(세금 포함)마다 콜라보 한정 스티커 1장(큐어 메이드 카페와 같은 것). 아트레 아키하바라 회장 영수증 지참 시 1장 추가. 상품 가격은 공식 페이지에 없음",
       "thumbnail": "https://hakurei-sukeikai.com/autumn2026granentas/ogp.jpg",
       "summary_ko": "큐어 메이드 카페·아트레 아키하바라와 함께 열리는 동방 Project 팝업숍이에요. 동방 굿즈를 다양하게 판매해요.",
-      "map_query": "オノデンビル 秋葉原",
+      "map_query": "東京都千代田区外神田1-2-7",
       "evidence": [
         {
           "url": "https://hakurei-sukeikai.com/autumn2026granentas/",
@@ -31045,7 +31099,9 @@
       "added": "2026-10-30",
       "thumb_small": "thumbs/76af0fc8cb197cc3.webp",
       "image_fb": "gfb/76af0fc8cb197cc3.webp",
-      "image_local": "img/76af0fc8cb197cc3.webp"
+      "image_local": "img/76af0fc8cb197cc3.webp",
+      "lat": 35.69835,
+      "lon": 139.77107
     },
     {
       "source_url": "https://www.animate.co.jp/onlyshop/51764/",
@@ -31148,7 +31204,7 @@
       "notes": "응원점은 매장 일부에서 전개, 일부 상품은 취급하지 않음. 특전(5,500엔 이상 구매 시 단편 소책자)은 동일하게 배포. 메인 온리숍은 애니메이트 이케부쿠로 본점",
       "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/10/1793150678-36ab9272a7e884aac02e3f4ae44d032e.jpg",
       "summary_ko": "『무직전생 ~사족편~』 완결 기념 굿즈 숍이에요. 원작 표지 일러스트 태피스트리·캔버스 보드 등을 팔고, 5,500엔 이상 구매 시 리후진나 마고노테 선생님 신작 단편 소책자를 줘요.",
-      "map_query": "アニメイトラシック福岡天神",
+      "map_query": "福岡県福岡市中央区天神2-1-1 ラシック福岡天神8階",
       "evidence": [
         {
           "url": "https://www.animate.co.jp/onlyshop/51764/",
@@ -31160,7 +31216,9 @@
       "added": "2026-10-30",
       "thumb_small": "thumbs/26ff2904d8be5699.webp",
       "image_fb": "gfb/26ff2904d8be5699.webp",
-      "image_local": "img/26ff2904d8be5699.webp"
+      "image_local": "img/26ff2904d8be5699.webp",
+      "lat": 33.587925,
+      "lon": 130.400894
     },
     {
       "source_url": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
@@ -31197,7 +31255,9 @@
       "added": "2026-10-31",
       "thumb_small": "thumbs/5caf11193fee46e0.webp",
       "image_fb": "gfb/5caf11193fee46e0.webp",
-      "image_local": "img/5caf11193fee46e0.webp"
+      "image_local": "img/5caf11193fee46e0.webp",
+      "lat": 35.698284,
+      "lon": 139.771698
     },
     {
       "source_url": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
@@ -31220,7 +31280,7 @@
       "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=8005",
       "notes": "영업시간 평일 11~20시, 토일공휴일 10~20시. 굿즈 구매 또는 예약 내금 2,200엔(세금 포함)마다 특전 브로마이드(전 13종) 랜덤 1장. 게이머즈 온라인숍 통판·수주(~2027/1/4) 동시 진행. 권리 표기 ©劇場版ゾンビランドサガ製作委員会",
       "summary_ko": "극장판 『좀비랜드 사가 유메긴가 파라다이스』 개봉 1주년 기념 팝업이에요. 엑스포 라이브 의상을 입은 프랑슈슈 신규 일러스트 굿즈를 팔아요.",
-      "map_query": "ゲーマーズなんば店",
+      "map_query": "大阪府大阪市浪速区日本橋3-8-16",
       "evidence": [
         {
           "url": "https://prtimes.jp/main/html/rd/p/000009027.000016756.html",
@@ -31234,7 +31294,9 @@
       "added": "2026-10-31",
       "thumb_small": "thumbs/5caf11193fee46e0.webp",
       "image_fb": "gfb/5caf11193fee46e0.webp",
-      "image_local": "img/5caf11193fee46e0.webp"
+      "image_local": "img/5caf11193fee46e0.webp",
+      "lat": 34.66174,
+      "lon": 135.50501
     },
     {
       "source_url": "https://prtimes.jp/main/html/rd/p/000000197.000067495.html",
@@ -31305,7 +31367,9 @@
           "checked": "2026-10-31"
         }
       ],
-      "added": "2026-10-31"
+      "added": "2026-10-31",
+      "lat": 34.6451,
+      "lon": 135.5137
     },
     {
       "source_url": "https://www.the-chara.com/blog/?p=121605",
@@ -31420,7 +31484,9 @@
       "added": "2026-11-02",
       "thumb_small": "thumbs/6080e5829c7612d6.webp",
       "image_fb": "gfb/6080e5829c7612d6.webp",
-      "image_local": "img/6080e5829c7612d6.webp"
+      "image_local": "img/6080e5829c7612d6.webp",
+      "lat": 34.6451,
+      "lon": 135.5137
     },
     {
       "reservation": "불필요",

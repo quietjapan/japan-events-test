@@ -59,7 +59,9 @@
       "pending_reason": "공식 URL 없음 — 집계 사이트에서만 확인됨",
       "thumbnail": "https://pub-0f4e7c05fe4645118224685565717085.r2.dev/event/4cf2b75f0c55efea.jpg",
       "thumbnail_source": "https://japan-event.info/ja/articles/hanazono-shrine-tori-no-ichi-2026",
-      "translation_check": true
+      "translation_check": true,
+      "lat": 35.69336,
+      "lon": 139.70621
     },
     {
       "title_ko": "하이큐!! 네무라세타이 3 (가챠)",
