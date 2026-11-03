@@ -283,6 +283,57 @@
       "lat": 35.6901,
       "lon": 139.706,
       "source": "existing"
+    },
+    {
+      "keys": [
+        "Space Gratus",
+        "日本橋4-15-17"
+      ],
+      "address": "大阪府大阪市浪速区日本橋4-15-17",
+      "lat": 34.660889,
+      "lon": 135.504944,
+      "source": "https://geass.jp/news/archives/4441"
+    },
+    {
+      "keys": [
+        "大丸東京店",
+        "다이마루 도쿄점"
+      ],
+      "address": "東京都千代田区丸の内1-9-1",
+      "lat": 35.681252,
+      "lon": 139.767242,
+      "source": "https://prtimes.jp/main/html/rd/p/000000203.000090815.html"
+    },
+    {
+      "keys": [
+        "大丸梅田店",
+        "다이마루 우메다점"
+      ],
+      "address": "大阪府大阪市北区梅田3-1-1",
+      "lat": 34.701881,
+      "lon": 135.496338,
+      "source": "https://prtimes.jp/main/html/rd/p/000000203.000090815.html"
+    },
+    {
+      "keys": [
+        "キデイランド大阪梅田",
+        "키디랜드 오사카 우메다점",
+        "키디랜드 우메다점"
+      ],
+      "address": "大阪府大阪市北区芝田1-1-3",
+      "lat": 34.70414,
+      "lon": 135.499008,
+      "source": "https://animaru.jp/static/special/anmr/shingeki/2026/sanriocharacters/index.html"
+    },
+    {
+      "keys": [
+        "キデイランド オモカド",
+        "키디랜드 오모카도점"
+      ],
+      "address": "東京都渋谷区神宮前4-30-3",
+      "lat": 35.668392,
+      "lon": 139.706177,
+      "source": "https://animaru.jp/static/special/anmr/shingeki/2026/sanriocharacters/index.html"
     }
   ]
 }
