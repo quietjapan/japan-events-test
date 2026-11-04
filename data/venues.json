@@ -334,6 +334,36 @@
       "lat": 35.668392,
       "lon": 139.706177,
       "source": "https://animaru.jp/static/special/anmr/shingeki/2026/sanriocharacters/index.html"
+    },
+    {
+      "keys": [
+        "エキュート秋葉原",
+        "에큐트 아키하바라"
+      ],
+      "address": "東京都千代田区外神田1-17-6 JR秋葉原駅構内",
+      "lat": 35.69835,
+      "lon": 139.77252,
+      "source": "https://www.ecute.jp/akihabara"
+    },
+    {
+      "keys": [
+        "アトレ秋葉原",
+        "아트레 아키하바라"
+      ],
+      "address": "東京都千代田区外神田1-17-6",
+      "lat": 35.69835,
+      "lon": 139.77252,
+      "source": "https://www.cospa.com/special/re-zero/access"
+    },
+    {
+      "keys": [
+        "ジーストア大阪",
+        "지스토어 오사카"
+      ],
+      "address": "大阪府大阪市中央区難波千日前7-7",
+      "lat": 34.66322,
+      "lon": 135.50472,
+      "source": "https://www.cospa.com/event/id/19697"
     }
   ]
 }
