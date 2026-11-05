@@ -364,6 +364,49 @@
       "lat": 34.66322,
       "lon": 135.50472,
       "source": "https://www.cospa.com/event/id/19697"
+    },
+    {
+      "keys": [
+        "新宿マルイ メン",
+        "新宿マルイメン",
+        "신주쿠 마루이 멘"
+      ],
+      "address": "東京都新宿区新宿5-16-4",
+      "lat": 35.69252,
+      "lon": 139.70625,
+      "source": "https://omemie.0101.co.jp/buildings/shinjuku-men"
+    },
+    {
+      "keys": [
+        "渋谷ロフト",
+        "시부야 로프트"
+      ],
+      "address": "東京都渋谷区宇田川町21-1",
+      "lat": 35.66025,
+      "lon": 139.70061,
+      "source": "https://prtimes.jp/main/html/rd/p/000000053.000090064.html"
+    },
+    {
+      "keys": [
+        "池袋PARCO",
+        "이케부쿠로 PARCO",
+        "池袋パルコ"
+      ],
+      "address": "東京都豊島区南池袋1-28-2",
+      "lat": 35.7293,
+      "lon": 139.7113,
+      "source": "https://ikebukuro.parco.jp/event/detail/?id=39149"
+    },
+    {
+      "keys": [
+        "町田モディ",
+        "마치다 모디",
+        "町田modi"
+      ],
+      "address": "東京都町田市原町田6-2-6",
+      "lat": 35.54352,
+      "lon": 139.44514,
+      "source": "https://www.suruga-ya.jp/feature/realstore/machida_modi/index.html"
     }
   ]
 }

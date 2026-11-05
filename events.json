@@ -16241,41 +16241,48 @@
     },
     {
       "id": "lycoris-recoil-popup-shinjuku-marui-2026",
-      "title_ko": "리코리스 리코일 POP UP SHOP (신주쿠 마루이 멘)",
+      "title_ko": "리코리스 리코일 POP UP SHOP in 마루이 (신주쿠 마루이 멘·폰초 스타일)",
       "title_ja": "TVアニメ「リコリス・リコイル」POP UP SHOP in マルイ 新宿マルイ メン",
       "category": "팝업스토어",
       "area": "도쿄",
       "region": "tokyo",
-      "venue": "신주쿠 마루이 멘",
+      "venue": "신주쿠 마루이 멘 8층",
       "start": "2026-11-14",
       "end": "2026-11-23",
-      "price": "",
-      "official_url": "https://x.com/AMNIBUS/status/2095708432229945592",
-      "source_url": "https://x.com/AMNIBUS/status/2095708432229945592",
-      "notes": "「ポンチョスタイル」 신규 일러스트. 영업시간·굿즈·가격은 추후 발표",
-      "checked_date": "2026-10-23",
+      "price": "입장 무료",
+      "official_url": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
+      "source_url": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
+      "notes": "영업 11:00~19:00 (점포 영업시간과 다름). 「ポンチョスタイル」 신규 그려내리기 굿즈 선행 판매. 세금 포함 3,000엔 이상 1회계당 추첨 1회(에포스카드 제시 시 +1회, 3,000엔마다 아님). 마치다 모디 회차 12/4~12/13.",
+      "checked_date": "2026-11-05",
       "evidence": [
         {
-          "url": "https://x.com/AMNIBUS/status/2095708432229945592",
+          "url": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
           "tier": "official",
-          "quote": "TVアニメ「リコリス・リコイル」POP UP SHOP in マルイ … 🗓️11/14(土)～11/23(月・祝) 📍新宿マルイ メン … 詳細は後日発表いたします",
-          "checked": "2026-10-23"
+          "quote": "2026年11月14日(土)～11月23日(月・祝)／新宿マルイ メン 8F／入場料 無料／営業時間 11:00～19:00",
+          "checked": "2026-11-05"
+        },
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000009745.000016064.html",
+          "tier": "official",
+          "quote": "開催期間：2026年11月14日(土)～11月23日(月・祝) 開催場所：新宿マルイ メン 8F 入場料：無料",
+          "checked": "2026-11-05"
         }
       ],
       "source_tier": "official",
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-11-05",
       "translation_check": true,
-      "summary_ko": "「리코리스 리코일」 팝업스토어예요.",
-      "summary_source": "https://x.com/AMNIBUS/status/2095708432229945592",
+      "summary_ko": "『리코리스 리코일』 폰초 스타일 팝업이에요. 신주쿠 마루이 멘에서 열려요. 입장 무료, 3,000엔 이상 구매 시 추첨회가 있어요.",
+      "summary_source": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
       "map_query": "新宿マルイ メン",
-      "thumbnail": "https://pbs.twimg.com/media/HQdcmOQaYAAjVWG?format=webp&name=large",
-      "thumbnail_source": "https://x.com/AMNIBUS/status/2095708432229945592",
-      "thumb_small": "thumbs/7ad90316aa637eaa.webp",
-      "image_fb": "gfb/7ad90316aa637eaa.webp",
-      "image_local": "img/7ad90316aa637eaa.webp",
+      "thumbnail": "https://img.event.amnibus.com/wp-content/uploads/c0f1dce700d945a6d549bad46f4cae6f.jpg",
+      "thumbnail_source": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
       "lat": 35.692524,
       "lon": 139.706253,
-      "added": "2026-10-23"
+      "added": "2026-10-23",
+      "reservation": "선택 (11/14 일부 시간대 LINE 사전예약 추첨, 15:00경부터 프리 입장 / 11/15 이후 프리 입장)",
+      "thumb_small": "thumbs/4b3b10eb9aa5d1eb.webp",
+      "image_fb": "gfb/4b3b10eb9aa5d1eb.webp",
+      "image_local": "img/4b3b10eb9aa5d1eb.webp"
     },
     {
       "id": "osaka-haruhi-sos-ten",
@@ -20673,8 +20680,8 @@
     },
     {
       "reservation": "선택",
-      "checked_date": "2026-10-25",
-      "verified_at": "2026-10-25",
+      "checked_date": "2026-11-05",
+      "verified_at": "2026-11-05",
       "source_tier": "official",
       "translation_check": true,
       "title_ko": "쵸콧토 야바시티展 (이케부쿠로 PARCO FACTORY)",
@@ -20696,6 +20703,12 @@
           "tier": "official",
           "quote": "イベント期間 2026年11月6日(金)～11月30日(月) 11:00-21:00 ※入場は閉場の30分前まで ※最終日18時閉場 会場 池袋PARCO 本館7F・PARCO FACTORY 入場料 一般：1,000円（税込） 学生：700円（税込）",
           "checked": "2026-10-25"
+        },
+        {
+          "url": "https://ikebukuro.parco.jp/event/detail/?id=39149",
+          "tier": "official",
+          "quote": "2026.11.6 - 2026.11.30／本館7F PARCO FACTORY／一般：1,000 円（税込） 学生：700 円（税込）／※小学生以下無料、小学生以下は保護者同伴必須",
+          "checked": "2026-11-05"
         }
       ],
       "summary_ko": "애니메이션 『ちょこっとヤバシティ』 공개 기념 전시회예요. 포토 스폿과 전시, 기념 굿즈 판매가 있고 유료 입장하면 포토카드를 줘요.",
@@ -20782,7 +20795,8 @@
       "thumb_small": "thumbs/2bacc22a1c313f73.webp",
       "image_local": "img/2bacc22a1c313f73.webp",
       "image_fb": "gfb/2bacc22a1c313f73.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "id": "tokyo-chocoyaba-exhibition-parco-factory"
     },
     {
       "reservation": "",
@@ -31892,6 +31906,174 @@
       "thumb_small": "thumbs/2635854692e7cb79.webp",
       "image_fb": "gfb/2635854692e7cb79.webp",
       "image_local": "img/2635854692e7cb79.webp"
+    },
+    {
+      "id": "tokyo-mobpsycho100-10th-popup-annivroad",
+      "title_ko": "모브사이코 100 Ⅲ 10주년 기념 POP UP SHOP 하오리×슈트 ver. (Annivroad)",
+      "title_ja": "TVアニメ『モブサイコ100 Ⅲ』10周年記念POP UP SHOP 羽織×スーツver.",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "Annivroad by Bushiroad Creative Store (신주쿠 마루이 아넥스 2층)",
+      "start": "2026-11-07",
+      "end": "2026-11-23",
+      "reservation": "확인되지 않음 (11/05 기준)",
+      "price": "확인되지 않음 (11/05 기준)",
+      "notes": "영업시간은 확인되지 않음 (11/05 기준). 핑거 마스코트 키홀더 각 1,650엔(세금 포함), 프린트 포토 1회 1,000엔(세금 포함). 특전 홀로그램 시트(전 5종) 1회계 3,000엔(세금 포함)마다 랜덤 1장·에포스카드 제시 시 추가 1장. 하오리×슈트 그려내리기 일러스트 굿즈.",
+      "official_url": "https://prtimes.jp/main/html/rd/p/000009849.000014827.html",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000009849.000014827.html",
+      "map_query": "東京都新宿区新宿3-1-26",
+      "summary_ko": "『모브사이코 100 Ⅲ』 방송 10주년 기념 팝업이에요. 하오리×슈트 그려내리기 일러스트 굿즈와 프린트 포토를 즐겨요.",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/14827/9849/14827-9849-10b5ff9f79d1d41a0aa4f5b71e00f69d-1921x1080.jpg",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000009849.000014827.html",
+          "tier": "official",
+          "quote": "2026年11月7日(土)～11月23日(月・祝)／Annivroad by Bushiroad Creative Store／所在地：東京都新宿区新宿3-1-26 新宿マルイ アネックス 2F",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked_date": "2026-11-05",
+      "verified_at": "2026-11-05",
+      "source_tier": "official",
+      "translation_check": true,
+      "summary_source": "https://prtimes.jp/main/html/rd/p/000009849.000014827.html",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000009849.000014827.html",
+      "added": "2026-11-05",
+      "lat": 35.6901,
+      "lon": 139.706,
+      "thumb_small": "thumbs/52b6877a3a3f295b.webp",
+      "image_fb": "gfb/52b6877a3a3f295b.webp",
+      "image_local": "img/52b6877a3a3f295b.webp"
+    },
+    {
+      "id": "tokyo-futari-no-kemono-popup-shibuya-loft",
+      "title_ko": "『후타리노케모노』 POP UP STORE (시부야 로프트)",
+      "title_ja": "「ふたりのけもの」POP UP STORE",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "시부야 로프트 6층 아트&컬처 플로어 특설회장",
+      "start": "2026-11-04",
+      "end": "2026-11-19",
+      "reservation": "확인되지 않음 (11/05 기준)",
+      "price": "확인되지 않음 (11/05 기준)",
+      "notes": "최종일 17시 폐장 예정. 일반 영업시간은 확인되지 않음 (11/05 기준). 특전: 서적(1·2권) 포함 세금 포함 2,000엔 이상마다 일러스트 카드 랜덤 1장(로프트 6종). 일부 회장에 빅 패널 포토 스폿.",
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000053.000090064.html",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000053.000090064.html",
+      "map_query": "東京都渋谷区宇田川町21-1",
+      "summary_ko": "合鴨ミケランジェロ 『후타리노케모노』 팝업이에요. 그려내리기 굿즈와 서적 포함 2,000엔마다 일러스트 카드 특전이 있어요.",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/90064/53/90064-53-7af38d5ed12243d52a73d923829c60a6-595x842.jpg",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000053.000090064.html",
+          "tier": "official",
+          "quote": "渋谷ロフト／2026年11月4日（水）～11月19日（木）／東京都渋谷区宇田川町21-1／渋谷ロフト6階アート＆カルチャーフロア 特設会場／最終日は17時閉場予定",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked_date": "2026-11-05",
+      "verified_at": "2026-11-05",
+      "source_tier": "official",
+      "translation_check": true,
+      "summary_source": "https://prtimes.jp/main/html/rd/p/000000053.000090064.html",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000053.000090064.html",
+      "added": "2026-11-05",
+      "lat": 35.66025,
+      "lon": 139.70061,
+      "thumb_small": "thumbs/64091895aaeaa99b.webp",
+      "image_fb": "gfb/64091895aaeaa99b.webp",
+      "image_local": "img/64091895aaeaa99b.webp"
+    },
+    {
+      "id": "tokyo-kabaneri-10th-popup-shinjuku-marui",
+      "title_ko": "갑철성의 카바네리 10주년 기념 POP UP SHOP (신주쿠 마루이 아넥스)",
+      "title_ja": "「甲鉄城のカバネリ」10周年記念POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "신주쿠 마루이 아넥스 7층",
+      "start": "2026-11-14",
+      "end": "2026-11-24",
+      "reservation": "불필요 (프리 입장 예정, 혼잡 시 정리권)",
+      "price": "입장 무료 (프리 입장 예정)",
+      "notes": "영업 11:00~20:00 (토·일·공휴일 10:30~20:00, 최종일 18:00까지). 개점 전 대기는 불가. 아크릴 키홀더(랜덤) 825엔(세금 포함), 칸뱃지 세트 1,320엔(세금 포함). 특전 브로마이드(전 8종) 세금 포함 2,000엔마다 1회. 주최 콘텐츠 시드 / THEキャラ.",
+      "official_url": "https://news.aniplex.co.jp/detail.html?id=71618",
+      "source_url": "https://www.the-chara.com/blog/?p=124725",
+      "map_query": "東京都新宿区新宿3-1-26",
+      "summary_ko": "『갑철성의 카바네리』 10주년 기념 팝업이에요. 무메이 그려내리기 굿즈와 2,000엔마다 브로마이드 특전이 있어요.",
+      "thumbnail": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/kuttjynkbnr10th_kv.jpg",
+      "evidence": [
+        {
+          "url": "https://news.aniplex.co.jp/detail.html?id=71618",
+          "tier": "official",
+          "quote": "開催場所：東京・新宿マルイアネックス7F 開催期間：2026年11月14日(土)～11月24日(火)",
+          "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.the-chara.com/blog/?p=124725",
+          "tier": "official",
+          "quote": "11:00～20:00(土日祝のみ10:30～20:00) ※最終日は18:00まで／フリー入場を予定／ブロマイド ※2,000円（税込）毎に1回付与",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked_date": "2026-11-05",
+      "verified_at": "2026-11-05",
+      "source_tier": "official",
+      "translation_check": true,
+      "summary_source": "https://www.the-chara.com/blog/?p=124725",
+      "thumbnail_source": "https://www.the-chara.com/blog/?p=124725",
+      "added": "2026-11-05",
+      "lat": 35.6901,
+      "lon": 139.706,
+      "thumb_small": "thumbs/b14d8f4a13df71dc.webp",
+      "image_fb": "gfb/b14d8f4a13df71dc.webp",
+      "image_local": "img/b14d8f4a13df71dc.webp"
+    },
+    {
+      "id": "tokyo-lycoris-recoil-popup-machida-modi",
+      "title_ko": "리코리스 리코일 POP UP SHOP in 마루이 (마치다 모디·폰초 스타일)",
+      "title_ja": "TVアニメ「リコリス・リコイル」POP UP SHOP in マルイ 町田モディ",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "마치다 모디 4층",
+      "start": "2026-12-04",
+      "end": "2026-12-13",
+      "reservation": "확인되지 않음 (11/05 기준)",
+      "price": "입장 무료",
+      "notes": "영업 10:30~19:00 (점포 영업시간과 다름). 「ポンチョスタイル」 신규 그려내리기 굿즈 선행 판매. 세금 포함 3,000엔 이상 1회계당 추첨 1회(에포스카드 제시 시 +1회, 3,000엔마다 아님). 신주쿠 마루이 멘(11/14~11/23)과 같은 투어.",
+      "official_url": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
+      "source_url": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
+      "map_query": "東京都町田市原町田6-2-6",
+      "summary_ko": "『리코리스 리코일』 폰초 스타일 팝업의 마치다 모디 회차예요. 입장 무료, 3,000엔 이상 구매 시 추첨회가 있어요.",
+      "thumbnail": "https://img.event.amnibus.com/wp-content/uploads/c0f1dce700d945a6d549bad46f4cae6f.jpg",
+      "evidence": [
+        {
+          "url": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
+          "tier": "official",
+          "quote": "2026年12月4日(金)～12月13日(日)／町田モディ 4F／入場料 無料／営業時間 10:30～19:00",
+          "checked": "2026-11-05"
+        },
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000009745.000016064.html",
+          "tier": "official",
+          "quote": "開催期間：2026年12月4日(金)～12月13日(日) 開催場所：町田モディ 4F 入場料：無料",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked_date": "2026-11-05",
+      "verified_at": "2026-11-05",
+      "source_tier": "official",
+      "translation_check": true,
+      "summary_source": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
+      "thumbnail_source": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
+      "added": "2026-11-05",
+      "lat": 35.54352,
+      "lon": 139.44514,
+      "thumb_small": "thumbs/4b3b10eb9aa5d1eb.webp",
+      "image_fb": "gfb/4b3b10eb9aa5d1eb.webp",
+      "image_local": "img/4b3b10eb9aa5d1eb.webp"
     }
   ]
 }
