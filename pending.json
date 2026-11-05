@@ -1,37 +1,6 @@
 {
   "events": [
     {
-      "title_ko": "애니플렉스 팝업숍 2026 가을 (우메다)",
-      "title_ja": "ANIPLEX POPUP SHOP 2026 AUTUMN",
-      "category": "팝업스토어",
-      "area": "오사카",
-      "venue": "애니메이트 우메다점",
-      "start": "2026-10-24",
-      "end": "2026-11-01",
-      "reservation": "선택",
-      "price": "",
-      "official_url": "https://www.animate.co.jp/onlyshop/51731/",
-      "source_url": "https://www.animate.co.jp/onlyshop/51731/",
-      "notes": "10/24 입장은 선착순 입장정리권(공식 페이지 안내 참고). 이케부쿠로점은 11/8까지",
-      "checked_date": "2026-10-19",
-      "map_query": "アニメイト梅田",
-      "evidence": [
-        {
-          "url": "https://www.animate.co.jp/onlyshop/51731/",
-          "tier": "official",
-          "quote": "開催期間 2026年10月24日(土)〜2026年11月8日(日) 対象店舗 池袋本店7F NORTH 梅田店 ※梅田店は2026年11月1日(日)までの開催",
-          "checked": "2026-10-19"
-        }
-      ],
-      "source_tier": "official",
-      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/10/1790578612-38781d125f628c67b8d59c3d7b1f5a35-1920x1356.jpg",
-      "thumbnail_source": "https://www.animate.co.jp/onlyshop/51731/",
-      "translation_check": true,
-      "lat": 34.7047,
-      "lon": 135.4959,
-      "pending_reason": "인용문에 '2026-10-24 〜 2026-11-01' 범위 표현이 없음 (https://www.animate.co.jp/onlyshop/51731/)"
-    },
-    {
       "title_ko": "하나조노 신사 도리노이치 (대유제)",
       "title_ja": "花園神社 大酉祭（酉の市）",
       "category": "축제",
@@ -106,26 +75,6 @@
       "translation_check": true
     },
     {
-      "title_ko": "체인소맨 레제편 가샤폰 마치보우케",
-      "title_ja": "劇場版『チェンソーマン レゼ篇』 まちぼうけ",
-      "category": "가챠",
-      "area": "전국",
-      "venue": "전국 캡슐 자판기 (날짜 미확정)",
-      "start": null,
-      "end": null,
-      "reservation": "불필요",
-      "price": "1회 500엔",
-      "official_url": "https://parks2.bandainamco-am.co.jp/item/PRE_4582770056044.html",
-      "source_url": "https://parks2.bandainamco-am.co.jp/item/PRE_4582770056044.html",
-      "notes": "온라인 예약(8/4–8/17) 종료·배송 11월 하순. 자판기 선행 판매 가능하나 개시일 미확정.",
-      "checked_date": "2026-10-17",
-      "evidence": [],
-      "pending_reason": "날짜(시작일) 미정 — 근거로 확정할 수 없음",
-      "translation_check": true,
-      "source_tier": "",
-      "verified_at": ""
-    },
-    {
       "area": "전국",
       "reservation": "",
       "price": "1회 400엔",
@@ -169,8 +118,19 @@
       "start": "2026-12-01",
       "end": "2027-01-12",
       "official_url": "https://animatecafe.jp/event/ac000815_2",
-      "notes": "11/03 다른 캘린더(collabo-cafe) 단서. 공식 페이지가 JS라 기간·오사카 매장 원문 미확인 → 확인 후 등록 / 11/03 재확인: 공식 페이지에 기간 미표기, 그대로 보류",
+      "notes": "11/03 다른 캘린더(collabo-cafe) 단서. 공식 페이지가 JS라 기간·오사카 매장 원문 미확인 → 확인 후 등록 / 11/03 재확인: 공식 페이지에 기간 미표기, 그대로 보류 / 11/05 재확인: 공식 페이지에 여전히 기간 미표기, 그대로 보류",
       "added": "2026-11-03"
+    },
+    {
+      "title_ko": "히로아카 × 게이오 백화점 크리스마스 페어 (신주쿠)",
+      "title_ja": "僕のヒーローアカデミア × 京王百貨店 クリスマスフェア",
+      "region": "tokyo",
+      "start": null,
+      "end": null,
+      "official_url": "https://event.sukiplus.com/heroaca-keio2026",
+      "pending_reason": "공식 페이지에 기간 미표기 ('詳細情報は11/7解禁') — 11/7 이후 재확인",
+      "notes": "11/05 다른 캘린더(collabo-cafe) 단서. 공식 상세 11/7 공개 예정",
+      "added": "2026-11-05"
     }
   ],
   "base_date": "2026-10-26"
