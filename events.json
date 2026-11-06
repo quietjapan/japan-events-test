@@ -13695,50 +13695,12 @@
       "area": "오사카",
       "venue": "인텍스 오사카",
       "start": "2026-12-19",
-      "end": "2026-12-19",
-      "reservation": "티켓 정보 추후 발표",
-      "price": "",
-      "official_url": "https://www.anycolor.co.jp/news/sw9ttrq3kaot",
-      "source_url": "https://www.anycolor.co.jp/news/sw9ttrq3kaot",
-      "notes": "Iris Stage 출연: 츠키노 미토, 요미 레나, 라트나 프티, 야마가미 카르타, 이시가미 노조미, 쿠라모치 메루토, 시오리하 루리, 타테 츠츠",
-      "map_query": "大阪府大阪市住之江区南港北1-5-102 インテックス大阪",
-      "thumbnail": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/311ad69300114481bc378ea629ab3cf8/KV_CMS.png?fit=clip&w=800&dpr=2",
-      "thumbnail_source": "https://www.anycolor.co.jp/news/sw9ttrq3kaot",
-      "evidence": [
-        {
-          "url": "https://www.anycolor.co.jp/news/sw9ttrq3kaot",
-          "tier": "official",
-          "quote": "・開催日程:2026年12月19日(土) 12月20日(日) ・会場:インテックス大阪(大阪府大阪市住之江区南港北1-5-102) ・出演者",
-          "checked": "2026-10-22"
-        }
-      ],
-      "summary_ko": "니지산지 첫 \"걸즈 아이돌\" 페스로, 2일간 총 16명의 라이버가 출연하는 리얼 라이브예요. 특설 사이트·티켓 정보는 추후 공개돼요.",
-      "region": "osaka",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "summary_source": "https://www.anycolor.co.jp/news/sw9ttrq3kaot",
-      "translation_check": true,
-      "thumb_small": "thumbs/8b9f0cd80a66c671.webp",
-      "image_local": "img/8b9f0cd80a66c671.webp",
-      "lat": 34.6373,
-      "lon": 135.42,
-      "added": "2026-10-22"
-    },
-    {
-      "series": "nijisanji-girls-idol-festival-2026",
-      "title_ko": "니지산지 걸즈 아이돌 페스티벌 (인텍스 오사카)",
-      "title_ja": "にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜",
-      "category": "전시·행사",
-      "area": "오사카",
-      "venue": "인텍스 오사카",
-      "start": "2026-12-20",
       "end": "2026-12-20",
       "reservation": "티켓 정보 추후 발표",
       "price": "",
       "official_url": "https://www.anycolor.co.jp/news/sw9ttrq3kaot",
       "source_url": "https://www.anycolor.co.jp/news/sw9ttrq3kaot",
-      "notes": "Prism Stage 출연: 리제 헬에스타, 스즈하라 루루, 아마미야 코코로, 이가라시 리카, 시가 리코, 키라라 타마코, 사오토메 베리, 나나세 스즈나",
+      "notes": "12/19: Iris Stage 출연: 츠키노 미토, 요미 레나, 라트나 프티, 야마가미 카르타, 이시가미 노조미, 쿠라모치 메루토, 시오리하 루리, 타테 츠츠 / 12/20: Prism Stage 출연: 리제 헬에스타, 스즈하라 루루, 아마미야 코코로, 이가라시 리카, 시가 리코, 키라라 타마코, 사오토메 베리, 나나세 스즈나",
       "map_query": "大阪府大阪市住之江区南港北1-5-102 インテックス大阪",
       "thumbnail": "https://images.microcms-assets.io/assets/5694fd90407444338a64d654e407cc0e/311ad69300114481bc378ea629ab3cf8/KV_CMS.png?fit=clip&w=800&dpr=2",
       "thumbnail_source": "https://www.anycolor.co.jp/news/sw9ttrq3kaot",
@@ -13758,7 +13720,6 @@
       "summary_source": "https://www.anycolor.co.jp/news/sw9ttrq3kaot",
       "translation_check": true,
       "thumb_small": "thumbs/8b9f0cd80a66c671.webp",
-      "id": "osaka-nijisanji-girls-idol-festival",
       "image_local": "img/8b9f0cd80a66c671.webp",
       "lat": 34.6373,
       "lon": 135.42,
@@ -13773,40 +13734,6 @@
       "area": "오사카",
       "venue": "오사카성 공원 다이요노히로바 야구장",
       "start": "2026-11-22",
-      "end": "2026-11-22",
-      "reservation": "필요 (입장 티켓제)",
-      "price": "일반 입장 사전 4,000엔 · 당일 5,000엔 (촬영회는 별도 참가비)",
-      "official_url": "https://www.obc1314.co.jp/cosradi2026/",
-      "source_url": "https://www.obc1314.co.jp/cosradi2026/",
-      "notes": "9:00~16:00 (1부 9:00~12:00 / 2부 13:00~16:00). 일부 프로그램 우천 중지. 텐트 40동에 160개 점포. 전용 주차장 없음",
-      "map_query": "大阪府大阪市中央区大阪城3 太陽の広場",
-      "evidence": [
-        {
-          "url": "https://www.obc1314.co.jp/cosradi2026/",
-          "tier": "official",
-          "quote": "日時 : 2026年11月22日(日)9:00〜16:00(1部9:00〜12:00/2部13:00〜16:00) 2026年11月23日(月・祝)9:00〜16:00(1部9:00〜12:00/2部13:00〜16:00)※一部雨天中止",
-          "checked": "2026-10-22"
-        }
-      ],
-      "summary_ko": "라디오 오사카가 여는 이틀간의 동인지·굿즈 즉매회 겸 코스프레 이벤트예요. 출전자·게스트 촬영회, 라디오 공개 녹음도 함께 열려요.",
-      "region": "osaka",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "summary_source": "https://www.obc1314.co.jp/cosradi2026/",
-      "translation_check": true,
-      "lat": 34.6844,
-      "lon": 135.5219,
-      "added": "2026-10-22"
-    },
-    {
-      "series": "cosradi-2026",
-      "title_ko": "코스라지 2026 (코스프레 판매회·동인지 즉매회 · 오사카성 공원)",
-      "title_ja": "OBC V-STATION presents コスラジ2026",
-      "category": "전시·행사",
-      "area": "오사카",
-      "venue": "오사카성 공원 다이요노히로바 야구장",
-      "start": "2026-11-23",
       "end": "2026-11-23",
       "reservation": "필요 (입장 티켓제)",
       "price": "일반 입장 사전 4,000엔 · 당일 5,000엔 (촬영회는 별도 참가비)",
@@ -13829,7 +13756,6 @@
       "verified_at": "2026-10-22",
       "summary_source": "https://www.obc1314.co.jp/cosradi2026/",
       "translation_check": true,
-      "id": "osaka-cosradi-2026",
       "lat": 34.6844,
       "lon": 135.5219,
       "added": "2026-10-22"
@@ -30437,27 +30363,40 @@
       "image_local": "img/a2a3004c60d0d851.webp"
     },
     {
-      "reservation": "확인되지 않음 (11/03 기준), 혼잡 시 정리권 배부 가능",
-      "price": "",
-      "notes": "영업 10:00~20:00. 게이머즈 난바점·하카타점에서도 11/20부터 소진 시까지 취급",
-      "checked_date": "2026-11-03",
+      "checked_date": "2026-11-06",
       "source_tier": "official",
-      "verified_at": "2026-11-03",
+      "verified_at": "2026-11-06",
       "translation_check": true,
       "added": "2026-11-03",
+      "reservation": "확인되지 않음 (11/06 기준), 혼잡 시 정리권·입장 제한 가능",
+      "price": "",
       "id": "tokyo-aonohako-sanrio-premiumshop-ikebukuro",
-      "title_ko": "아오노하코 × 산리오 캐릭터즈 PremiumShop (이케부쿠로)",
+      "title_ko": "아오의 하코 × 산리오 캐릭터즈 PremiumShop (이케부쿠로)",
       "title_ja": "TVアニメ『アオのハコ』×サンリオキャラクターズPremiumShop",
       "category": "팝업스토어",
       "area": "도쿄",
       "region": "tokyo",
-      "venue": "POP Culture Style IKEBUKURO (이케부쿠로 스퀘어 au Style 2층)",
+      "venue": "POP Culture Style IKEBUKURO (이케부쿠로 스퀘어 au Style 내 2층)",
       "start": "2026-11-20",
       "end": "2026-12-16",
+      "notes": "영업 10:00~20:00. 바운드 코디·부활 일러스트 굿즈·패널 전시. 게이머즈 센다이·나고야·난바·하카타도 11/20부터 취급(소진 시 종료)",
       "official_url": "https://premiumshop.tokyo/aonohako/",
-      "map_query": "池袋スクエア",
-      "summary_ko": "「아오노하코」와 산리오 캐릭터즈 콜라보 숍이에요. 새로 그린 일러스트 2종 굿즈를 팔아요.",
+      "source_url": "https://premiumshop.tokyo/aonohako/",
+      "map_query": "東京都豊島区東池袋1丁目14-1",
+      "summary_ko": "『아오의 하코』와 산리오 캐릭터즈 콜라보 프리미엄숍이에요. 신규 일러스트 굿즈와 패널 전시가 있어요.",
+      "summary_source": "https://premiumshop.tokyo/aonohako/",
       "thumbnail": "https://premiumshop.tokyo/images/aonohako/main_aohako_toshin.webp",
+      "thumbnail_source": "https://premiumshop.tokyo/aonohako/",
+      "evidence": [
+        {
+          "url": "https://premiumshop.tokyo/aonohako/",
+          "tier": "official",
+          "quote": "東京･POP Culture Style IKEBUKURO 開催期間 2026年11月20日(金)〜2026年12月16日(水) 営業時間 10:00～20:00",
+          "checked": "2026-11-06"
+        }
+      ],
+      "gallery_source": "https://premiumshop.tokyo/aonohako/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
       "gallery": [
         {
           "group": "일러스트 (공식)",
@@ -30476,23 +30415,11 @@
           "img_local": "img/68401397094b6972.webp"
         }
       ],
-      "gallery_source": "https://premiumshop.tokyo/aonohako/",
-      "source_url": "https://premiumshop.tokyo/aonohako/",
-      "summary_source": "https://premiumshop.tokyo/aonohako/",
-      "thumbnail_source": "https://premiumshop.tokyo/aonohako/",
-      "evidence": [
-        {
-          "url": "https://premiumshop.tokyo/aonohako/",
-          "tier": "official",
-          "quote": "開催会場 東京･POP Culture Style IKEBUKURO 開催期間 2026年11月20日(金)〜2026年12月16日(水) 営業時間 10:00～20:00",
-          "checked": "2026-11-03"
-        }
-      ],
-      "lat": 35.7297,
-      "lon": 139.7167,
       "thumb_small": "thumbs/23ede85c2344eecb.webp",
       "image_fb": "gfb/23ede85c2344eecb.webp",
-      "image_local": "img/23ede85c2344eecb.webp"
+      "image_local": "img/23ede85c2344eecb.webp",
+      "lat": 35.7297,
+      "lon": 139.7167
     },
     {
       "reservation": "사전 예약제 (LivePocket 1차 추첨: 매주 수 18시~목 24시)",
@@ -31902,63 +31829,6 @@
       "thumb_small": "thumbs/b023d7b9c177fe64.webp",
       "image_fb": "gfb/b023d7b9c177fe64.webp",
       "image_local": "img/b023d7b9c177fe64.webp"
-    },
-    {
-      "checked_date": "2026-11-06",
-      "source_tier": "official",
-      "verified_at": "2026-11-06",
-      "translation_check": true,
-      "added": "2026-11-06",
-      "reservation": "불필요 (혼잡 시 정리권·입장 제한 가능)",
-      "price": "입장 무료",
-      "id": "tokyo-aonohako-sanrio-premiumshop-ikebukuro",
-      "title_ko": "아오의 하코 × 산리오 캐릭터즈 PremiumShop (이케부쿠로)",
-      "title_ja": "TVアニメ『アオのハコ』×サンリオキャラクターズPremiumShop",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "POP Culture Style IKEBUKURO (이케부쿠로 스퀘어 au Style 내 2층)",
-      "start": "2026-11-20",
-      "end": "2026-12-16",
-      "notes": "영업 10:00~20:00. 바운드 코디·부활 일러스트 굿즈·패널 전시. 게이머즈 센다이·나고야·난바·하카타도 11/20부터 취급(소진 시 종료)",
-      "official_url": "https://premiumshop.tokyo/aonohako/",
-      "source_url": "https://popculturestyle.com/event/aonohako",
-      "map_query": "POP Culture Style IKEBUKURO",
-      "summary_ko": "『아오의 하코』와 산리오 캐릭터즈 콜라보 프리미엄숍이에요. 신규 일러스트 굿즈와 패널 전시가 있어요.",
-      "summary_source": "https://premiumshop.tokyo/aonohako/",
-      "thumbnail": "https://premiumshop.tokyo/images/aonohako/main_aohako_toshin.webp",
-      "thumbnail_source": "https://premiumshop.tokyo/aonohako/",
-      "evidence": [
-        {
-          "url": "https://premiumshop.tokyo/aonohako/",
-          "tier": "official",
-          "quote": "東京･POP Culture Style IKEBUKURO 開催期間 2026年11月20日(金)〜2026年12月16日(水) 営業時間 10:00～20:00",
-          "checked": "2026-11-06"
-        }
-      ],
-      "gallery_source": "https://premiumshop.tokyo/aonohako/",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
-      "gallery": [
-        {
-          "group": "비주얼 (공식)",
-          "img": "https://premiumshop.tokyo/images/aonohako/main_aohako_toshin.webp",
-          "caption_ko": "바운드 코디 일러스트",
-          "source": "https://premiumshop.tokyo/aonohako/",
-          "img_fb": "gfb/23ede85c2344eecb.webp",
-          "img_local": "img/23ede85c2344eecb.webp"
-        },
-        {
-          "group": "비주얼 (공식)",
-          "img": "https://premiumshop.tokyo/images/aonohako/main_aohako_mini.webp",
-          "caption_ko": "부활 일러스트",
-          "source": "https://premiumshop.tokyo/aonohako/",
-          "img_fb": "gfb/68401397094b6972.webp",
-          "img_local": "img/68401397094b6972.webp"
-        }
-      ],
-      "thumb_small": "thumbs/23ede85c2344eecb.webp",
-      "image_fb": "gfb/23ede85c2344eecb.webp",
-      "image_local": "img/23ede85c2344eecb.webp"
     },
     {
       "checked_date": "2026-11-06",

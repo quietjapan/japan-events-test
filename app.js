@@ -132,7 +132,7 @@ function render(keep){if(!keep)PAGE=0;
   // 지역 행사 먼저, 그 아래 전국 공통(쿠지·가챠·잡지 부록) 구역
   {const loc=rows.filter(r=>!isNat(r.e)),nat=rows.filter(r=>isNat(r.e));rows.length=0;rows.push(...loc,...nat);NAT0=nat.length?loc.length:-1;NATN=nat.length}
   CARDS=rows.map(r=>r.e);
-  {const vl=document.getElementById("vline");if(vl){const n=units().filter(({e,x})=>inRegion(e)&&(x.k==="now"||x.k==="ending")).length;vl.innerHTML=`지금 ${REG[st.region]}에서 열리는 애니·팝업 <b>${n}건</b>`}}
+  {const vl=document.getElementById("vline");if(vl){const n=units().filter(({e,x})=>!isNat(e)&&inRegion(e)&&(x.k==="now"||x.k==="ending")).length;vl.innerHTML=`지금 ${REG[st.region]}에서 열리는 애니·팝업 <b>${n}건</b>`}}
   window.QJCAL&&QJCAL(CARDS);
   document.getElementById("count").textContent=st.bm?`${rows.length}건 (전 지역)`:(NATN?`${REG[st.region]} ${rows.length-NATN}건 + 전국 공통 ${NATN}건`:`${REG[st.region]} ${rows.length}건`);
   const fc=document.getElementById("fcnt");if(fc){const n=(st.area?1:0)+((st.from||st.to)?1:0)+(st.s!=="all"?1:0)+st.tg.size+(st.bm?1:0)+(st.qd!=="all"?1:0);fc.hidden=!n;fc.textContent=n?String(n):"";fc.setAttribute("aria-label",n?`${n}개 적용 중`:"");const fr0=document.getElementById("fpreset");if(fr0)fr0.disabled=!n}
