@@ -1,4 +1,4 @@
-/* 테스트: 상단 정리(필터 패널 열고 닫기·초기화) + 데스크톱 지도 켜기/끄기(qj_map) */
+/* 상단 정리(필터 패널 열고 닫기·초기화) + 데스크톱 지도 켜기/끄기(qj_map) */
 (function(){
 var H=document.documentElement,fm=document.getElementById("fmore");
 if(fm){

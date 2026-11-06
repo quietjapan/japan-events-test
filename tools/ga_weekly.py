@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""주간 GA4 리포트 (quietjapan.github.io/japan-events-test)
+"""주간 GA4 리포트 (quietjapan.github.io/japan-events)
 
 사용법:
   /workspace/.gavenv/bin/python tools/ga_weekly.py                 # 지난주 월~일 vs 그 전주

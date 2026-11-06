@@ -1,4 +1,4 @@
-/* 테스트: 상단 정리 — 검색+필터 한 줄, 장르 칩 한 줄, 준호 픽·D-day 접기, 데스크톱 지도 켜기/끄기 */
+/* 상단 정리 — 검색+필터 한 줄, 장르 칩 한 줄, 준호 픽·D-day 접기, 데스크톱 지도 켜기/끄기 */
 .filters{margin:14px 0 10px;gap:8px}
 .prow{display:flex;gap:8px;align-items:stretch;position:relative}
 .prow #q{flex:1;min-width:0;min-height:46px;border-radius:999px;padding:0 18px}

@@ -1,6 +1,6 @@
 {
   "base_date": "2026-10-26",
-  "last_updated": "2026-11-05",
+  "last_updated": "2026-11-06",
   "is_sample": false,
   "events": [
     {
@@ -8513,63 +8513,6 @@
       "added": "2026-10-20"
     },
     {
-      "area": "도쿄",
-      "reservation": "불필요",
-      "checked_date": "2026-10-20",
-      "evidence": [
-        {
-          "url": "https://eeo.today/pr/gintama2610-tokyo/",
-          "tier": "official",
-          "quote": "開催期間 2026年10月23日(金)～11月5日(木) 営業時間 10:00〜20:30(最終日のみ18:00まで) 開催場所 東京駅一番街 地下1階 東京キャラクターストリートF階段下ワゴン",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "translation_check": true,
-      "summary_source": "https://eeo.today/pr/gintama2610-tokyo/",
-      "source_url": "https://eeo.today/pr/gintama2610-tokyo/",
-      "thumbnail_source": "https://eeo.today/pr/gintama2610-tokyo/",
-      "gallery_source": "https://eeo.today/pr/gintama2610-tokyo/",
-      "title_ko": "은혼 POP UP SHOP in 도쿄 캐릭터 스트리트 (eeo · 도쿄역)",
-      "title_ja": "『銀魂』POP UP SHOP in 東京キャラクターストリート by eeo",
-      "category": "팝업스토어",
-      "venue": "도쿄역 이치방가이 지하 1층 도쿄 캐릭터 스트리트 F계단 아래 왜건",
-      "start": "2026-10-23",
-      "end": "2026-11-05",
-      "official_url": "https://eeo.today/pr/gintama2610-tokyo/",
-      "notes": "10:00~20:30 (마지막 날 18:00까지). 새 상품 2,200엔 구매마다 포스트카드(전 7종) 랜덤 1장. 혼잡 시 입장 정리권",
-      "map_query": "東京駅一番街 東京キャラクターストリート",
-      "lat": 35.68,
-      "lon": 139.7679,
-      "thumbnail": "https://eeo.today/pr/gintama2610-tokyo/assets/images/ogp.jpg",
-      "gallery": [
-        {
-          "group": "굿즈·특전",
-          "img": "https://eeo.today/pr/gintama2610-tokyo/assets/images/img_items01.webp",
-          "caption_ko": "그래프아트 굿즈",
-          "source": "https://eeo.today/pr/gintama2610-tokyo/",
-          "img_fb": "gfb/8190fdeb82f81388.webp",
-          "img_local": "img/8190fdeb82f81388.webp"
-        },
-        {
-          "group": "굿즈·특전",
-          "img": "https://eeo.today/pr/gintama2610-tokyo/assets/images/img_special01.webp",
-          "caption_ko": "구매 특전 포스트카드 (전 7종)",
-          "source": "https://eeo.today/pr/gintama2610-tokyo/",
-          "img_fb": "gfb/ed834498ce1d8eba.webp",
-          "img_local": "img/ed834498ce1d8eba.webp"
-        }
-      ],
-      "gallery_note": "eeo 공식 페이지 이미지",
-      "thumb_small": "thumbs/99426a2f891a25a3.webp",
-      "summary_ko": "「은혼」 새 일러스트 그래프아트 굿즈를 파는 eeo 팝업이에요. 도쿄역 지하 캐릭터 스트리트 왜건 매장이라 짧게 들르기 좋아요. 다른 은혼 팝업과는 별개 행사예요.",
-      "region": "tokyo",
-      "image_fb": "gfb/99426a2f891a25a3.webp",
-      "image_local": "img/99426a2f891a25a3.webp",
-      "added": "2026-10-20"
-    },
-    {
       "id": "dungeon-meshi-volks",
       "area": "도쿄",
       "reservation": "불필요",
@@ -10707,94 +10650,6 @@
       "region": "tokyo",
       "image_local": "img/aa84162be2e291ba.webp",
       "added": "2026-10-19"
-    },
-    {
-      "area": "도쿄",
-      "reservation": "선택",
-      "checked_date": "2026-10-20",
-      "evidence": [
-        {
-          "url": "https://eeo.today/graffartcafe/title/diaace/",
-          "tier": "official",
-          "quote": "A actII -Second Season-』 2026年10月24日(土)〜11月5日(木) [アレルギー成分表示について] 通販・店頭受取予約はこちら! 通販はこちら! ©寺嶋裕二・講談社/「ダイヤのA act",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "translation_check": true,
-      "summary_source": "https://eeo.today/graffartcafe/title/diaace/",
-      "source_url": "https://eeo.today/graffartcafe/title/diaace/",
-      "thumbnail_source": "https://eeo.today/graffartcafe/title/diaace/",
-      "gallery_source": "https://eeo.today/graffartcafe/title/diaace/",
-      "title_ko": "다이아의 에이스 act II Second Season eeo Cafe (이케부쿠로)",
-      "title_ja": "TVアニメ『ダイヤのA actⅡ -Second Season-』eeo Cafe",
-      "category": "콜라보카페",
-      "venue": "eeo Cafe (도시마구 미나미이케부쿠로 1-9-21 JK7 1층)",
-      "start": "2026-10-24",
-      "end": "2026-11-05",
-      "official_url": "https://eeo.today/graffartcafe/title/diaace/",
-      "notes": "평일 11:30~19:00, 주말·공휴일 10:00~19:00 (L.O. 18:00). 시간대별 완전 교대제",
-      "map_query": "東京都豊島区南池袋1-9-21 JK7",
-      "lat": 35.7283,
-      "lon": 139.7127,
-      "thumbnail": "https://eeo.today/graffartcafe/title/diaace/assets/images/ogp_diaace.jpg",
-      "gallery": [
-        {
-          "group": "카페·굿즈",
-          "img": "https://eeo.today/graffartcafe/title/diaace/assets/images/diaace_01.webp",
-          "caption_ko": "공식 이미지 1",
-          "source": "https://eeo.today/graffartcafe/title/diaace/",
-          "img_fb": "gfb/e9a7c7f65875e1ad.webp",
-          "img_local": "img/e9a7c7f65875e1ad.webp"
-        },
-        {
-          "group": "카페·굿즈",
-          "img": "https://eeo.today/graffartcafe/title/diaace/assets/images/diaace_02.webp",
-          "caption_ko": "공식 이미지 2",
-          "source": "https://eeo.today/graffartcafe/title/diaace/",
-          "img_fb": "gfb/1b86c4d0d00a8adf.webp",
-          "img_local": "img/1b86c4d0d00a8adf.webp"
-        },
-        {
-          "group": "카페·굿즈",
-          "img": "https://eeo.today/graffartcafe/title/diaace/assets/images/diaace_03.webp",
-          "caption_ko": "공식 이미지 3",
-          "source": "https://eeo.today/graffartcafe/title/diaace/",
-          "img_fb": "gfb/e978a7a815ac45fa.webp",
-          "img_local": "img/e978a7a815ac45fa.webp"
-        },
-        {
-          "group": "카페·굿즈",
-          "img": "https://eeo.today/graffartcafe/title/diaace/assets/images/diaace_04.webp",
-          "caption_ko": "공식 이미지 4",
-          "source": "https://eeo.today/graffartcafe/title/diaace/",
-          "img_fb": "gfb/92d52c645f0103c3.webp",
-          "img_local": "img/92d52c645f0103c3.webp"
-        },
-        {
-          "group": "카페·굿즈",
-          "img": "https://eeo.today/graffartcafe/title/diaace/assets/images/diaace_05.webp",
-          "caption_ko": "공식 이미지 5",
-          "source": "https://eeo.today/graffartcafe/title/diaace/",
-          "img_fb": "gfb/6db5769953c6a696.webp",
-          "img_local": "img/6db5769953c6a696.webp"
-        },
-        {
-          "group": "카페·굿즈",
-          "img": "https://eeo.today/graffartcafe/title/diaace/assets/images/diaace_06.webp",
-          "caption_ko": "공식 이미지 6",
-          "source": "https://eeo.today/graffartcafe/title/diaace/",
-          "img_fb": "gfb/1843b5f8322bea61.webp",
-          "img_local": "img/1843b5f8322bea61.webp"
-        }
-      ],
-      "thumb_small": "thumbs/3673b31c5bae1021.webp",
-      "summary_ko": "애니메이션 「다이아의 에이스 actⅡ Second Season」 콜라보카페예요. eeo Cafe 레귤러 세트 메뉴에 작품 그래프아트 특전·굿즈가 붙고, 통판·매장 수령 예약도 돼요.",
-      "region": "tokyo",
-      "image_fb": "gfb/3673b31c5bae1021.webp",
-      "image_local": "img/3673b31c5bae1021.webp",
-      "added": "2026-10-20"
     },
     {
       "area": "도쿄",
@@ -21469,69 +21324,6 @@
       "translation_check": true,
       "price": "",
       "image_fit": "contain",
-      "title_ko": "【최애의 아이】 × TOPPA!!! BASE UMEKITA (PLAT UMEKITA)",
-      "title_ja": "【推しの子】×TOPPA!!! BASE",
-      "category": "팝업스토어",
-      "area": "오사카",
-      "region": "osaka",
-      "venue": "PLAT UMEKITA (그랑 그린 오사카)",
-      "start": "2026-10-31",
-      "end": "2026-11-05",
-      "official_url": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-      "source_url": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-      "map_query": "グラングリーン大阪",
-      "notes": "10:00~19:00",
-      "evidence": [
-        {
-          "url": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-          "tier": "official",
-          "quote": "UMEKITA 2026年10月31日～11月5日 PLAT UMEKITA（大阪市北区大深町5番94号 グラングリーン大阪） 10:00～19:00",
-          "checked": "2026-10-25"
-        }
-      ],
-      "summary_ko": "『최애의 아이』 팝업스토어 오사카 회장이에요. TOPPA!!! BASE 한정 굿즈를 팔아요.",
-      "summary_source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-      "thumbnail": "https://images.groobee.com/images/toppanmall/DIpZwWCjBaW1tgHHTt3178pkGsCPLrEdr5I9nKRs.jpg",
-      "thumbnail_source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-      "image_hd": "https://images.groobee.com/images/toppanmall/DIpZwWCjBaW1tgHHTt3178pkGsCPLrEdr5I9nKRs.jpg",
-      "gallery_source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://images.groobee.com/images/toppanmall/zUqXNbNUlb1XKlF3NdMTiR9uZR06HyXga0OrwiFq.jpeg",
-          "full": "https://images.groobee.com/images/toppanmall/zUqXNbNUlb1XKlF3NdMTiR9uZR06HyXga0OrwiFq.jpeg",
-          "caption_ko": "",
-          "caption_ja": "",
-          "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-          "img_local": "img/1f32652d6c24e526.webp",
-          "img_fb": "gfb/1f32652d6c24e526.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://images.groobee.com/images/toppanmall/ne4pru3MYtlQjNCWTL1rfPWaRdXgy6LlDBOFYkKA.jpg",
-          "full": "https://images.groobee.com/images/toppanmall/ne4pru3MYtlQjNCWTL1rfPWaRdXgy6LlDBOFYkKA.jpg",
-          "caption_ko": "",
-          "caption_ja": "",
-          "source": "https://fan-xross-mall.com/lp/oshinoko_toppa-base",
-          "img_local": "img/182115eab7cf034d.webp",
-          "img_fb": "gfb/182115eab7cf034d.webp"
-        }
-      ],
-      "lat": 34.7066,
-      "lon": 135.4945,
-      "thumb_small": "thumbs/6f56d38978c17951.webp",
-      "image_local": "img/6f56d38978c17951.webp",
-      "image_fb": "gfb/6f56d38978c17951.webp",
-      "added": "2026-10-25"
-    },
-    {
-      "reservation": "",
-      "checked_date": "2026-10-25",
-      "verified_at": "2026-10-25",
-      "source_tier": "official",
-      "translation_check": true,
-      "price": "",
-      "image_fit": "contain",
       "title_ko": "SAKAMOTO DAYS POP UP STREET in 아사쿠사",
       "title_ja": "SAKAMOTO DAYS POP UP STREET in Asakusa",
       "category": "팝업스토어",
@@ -25516,45 +25308,6 @@
       "checked_date": "2026-10-26",
       "source_tier": "official",
       "verified_at": "2026-10-26",
-      "title_ko": "뿌요뿌요 × 하피단V POPUP STORE (도쿄)",
-      "title_ja": "ぷよぷよxはぴだんぶい POPUP STORE",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "도쿄역 이치방가이 도쿄 캐릭터 스트리트 B1F (G계단 아래 왜건)",
-      "start": "2026-10-23",
-      "end": "2026-11-05",
-      "official_url": "https://hapi-pop.com/PH/",
-      "map_query": "東京キャラクターストリート",
-      "thumbnail": "https://hapi-pop.com/PH/assets/images/mainimg_pc.png",
-      "image_fit": "contain",
-      "summary_ko": "「뿌요뿌요」와 산리오 남자아이 유닛 「하피단V」(포차코·턱시도샘 등) 콜라보 굿즈 팝업이에요. 도쿄→오사카→후쿠오카 순으로 순회해요.",
-      "source_url": "https://hapi-pop.com/PH/",
-      "summary_source": "https://hapi-pop.com/PH/",
-      "evidence": [
-        {
-          "url": "https://hapi-pop.com/PH/",
-          "tier": "official",
-          "quote": "東京 2026年10月23日(金)〜11月5日(木) 東京駅一番街 東京キャラクターストリートB1F G階段下ワゴン 大阪 2026年11月19日(木)〜12月3日(木) なんばロフト なんばパークス 5F 福岡 2026年12月10日(木)〜12月20日(日) ららぽーと福岡ロフト ららぽーと福岡 2F",
-          "checked": "2026-10-26"
-        }
-      ],
-      "thumbnail_source": "https://hapi-pop.com/PH/",
-      "translation_check": true,
-      "lat": 35.6824,
-      "lon": 139.7687,
-      "thumb_small": "thumbs/7029fe24369eb14f.webp",
-      "image_fb": "gfb/7029fe24369eb14f.webp",
-      "image_local": "img/7029fe24369eb14f.webp",
-      "added": "2026-10-26"
-    },
-    {
-      "reservation": "",
-      "price": "",
-      "notes": "",
-      "checked_date": "2026-10-26",
-      "source_tier": "official",
-      "verified_at": "2026-10-26",
       "title_ko": "뿌요뿌요 × 하피단V POPUP STORE (오사카)",
       "title_ja": "ぷよぷよxはぴだんぶい POPUP STORE",
       "category": "팝업스토어",
@@ -25632,31 +25385,31 @@
       "category": "가챠",
       "area": "전국",
       "venue": "전국 판매처 (가챠 코너 등)",
-      "start": "2026-11-01",
+      "start": "2026-11-08",
       "end": null,
       "reservation": "불필요",
       "price": "1회 500엔",
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
-      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
-      "checked_date": "2026-10-27",
+      "notes": "발매 시기: 2026년 11월 2째 주. 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-11-06",
       "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259560_1.jpg",
       "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
       "evidence": [
         {
           "url": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
           "tier": "official",
-          "quote": "発売時期 2026年11月未定 価格(税込) 500円 種類数 全6種 対象年齢",
-          "checked": "2026-10-27"
+          "quote": "発売時期 2026年11月 第2週 価格(税込) 500円 種類数 全6種",
+          "checked": "2026-11-06"
         }
       ],
       "source_tier": "official",
-      "verified_at": "2026-10-27",
+      "verified_at": "2026-11-06",
       "thumb_kind": "product",
-      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "date_label": "11월 2째 주 발매 (지역·매장별 상이)",
       "region": "all",
       "added": "2026-10-27",
-      "summary_ko": "「원피스」 가챠예요. 1회 500엔, 전 6종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_ko": "「원피스」 가챠예요. 1회 500엔, 전 6종이에요. 일본 발매는 2026년 11월 2째 주이에요.",
       "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770055405000",
       "gallery": [
         {
@@ -25729,31 +25482,31 @@
       "category": "가챠",
       "area": "전국",
       "venue": "전국 판매처 (가챠 코너 등)",
-      "start": "2026-11-01",
+      "start": "2026-11-15",
       "end": null,
       "reservation": "불필요",
       "price": "1회 500엔",
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
-      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
-      "checked_date": "2026-10-27",
+      "notes": "발매 시기: 2026년 11월 3째 주. 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-11-06",
       "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259566_1.jpg",
       "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
       "evidence": [
         {
           "url": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
           "tier": "official",
-          "quote": "発売時期 2026年11月未定 価格(税込) 500円 種類数 全5種 対象年齢",
-          "checked": "2026-10-27"
+          "quote": "発売時期 2026年11月 第3週 価格(税込) 500円 種類数 全5種",
+          "checked": "2026-11-06"
         }
       ],
       "source_tier": "official",
-      "verified_at": "2026-10-27",
+      "verified_at": "2026-11-06",
       "thumb_kind": "product",
-      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "date_label": "11월 3째 주 발매 (지역·매장별 상이)",
       "region": "all",
       "added": "2026-10-27",
-      "summary_ko": "「명탐정 코난」 가챠예요. 1회 500엔, 전 5종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_ko": "「명탐정 코난」 가챠예요. 1회 500엔, 전 5종이에요. 일본 발매는 2026년 11월 3째 주이에요.",
       "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770054187000",
       "gallery": [
         {
@@ -25818,31 +25571,31 @@
       "category": "가챠",
       "area": "전국",
       "venue": "전국 판매처 (가챠 코너 등)",
-      "start": "2026-11-01",
+      "start": "2026-11-15",
       "end": null,
       "reservation": "불필요",
       "price": "1회 400엔",
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
-      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
-      "checked_date": "2026-10-27",
+      "notes": "발매 시기: 2026년 11월 3째 주. 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-11-06",
       "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259526_1.jpg",
       "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
       "evidence": [
         {
           "url": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
           "tier": "official",
-          "quote": "発売時期 2026年11月未定 価格(税込) 400円 種類数 全7種 対象年齢",
-          "checked": "2026-10-27"
+          "quote": "発売時期 2026年11月 第3週 価格(税込) 400円 種類数 全7種",
+          "checked": "2026-11-06"
         }
       ],
       "source_tier": "official",
-      "verified_at": "2026-10-27",
+      "verified_at": "2026-11-06",
       "thumb_kind": "product",
-      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "date_label": "11월 3째 주 발매 (지역·매장별 상이)",
       "region": "all",
       "added": "2026-10-27",
-      "summary_ko": "「하이큐」 가챠예요. 1회 400엔, 전 7종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_ko": "「하이큐」 가챠예요. 1회 400엔, 전 7종이에요. 일본 발매는 2026년 11월 3째 주이에요.",
       "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770095487000",
       "gallery": [
         {
@@ -25923,31 +25676,31 @@
       "category": "가챠",
       "area": "전국",
       "venue": "전국 판매처 (가챠 코너 등)",
-      "start": "2026-11-01",
+      "start": "2026-11-15",
       "end": null,
       "reservation": "불필요",
       "price": "1회 300엔",
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
-      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
-      "checked_date": "2026-10-27",
+      "notes": "발매 시기: 2026년 11월 3째 주. 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-11-06",
       "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259532_1.jpg",
       "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
       "evidence": [
         {
           "url": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
           "tier": "official",
-          "quote": "発売時期 2026年11月未定 価格(税込) 300円 種類数 全5種 対象年齢",
-          "checked": "2026-10-27"
+          "quote": "発売時期 2026年11月 第3週 価格(税込) 300円 種類数 全5種",
+          "checked": "2026-11-06"
         }
       ],
       "source_tier": "official",
-      "verified_at": "2026-10-27",
+      "verified_at": "2026-11-06",
       "thumb_kind": "product",
-      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "date_label": "11월 3째 주 발매 (지역·매장별 상이)",
       "region": "all",
       "added": "2026-10-27",
-      "summary_ko": "「포켓몬」 가챠예요. 1회 300엔, 전 5종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_ko": "「포켓몬」 가챠예요. 1회 300엔, 전 5종이에요. 일본 발매는 2026년 11월 3째 주이에요.",
       "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770081770000",
       "gallery": [
         {
@@ -26012,31 +25765,31 @@
       "category": "가챠",
       "area": "전국",
       "venue": "전국 판매처 (가챠 코너 등)",
-      "start": "2026-11-01",
+      "start": "2026-11-22",
       "end": null,
       "reservation": "불필요",
       "price": "1회 400엔",
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
-      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
-      "checked_date": "2026-10-27",
+      "notes": "발매 시기: 2026년 11월 4째 주. 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-11-06",
       "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259544_1.jpg",
       "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
       "evidence": [
         {
           "url": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
           "tier": "official",
-          "quote": "発売時期 2026年11月未定 価格(税込) 400円 種類数 全6種 対象年齢",
-          "checked": "2026-10-27"
+          "quote": "発売時期 2026年11月 第4週 価格(税込) 400円 種類数 全6種",
+          "checked": "2026-11-06"
         }
       ],
       "source_tier": "official",
-      "verified_at": "2026-10-27",
+      "verified_at": "2026-11-06",
       "thumb_kind": "product",
-      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "date_label": "11월 4째 주 발매 (지역·매장별 상이)",
       "region": "all",
       "added": "2026-10-27",
-      "summary_ko": "「산리오」 가챠예요. 1회 400엔, 전 6종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_ko": "「산리오」 가챠예요. 1회 400엔, 전 6종이에요. 일본 발매는 2026년 11월 4째 주이에요.",
       "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770070774000",
       "gallery": [
         {
@@ -29536,32 +29289,32 @@
       "category": "가챠",
       "area": "전국",
       "venue": "전국 판매처 (가챠 코너 등)",
-      "start": "2026-11-01",
+      "start": "2026-11-22",
       "end": null,
       "reservation": "불필요",
       "price": "1회 300엔",
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770095142000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770095142000",
-      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
-      "checked_date": "2026-10-29",
+      "notes": "발매 시기: 2026년 11월 4째 주. 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-11-06",
       "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259527_1.jpg",
       "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770095142000",
       "evidence": [
         {
           "url": "https://gashapon.jp/products/detail.php?jan_code=4582770095142000",
           "tier": "official",
-          "quote": "発売時期 2026年11月未定 価格(税込) 300円 種類数 全10種 対象年齢",
-          "checked": "2026-10-29"
+          "quote": "発売時期 2026年11月 第4週 価格(税込) 300円 種類数 全10種",
+          "checked": "2026-11-06"
         }
       ],
       "source_tier": "official",
-      "verified_at": "2026-10-29",
+      "verified_at": "2026-11-06",
       "thumb_kind": "product",
-      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "date_label": "11월 4째 주 발매 (지역·매장별 상이)",
       "region": "all",
       "added": "2026-10-29",
       "translation_check": true,
-      "summary_ko": "「장송의 프리렌」 가챠예요. 1회 300엔, 전 10종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_ko": "「장송의 프리렌」 가챠예요. 1회 300엔, 전 10종이에요. 일본 발매는 2026년 11월 4째 주이에요.",
       "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770095142000",
       "gallery": [
         {
@@ -29665,32 +29418,32 @@
       "category": "가챠",
       "area": "전국",
       "venue": "전국 판매처 (가챠 코너 등)",
-      "start": "2026-11-01",
+      "start": "2026-11-15",
       "end": null,
       "reservation": "불필요",
       "price": "1회 300엔",
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770068351000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770068351000",
-      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
-      "checked_date": "2026-10-29",
+      "notes": "발매 시기: 2026년 11월 3째 주. 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-11-06",
       "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259550_1.jpg",
       "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770068351000",
       "evidence": [
         {
           "url": "https://gashapon.jp/products/detail.php?jan_code=4582770068351000",
           "tier": "official",
-          "quote": "発売時期 2026年11月未定 価格(税込) 300円 種類数 全5種 対象年齢",
-          "checked": "2026-10-29"
+          "quote": "発売時期 2026年11月 第3週 価格(税込) 300円 種類数 全5種",
+          "checked": "2026-11-06"
         }
       ],
       "source_tier": "official",
-      "verified_at": "2026-10-29",
+      "verified_at": "2026-11-06",
       "thumb_kind": "product",
-      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "date_label": "11월 3째 주 발매 (지역·매장별 상이)",
       "region": "all",
       "added": "2026-10-29",
       "translation_check": true,
-      "summary_ko": "「산리오」 가챠예요. 1회 300엔, 전 5종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_ko": "「산리오」 가챠예요. 1회 300엔, 전 5종이에요. 일본 발매는 2026년 11월 3째 주이에요.",
       "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770068351000",
       "gallery": [
         {
@@ -29754,32 +29507,32 @@
       "category": "가챠",
       "area": "전국",
       "venue": "전국 판매처 (가챠 코너 등)",
-      "start": "2026-11-01",
+      "start": "2026-11-15",
       "end": null,
       "reservation": "불필요",
       "price": "1회 500엔",
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770137750000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770137750000",
-      "notes": "발매 시기: 2026년 11월 (주차 미정). 지역·매장마다 다를 수 있어요",
-      "checked_date": "2026-10-29",
+      "notes": "발매 시기: 2026년 11월 3째 주. 지역·매장마다 다를 수 있어요",
+      "checked_date": "2026-11-06",
       "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259513_1.jpg",
       "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770137750000",
       "evidence": [
         {
           "url": "https://gashapon.jp/products/detail.php?jan_code=4582770137750000",
           "tier": "official",
-          "quote": "発売時期 2026年11月未定 価格(税込) 500円 種類数 全6種 対象年齢",
-          "checked": "2026-10-29"
+          "quote": "発売時期 2026年11月 第3週 価格(税込) 500円 種類数 全6種",
+          "checked": "2026-11-06"
         }
       ],
       "source_tier": "official",
-      "verified_at": "2026-10-29",
+      "verified_at": "2026-11-06",
       "thumb_kind": "product",
-      "date_label": "11월 발매 (주차 미정, 지역·매장별 상이)",
+      "date_label": "11월 3째 주 발매 (지역·매장별 상이)",
       "region": "all",
       "added": "2026-10-29",
       "translation_check": true,
-      "summary_ko": "「치이카와」 가챠예요. 1회 500엔, 전 6종이에요. 일본 발매는 2026년 11월(주차 미정)이에요.",
+      "summary_ko": "「치이카와」 가챠예요. 1회 500엔, 전 6종이에요. 일본 발매는 2026년 11월 3째 주이에요.",
       "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770137750000",
       "gallery": [
         {
@@ -31111,45 +30864,6 @@
       "image_local": "img/5caf11193fee46e0.webp"
     },
     {
-      "id": "tokyo-shingeki-sanrio-5-omokado",
-      "title_ko": "진격의 거인 × 산리오 캐릭터즈 POPUP SHOP 제5탄 (키디랜드 오모카도점)",
-      "title_ja": "TVアニメ『進撃の巨人』×サンリオキャラクターズ POPUPSHOP",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "키디랜드 오모카도점 (오모테산도 오모카도 4층)",
-      "start": "2026-10-23",
-      "end": "2026-11-05",
-      "reservation": "불필요",
-      "price": "입장료 확인되지 않음 (11/03 기준)",
-      "official_url": "https://animaru.jp/static/special/anmr/shingeki/2026/sanriocharacters/index.html",
-      "source_url": "https://animaru.jp/static/special/anmr/shingeki/2026/sanriocharacters/index.html",
-      "notes": "영업 11:00~20:00. 굿즈 550~5,500엔 (세금 포함). 트레이딩 1인 2BOX·기타 1인 2점(캐릭터 단위) 구매 제한",
-      "map_query": "東京都渋谷区神宮前4-30-3",
-      "lat": 35.668392,
-      "lon": 139.706177,
-      "thumbnail": "https://animaru.jp/static/special/anmr/shingeki/2026/sanriocharacters/ogp.png",
-      "thumbnail_source": "https://animaru.jp/static/special/anmr/shingeki/2026/sanriocharacters/index.html",
-      "evidence": [
-        {
-          "url": "https://animaru.jp/static/special/anmr/shingeki/2026/sanriocharacters/index.html",
-          "tier": "official",
-          "quote": "キデイランド オモカド店 〒150-0001 東京都渋谷区神宮前4丁目30−3 表参道「オモカド」4階 開催期間 2026年 10 月 23 日（金）～ 11 月 5 日（木） 営業時間 11:00～20:00",
-          "checked": "2026-11-03"
-        }
-      ],
-      "summary_ko": "『진격의 거인』 캐릭터가 산리오 캐릭터 인형탈을 쓴 콜라보 굿즈 팝업이에요. 마스코트·아크릴 스탠드 등을 팔아요.",
-      "summary_source": "https://animaru.jp/static/special/anmr/shingeki/2026/sanriocharacters/index.html",
-      "checked_date": "2026-11-03",
-      "verified_at": "2026-11-03",
-      "source_tier": "official",
-      "translation_check": true,
-      "added": "2026-11-03",
-      "thumb_small": "thumbs/1f13aef26f4143b0.webp",
-      "image_fb": "gfb/1f13aef26f4143b0.webp",
-      "image_local": "img/1f13aef26f4143b0.webp"
-    },
-    {
       "id": "osaka-shingeki-sanrio-5-umeda",
       "title_ko": "진격의 거인 × 산리오 캐릭터즈 POPUP SHOP 제5탄 (키디랜드 오사카 우메다점)",
       "title_ja": "TVアニメ『進撃の巨人』×サンリオキャラクターズ POPUPSHOP",
@@ -32074,6 +31788,255 @@
       "thumb_small": "thumbs/4b3b10eb9aa5d1eb.webp",
       "image_fb": "gfb/4b3b10eb9aa5d1eb.webp",
       "image_local": "img/4b3b10eb9aa5d1eb.webp"
+    },
+    {
+      "checked_date": "2026-11-06",
+      "source_tier": "official",
+      "verified_at": "2026-11-06",
+      "translation_check": true,
+      "added": "2026-11-06",
+      "reservation": "혼잡 시 추첨·정리권 가능 (몬스터즈에그 X 안내)",
+      "price": "해당 상품 2,200엔(세금 포함) 이상 구매 시 아크릴 파츠(전 6종 랜덤) / 4,400엔 이상 시 쇼퍼(1인 1점)",
+      "id": "tokyo-hanamaruobake-tokyoeki-ichibanplaza",
+      "title_ko": "하나마루 오바케 POP-UP STORE (도쿄역 이치방가이)",
+      "title_ja": "はなまるおばけ 東京駅一番街 いちばんプラザPOP-UP STORE -がんばるきみにはなまるあーげる！-",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "도쿄역 이치방가이 B1F 도쿄 캐릭터 스트리트 이치방 플라자",
+      "start": "2026-11-13",
+      "end": "2026-11-26",
+      "notes": "영업 10:00~20:30 (최종일 18:00까지). 11/23 마루마루 그리팅(각 회 20조). 일부 상품 온라인(11/13~11/26). 블랭킷은 11/21부터 순차 발매",
+      "official_url": "https://www.sanrio.co.jp/news/spots/ho-pop-up-store-20261030/",
+      "source_url": "https://www.tokyoeki-1bangai.co.jp/event/detail/?cd=001274",
+      "map_query": "東京駅一番街",
+      "summary_ko": "산리오 「하나마루 오바케」 기간 한정 팝업이에요. 하냐마루 캔디·윈터 모티브 신상품과 관내 장식, 11/23 그리팅이 있어요.",
+      "summary_source": "https://www.sanrio.co.jp/news/spots/ho-pop-up-store-20261030/",
+      "thumbnail": "https://www.sanrio.co.jp/wp-content/uploads/2026/10/ho-pop-up-store-20261030-main.jpg",
+      "thumbnail_source": "https://www.sanrio.co.jp/news/spots/ho-pop-up-store-20261030/",
+      "evidence": [
+        {
+          "url": "https://www.sanrio.co.jp/news/spots/ho-pop-up-store-20261030/",
+          "tier": "official",
+          "quote": "開催期間 11月13日（金）～11月26日（木） 営業時間 10:00～20:30 ※最終日は18:00まで",
+          "checked": "2026-11-06"
+        },
+        {
+          "url": "https://www.tokyoeki-1bangai.co.jp/event/detail/?cd=001274",
+          "tier": "official",
+          "quote": "開催日 2026.11.13.fri 〜 2026.11.26.thu 時間 10：00～20：30（最終日のみ18：00まで） 場所 東京駅一番街 地下一階 東京キャラクターストリート いちばんプラザ",
+          "checked": "2026-11-06"
+        }
+      ],
+      "gallery_source": "https://www.sanrio.co.jp/news/spots/ho-pop-up-store-20261030/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "gallery": [
+        {
+          "group": "상품·특전 (공식)",
+          "img": "https://www.sanrio.co.jp/wp-content/uploads/2026/10/ho-pop-up-store-20261030-sub1.jpg",
+          "caption_ko": "신상품 라인업",
+          "source": "https://www.sanrio.co.jp/news/spots/ho-pop-up-store-20261030/",
+          "img_fb": "gfb/903abe0817156015.webp",
+          "img_local": "img/903abe0817156015.webp"
+        },
+        {
+          "group": "상품·특전 (공식)",
+          "img": "https://www.sanrio.co.jp/wp-content/uploads/2026/10/ho-pop-up-store-20261030-sub2-1.jpg",
+          "caption_ko": "구매 특전 안내",
+          "source": "https://www.sanrio.co.jp/news/spots/ho-pop-up-store-20261030/",
+          "img_fb": "gfb/7056961b6db2af9e.webp",
+          "img_local": "img/7056961b6db2af9e.webp"
+        }
+      ],
+      "lat": 35.6819,
+      "lon": 139.7684,
+      "thumb_small": "thumbs/70856682e13c264f.webp",
+      "image_fb": "gfb/70856682e13c264f.webp",
+      "image_local": "img/70856682e13c264f.webp"
+    },
+    {
+      "checked_date": "2026-11-06",
+      "source_tier": "official",
+      "verified_at": "2026-11-06",
+      "translation_check": true,
+      "added": "2026-11-06",
+      "reservation": "첫날(11/13) LivePocket 사전 예약(추첨) — 접수 종료",
+      "price": "대상 상품 3,000엔(세금 포함) 이상 구매마다 특전 브로마이드(전 14종 랜덤) 1장",
+      "id": "tokyo-kinpri-popup-ikebukuro-loft",
+      "title_ko": "KING OF PRISM -Tri-Star Act- POP UP STORE in 로프트 (이케부쿠로)",
+      "title_ja": "KING OF PRISM-Tri-Star Act- POP UP STORE in ロフト（池袋）",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "이케부쿠로 로프트 11층 캐릭터 잡화 매장",
+      "start": "2026-11-13",
+      "end": "2026-11-29",
+      "notes": "영업 월~토 10:00~21:00 / 일·공휴 10:00~20:00 (최종일 18:00). 플라워숍 테마 신규 일러스트 굿즈. 오사카(우메다 로프트)는 2027/1/23~2/7",
+      "official_url": "https://www.cocollabo.net/pages/kinpri-2026",
+      "source_url": "https://www.loft.co.jp/shop_list/info.php?info_id=717881&shop_id=193",
+      "map_query": "池袋ロフト",
+      "summary_ko": "「KING OF PRISM」 로프트 팝업이에요. 플라워숍 테마 신규 일러스트 굿즈와 구매 특전 브로마이드가 있어요.",
+      "summary_source": "https://www.cocollabo.net/pages/kinpri-2026",
+      "thumbnail": "https://www.cocollabo.net/cdn/shop/files/kinpri_26_1_novelty.jpg?v=10206380725164869751",
+      "thumbnail_source": "https://www.cocollabo.net/pages/kinpri-2026",
+      "evidence": [
+        {
+          "url": "https://www.cocollabo.net/pages/kinpri-2026",
+          "tier": "official",
+          "quote": "【東京会場】開催期間：2026年11月13日(金)～11月29日(日) 開催場所：池袋ロフト11階 キャラクター雑貨売場",
+          "checked": "2026-11-06"
+        }
+      ],
+      "gallery_source": "https://www.cocollabo.net/pages/kinpri-2026",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "gallery": [
+        {
+          "group": "상품·특전 (공식)",
+          "img": "https://www.cocollabo.net/cdn/shop/files/kinpri_26_1_novelty.jpg?v=10206380725164869751",
+          "caption_ko": "구매 특전 브로마이드 (전 14종)",
+          "source": "https://www.cocollabo.net/pages/kinpri-2026",
+          "img_fb": "gfb/b023d7b9c177fe64.webp",
+          "img_local": "img/b023d7b9c177fe64.webp"
+        }
+      ],
+      "thumb_small": "thumbs/b023d7b9c177fe64.webp",
+      "image_fb": "gfb/b023d7b9c177fe64.webp",
+      "image_local": "img/b023d7b9c177fe64.webp"
+    },
+    {
+      "checked_date": "2026-11-06",
+      "source_tier": "official",
+      "verified_at": "2026-11-06",
+      "translation_check": true,
+      "added": "2026-11-06",
+      "reservation": "불필요 (혼잡 시 정리권·입장 제한 가능)",
+      "price": "입장 무료",
+      "id": "tokyo-aonohako-sanrio-premiumshop-ikebukuro",
+      "title_ko": "아오의 하코 × 산리오 캐릭터즈 PremiumShop (이케부쿠로)",
+      "title_ja": "TVアニメ『アオのハコ』×サンリオキャラクターズPremiumShop",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "POP Culture Style IKEBUKURO (이케부쿠로 스퀘어 au Style 내 2층)",
+      "start": "2026-11-20",
+      "end": "2026-12-16",
+      "notes": "영업 10:00~20:00. 바운드 코디·부활 일러스트 굿즈·패널 전시. 게이머즈 센다이·나고야·난바·하카타도 11/20부터 취급(소진 시 종료)",
+      "official_url": "https://premiumshop.tokyo/aonohako/",
+      "source_url": "https://popculturestyle.com/event/aonohako",
+      "map_query": "POP Culture Style IKEBUKURO",
+      "summary_ko": "『아오의 하코』와 산리오 캐릭터즈 콜라보 프리미엄숍이에요. 신규 일러스트 굿즈와 패널 전시가 있어요.",
+      "summary_source": "https://premiumshop.tokyo/aonohako/",
+      "thumbnail": "https://premiumshop.tokyo/images/aonohako/main_aohako_toshin.webp",
+      "thumbnail_source": "https://premiumshop.tokyo/aonohako/",
+      "evidence": [
+        {
+          "url": "https://premiumshop.tokyo/aonohako/",
+          "tier": "official",
+          "quote": "東京･POP Culture Style IKEBUKURO 開催期間 2026年11月20日(金)〜2026年12月16日(水) 営業時間 10:00～20:00",
+          "checked": "2026-11-06"
+        }
+      ],
+      "gallery_source": "https://premiumshop.tokyo/aonohako/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "gallery": [
+        {
+          "group": "비주얼 (공식)",
+          "img": "https://premiumshop.tokyo/images/aonohako/main_aohako_toshin.webp",
+          "caption_ko": "바운드 코디 일러스트",
+          "source": "https://premiumshop.tokyo/aonohako/",
+          "img_fb": "gfb/23ede85c2344eecb.webp",
+          "img_local": "img/23ede85c2344eecb.webp"
+        },
+        {
+          "group": "비주얼 (공식)",
+          "img": "https://premiumshop.tokyo/images/aonohako/main_aohako_mini.webp",
+          "caption_ko": "부활 일러스트",
+          "source": "https://premiumshop.tokyo/aonohako/",
+          "img_fb": "gfb/68401397094b6972.webp",
+          "img_local": "img/68401397094b6972.webp"
+        }
+      ],
+      "thumb_small": "thumbs/23ede85c2344eecb.webp",
+      "image_fb": "gfb/23ede85c2344eecb.webp",
+      "image_local": "img/23ede85c2344eecb.webp"
+    },
+    {
+      "checked_date": "2026-11-06",
+      "source_tier": "official",
+      "verified_at": "2026-11-06",
+      "translation_check": true,
+      "added": "2026-11-06",
+      "reservation": "확인되지 않음 (11/06 기준)",
+      "price": "입장 무료 (재고 소진 시 종료)",
+      "id": "osaka-aonohako-sanrio-premiumshop-gamers-namba",
+      "title_ko": "아오의 하코 × 산리오 캐릭터즈 PremiumShop 취급점 (게이머즈 난바)",
+      "title_ja": "TVアニメ『アオのハコ』×サンリオキャラクターズPremiumShop（ゲーマーズなんば店）",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "게이머즈 난바점",
+      "start": "2026-11-20",
+      "end": null,
+      "notes": "영업 평일 11:00~20:00 / 토일공휴 10:00~20:00. 공식: 2026年11月20日(金) 〜 無くなり次第終了. 재고·정리권은 매장 문의",
+      "official_url": "https://premiumshop.tokyo/aonohako/",
+      "source_url": "https://premiumshop.tokyo/aonohako/",
+      "map_query": "大阪府大阪市浪速区日本橋3-8-16",
+      "summary_ko": "『아오의 하코』×산리오 프리미엄숍 취급점(난바)이에요. 11/20부터 판매하고, 재고가 끝나면 종료돼요.",
+      "summary_source": "https://premiumshop.tokyo/aonohako/",
+      "thumbnail": "https://premiumshop.tokyo/images/aonohako/main_aohako_toshin.webp",
+      "thumbnail_source": "https://premiumshop.tokyo/aonohako/",
+      "evidence": [
+        {
+          "url": "https://premiumshop.tokyo/aonohako/",
+          "tier": "official",
+          "quote": "【取扱店舗】大阪･ ゲーマーズなんば店 開催期間 2026年11月20日(金) 〜 無くなり次第終了 営業時間 [平日]11:00 〜 20:00 [土日祝]10:00 〜 20:00",
+          "checked": "2026-11-06"
+        }
+      ],
+      "lat": 34.66174,
+      "lon": 135.50501,
+      "thumb_small": "thumbs/23ede85c2344eecb.webp",
+      "image_fb": "gfb/23ede85c2344eecb.webp",
+      "image_local": "img/23ede85c2344eecb.webp"
+    },
+    {
+      "checked_date": "2026-11-06",
+      "source_tier": "official",
+      "verified_at": "2026-11-06",
+      "translation_check": true,
+      "added": "2026-11-06",
+      "reservation": "확인되지 않음 (11/06 기준)",
+      "price": "입장 무료 (재고 소진 시 종료)",
+      "id": "fukuoka-aonohako-sanrio-premiumshop-gamers-hakata",
+      "title_ko": "아오의 하코 × 산리오 캐릭터즈 PremiumShop 취급점 (게이머즈 하카타)",
+      "title_ja": "TVアニメ『アオのハコ』×サンリオキャラクターズPremiumShop（ゲーマーズ博多店）",
+      "category": "팝업스토어",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "게이머즈 하카타점 (namco 하카타 버스터미널 7층)",
+      "start": "2026-11-20",
+      "end": null,
+      "notes": "영업 10:00~21:00. 공식: 2026年11月20日(金) 〜 無くなり次第終了. 재고·정리권은 매장 문의",
+      "official_url": "https://premiumshop.tokyo/aonohako/",
+      "source_url": "https://premiumshop.tokyo/aonohako/",
+      "map_query": "ゲーマーズ博多店",
+      "summary_ko": "『아오의 하코』×산리오 프리미엄숍 취급점(하카타)이에요. 11/20부터 판매하고, 재고가 끝나면 종료돼요.",
+      "summary_source": "https://premiumshop.tokyo/aonohako/",
+      "thumbnail": "https://premiumshop.tokyo/images/aonohako/main_aohako_toshin.webp",
+      "thumbnail_source": "https://premiumshop.tokyo/aonohako/",
+      "evidence": [
+        {
+          "url": "https://premiumshop.tokyo/aonohako/",
+          "tier": "official",
+          "quote": "【取扱店舗】福岡･ ゲーマーズ博多店 開催期間 2026年11月20日(金) 〜 無くなり次第終了 営業時間 10:00 〜 21:00",
+          "checked": "2026-11-06"
+        }
+      ],
+      "lat": 33.5903,
+      "lon": 130.4196,
+      "thumb_small": "thumbs/23ede85c2344eecb.webp",
+      "image_fb": "gfb/23ede85c2344eecb.webp",
+      "image_local": "img/23ede85c2344eecb.webp"
     }
   ]
 }

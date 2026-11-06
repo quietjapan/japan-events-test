@@ -1,4 +1,4 @@
-/* 테스트: 여행 날짜 공유 링크·표시줄, 마감 D-day, 북마크 일괄 .ics */
+/* 여행 날짜 공유 링크·표시줄, 마감 D-day, 북마크 일괄 .ics */
 (function(){
 function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
 var fr=document.getElementById("from"),to=document.getElementById("to"),bar=document.getElementById("tripbar"),tx=document.getElementById("triptx"),tb=document.getElementById("tripbtn");
