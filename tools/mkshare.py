@@ -4,7 +4,7 @@ id 규칙은 app.js itemId()와 동일: e.id 또는 FNV-1a(seriesKey) base36. �
 import json, io, sys, html, shutil, requests
 from pathlib import Path
 from PIL import Image
-ROOT=Path(__file__).resolve().parent.parent; OUT=ROOT/"i"; SITE="https://quietjapan.github.io/japan-events/"
+ROOT=Path(__file__).resolve().parent.parent; OUT=ROOT/"i"; SITE="https://quietjapan.github.io/japan-events-test/"
 UA={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130 Safari/537.36"}
 SHOP={"팝업스토어","콜라보카페","쿠지","가챠","잡지 부록"}
 # 로컬 공식 이미지로 OG를 만들 항목 (id -> 파일)
