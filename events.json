@@ -1,6 +1,6 @@
 {
-  "base_date": "2026-10-26",
-  "last_updated": "2026-11-06",
+  "base_date": "2026-11-07",
+  "last_updated": "2026-11-07",
   "is_sample": false,
   "events": [
     {
@@ -32292,6 +32292,665 @@
       "thumb_small": "thumbs/f5cb828d38418af3.webp",
       "image_fb": "gfb/f5cb828d38418af3.webp",
       "image_local": "img/f5cb828d38418af3.webp"
+    },
+    {
+      "id": "tokyo-heroaca-keio-christmas-fair",
+      "title_ko": "나의 히어로 아카데미아 크리스마스 페어 2026 (게이오 백화점 신주쿠)",
+      "title_ja": "僕のヒーローアカデミア クリスマスフェア2026 in 京王百貨店 新宿店",
+      "category": "전시·행사",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "게이오 백화점 신주쿠점 (6F cafe AEL·B1F POP UP 등)",
+      "start": "2026-11-19",
+      "end": "2026-12-25",
+      "reservation": "정리권 정보 추후 공지 (공식 X·특설)",
+      "price": "확인되지 않음 (구매·특전 조건 있음)",
+      "official_url": "https://event.sukiplus.com/heroaca-keio2026",
+      "source_url": "https://www.heroaca.com/news/28707/",
+      "map_query": "東京都新宿区西新宿1-1-4",
+      "notes": "관내 콜라보 11/19~12/25. POP UP 스토어 B1F on the Corner 12/10~12/25. 온라인 판매 12/26~2027/1/31. 6F cafe AEL에서 미도리야 녹음 안내방송·특전 배포 등.",
+      "checked_date": "2026-11-07",
+      "verified_at": "2026-11-07",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-07",
+      "summary_ko": "「히로아카」×게이오 백화점 신주쿠 크리스마스 페어예요. 관내 장식·카페 스페이스·굿즈·POP UP(12/10~)이 열려요.",
+      "summary_source": "https://event.sukiplus.com/heroaca-keio2026",
+      "thumbnail": "https://static.wixstatic.com/media/b80f79_bd99f5aefa68445994caf831b32520e4~mv2.jpg/v1/fill/w_1200,h_630,al_c/b80f79_bd99f5aefa68445994caf831b32520e4~mv2.jpg",
+      "thumbnail_source": "https://event.sukiplus.com/heroaca-keio2026",
+      "evidence": [
+        {
+          "url": "https://www.heroaca.com/news/28707/",
+          "tier": "official",
+          "quote": "【開催期間】 [館コラボ] 2026年11月19日(木)〜12月25日(金) [POPUPストア] 2026年12月10日(木)〜12月25日(金) [オンライン販売] 2026年12月26日(土)～2027年1月31日(日)",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://event.sukiplus.com/heroaca-keio2026",
+          "tier": "official",
+          "quote": "2026年11月19日(木)〜2026年12月25日(金)／京王百貨店新宿店 6F アートスクエア「cafe AEL」／POPUPストア in 京王百貨店 新宿店 B1F「on the Corner」期間 2026年12月10日(木)〜2026年12月25日(金)",
+          "checked": "2026-11-07"
+        }
+      ],
+      "lat": 35.6904,
+      "lon": 139.6989,
+      "thumb_small": "thumbs/1269ff49b4cc8563.webp",
+      "image_local": "img/1269ff49b4cc8563.webp"
+    },
+    {
+      "title_ja": "黒子のバスケ ぶらっと食べ歩き POP UP SHOP＆CAFE in Tree Village",
+      "category": "팝업스토어",
+      "reservation": "혼잡 시 입장 정리권 (도쿄: LINE 디지털 정리권, 전일 20:00까지 X 안내)",
+      "price": "상품별 (2,000엔마다 회장 노벨티)",
+      "official_url": "https://tree-village.jp/news/014496.html",
+      "source_url": "https://tree-village.jp/news/014496.html",
+      "checked_date": "2026-11-07",
+      "verified_at": "2026-11-07",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-07",
+      "thumbnail": "https://tree-village.jp/news/2026/10/30/kurobas_main_261030_01.jpg",
+      "thumbnail_source": "https://tree-village.jp/news/014496.html",
+      "gallery_source": "https://tree-village.jp/news/014496.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "summary_source": "https://tree-village.jp/news/014496.html",
+      "id": "tokyo-kurobas-buratto-treevillage",
+      "title_ko": "쿠로코의 농구 부라토 먹거리 산책 POP UP＆CAFE (트리비리지 도쿄)",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "트리비리지 도쿄점 (도쿄 솔라마치 웨스트야드 4F)",
+      "start": "2026-11-14",
+      "end": "2026-12-11",
+      "map_query": "東京都墨田区押上1-1-2 東京ソラマチ ウエストヤード4F",
+      "summary_ko": "「쿠로코의 농구」 트리비리지 도쿄 팝업+카페예요. 새 일러스트 굿즈와 콜라보 메뉴가 나와요.",
+      "notes": "SHOP 9:00~21:00 / CAFE 10:00~21:00(L.O.20:30). 2,000엔마다 클리어 카드(전7종). 메뉴 1품당 코스터.",
+      "gallery": [
+        {
+          "group": "상품·비주얼 (공식)",
+          "img": "https://tree-village.jp/news/2026/10/30/kurobas_main_261030_01.jpg",
+          "caption_ko": "메인 비주얼",
+          "source": "https://tree-village.jp/news/014496.html",
+          "img_fb": "gfb/60f559c463cfc40f.webp",
+          "img_local": "img/60f559c463cfc40f.webp"
+        },
+        {
+          "group": "상품·비주얼 (공식)",
+          "img": "https://tree-village.jp/news/2026/10/30/kurobas_goods_261030_01.jpg",
+          "caption_ko": "굿즈 라인업",
+          "source": "https://tree-village.jp/news/014496.html",
+          "img_fb": "gfb/6a50657ab022f234.webp",
+          "img_local": "img/6a50657ab022f234.webp"
+        },
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://tree-village.jp/news/2026/10/30/kurobas_cafe_261106_01.jpg",
+          "caption_ko": "카페 비주얼",
+          "source": "https://tree-village.jp/news/014496.html",
+          "img_fb": "gfb/1ef719bc39144eb1.webp",
+          "img_local": "img/1ef719bc39144eb1.webp"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://tree-village.jp/news/014496.html",
+          "tier": "official",
+          "quote": "【開催日程】 東京：2026年11月14日(土)〜2026年12月11日(金) 大阪・博多：2027年1月3日(日)〜2027年1月14日(木)／ツリービレッジ東京店 東京スカイツリータウン・ソラマチ ウエストヤード4F",
+          "checked": "2026-11-07"
+        }
+      ],
+      "lat": 35.7101,
+      "lon": 139.8107,
+      "thumb_small": "thumbs/60f559c463cfc40f.webp",
+      "image_fb": "gfb/60f559c463cfc40f.webp",
+      "image_local": "img/60f559c463cfc40f.webp"
+    },
+    {
+      "title_ja": "黒子のバスケ ぶらっと食べ歩き POP UP SHOP＆CAFE in Tree Village",
+      "category": "팝업스토어",
+      "reservation": "혼잡 시 입장 정리권 (도쿄: LINE 디지털 정리권, 전일 20:00까지 X 안내)",
+      "price": "상품별 (2,000엔마다 회장 노벨티)",
+      "official_url": "https://tree-village.jp/news/014496.html",
+      "source_url": "https://tree-village.jp/news/014496.html",
+      "checked_date": "2026-11-07",
+      "verified_at": "2026-11-07",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-07",
+      "thumbnail": "https://tree-village.jp/news/2026/10/30/kurobas_main_261030_01.jpg",
+      "thumbnail_source": "https://tree-village.jp/news/014496.html",
+      "gallery_source": "https://tree-village.jp/news/014496.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "summary_source": "https://tree-village.jp/news/014496.html",
+      "id": "osaka-kurobas-buratto-treevillage",
+      "title_ko": "쿠로코의 농구 부라토 먹거리 산책 POP UP＆CAFE (트리비리지 오사카)",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "트리비리지 오사카점 (HEP FIVE 우메다 8F Cross Store 내)",
+      "start": "2027-01-03",
+      "end": "2027-01-14",
+      "map_query": "大阪府大阪市北区角田町5-15 HEP FIVE梅田8階",
+      "summary_ko": "「쿠로코의 농구」 트리비리지 오사카 팝업+카페예요. 2027년 1월 3일~14일 열려요.",
+      "notes": "SHOP 11:00~21:00 / CAFE 11:00~20:00. 2,000엔마다 클리어 책갈피(전7종).",
+      "gallery": [
+        {
+          "group": "상품·비주얼 (공식)",
+          "img": "https://tree-village.jp/news/2026/10/30/kurobas_main_261030_01.jpg",
+          "caption_ko": "메인 비주얼",
+          "source": "https://tree-village.jp/news/014496.html",
+          "img_fb": "gfb/60f559c463cfc40f.webp",
+          "img_local": "img/60f559c463cfc40f.webp"
+        },
+        {
+          "group": "상품·비주얼 (공식)",
+          "img": "https://tree-village.jp/news/2026/10/30/kurobas_goods_261030_01.jpg",
+          "caption_ko": "굿즈 라인업",
+          "source": "https://tree-village.jp/news/014496.html",
+          "img_fb": "gfb/6a50657ab022f234.webp",
+          "img_local": "img/6a50657ab022f234.webp"
+        },
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://tree-village.jp/news/2026/10/30/kurobas_cafe_261106_01.jpg",
+          "caption_ko": "카페 비주얼",
+          "source": "https://tree-village.jp/news/014496.html",
+          "img_fb": "gfb/1ef719bc39144eb1.webp",
+          "img_local": "img/1ef719bc39144eb1.webp"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://tree-village.jp/news/014496.html",
+          "tier": "official",
+          "quote": "【開催日程】 東京：2026年11月14日(土)〜2026年12月11日(金) 大阪・博多：2027年1月3日(日)〜2027年1月14日(木)／ツリービレッジ大阪店 HEP FIVE梅田8階",
+          "checked": "2026-11-07"
+        }
+      ],
+      "lat": 34.7042,
+      "lon": 135.4995,
+      "thumb_small": "thumbs/60f559c463cfc40f.webp",
+      "image_fb": "gfb/60f559c463cfc40f.webp",
+      "image_local": "img/60f559c463cfc40f.webp"
+    },
+    {
+      "title_ja": "黒子のバスケ ぶらっと食べ歩き POP UP SHOP＆CAFE in Tree Village",
+      "category": "팝업스토어",
+      "reservation": "혼잡 시 입장 정리권 (도쿄: LINE 디지털 정리권, 전일 20:00까지 X 안내)",
+      "price": "상품별 (2,000엔마다 회장 노벨티)",
+      "official_url": "https://tree-village.jp/news/014496.html",
+      "source_url": "https://tree-village.jp/news/014496.html",
+      "checked_date": "2026-11-07",
+      "verified_at": "2026-11-07",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-07",
+      "thumbnail": "https://tree-village.jp/news/2026/10/30/kurobas_main_261030_01.jpg",
+      "thumbnail_source": "https://tree-village.jp/news/014496.html",
+      "gallery_source": "https://tree-village.jp/news/014496.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "summary_source": "https://tree-village.jp/news/014496.html",
+      "id": "fukuoka-kurobas-buratto-treevillage",
+      "title_ko": "쿠로코의 농구 부라토 먹거리 산책 POP UP＆CAFE (트리비리지 하카타)",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "트리비리지 하카타점 (캐널시티 오파 하카타 사우스 B1F Cross Store 내)",
+      "start": "2027-01-03",
+      "end": "2027-01-14",
+      "map_query": "福岡県福岡市博多区住吉1-2-74 キャナルシティオーパ博多 サウスビルB1F",
+      "summary_ko": "「쿠로코의 농구」 트리비리지 하카타 팝업+카페예요. 2027년 1월 3일~14일 열려요.",
+      "notes": "SHOP 10:00~21:00 / CAFE 11:00~20:00(L.O.19:30). 2,000엔마다 엽서(전7종).",
+      "gallery": [
+        {
+          "group": "상품·비주얼 (공식)",
+          "img": "https://tree-village.jp/news/2026/10/30/kurobas_main_261030_01.jpg",
+          "caption_ko": "메인 비주얼",
+          "source": "https://tree-village.jp/news/014496.html",
+          "img_fb": "gfb/60f559c463cfc40f.webp",
+          "img_local": "img/60f559c463cfc40f.webp"
+        },
+        {
+          "group": "상품·비주얼 (공식)",
+          "img": "https://tree-village.jp/news/2026/10/30/kurobas_goods_261030_01.jpg",
+          "caption_ko": "굿즈 라인업",
+          "source": "https://tree-village.jp/news/014496.html",
+          "img_fb": "gfb/6a50657ab022f234.webp",
+          "img_local": "img/6a50657ab022f234.webp"
+        },
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://tree-village.jp/news/2026/10/30/kurobas_cafe_261106_01.jpg",
+          "caption_ko": "카페 비주얼",
+          "source": "https://tree-village.jp/news/014496.html",
+          "img_fb": "gfb/1ef719bc39144eb1.webp",
+          "img_local": "img/1ef719bc39144eb1.webp"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://tree-village.jp/news/014496.html",
+          "tier": "official",
+          "quote": "【開催日程】 東京：2026年11月14日(土)〜2026年12月11日(金) 大阪・博多：2027年1月3日(日)〜2027年1月14日(木)／ツリー비レッジ博多店 キャナルシティオーパ博多",
+          "checked": "2026-11-07"
+        }
+      ],
+      "lat": 33.5897,
+      "lon": 130.4111,
+      "thumb_small": "thumbs/60f559c463cfc40f.webp",
+      "image_fb": "gfb/60f559c463cfc40f.webp",
+      "image_local": "img/60f559c463cfc40f.webp"
+    },
+    {
+      "title_ja": "日向坂46 CAFE 2026",
+      "category": "콜라보카페",
+      "reservation": "시간 교체제·사전예약 추천 (1인 770엔, 예약 특전 전기 기간 숍카드)",
+      "price": "메뉴별 (1인 1오더제)",
+      "official_url": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00244",
+      "checked_date": "2026-11-07",
+      "verified_at": "2026-11-07",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-07",
+      "thumbnail": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/main.webp",
+      "thumbnail_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "summary_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery": [
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_foodmenu_rgb300dpi_H500-scaled.jpg",
+          "caption_ko": "전기 푸드 메뉴",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/bd3cc1a314516582.webp",
+          "img_local": "img/bd3cc1a314516582.webp"
+        },
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_takeout_rgb72dpi.jpg",
+          "caption_ko": "테이크아웃 메뉴",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/5a4c5b5ce254997f.webp",
+          "img_local": "img/5a4c5b5ce254997f.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_goods_1_rgb72dpi.jpg",
+          "caption_ko": "카페 굿즈 1",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/787e0096cb09fda2.webp",
+          "img_local": "img/787e0096cb09fda2.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_goods_2_rgb72dpi.jpg",
+          "caption_ko": "카페 굿즈 2",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/03e9a25c818227ee.webp",
+          "img_local": "img/03e9a25c818227ee.webp"
+        }
+      ],
+      "id": "tokyo-hinatazaka46-cafe-shinjuku-dishup",
+      "title_ko": "히나타자카46 CAFE 2026 (신주쿠 DISH UP)",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "DISH UP (신주쿠 마루이 아넥스 8F)",
+      "start": "2026-11-19",
+      "end": "2027-01-17",
+      "map_query": "東京都新宿区新宿3丁目1-26 新宿マルイアネックス",
+      "summary_ko": "히나타자카46 투어 기념 콜라보 카페예요. 신주쿠 DISH UP에서 11/19~열려요.",
+      "notes": "영업 11:10~21:30. 전기 11/19~12/8 · 중기 12/9~12/27 · 후기 12/28~1/17. 12/31·1/1~3 휴무.",
+      "evidence": [
+        {
+          "url": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "tier": "official",
+          "quote": "東京 (新宿) DISH UP 開催期間 2026年11月19日(木) ～ 2027年1月17日(日) 住所 〒160-0022 東京都新宿区新宿3丁目1-26 新宿マルイアネックス 8F",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.hinatazaka46.com/s/official/news/detail/G00244",
+          "tier": "official",
+          "quote": "【新宿】：2026年11月19日(木)～2027年1月17日(日) DISH UP 【大阪】：2026年11月19日(木)～2027年1月17日(日) COLLABO PARADISE あべのHoop店 【福岡】：2026年11月26日(木)～2027年1月17日(日) Whask 【原宿】：2026年11月26日(木)～2027年1月24日(日) EIGHT SPACE",
+          "checked": "2026-11-07"
+        }
+      ],
+      "lat": 35.6901,
+      "lon": 139.706,
+      "thumb_small": "thumbs/16cdfc6d48dc2dc6.webp",
+      "image_fb": "gfb/16cdfc6d48dc2dc6.webp",
+      "image_local": "img/16cdfc6d48dc2dc6.webp"
+    },
+    {
+      "title_ja": "日向坂46 CAFE 2026",
+      "category": "콜라보카페",
+      "reservation": "시간 교체제·사전예약 추천 (1인 770엔, 예약 특전 전기 기간 숍카드)",
+      "price": "메뉴별 (1인 1오더제)",
+      "official_url": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00244",
+      "checked_date": "2026-11-07",
+      "verified_at": "2026-11-07",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-07",
+      "thumbnail": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/main.webp",
+      "thumbnail_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "summary_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery": [
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_foodmenu_rgb300dpi_H500-scaled.jpg",
+          "caption_ko": "전기 푸드 메뉴",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/bd3cc1a314516582.webp",
+          "img_local": "img/bd3cc1a314516582.webp"
+        },
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_takeout_rgb72dpi.jpg",
+          "caption_ko": "테이크아웃 메뉴",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/5a4c5b5ce254997f.webp",
+          "img_local": "img/5a4c5b5ce254997f.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_goods_1_rgb72dpi.jpg",
+          "caption_ko": "카페 굿즈 1",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/787e0096cb09fda2.webp",
+          "img_local": "img/787e0096cb09fda2.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_goods_2_rgb72dpi.jpg",
+          "caption_ko": "카페 굿즈 2",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/03e9a25c818227ee.webp",
+          "img_local": "img/03e9a25c818227ee.webp"
+        }
+      ],
+      "id": "tokyo-hinatazaka46-cafe-harajuku-eightspace",
+      "title_ko": "히나타자카46 CAFE 2026 (하라주쿠 EIGHT SPACE)",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "EIGHT SPACE (하라주쿠)",
+      "start": "2026-11-26",
+      "end": "2027-01-24",
+      "map_query": "東京都渋谷区神宮前6-33-14",
+      "summary_ko": "히나타자카46 콜라보 카페 하라주쿠점이에요. 11/26~1/24 열려요.",
+      "notes": "평일 10:30~20:10 / 주말·공휴일 9:10~21:00. 전기 11/26~12/14 · 중기 12/15~1/5 · 후기 1/6~1/24. 1/1~3 휴무.",
+      "evidence": [
+        {
+          "url": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "tier": "official",
+          "quote": "東京 (原宿) EIGHT SPACE 開催期間 2026年11月26日(木) ～ 2027年1月24日(日） 住所 〒150-0001 東京都渋谷区神宮前6-33-14",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.hinatazaka46.com/s/official/news/detail/G00244",
+          "tier": "official",
+          "quote": "【新宿】：2026年11月19日(木)～2027年1月17日(日) DISH UP 【大阪】：2026年11月19日(木)～2027年1月17日(日) COLLABO PARADISE あべのHoop店 【福岡】：2026年11月26日(木)～2027年1月17日(日) Whask 【原宿】：2026年11月26日(木)～2027年1月24日(日) EIGHT SPACE",
+          "checked": "2026-11-07"
+        }
+      ],
+      "lat": 35.667,
+      "lon": 139.706,
+      "thumb_small": "thumbs/16cdfc6d48dc2dc6.webp",
+      "image_fb": "gfb/16cdfc6d48dc2dc6.webp",
+      "image_local": "img/16cdfc6d48dc2dc6.webp"
+    },
+    {
+      "title_ja": "日向坂46 CAFE 2026",
+      "category": "콜라보카페",
+      "reservation": "시간 교체제·사전예약 추천 (1인 770엔, 예약 특전 전기 기간 숍카드)",
+      "price": "메뉴별 (1인 1오더제)",
+      "official_url": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00244",
+      "checked_date": "2026-11-07",
+      "verified_at": "2026-11-07",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-07",
+      "thumbnail": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/main.webp",
+      "thumbnail_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "summary_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery": [
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_foodmenu_rgb300dpi_H500-scaled.jpg",
+          "caption_ko": "전기 푸드 메뉴",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/bd3cc1a314516582.webp",
+          "img_local": "img/bd3cc1a314516582.webp"
+        },
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_takeout_rgb72dpi.jpg",
+          "caption_ko": "테이크아웃 메뉴",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/5a4c5b5ce254997f.webp",
+          "img_local": "img/5a4c5b5ce254997f.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_goods_1_rgb72dpi.jpg",
+          "caption_ko": "카페 굿즈 1",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/787e0096cb09fda2.webp",
+          "img_local": "img/787e0096cb09fda2.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_goods_2_rgb72dpi.jpg",
+          "caption_ko": "카페 굿즈 2",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/03e9a25c818227ee.webp",
+          "img_local": "img/03e9a25c818227ee.webp"
+        }
+      ],
+      "id": "osaka-hinatazaka46-cafe-abeno-hoop",
+      "title_ko": "히나타자카46 CAFE 2026 (아베노 Hoop)",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "COLLABO PARADISE 아베노 Hoop 6F",
+      "start": "2026-11-19",
+      "end": "2027-01-17",
+      "map_query": "大阪府大阪市阿倍野区阿倍野筋1-2-30 あべのHoop",
+      "summary_ko": "히나타자카46 콜라보 카페 오사카점이에요. 아베노 Hoop에서 11/19~열려요.",
+      "notes": "영업 10:40~21:00. 전기 11/19~12/8 · 중기 12/9~12/27 · 후기 12/28~1/17. 1/1·2 휴무.",
+      "evidence": [
+        {
+          "url": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "tier": "official",
+          "quote": "大阪 (阿倍野) COLLABO PARADISE あべのHoop 開催期間 2026年11月19日(木) ～ 2027年1月17日(日) 住所 〒545-0052 大阪府大阪市阿倍野区阿倍野筋1-2-30 あべのHoop 6F",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.hinatazaka46.com/s/official/news/detail/G00244",
+          "tier": "official",
+          "quote": "【新宿】：2026年11月19日(木)～2027年1月17日(日) DISH UP 【大阪】：2026年11月19日(木)～2027年1月17日(日) COLLABO PARADISE あべのHoop店 【福岡】：2026年11月26日(木)～2027年1月17日(日) Whask 【原宿】：2026年11月26日(木)～2027年1月24日(日) EIGHT SPACE",
+          "checked": "2026-11-07"
+        }
+      ],
+      "lat": 34.6451,
+      "lon": 135.5137,
+      "thumb_small": "thumbs/16cdfc6d48dc2dc6.webp",
+      "image_fb": "gfb/16cdfc6d48dc2dc6.webp",
+      "image_local": "img/16cdfc6d48dc2dc6.webp"
+    },
+    {
+      "title_ja": "日向坂46 CAFE 2026",
+      "category": "콜라보카페",
+      "reservation": "시간 교체제·사전예약 추천 (1인 770엔, 예약 특전 전기 기간 숍카드)",
+      "price": "메뉴별 (1인 1오더제)",
+      "official_url": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00244",
+      "checked_date": "2026-11-07",
+      "verified_at": "2026-11-07",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-07",
+      "thumbnail": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/main.webp",
+      "thumbnail_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "summary_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+      "gallery": [
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_foodmenu_rgb300dpi_H500-scaled.jpg",
+          "caption_ko": "전기 푸드 메뉴",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/bd3cc1a314516582.webp",
+          "img_local": "img/bd3cc1a314516582.webp"
+        },
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_takeout_rgb72dpi.jpg",
+          "caption_ko": "테이크아웃 메뉴",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/5a4c5b5ce254997f.webp",
+          "img_local": "img/5a4c5b5ce254997f.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_goods_1_rgb72dpi.jpg",
+          "caption_ko": "카페 굿즈 1",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/787e0096cb09fda2.webp",
+          "img_local": "img/787e0096cb09fda2.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://spacetimes.co.jp/hinatazaka46_cafe2026/wp-content/uploads/2026/11/Hcafe26_menu_goods_2_rgb72dpi.jpg",
+          "caption_ko": "카페 굿즈 2",
+          "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "img_fb": "gfb/03e9a25c818227ee.webp",
+          "img_local": "img/03e9a25c818227ee.webp"
+        }
+      ],
+      "id": "fukuoka-hinatazaka46-cafe-whask",
+      "title_ko": "히나타자카46 CAFE 2026 (텐진 Whask)",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "Whask (텐진 카이탁 스퀘어 가든 2F)",
+      "start": "2026-11-26",
+      "end": "2027-01-17",
+      "map_query": "福岡県福岡市中央区警固1丁目15番38号",
+      "summary_ko": "히나타자카46 콜라보 카페 후쿠오카점이에요. 텐진 Whask에서 11/26~열려요.",
+      "notes": "영업 11:00~20:40. 전기 11/26~12/12 · 중기 12/13~12/29 · 후기 12/30~1/17. 12/31·1/1·2 휴무.",
+      "evidence": [
+        {
+          "url": "https://spacetimes.co.jp/hinatazaka46_cafe2026/",
+          "tier": "official",
+          "quote": "福岡 (天神) Whask 開催期間 2026年11月26日(木) ～ 2027年1月17日(日) 住所 〒810-0023 福岡県福岡市中央区警固1丁目15番38号 カイタックスクエアガーデン2F",
+          "checked": "2026-11-07"
+        },
+        {
+          "url": "https://www.hinatazaka46.com/s/official/news/detail/G00244",
+          "tier": "official",
+          "quote": "【新宿】：2026年11月19日(木)～2027年1月17日(日) DISH UP 【大阪】：2026年11月19日(木)～2027年1月17日(日) COLLABO PARADISE あべのHoop店 【福岡】：2026年11月26日(木)～2027年1月17日(日) Whask 【原宿】：2026年11月26日(木)～2027年1月24日(日) EIGHT SPACE",
+          "checked": "2026-11-07"
+        }
+      ],
+      "lat": 33.5865,
+      "lon": 130.3935,
+      "thumb_small": "thumbs/16cdfc6d48dc2dc6.webp",
+      "image_fb": "gfb/16cdfc6d48dc2dc6.webp",
+      "image_local": "img/16cdfc6d48dc2dc6.webp"
+    },
+    {
+      "id": "all-gacha-sanrio-holiday-ornament",
+      "title_ko": "산리오 캐릭터즈 Holiday 오너먼트 참 (가챠)",
+      "title_ja": "サンリオキャラクターズ Holidayオーナメントチャーム",
+      "category": "가챠",
+      "area": "전국",
+      "region": "all",
+      "venue": "전국 판매처 (가챠 코너 등)",
+      "start": "2026-11-15",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 300엔",
+      "notes": "발매 시기: 2026년 11월 3째 주. 지역·매장마다 다를 수 있어요. 전 5종.",
+      "official_url": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+      "date_label": "11월 3째 주 발매 (지역·매장별 상이)",
+      "thumb_kind": "product",
+      "checked_date": "2026-11-07",
+      "verified_at": "2026-11-07",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-07",
+      "summary_ko": "산리오 Holiday 의상 오너먼트 참 가챠예요. 1회 300엔, 전 5종. 일본 발매는 2026년 11월 3째 주예요.",
+      "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260517_1.jpg",
+      "gallery": [
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260517_1.jpg",
+          "caption_ko": "이미지 1",
+          "source": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+          "img_fb": "gfb/0cd4004672b79266.webp",
+          "img_local": "img/0cd4004672b79266.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260517_2.jpg",
+          "caption_ko": "이미지 2",
+          "source": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+          "img_fb": "gfb/d8dd7896f0f17ef3.webp",
+          "img_local": "img/d8dd7896f0f17ef3.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260517_3.jpg",
+          "caption_ko": "이미지 3",
+          "source": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+          "img_fb": "gfb/8c5e1a3c6d41118d.webp",
+          "img_local": "img/8c5e1a3c6d41118d.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260517_4.jpg",
+          "caption_ko": "이미지 4",
+          "source": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+          "img_fb": "gfb/18099d73de5c2e10.webp",
+          "img_local": "img/18099d73de5c2e10.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260517_5.jpg",
+          "caption_ko": "이미지 5",
+          "source": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+          "img_fb": "gfb/8ebc725c3a19652a.webp",
+          "img_local": "img/8ebc725c3a19652a.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000260517_6.jpg",
+          "caption_ko": "이미지 6",
+          "source": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+          "img_fb": "gfb/849f4e63172f3ceb.webp",
+          "img_local": "img/849f4e63172f3ceb.webp"
+        }
+      ],
+      "gallery_source": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "evidence": [
+        {
+          "url": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+          "tier": "official",
+          "quote": "発売時期 2026年11月 第3週 価格(税込) 300円 種類数 全5種",
+          "checked": "2026-11-07"
+        }
+      ],
+      "source_url": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+      "summary_source": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+      "thumbnail_source": "https://www.gashapon.jp/products/detail.php?jan_code=4582770054767000",
+      "thumb_small": "thumbs/0cd4004672b79266.webp",
+      "image_fb": "gfb/0cd4004672b79266.webp",
+      "image_local": "img/0cd4004672b79266.webp"
     }
   ]
 }

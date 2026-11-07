@@ -487,6 +487,82 @@
       "lat": 35.714169,
       "lon": 139.790726,
       "source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/"
+    },
+    {
+      "keys": [
+        "京王百貨店新宿店",
+        "게이오 백화점 신주쿠",
+        "게이오 백화점 신주쿠점"
+      ],
+      "address": "東京都新宿区西新宿1-1-4",
+      "lat": 35.6904,
+      "lon": 139.6989,
+      "source": "https://www.keionet.com/"
+    },
+    {
+      "keys": [
+        "ツリービレッジ東京店",
+        "트리비리지 도쿄",
+        "트리비리지 도쿄점",
+        "Tree Village Tokyo"
+      ],
+      "address": "東京都墨田区押上1-1-2 東京ソラマチ ウエストヤード4F",
+      "lat": 35.7101,
+      "lon": 139.8107,
+      "source": "https://tree-village.jp/"
+    },
+    {
+      "keys": [
+        "ツリービレッジ大阪店",
+        "트리비리지 오사카",
+        "트리비리지 오사카점"
+      ],
+      "address": "大阪府大阪市北区角田町5-15 HEP FIVE梅田8階",
+      "lat": 34.7042,
+      "lon": 135.4995,
+      "source": "https://tree-village.jp/"
+    },
+    {
+      "keys": [
+        "ツリービレッジ博多店",
+        "트리비리지 하카타",
+        "트리비리지 하카타점"
+      ],
+      "address": "福岡県福岡市博多区住吉1-2-74 キャナルシティオーパ博多 サウスビルB1F",
+      "lat": 33.5897,
+      "lon": 130.4111,
+      "source": "https://tree-village.jp/"
+    },
+    {
+      "keys": [
+        "EIGHT SPACE",
+        "EIGHT SPACE 하라주쿠"
+      ],
+      "address": "東京都渋谷区神宮前6-33-14",
+      "lat": 35.667,
+      "lon": 139.706,
+      "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/"
+    },
+    {
+      "keys": [
+        "Whask",
+        "Whask 텐진"
+      ],
+      "address": "福岡県福岡市中央区警固1-15-38 カイタックスクエアガーデン2F",
+      "lat": 33.5865,
+      "lon": 130.3935,
+      "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/"
+    },
+    {
+      "keys": [
+        "COLLABO PARADISE あべのHoop",
+        "COLLABO PARADISE 아베노 Hoop",
+        "아베노 Hoop 6F"
+      ],
+      "address": "大阪府大阪市阿倍野区阿倍野筋1-2-30 あべのHoop 6F",
+      "lat": 34.6456,
+      "lon": 135.5138,
+      "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/"
     }
   ]
 }
