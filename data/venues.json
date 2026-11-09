@@ -563,6 +563,109 @@
       "lat": 34.6456,
       "lon": 135.5138,
       "source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/"
+    },
+    {
+      "keys": [
+        "博品館TOY PARK",
+        "박품관 TOY PARK",
+        "박품관"
+      ],
+      "address": "東京都中央区銀座8-8-11",
+      "lat": 35.6682,
+      "lon": 139.7625,
+      "source": "https://prtimes.jp/main/html/rd/p/000000221.000127482.html"
+    },
+    {
+      "keys": [
+        "東京キャラクターストリート",
+        "도쿄 캐릭터 스트리트",
+        "One Spot"
+      ],
+      "address": "東京都千代田区丸の内1-9-1 東京駅一番街",
+      "lat": 35.6812,
+      "lon": 139.7671,
+      "source": "https://prtimes.jp/main/html/rd/p/000000336.000092073.html"
+    },
+    {
+      "keys": [
+        "上野マルイ",
+        "우에노 마루이"
+      ],
+      "address": "東京都台東区上野6-15-1",
+      "lat": 35.7115,
+      "lon": 139.7752,
+      "source": "https://www.0101.co.jp/058/"
+    },
+    {
+      "keys": [
+        "梅田ロフト",
+        "우메다 로프트",
+        "한신 우메다"
+      ],
+      "address": "大阪府大阪市北区梅田1-13-13 阪神梅田本店6階",
+      "lat": 34.7015,
+      "lon": 135.4975,
+      "source": "https://www.loft.co.jp/shop_list/detail.php?shop_id=143"
+    },
+    {
+      "keys": [
+        "天王寺ミオ",
+        "덴노지 미오"
+      ],
+      "address": "大阪府大阪市天王寺区悲田院町10-39",
+      "lat": 34.6472,
+      "lon": 135.5142,
+      "source": "https://prtimes.jp/main/html/rd/p/000000630.000053064.html"
+    },
+    {
+      "keys": [
+        "ボークス大阪ショールーム",
+        "볼크스 오사카"
+      ],
+      "address": "ボークス大阪ショールーム",
+      "lat": 34.6695,
+      "lon": 135.5015,
+      "source": "existing"
+    },
+    {
+      "keys": [
+        "SHIBUYA109渋谷",
+        "SHIBUYA109 시부야"
+      ],
+      "address": "東京都渋谷区宇田川町28-6",
+      "lat": 35.6595,
+      "lon": 139.6988,
+      "source": "https://shibuya109.jp/"
+    },
+    {
+      "keys": [
+        "MAGNET by SHIBUYA109",
+        "MAGNET"
+      ],
+      "address": "東京都渋谷区神南1-23-10",
+      "lat": 35.6612,
+      "lon": 139.6995,
+      "source": "https://prtimes.jp/main/html/rd/p/000000630.000053064.html"
+    },
+    {
+      "keys": [
+        "タワーレコード新宿",
+        "타워레코드 신주쿠"
+      ],
+      "address": "東京都新宿区新宿3-17-7",
+      "lat": 35.6908,
+      "lon": 139.7023,
+      "source": "https://tower.jp/store/"
+    },
+    {
+      "keys": [
+        "タワーレコード梅田NU",
+        "타워레코드 우메다 NU"
+      ],
+      "address": "大阪府大阪市北区茶屋町10-12",
+      "lat": 34.7047,
+      "lon": 135.4959,
+      "source": "https://tower.jp/store/"
     }
   ]
 }

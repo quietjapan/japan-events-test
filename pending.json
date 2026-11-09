@@ -121,6 +121,42 @@
       "added": "2026-11-07",
       "translation_check": true,
       "price": "1회 500엔"
+    },
+    {
+      "title_ko": "메조피아노×헬로키티 갸루 Ver. 스토어 (후쿠오카 PARCO)",
+      "title_ja": "メゾピアノ×ハローキティ ギャルVer. ストア in 福岡",
+      "category": "팝업스토어",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "후쿠오카 PARCO",
+      "start": "2026-11-13",
+      "end": "2026-11-23",
+      "official_url": "https://www.sanrio.co.jp/news/spots/kt-mezzopiano-popup-20261028/",
+      "source_url": "https://collabo-cafe.com/events/collabo/mezzo-piano-sanrio-pop-up-store-parco-fukuoka-2026/",
+      "notes": "산리오 공식 스폿 페이지 403으로 원문 미취득 (11/09). collabo-cafe·PARCO X 언급만으로는 미반영",
+      "checked_date": "2026-11-09",
+      "pending_reason": "산리오 공식 페이지 403 — 날짜·장소 원문 미확인 (11/09)",
+      "translation_check": true
+    },
+    {
+      "title_ko": "바람의 백원신 출판 기념전 (유라쿠초 마루이)",
+      "title_ja": "風の白猿神 出版記念展",
+      "category": "전시·행사",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "유라쿠초 마루이 8F SPACE3",
+      "start": "2026-11-27",
+      "end": "2026-12-13",
+      "official_url": "",
+      "source_url": "https://collabo-cafe.com/events/collabo/inomata-mutsumi-kazeno-hanuman-exhibition-yurakucho-marui-2026/",
+      "notes": "주최 EDITION88 안내(집계 사이트). 공식/주최 페이지 URL·원문 미확보",
+      "checked_date": "2026-11-09",
+      "pending_reason": "주최(EDITION88)·마루이 공식 페이지 원문 미확인 (11/09, collabo-cafe만 확인)",
+      "translation_check": true,
+      "price": "입장 무료(집계 사이트 주장·미검증)",
+      "map_query": "有楽町マルイ",
+      "lat": 35.674213,
+      "lon": 139.763657
     }
   ],
   "base_date": "2026-11-07"

@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://quietjapan.github.io/japan-events-test/sitemap.xml
