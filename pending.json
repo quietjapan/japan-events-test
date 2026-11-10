@@ -157,6 +157,26 @@
       "map_query": "有楽町マルイ",
       "lat": 35.674213,
       "lon": 139.763657
+    },
+    {
+      "title_ko": "정반대인 너와 나 POP UP SHOP (난바CITY)",
+      "title_ja": "TVアニメ『正反対な君と僕』POP UP SHOP 大阪",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "아사히야 서점 난바CITY점 (난바CITY 본관 지하 2층)",
+      "start": null,
+      "end": null,
+      "official_url": "https://www.acgateway.com/ex_seihantai3/",
+      "source_url": "https://www.acgateway.com/ex_seihantai3/",
+      "source_tier": "official",
+      "notes": "11/10 공식 페이지 재확인. 페이지 본문은 여전히 「5月15日(金)～6月2日(火)で開催！」만 있고, 11월 난바 개최 기간 문구는 없음. 기간이 공식에 올라오면 재검토.",
+      "checked_date": "2026-11-10",
+      "pending_reason": "공식 페이지에 11월 개최 기간 문구 없음 (11/10 재확인: 「5月15日(金)～6月2日(火)で開催！」만 표기)",
+      "translation_check": true,
+      "map_query": "大阪府大阪市中央区難波5-1-6-60 なんばCITY本館",
+      "lat": 34.66452,
+      "lon": 135.50212
     }
   ],
   "base_date": "2026-11-07"
