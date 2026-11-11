@@ -1,6 +1,6 @@
 {
-  "base_date": "2026-11-10",
-  "last_updated": "2026-11-10",
+  "base_date": "2026-11-11",
+  "last_updated": "2026-11-11",
   "is_sample": false,
   "events": [
     {
@@ -7351,50 +7351,6 @@
       "added": "2026-10-19"
     },
     {
-      "reservation": "선택",
-      "price": "",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "translation_check": true,
-      "verified_at": "2026-10-22",
-      "title_ko": "주술회전 PLAZA 시부야 로프트",
-      "title_ja": "呪術廻戦PLAZA 渋谷ロフト会場",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "시부야 로프트 6층 아트&컬처 플로어 포럼A",
-      "start": "2026-10-23",
-      "end": "2026-11-10",
-      "official_url": "https://www.ntvs.co.jp/news/jujutsu-plaza/",
-      "thumbnail": "https://www.ntvs.co.jp/wp-content/uploads/2026/10/news-launch-jujutsu-plaza.jpg",
-      "map_query": "渋谷ロフト",
-      "notes": "10/23~25는 LivePocket 사전 입장 추첨(당첨자 안내 후 자유 입장 예정: 10/23 14:15경, 10/24·25 18:00경). 대상 상품 2,200엔(세금 포함)마다 특전: 10/23~31 포스트카드(전 12종), 11/1~10 클리어 카드(전 12종) 랜덤. 10/31은 19:00 폐점, 마지막 날 18:00 종료. 회기 중 신상품·한정 상품 발매 예정",
-      "source_url": "https://www.ntvs.co.jp/news/jujutsu-plaza/",
-      "summary_source": "https://www.ntvs.co.jp/news/jujutsu-plaza/",
-      "thumbnail_source": "https://www.ntvs.co.jp/news/jujutsu-plaza/",
-      "evidence": [
-        {
-          "url": "https://www.ntvs.co.jp/news/jujutsu-plaza/",
-          "tier": "official",
-          "quote": "■渋谷ロフト会場 日程: 2026年10月23日(金)～11月10日(火)",
-          "checked": "2026-10-22"
-        },
-        {
-          "url": "https://www.loft.co.jp/shop_list/info.php?shop_id=189&info_id=716059",
-          "tier": "official",
-          "quote": "■会期:10月23日(金)〜11月10日(火) ※10月31日(土)は渋谷ロフト全館で午後7時に閉店いたします。",
-          "checked": "2026-10-22"
-        }
-      ],
-      "thumb_small": "thumbs/6c14ae4ebf5c4252.webp",
-      "summary_ko": "『주술회전』 굿즈 물판 행사 'PLAZA'의 시부야 로프트 회장이에요. 회기 중에 신상품과 한정 상품도 나올 예정이에요.",
-      "region": "tokyo",
-      "image_fb": "gfb/6c14ae4ebf5c4252.webp",
-      "image_local": "img/6c14ae4ebf5c4252.webp",
-      "lat": 35.6609,
-      "lon": 139.6996,
-      "added": "2026-10-19"
-    },
-    {
       "reservation": "",
       "price": "",
       "checked_date": "2026-10-19",
@@ -8235,70 +8191,6 @@
       "price": "",
       "checked_date": "2026-10-22",
       "source_tier": "official",
-      "id": "rayearth-ikebukuro",
-      "title_ko": "마법기사 레이어스 POP UP SHOP (이케부쿠로 스키마 스토어 · eeo)",
-      "title_ja": "TVアニメ「魔法騎士レイアース」POP UP SHOP in 池袋スキマストア by eeo",
-      "category": "팝업스토어",
-      "venue": "JR 이케부쿠로역 지하 중앙통로 중앙개찰구 앞 이케부쿠로 스키마 스토어",
-      "start": "2026-10-28",
-      "end": "2026-11-10",
-      "official_url": "https://eeo.today/pr/rayearth-ikebukuro/",
-      "map_query": "JR池袋駅 池袋スキマストア",
-      "notes": "11:00~20:00 (마지막 날 18:00까지). 새 상품만 2,200엔(세금 포함) 구매마다 포스트카드(전 4종) 랜덤 1장. 통판 동시 판매",
-      "thumbnail": "https://eeo.today/pr/rayearth-ikebukuro/assets/images/ogp.jpg",
-      "evidence": [
-        {
-          "url": "https://eeo.today/pr/rayearth-ikebukuro/",
-          "tier": "official",
-          "quote": "【2026年10月28日〜11月10日】 JR池袋駅 中央改札前",
-          "checked": "2026-10-22"
-        }
-      ],
-      "gallery": [
-        {
-          "group": "상품",
-          "img": "https://eeo.today/pr/rayearth-ikebukuro/assets/images/img_items01.webp?08312",
-          "full": "https://eeo.today/pr/rayearth-ikebukuro/assets/images/img_items01.webp?08312",
-          "caption_ko": "상품 라인업 (새 일러스트 굿즈)",
-          "source": "https://eeo.today/pr/rayearth-ikebukuro/",
-          "caption_ja": "商品一覧",
-          "img_fb": "gfb/661c24ba3200f983.webp",
-          "img_local": "img/661c24ba3200f983.webp"
-        },
-        {
-          "group": "특전",
-          "img": "https://eeo.today/pr/rayearth-ikebukuro/assets/images/img_special01.webp?0831",
-          "full": "https://eeo.today/pr/rayearth-ikebukuro/assets/images/img_special01.webp?0831",
-          "caption_ko": "구매 특전 포스트카드",
-          "source": "https://eeo.today/pr/rayearth-ikebukuro/",
-          "caption_ja": "購入特典ポストカード（全4種）",
-          "kinds": "전 4종 · 새 상품 2,200엔(세금 포함)마다 랜덤 1장",
-          "img_fb": "gfb/4427b8280eae2bdf.webp",
-          "img_local": "img/4427b8280eae2bdf.webp"
-        }
-      ],
-      "gallery_note": "이미지는 eeo 공식 페이지 이미지(실제와 다를 수 있음)",
-      "summary_ko": "「마법기사 레이어스」 새 일러스트 굿즈를 파는 이케부쿠로역 개찰구 앞 팝업이에요. 새 상품 2,200엔마다 포스트카드 특전이 있어요.",
-      "source_url": "https://eeo.today/pr/rayearth-ikebukuro/",
-      "summary_source": "https://eeo.today/pr/rayearth-ikebukuro/",
-      "thumbnail_source": "https://eeo.today/pr/rayearth-ikebukuro/",
-      "gallery_source": "https://eeo.today/pr/rayearth-ikebukuro/",
-      "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)",
-      "verified_at": "2026-10-22",
-      "thumb_small": "thumbs/151a4307c75916fc.webp",
-      "region": "tokyo",
-      "image_fb": "gfb/151a4307c75916fc.webp",
-      "image_local": "img/151a4307c75916fc.webp",
-      "lat": 35.727123,
-      "lon": 139.710342,
-      "added": "2026-10-22"
-    },
-    {
-      "area": "도쿄",
-      "reservation": "불필요",
-      "price": "",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
       "id": "naruto-shippuden-tokyo",
       "title_ko": "나루토 질풍전 POP UP SHOP (도쿄 캐릭터 스트리트 · eeo)",
       "title_ja": "『NARUTO-ナルト- 疾風伝』POP UP SHOP in 東京キャラクターストリート by eeo",
@@ -8867,137 +8759,6 @@
         }
       ],
       "gallery_source": "https://eeo.today/store/101/specialfeature/mmppp-popup",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
-    },
-    {
-      "area": "도쿄",
-      "reservation": "불필요",
-      "price": "굿즈 1,300엔~",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "id": "shirotan-ikebukuro",
-      "title_ko": "시로탄 후왓리 스토어 팝업 (JR 이케부쿠로역)",
-      "title_ja": "しろたんふんわりストア",
-      "category": "팝업스토어",
-      "venue": "JR 이케부쿠로역 남쪽 개찰구 밖 이벤트 스페이스",
-      "start": "2026-10-27",
-      "end": "2026-11-09",
-      "official_url": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-      "map_query": "JR池袋駅 南改札",
-      "notes": "10:00~21:00 (첫날 11:00 오픈, 마지막 날 18:00까지). 입장 무료. 3,300엔 이상 한정 스티커 / 5,500엔 이상 한정 캔뱃지 / 11,000엔 이상 한정 빅 스티커 (1회 계산당 각 1개). 매장 한정 '시로탄 다이너' 시리즈",
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-84c79790cc3f9f5d2e114249356da2ad-1280x1280.jpg",
-      "evidence": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "tier": "official",
-          "quote": "開催期間 2026年10月27日(火)〜11月9日(月) 開催場所",
-          "checked": "2026-10-22"
-        }
-      ],
-      "summary_ko": "TV 애니메이션 방영 중인 「시로탄」의 기간 한정 팝업이에요. 매장 한정 '다이너' 시리즈 굿즈와 구매 금액별 특전이 있어요.",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-      "summary_source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-      "translation_check": true,
-      "verified_at": "2026-10-22",
-      "thumb_small": "thumbs/7f24a763420f576d.webp",
-      "region": "tokyo",
-      "image_fb": "gfb/7f24a763420f576d.webp",
-      "image_local": "img/7f24a763420f576d.webp",
-      "lat": 35.727123,
-      "lon": 139.710342,
-      "added": "2026-10-22",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-84c79790cc3f9f5d2e114249356da2ad-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 1",
-          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "img_fb": "gfb/fc469c3b77fa59e0.webp",
-          "img_local": "img/fc469c3b77fa59e0.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-cbaa3f0f2f987780e0be13109b9985bc-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 2",
-          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "img_fb": "gfb/2ed1bcaf23a2ff3d.webp",
-          "img_local": "img/2ed1bcaf23a2ff3d.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-fdee51243343e567cc3ca8eaacf119c3-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 3",
-          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "img_fb": "gfb/fb4fc81bc3c4d43b.webp",
-          "img_local": "img/fb4fc81bc3c4d43b.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-af708ac2f8eafc17a386009d82d5a74c-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 4",
-          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "img_fb": "gfb/97db1c5403bd90c8.webp",
-          "img_local": "img/97db1c5403bd90c8.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-7f13299bf3889c3ecd60c8ac3cda5384-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 5",
-          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "img_fb": "gfb/436340ddb08f6e1f.webp",
-          "img_local": "img/436340ddb08f6e1f.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-ad6b837ee4b3a71485d6705029be2344-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 6",
-          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "img_fb": "gfb/b8ca96d5df9ad887.webp",
-          "img_local": "img/b8ca96d5df9ad887.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-e27cd46df343cbfe69de723850278e64-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 7",
-          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "img_fb": "gfb/c27e4a36c2322f76.webp",
-          "img_local": "img/c27e4a36c2322f76.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-2557dacca1cf27cca3e0d786f57e9ddd-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 8",
-          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "img_fb": "gfb/69072e574c2236ad.webp",
-          "img_local": "img/69072e574c2236ad.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-efb35a72bda3c6295d6a29e0ca2546e8-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 9",
-          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "img_fb": "gfb/09c68ffa01a9d425.webp",
-          "img_local": "img/09c68ffa01a9d425.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-986fa71b2fcef1ea6861c8a2f3913bfa-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 10",
-          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "img_fb": "gfb/2c8b9b758a55d176.webp",
-          "img_local": "img/2c8b9b758a55d176.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/45781/162/45781-162-d5e6bd2fe25b24ed3c356af6d7431714-1280x1280.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 11",
-          "source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
-          "img_fb": "gfb/e19417fe2388b54a.webp",
-          "img_local": "img/e19417fe2388b54a.webp"
-        }
-      ],
-      "gallery_source": "https://prtimes.jp/main/html/rd/p/000000162.000045781.html",
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
@@ -13353,57 +13114,6 @@
       ],
       "gallery_source": "https://www.kadokawa.co.jp/product/322512000963/",
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
-    },
-    {
-      "reservation": "불필요",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "translation_check": true,
-      "id": "osaka-bleach-cafe-shinsaibashi",
-      "title_ko": "블리치 천년혈전편 콜라보 카페 (신사이바시 PARCO)",
-      "title_ja": "BLEACH 千年血戦篇-禍進譚- THE COLLABORATION CAFE 心斎橋会場",
-      "category": "콜라보카페",
-      "area": "오사카",
-      "region": "osaka",
-      "venue": "THE GUEST CAFE BY PARCO 신사이바시 PARCO점 (신사이바시 PARCO 6층)",
-      "start": "2026-10-02",
-      "end": "2026-11-09",
-      "price": "메뉴 1,760~1,870엔, 굿즈 440엔~ (세금 포함)",
-      "official_url": "https://cafe.parco.jp/event/information/BLEACH_cafe_osaka",
-      "source_url": "https://cafe.parco.jp/event/BLEACH_cafe",
-      "notes": "사전 예약 없이 자유 입장. 혼잡 시 대기·정리권 안내가 있을 수 있어요",
-      "thumbnail": "https://image.parco.jp/SCCWEB/image/cafe/store/storage/w1078xh604/event_bleach_kv_yoko.jpg",
-      "map_query": "大阪府大阪市中央区心斎橋筋1-8-3",
-      "summary_ko": "TV 애니 「BLEACH 천년혈전편-화진담-」 방송 기념 콜라보 카페의 신사이바시 순회 회장이에요. 쿠로사키 이치고 비프 스트로가노프 등 캐릭터 메뉴를 즐길 수 있어요.",
-      "evidence": [
-        {
-          "url": "https://cafe.parco.jp/event/BLEACH_cafe",
-          "tier": "official",
-          "quote": "THE GUEST CAFE BY PARCO 心斎橋PARCO店（心斎橋PARCO 6F） 会場 大阪府大阪市中央区心斎橋筋1-8-3 開催期間 2026.10.2(金) - 11.9(月) … ■心斎橋会場 事前予約は実施いたしません。 フリー入場にてご案内いたします。",
-          "checked": "2026-10-22"
-        },
-        {
-          "url": "https://cafe.parco.jp/event/menu/BLEACH_cafe_osaka",
-          "tier": "official",
-          "quote": "【黒崎一護】ビーフストロガノフ 1,870円（税込） … 【日番谷冬獅郎】冷製みぞれパスタ 1,760円（税込）",
-          "checked": "2026-10-22"
-        },
-        {
-          "url": "https://cafe.parco.jp/event/goods/BLEACH_cafe_osaka",
-          "tier": "official",
-          "quote": "ダイカットステッカー（7種） 各 440 円（税込）",
-          "checked": "2026-10-22"
-        }
-      ],
-      "thumbnail_source": "https://cafe.parco.jp/event/information/BLEACH_cafe_osaka",
-      "summary_source": "https://cafe.parco.jp/event/information/BLEACH_cafe_osaka",
-      "thumb_small": "thumbs/8c23d306aa9f6ec2.webp",
-      "image_fb": "gfb/8c23d306aa9f6ec2.webp",
-      "image_local": "img/8c23d306aa9f6ec2.webp",
-      "lat": 34.674,
-      "lon": 135.5013,
-      "added": "2026-10-22"
     },
     {
       "reservation": "불필요",
@@ -20674,59 +20384,6 @@
     },
     {
       "reservation": "",
-      "checked_date": "2026-10-25",
-      "verified_at": "2026-10-25",
-      "source_tier": "official",
-      "translation_check": true,
-      "price": "",
-      "image_fit": "contain",
-      "title_ko": "문호 스트레이독스 POP UP (기노쿠니야 서점 신주쿠 본점)",
-      "title_ja": "文豪ストレイドッグス POP UP SHOP",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "기노쿠니야 서점 신주쿠 본점 본관 1층 THE ENTRANCE",
-      "start": "2026-10-27",
-      "end": "2026-11-10",
-      "official_url": "https://cocollabo.net/pages/bungosd-2026",
-      "source_url": "https://cocollabo.net/pages/bungosd-2026",
-      "map_query": "紀伊國屋書店新宿本店",
-      "notes": "첫날 10/27 일부 시간대는 Live Pocket 사전 예약제",
-      "evidence": [
-        {
-          "url": "https://cocollabo.net/pages/bungosd-2026",
-          "tier": "official",
-          "quote": "期間： 2026年10月27日(火)～11月10日(火) 開催場所： 紀伊國屋書店新宿本店 本館1階 THE ENTRANCE",
-          "checked": "2026-10-25"
-        }
-      ],
-      "summary_ko": "『문호 스트레이독스』 팝업으로 새 굿즈와 구매 특전이 있어요.",
-      "summary_source": "https://cocollabo.net/pages/bungosd-2026",
-      "thumbnail": "https://www.cocollabo.net/cdn/shop/files/bunsuto_26_1_ts-main_770_590.jpg",
-      "thumbnail_source": "https://cocollabo.net/pages/bungosd-2026",
-      "image_hd": "https://www.cocollabo.net/cdn/shop/files/bunsuto_26_1_ts-main_770_590.jpg",
-      "gallery_source": "https://cocollabo.net/pages/bungosd-2026",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://www.cocollabo.net/cdn/shop/files/bunsuto_26_1_novelty.jpg",
-          "full": "https://www.cocollabo.net/cdn/shop/files/bunsuto_26_1_novelty.jpg",
-          "caption_ko": "",
-          "caption_ja": "",
-          "source": "https://cocollabo.net/pages/bungosd-2026",
-          "img_local": "img/a216a2d12e2d9e6d.webp",
-          "img_fb": "gfb/a216a2d12e2d9e6d.webp"
-        }
-      ],
-      "lat": 35.692,
-      "lon": 139.7036,
-      "thumb_small": "thumbs/cbd5481f298f82a0.webp",
-      "image_local": "img/cbd5481f298f82a0.webp",
-      "image_fb": "gfb/cbd5481f298f82a0.webp",
-      "added": "2026-10-25"
-    },
-    {
-      "reservation": "",
       "checked_date": "2026-11-03",
       "verified_at": "2026-11-03",
       "source_tier": "official",
@@ -20882,59 +20539,6 @@
       "thumb_small": "thumbs/52cd3cc071e49467.webp",
       "image_local": "img/52cd3cc071e49467.webp",
       "image_fb": "gfb/52cd3cc071e49467.webp",
-      "added": "2026-10-25"
-    },
-    {
-      "reservation": "",
-      "checked_date": "2026-10-25",
-      "verified_at": "2026-10-25",
-      "source_tier": "official",
-      "translation_check": true,
-      "price": "",
-      "image_fit": "contain",
-      "title_ko": "THE IDOLM@STER SideM × DAIMARU MATSUZAKAYA 팝업 (다이마루 도쿄점)",
-      "title_ja": "THE IDOLM@STER SideM × DAIMARU MATSUZAKAYA POP UP SHOP",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "다이마루 도쿄점 3층 이벤트 스페이스",
-      "start": "2026-10-28",
-      "end": "2026-11-10",
-      "official_url": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
-      "source_url": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
-      "map_query": "大丸東京店",
-      "notes": "10/28 종일, 10/31·11/1 10:00~14:00 사전 정리권",
-      "evidence": [
-        {
-          "url": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
-          "tier": "official",
-          "quote": "TOKYO 開催期間 2026年10月28日（水）〜11月10日（火） 会場 大丸東京店 3階 イベントスペース 営業時間 10:00〜20:00 UMEDA 開催期間 2026年11月18日（水）〜11月24日（火） 会場 大丸梅田店 1階 イベントスペース 営業時間 10:00〜20:00",
-          "checked": "2026-10-25"
-        }
-      ],
-      "summary_ko": "『아이돌마스터 SideM』 백화점 콜라보 팝업 2탄이에요. 새로 그린 잡지 화보풍 비주얼 굿즈와 커스텀 참 기획이 있어요.",
-      "summary_source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
-      "thumbnail": "https://caltla.com/cdn/shop/articles/Side__POPUP_4044353c-70f9-43cc-9174-fa18406936ca.jpg",
-      "thumbnail_source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
-      "image_hd": "https://caltla.com/cdn/shop/articles/Side__POPUP_4044353c-70f9-43cc-9174-fa18406936ca.jpg",
-      "gallery_source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://cdn.shopify.com/s/files/1/0885/5466/8341/files/1002_Side__VOL2.jpg",
-          "full": "https://cdn.shopify.com/s/files/1/0885/5466/8341/files/1002_Side__VOL2.jpg",
-          "caption_ko": "",
-          "caption_ja": "",
-          "source": "https://caltla.com/blogs/news/sidem-daimaru-matsuzakaya_popup",
-          "img_local": "img/a94e320c2b43a9c1.webp",
-          "img_fb": "gfb/a94e320c2b43a9c1.webp"
-        }
-      ],
-      "lat": 35.6816,
-      "lon": 139.7672,
-      "thumb_small": "thumbs/e34abc5cda5a8789.webp",
-      "image_local": "img/e34abc5cda5a8789.webp",
-      "image_fb": "gfb/e34abc5cda5a8789.webp",
       "added": "2026-10-25"
     },
     {
@@ -24737,44 +24341,6 @@
       "image_local": "img/154408140c495cfd.webp",
       "lat": 33.587925,
       "lon": 130.400894
-    },
-    {
-      "id": "tokyo-booska-60th-popup-lumine-est",
-      "title_ko": "쾌수 부스카 「호노보노 상점가」 POP UP (60주년)",
-      "title_ja": "快獣ブースカ「ほのぼの商店街」",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "루미네 에스트 신주쿠 B1 중앙동쪽 개찰구 밖 아오야마 플라워 마켓 앞",
-      "start": "2026-10-28",
-      "end": "2026-11-10",
-      "reservation": "불필요",
-      "official_url": "https://www.lumine.ne.jp/est/topics/detail/?cd=004416",
-      "source_url": "https://www.lumine.ne.jp/est/topics/detail/?cd=004416",
-      "notes": "11/9는 부스카 생일. 가격은 공식 페이지에 없음",
-      "checked_date": "2026-10-28",
-      "thumbnail": "https://www.lumine.ne.jp/uploads/images/resized/0x0/lumine/000074/000074/81374c6b.jpg",
-      "thumbnail_source": "https://www.lumine.ne.jp/est/topics/detail/?cd=004416",
-      "map_query": "ルミネエスト新宿",
-      "evidence": [
-        {
-          "url": "https://www.lumine.ne.jp/est/topics/detail/?cd=004416",
-          "tier": "official",
-          "quote": "会場：ルミネエスト新宿店 B1 中央東口改札外 青山フラワーマーケット前 期間：2026年10月28日（水）〜 11月10日（火）",
-          "checked": "2026-10-28"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-28",
-      "translation_check": true,
-      "summary_ko": "1966년 방송 시작 60주년을 맞은 「쾌수 부스카」 팝업스토어예요. 앤드알(アンドアール)의 오리지널 신상품을 팔아요.",
-      "summary_source": "https://www.lumine.ne.jp/est/topics/detail/?cd=004416",
-      "region": "tokyo",
-      "added": "2026-10-28",
-      "thumb_small": "thumbs/748d83701413d671.webp",
-      "image_fb": "gfb/748d83701413d671.webp",
-      "image_local": "img/748d83701413d671.webp",
-      "lat": 35.6913,
-      "lon": 139.7011
     },
     {
       "id": "tokyo-rezero-stellamap-drinkstand",
@@ -29280,45 +28846,6 @@
       "image_local": "img/1f13aef26f4143b0.webp"
     },
     {
-      "id": "tokyo-gash-25th-popup-daimaru",
-      "title_ko": "금색의 갓슈!! 원작 25주년 기념 POPUP SHOP (다이마루)",
-      "title_ja": "『金色のガッシュ!!』原作25周年記念POPUP SHOP",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "다이마루 도쿄점 3층",
-      "start": "2026-10-28",
-      "end": "2026-11-10",
-      "reservation": "불필요",
-      "price": "입장료 확인되지 않음 (11/03 기준)",
-      "official_url": "https://prtimes.jp/main/html/rd/p/000000203.000090815.html",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000203.000090815.html",
-      "notes": "영업 10:00~20:00. 굿즈 3,300엔(세금 포함)마다 포스트카드 랜덤 1장. 혼잡 시 입장 제한·구매 수량 제한 가능",
-      "map_query": "東京都千代田区丸の内1-9-1",
-      "lat": 35.681252,
-      "lon": 139.767242,
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/90815/203/90815-203-a35a7fe05e40c4f308009baf14797de2-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=1200",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000203.000090815.html",
-      "evidence": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000000203.000090815.html",
-          "tier": "official",
-          "quote": "東京： 2026年10月28日（水）～ 2026年11月10日(火) 10：00 ～ 20：00 大丸東京店 住所：〒100-6701 東京都千代田区丸の内1-9-1 3階",
-          "checked": "2026-11-03"
-        }
-      ],
-      "summary_ko": "『금색의 갓슈!!』 원작 25주년 기념 팝업이에요. 새로 그린 갓슈와 키요마로 일러스트 굿즈를 팔아요.",
-      "summary_source": "https://prtimes.jp/main/html/rd/p/000000203.000090815.html",
-      "checked_date": "2026-11-03",
-      "verified_at": "2026-11-03",
-      "source_tier": "official",
-      "translation_check": true,
-      "added": "2026-11-03",
-      "thumb_small": "thumbs/28af7bacd1312d6a.webp",
-      "image_fb": "gfb/28af7bacd1312d6a.webp",
-      "image_local": "img/28af7bacd1312d6a.webp"
-    },
-    {
       "id": "osaka-gash-25th-popup-daimaru-umeda",
       "title_ko": "금색의 갓슈!! 원작 25주년 기념 POPUP SHOP (다이마루)",
       "title_ja": "『金色のガッシュ!!』原作25周年記念POPUP SHOP",
@@ -32379,6 +31906,45 @@
       "thumb_small": "thumbs/d489be4860a6ded5.webp",
       "image_fb": "gfb/d489be4860a6ded5.webp",
       "image_local": "img/d489be4860a6ded5.webp"
+    },
+    {
+      "id": "tokyo-spyfamily-masquerade-popup-shibuya-tsutaya",
+      "title_ko": "스파이 패밀리 POP UP SHOP -MASQUERADE- (시부야 츠타야 IP서점)",
+      "title_ja": "TVアニメ『SPY×FAMILY』POP UP SHOP -MASQUERADE- by WIT STUDIO",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "SHIBUYA TSUTAYA 6층 IP서점 (시부야)",
+      "start": "2026-12-10",
+      "end": "2026-12-28",
+      "reservation": "불필요",
+      "price": "입장 무료 (굿즈 460~1,980엔, 세금 포함)",
+      "notes": "'가면무도회' 테마 신규 일러스트 굿즈 전 9종. 대상 상품 3,300엔(세금 포함)마다 일러스트 카드(전 4종) 랜덤 1장. 해시태그 이벤트(구매 시 스페셜 스티커). 이후 교토(1/7~21)·후쿠오카 텐진 츠타야 IP서점 새틀라이트(2/10~28)·나고야·오사카 순회. 사후 통판 예정.",
+      "official_url": "https://shibuyatsutaya.tsite.jp/article/2838.html",
+      "source_url": "https://shibuyatsutaya.tsite.jp/article/2838.html",
+      "map_query": "東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA",
+      "summary_ko": "『스파이 패밀리(SPY×FAMILY)』 가면무도회 테마 팝업이에요. 시부야 츠타야 6층 IP서점에서 신규 일러스트 굿즈를 팔아요.",
+      "thumbnail": "https://shibuyatsutaya.tsite.jp/menu_files/article/000/002/838/article_images/article_resize.SPY×FAMILY__KV.jpg",
+      "evidence": [
+        {
+          "url": "https://shibuyatsutaya.tsite.jp/article/2838.html",
+          "tier": "official",
+          "quote": "■東京 期間:2026年12月10日(木)～12月28日(月) 場所: SHIBUYA TSUTAYA 6階 IP書店 東京都渋谷区宇田川町21-6 SHIBUYA TSUTAYA 6階",
+          "checked": "2026-11-11"
+        }
+      ],
+      "checked_date": "2026-11-11",
+      "verified_at": "2026-11-11",
+      "source_tier": "official",
+      "summary_source": "https://shibuyatsutaya.tsite.jp/article/2838.html",
+      "thumbnail_source": "https://shibuyatsutaya.tsite.jp/article/2838.html",
+      "lead_source": "collabo-cafe.com (다른 캘린더 대조)",
+      "added": "2026-11-11",
+      "lat": 35.659824,
+      "lon": 139.700226,
+      "thumb_small": "thumbs/1cf9db96e05d966d.webp",
+      "image_fb": "gfb/1cf9db96e05d966d.webp",
+      "image_local": "img/1cf9db96e05d966d.webp"
     }
   ]
 }
