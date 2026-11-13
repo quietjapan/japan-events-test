@@ -8,7 +8,8 @@ Promise.all([fetch("data/picks.json",{cache:"no-store"}).then(function(r){return
   var rows=(a[0].picks||[]).map(function(p){var e=ev.find(function(x){return x.id===p.match||x.title_ko===p.match});return e?{p:p,e:e}:null})
     .filter(function(r){return r&&!(r.e.end&&r.e.end<now)});
   if(!rows.length){box.hidden=true;return}
-  ul.innerHTML=rows.map(function(r){return '<li><a href="'+esc(r.p.blog_url)+'" target="_blank" rel="noopener"><b>'+esc(r.e.title_ko)+'</b><span>✍️ '+esc(r.p.post_title)+'</span></a></li>'}).join("");
-  box.hidden=false;var ps=document.getElementById("pksub");if(ps)ps.textContent=rows.length+"건 · 블로그에 직접 정리한 행사";
+  var isTest=/japan-events-test/.test(location.pathname);/* 테스트 사이트에는 블로그 링크를 넣지 않음 */
+  ul.innerHTML=rows.map(function(r){return isTest?'<li><b>'+esc(r.e.title_ko)+'</b></li>':'<li><a href="'+esc(r.p.blog_url)+'" target="_blank" rel="noopener"><b>'+esc(r.e.title_ko)+'</b><span>✍️ '+esc(r.p.post_title)+'</span></a></li>'}).join("");
+  box.hidden=false;var ps=document.getElementById("pksub");if(ps)ps.textContent=isTest?rows.length+"건":rows.length+"건 · 블로그에 직접 정리한 행사";
 }).catch(function(){box.hidden=true});
 })();
