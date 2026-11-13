@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//quietjapan//japan-events-test//KO
+PRODID:-//quietjapan//japan-events//KO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:오시카츠 재팬 · 전국 공통 행사
@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:apeqvj-2026-11-13@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:이치방쿠지 고질라 괴수난무 -제로의 고동-
@@ -17,13 +17,13 @@ DESCRIPTION:11월 3일 개봉하는 영화 『고질라 -0.0』의 고질
  라(2026)가 나오는 이치방쿠지예요. A상은 고질라 피규어\
  , 라스트원상은 열선 방사 버전이에요.\n공식: https://1kuji
  .com/products/godzilla10\n자세히: https://quietjapan.github.io/japan-ev
- ents-test/i/apeqvj/
-URL:https://quietjapan.github.io/japan-events-test/i/apeqvj/
+ ents/i/apeqvj/
+URL:https://quietjapan.github.io/japan-events/i/apeqvj/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:2yrosm-2026-11-21@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:이치방쿠지 죠죠의 기묘한 모험 The Gathering of RIVALS
@@ -31,13 +31,13 @@ DESCRIPTION:「죠죠의 기묘한 모험」의 라이벌 캐릭터들이
  모인 이치방쿠지예요. A상 디오 브란도\, B상 카즈 등 피
  규어가 있고 라스트원상은 디에고 브란도예요.\n공식: ht
  tps://1kuji.com/products/jojo_26\n자세히: https://quietjapan.github.io/
- japan-events-test/i/2yrosm/
-URL:https://quietjapan.github.io/japan-events-test/i/2yrosm/
+ japan-events/i/2yrosm/
+URL:https://quietjapan.github.io/japan-events/i/2yrosm/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:1lekrfi-2026-11-28@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:이치방쿠지 페르소나 시리즈 30주년
@@ -45,39 +45,39 @@ DESCRIPTION:「페르소나」 시리즈 30주년 기념 이치방쿠지예
  요. 페르소나 3·4·5 주인공 피규어 등이 있고\, 라스트원
  상은 약 40cm 크기의 대형 상품이에요.\n공식: https://1kuji.c
  om/products/persona_30th\n자세히: https://quietjapan.github.io/japan-ev
- ents-test/i/1lekrfi/
-URL:https://quietjapan.github.io/japan-events-test/i/1lekrfi/
+ ents/i/1lekrfi/
+URL:https://quietjapan.github.io/japan-events/i/1lekrfi/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:tqx46u-2026-11-13@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:이치방쿠지 홀로라이브 FLOW GLOW
 DESCRIPTION:홀로라이브 FLOW GLOW 이치방쿠지예요. 상품 라인
  업은 아직 공식 페이지에 공개되지 않았어요.\n공식: http
  s://1kuji.com/products/hololive-flowglow\n자세히: https://quietjapan.gi
- thub.io/japan-events-test/i/tqx46u/
-URL:https://quietjapan.github.io/japan-events-test/i/tqx46u/
+ thub.io/japan-events/i/tqx46u/
+URL:https://quietjapan.github.io/japan-events/i/tqx46u/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:1cqak96-2026-11-14@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:이치방쿠지 원피스 ~애니멀 대집합!~
 DESCRIPTION:『원피스』 '애니멀 대집합' 이치방쿠지예요. A
  상은 쵸파 멀티 스탠드\, D상은 헤드 마그넷(전 4종)이에
  요.\n공식: https://1kuji.com/products/onep105\n자세히: https://quiet
- japan.github.io/japan-events-test/i/1cqak96/
-URL:https://quietjapan.github.io/japan-events-test/i/1cqak96/
+ japan.github.io/japan-events/i/1cqak96/
+URL:https://quietjapan.github.io/japan-events/i/1cqak96/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:g3coy2-2026-11-14@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:이치방쿠지 헌터×헌터 키메라 앤트 2 (재판매)
@@ -85,13 +85,13 @@ DESCRIPTION:『헌터×헌터』 키메라 앤트편 이치방쿠지 재판
  매예요. A상 메르엠\, B상 네테로 등 MASTERLISE 피규어가 중
  심이고\, 라스트원상은 곤(성장 ver.) 피규어예요.\n공식: 
  https://1kuji.com/products/hxh8_2\n자세히: https://quietjapan.github.io
- /japan-events-test/i/g3coy2/
-URL:https://quietjapan.github.io/japan-events-test/i/g3coy2/
+ /japan-events/i/g3coy2/
+URL:https://quietjapan.github.io/japan-events/i/g3coy2/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:mag-comptiq-2027-01-2026-12-10@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:콤프티크 1월호 부록 ― 시로가네 노엘&호쇼 마린 
@@ -99,29 +99,29 @@ SUMMARY:콤프티크 1월호 부록 ― 시로가네 노엘&호쇼 마린
 DESCRIPTION:시로가네 노엘&호쇼 마린 표지·권두 대특집 호
  로\, 부록은 「시로가네 노엘&호쇼 마린 팝업 코스터 세
  트」예요.\n공식: https://www.kadokawa.co.jp/product/322512000963/\n
- 자세히: https://quietjapan.github.io/japan-events-test/i/mag-comptiq-20
- 27-01/
-URL:https://quietjapan.github.io/japan-events-test/i/mag-comptiq-2027-01/
+ 자세히: https://quietjapan.github.io/japan-events/i/mag-comptiq-2027-01
+ /
+URL:https://quietjapan.github.io/japan-events/i/mag-comptiq-2027-01/
 LOCATION:서점·편의점
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-toloveru_d-2026-11-18@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:이치방쿠지 To LOVE루 다크니스
 DESCRIPTION:「To LOVE루 다크니스」 이치방쿠지예요. A상은 
  멀티 클로스\, B상은 금색의 어둠 피규어\, 라스트원상은
   모모 피규어예요(현재 공개분).\n공식: https://1kuji.com/prod
- ucts/toloveru_d\n자세히: https://quietjapan.github.io/japan-events-test
- /i/1kuji-toloveru_d/
-URL:https://quietjapan.github.io/japan-events-test/i/1kuji-toloveru_d/
+ ucts/toloveru_d\n자세히: https://quietjapan.github.io/japan-events/i/1k
+ uji-toloveru_d/
+URL:https://quietjapan.github.io/japan-events/i/1kuji-toloveru_d/
 LOCATION:전국 판매처 (이치방쿠지 공식 숍 등) · 이치방쿠
  지 ONLINE
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-rider_zeztz-2026-11-27@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:이치방쿠지 가면라이더 마이스&가면라이더 제츠
@@ -129,13 +129,13 @@ DESCRIPTION:「가면라이더 마이스&가면라이더 제츠」 이치
  방쿠지예요. A상은 가면라이더 마이스\, 라스트원상은 
  가면라이더 제츠 엑스드림 MASTERLISE 피규어예요(현재 공
  개분).\n공식: https://1kuji.com/products/rider_zeztz\n자세히: https
- ://quietjapan.github.io/japan-events-test/i/1kuji-rider_zeztz/
-URL:https://quietjapan.github.io/japan-events-test/i/1kuji-rider_zeztz/
+ ://quietjapan.github.io/japan-events/i/1kuji-rider_zeztz/
+URL:https://quietjapan.github.io/japan-events/i/1kuji-rider_zeztz/
 LOCATION:전국 판매처 (로손·미니스톱 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-db_fa3-2026-11-28@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:이치방쿠지 드래곤볼 Fantastic Adventure 3
@@ -143,13 +143,13 @@ DESCRIPTION:「드래곤볼 Fantastic Adventure 3」 이치방쿠지예요.
   A상은 손오공·부르마·우롱이 탄 우마왕의 자동차 피규
  어\, 라스트원상은 손오공&부르마 피규어예요(현재 공개
  분).\n공식: https://1kuji.com/products/db_fa3\n자세히: https://quiet
- japan.github.io/japan-events-test/i/1kuji-db_fa3/
-URL:https://quietjapan.github.io/japan-events-test/i/1kuji-db_fa3/
+ japan.github.io/japan-events/i/1kuji-db_fa3/
+URL:https://quietjapan.github.io/japan-events/i/1kuji-db_fa3/
 LOCATION:전국 판매처 (패밀리마트 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-myhero48-2026-11-30@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:이치방쿠지 나의 히어로 아카데미아 -그녀들의 이
@@ -158,14 +158,14 @@ DESCRIPTION:「나의 히어로 아카데미아 -그녀들의 이야기-」
   이치방쿠지예요. A~D상은 오챠코·츠유·토오루·네지레 
  MASTERLISE 피규어\, 라스트원상은 토가 히미코 피규어예요
  .\n공식: https://1kuji.com/products/myhero48\n자세히: https://quietja
- pan.github.io/japan-events-test/i/1kuji-myhero48/
-URL:https://quietjapan.github.io/japan-events-test/i/1kuji-myhero48/
+ pan.github.io/japan-events/i/1kuji-myhero48/
+URL:https://quietjapan.github.io/japan-events/i/1kuji-myhero48/
 LOCATION:전국 판매처 (이치방쿠지 공식 숍 등) · 이치방쿠
  지 ONLINE
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-tamagotchi6-2026-11-21@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:이치방쿠지 다마고치 ~밤하늘에서 발견!? 12별자리
@@ -173,27 +173,26 @@ SUMMARY:이치방쿠지 다마고치 ~밤하늘에서 발견!? 12별자리
 DESCRIPTION:「다마고치」 12별자리 테마 이치방쿠지예요. A
  상은 블랭킷 인 쿠션\, 라스트원상은 별님을 탄 마메치 
  봉제인형이에요.\n공식: https://1kuji.com/products/tamagotchi6\n
- 자세히: https://quietjapan.github.io/japan-events-test/i/1kuji-tamagotc
- hi6/
-URL:https://quietjapan.github.io/japan-events-test/i/1kuji-tamagotchi6/
+ 자세히: https://quietjapan.github.io/japan-events/i/1kuji-tamagotchi6/
+URL:https://quietjapan.github.io/japan-events/i/1kuji-tamagotchi6/
 LOCATION:세븐일레븐·이토요카도·유메타운 등
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-whippi-wrappi-2026-11-19@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:이치방쿠지 (초콧토) 호이피&라피
 DESCRIPTION:「호이피&라피」 미니 이치방쿠지예요. A·B상은
   호이피·라피 COCOPOCCH! 마스코트\, 라스트원상은 토트백
  이에요.\n공식: https://1kuji.com/products/whippi_wrappi\n자세히: h
- ttps://quietjapan.github.io/japan-events-test/i/kuji-whippi-wrappi/
-URL:https://quietjapan.github.io/japan-events-test/i/kuji-whippi-wrappi/
+ ttps://quietjapan.github.io/japan-events/i/kuji-whippi-wrappi/
+URL:https://quietjapan.github.io/japan-events/i/kuji-whippi-wrappi/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-battlecats2-2-2026-11-20@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:이치방쿠지 냥코 대전쟁 ~다 같이 페리페리하자냥~
@@ -201,14 +200,14 @@ SUMMARY:이치방쿠지 냥코 대전쟁 ~다 같이 페리페리하자냥~
 DESCRIPTION:「냥코 대전쟁」 재판매 이치방쿠지예요. A상은
   각성 네코무트 피규어\, 라스트원상은 약 60cm 탱크네코 
  초대형 봉제인형이에요.\n공식: https://1kuji.com/products/battl
- ecats2-2\n자세히: https://quietjapan.github.io/japan-events-test/i/kuji
- -battlecats2-2/
-URL:https://quietjapan.github.io/japan-events-test/i/kuji-battlecats2-2/
+ ecats2-2\n자세히: https://quietjapan.github.io/japan-events/i/kuji-batt
+ lecats2-2/
+URL:https://quietjapan.github.io/japan-events/i/kuji-battlecats2-2/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-kusuriya2-2026-12-05@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:이치방쿠지 극장판 약사의 혼잣말 「망비의 비보
@@ -216,94 +215,93 @@ SUMMARY:이치방쿠지 극장판 약사의 혼잣말 「망비의 비보
 DESCRIPTION:「극장판 약사의 혼잣말」 이치방쿠지예요. A상
   마오마오·B상 진시 디오라마 피규어\, 라스트원상은 마
  오마오 피규어예요.\n공식: https://1kuji.com/products/kusuriya2\n
- 자세히: https://quietjapan.github.io/japan-events-test/i/kuji-kusuriya2
- /
-URL:https://quietjapan.github.io/japan-events-test/i/kuji-kusuriya2/
+ 자세히: https://quietjapan.github.io/japan-events/i/kuji-kusuriya2/
+URL:https://quietjapan.github.io/japan-events/i/kuji-kusuriya2/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-eva20-2026-12-05@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:이치방쿠지 에반게리온 신극장판: 파
 DESCRIPTION:「에반게리온 신극장판: 파」 이치방쿠지예요. 
  A상은 이카리 신지&아야나미 레이 피규어\, 라스트원상
  은 에반게리온 2호기 피규어예요.\n공식: https://1kuji.com/pr
- oducts/eva20\n자세히: https://quietjapan.github.io/japan-events-test/i/
- kuji-eva20/
-URL:https://quietjapan.github.io/japan-events-test/i/kuji-eva20/
+ oducts/eva20\n자세히: https://quietjapan.github.io/japan-events/i/kuji-
+ eva20/
+URL:https://quietjapan.github.io/japan-events/i/kuji-eva20/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-konjiki-no-gash-2026-12-12@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:이치방쿠지 금색의 갓슈!!
 DESCRIPTION:「금색의 갓슈!!」 이치방쿠지예요. A상 갓슈 벨
  \, B상 타카미네 키요마로 등 MASTERLISE 피규어가 나와요(
  현재 공개분).\n공식: https://1kuji.com/products/konjiki-no-gash\n
- 자세히: https://quietjapan.github.io/japan-events-test/i/kuji-konjiki-n
- o-gash/
-URL:https://quietjapan.github.io/japan-events-test/i/kuji-konjiki-no-gash/
+ 자세히: https://quietjapan.github.io/japan-events/i/kuji-konjiki-no-gas
+ h/
+URL:https://quietjapan.github.io/japan-events/i/kuji-konjiki-no-gash/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-gkmas07-2026-12-12@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:이치방쿠지 학원 아이돌마스터 Part7
 DESCRIPTION:「학원 아이돌마스터」 이치방쿠지예요.\n공식:
   https://1kuji.com/products/gkmas07\n자세히: https://quietjapan.github.
- io/japan-events-test/i/kuji-gkmas07/
-URL:https://quietjapan.github.io/japan-events-test/i/kuji-gkmas07/
+ io/japan-events/i/kuji-gkmas07/
+URL:https://quietjapan.github.io/japan-events/i/kuji-gkmas07/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-5hanayome22-2026-12-16@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:이치방쿠지 오등분의 신부* ~beachside memories~
 DESCRIPTION:「오등분의 신부」 이치방쿠지예요. A~E상은 해
  변 콘셉트의 나카노 다섯 자매 1/7 스케일 피규어(Gracemast
  er)예요.\n공식: https://1kuji.com/products/5Hanayome22\n자세히: htt
- ps://quietjapan.github.io/japan-events-test/i/kuji-5hanayome22/
-URL:https://quietjapan.github.io/japan-events-test/i/kuji-5hanayome22/
+ ps://quietjapan.github.io/japan-events/i/kuji-5hanayome22/
+URL:https://quietjapan.github.io/japan-events/i/kuji-5hanayome22/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-ranma3-2026-12-18@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:이치방쿠지 란마 1/2 ~중화 컬렉션~
 DESCRIPTION:「란마 1/2」 이치방쿠지예요. A상은 새로 그린 
  일러스트 아크릴 보드\, B상 란마·라스트원상 샴푸 피규
  어예요(현재 공개분).\n공식: https://1kuji.com/products/ranma3\n
- 자세히: https://quietjapan.github.io/japan-events-test/i/kuji-ranma3/
-URL:https://quietjapan.github.io/japan-events-test/i/kuji-ranma3/
+ 자세히: https://quietjapan.github.io/japan-events/i/kuji-ranma3/
+URL:https://quietjapan.github.io/japan-events/i/kuji-ranma3/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-tenipuri4-2026-12-24@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:이치방쿠지 신 테니스의 왕자 -나는 위로 갈 거야-
 DESCRIPTION:「신 테니스의 왕자」 이치방쿠지예요. A상 에
  치젠 료마·B상 테즈카 쿠니미츠\, 라스트원상은 후지 슈
  스케 피규어예요(현재 공개분).\n공식: https://1kuji.com/produ
- cts/tenipuri4\n자세히: https://quietjapan.github.io/japan-events-test/i
- /kuji-tenipuri4/
-URL:https://quietjapan.github.io/japan-events-test/i/kuji-tenipuri4/
+ cts/tenipuri4\n자세히: https://quietjapan.github.io/japan-events/i/kuji
+ -tenipuri4/
+URL:https://quietjapan.github.io/japan-events/i/kuji-tenipuri4/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-bluearchive4-2026-12-26@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:이치방쿠지 블루 아카이브 vol.4
@@ -311,78 +309,78 @@ DESCRIPTION:「블루 아카이브」 이치방쿠지예요. A~D상은 드
  레스 차림의 아루·카요코·아코·사오리 1/7 피규어\, 라
  스트원상은 히나(드레스) 피규어예요.\n공식: https://1kuji.
  com/products/bluearchive4\n자세히: https://quietjapan.github.io/japan-e
- vents-test/i/kuji-bluearchive4/
-URL:https://quietjapan.github.io/japan-events-test/i/kuji-bluearchive4/
+ vents/i/kuji-bluearchive4/
+URL:https://quietjapan.github.io/japan-events/i/kuji-bluearchive4/
 LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:zkcyor-2026-11-15@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:명탐정 코난 규코토 2 (가챠)
 DESCRIPTION:「명탐정 코난」 가챠예요. 1회 500엔\, 전 5종이
  에요. 일본 발매는 2026년 11월 3째 주이에요.\n공식: https:/
  /gashapon.jp/products/detail.php?jan_code=4582770054187000\n자세히: htt
- ps://quietjapan.github.io/japan-events-test/i/zkcyor/
-URL:https://quietjapan.github.io/japan-events-test/i/zkcyor/
+ ps://quietjapan.github.io/japan-events/i/zkcyor/
+URL:https://quietjapan.github.io/japan-events/i/zkcyor/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:1yw0qmm-2026-11-15@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:하이큐!! 네무라세타이 3 (가챠)
 DESCRIPTION:「하이큐」 가챠예요. 1회 400엔\, 전 7종이에요. 
  일본 발매는 2026년 11월 3째 주이에요.\n공식: https://gashapo
  n.jp/products/detail.php?jan_code=4582770095487000\n자세히: https://qui
- etjapan.github.io/japan-events-test/i/1yw0qmm/
-URL:https://quietjapan.github.io/japan-events-test/i/1yw0qmm/
+ etjapan.github.io/japan-events/i/1yw0qmm/
+URL:https://quietjapan.github.io/japan-events/i/1yw0qmm/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:w7hq2v-2026-11-15@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:포켓몬스터 스윙 컬렉션 Type:Water (가챠)
 DESCRIPTION:「포켓몬」 가챠예요. 1회 300엔\, 전 5종이에요. 
  일본 발매는 2026년 11월 3째 주이에요.\n공식: https://gashapo
  n.jp/products/detail.php?jan_code=4582770081770000\n자세히: https://qui
- etjapan.github.io/japan-events-test/i/w7hq2v/
-URL:https://quietjapan.github.io/japan-events-test/i/w7hq2v/
+ etjapan.github.io/japan-events/i/w7hq2v/
+URL:https://quietjapan.github.io/japan-events/i/w7hq2v/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:geovpt-2026-11-22@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:산리오 캐릭터즈 별자리 스윙 마스코트 PART1 (가챠)
 DESCRIPTION:「산리오」 가챠예요. 1회 400엔\, 전 6종이에요. 
  일본 발매는 2026년 11월 4째 주이에요.\n공식: https://gashapo
  n.jp/products/detail.php?jan_code=4582770070774000\n자세히: https://qui
- etjapan.github.io/japan-events-test/i/geovpt/
-URL:https://quietjapan.github.io/japan-events-test/i/geovpt/
+ etjapan.github.io/japan-events/i/geovpt/
+URL:https://quietjapan.github.io/japan-events/i/geovpt/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:1ftto1s-2026-11-22@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:#해시태그 달기 장송의 프리렌 (가챠)
 DESCRIPTION:「장송의 프리렌」 가챠예요. 1회 300엔\, 전 10종
  이에요. 일본 발매는 2026년 11월 4째 주이에요.\n공식: http
  s://gashapon.jp/products/detail.php?jan_code=4582770095142000\n자세히: 
- https://quietjapan.github.io/japan-events-test/i/1ftto1s/
-URL:https://quietjapan.github.io/japan-events-test/i/1ftto1s/
+ https://quietjapan.github.io/japan-events/i/1ftto1s/
+URL:https://quietjapan.github.io/japan-events/i/1ftto1s/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:18l1o31-2026-11-15@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:산리오 캐릭터즈 눈사람 폭신폭신 메지루시 액세
@@ -390,42 +388,42 @@ SUMMARY:산리오 캐릭터즈 눈사람 폭신폭신 메지루시 액세
 DESCRIPTION:「산리오」 가챠예요. 1회 300엔\, 전 5종이에요. 
  일본 발매는 2026년 11월 3째 주이에요.\n공식: https://gashapo
  n.jp/products/detail.php?jan_code=4582770068351000\n자세히: https://qui
- etjapan.github.io/japan-events-test/i/18l1o31/
-URL:https://quietjapan.github.io/japan-events-test/i/18l1o31/
+ etjapan.github.io/japan-events/i/18l1o31/
+URL:https://quietjapan.github.io/japan-events/i/18l1o31/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:lx7y88-2026-11-15@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:퐁데쿨뢰르 치이카와 멀티 컬러 파우더 (가챠)
 DESCRIPTION:「치이카와」 가챠예요. 1회 500엔\, 전 6종이에
  요. 일본 발매는 2026년 11월 3째 주이에요.\n공식: https://ga
  shapon.jp/products/detail.php?jan_code=4582770137750000\n자세히: https:
- //quietjapan.github.io/japan-events-test/i/lx7y88/
-URL:https://quietjapan.github.io/japan-events-test/i/lx7y88/
+ //quietjapan.github.io/japan-events/i/lx7y88/
+URL:https://quietjapan.github.io/japan-events/i/lx7y88/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:all-gacha-chainsawman-reze-machiboke-2026-11-15@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:체인소맨 레제편 마치보우케 (가챠)
 DESCRIPTION:「체인소맨 레제편」 가챠예요. 1회 500엔\, 전 5
  종이에요. 일본 발매는 2026년 11월 3째 주예요.\n공식: http
  s://www.gashapon.jp/products/detail.php?jan_code=4582770056044000\n자세
- 히: https://quietjapan.github.io/japan-events-test/i/all-gacha-chainsawma
- n-reze-machiboke/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-chainsawman-
- reze-machiboke/
+ 히: https://quietjapan.github.io/japan-events/i/all-gacha-chainsawman-rez
+ e-machiboke/
+URL:https://quietjapan.github.io/japan-events/i/all-gacha-chainsawman-reze-
+ machiboke/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:all-gacha-pokemon-okkina-otsukisama-light3-2026-11-15@quietjapan.github
  .io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:포켓몬스터 커다란 달님 라이트 마스코트 3 (가챠)
@@ -433,15 +431,15 @@ DESCRIPTION:「포켓몬스터」 가챠예요. 빛나는 달 라이트 마
  스코트로\, 파모·나몰빼미·따라큐·훔처우가 나와요. 1
  회 600엔\, 전 4종이에요. 일본 발매는 2026년 11월 3째 주예
  요.\n공식: https://www.gashapon.jp/products/detail.php?jan_code=4582770
- 081763000\n자세히: https://quietjapan.github.io/japan-events-test/i/all
- -gacha-pokemon-okkina-otsukisama-light3/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-pokemon-okki
- na-otsukisama-light3/
+ 081763000\n자세히: https://quietjapan.github.io/japan-events/i/all-gach
+ a-pokemon-okkina-otsukisama-light3/
+URL:https://quietjapan.github.io/japan-events/i/all-gacha-pokemon-okkina-ot
+ sukisama-light3/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:all-gacha-hxh-mejirushi-chimeraant2-2026-11-22@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:HUNTER×HUNTER 메지루시 액세서리 키메라 앤트편 Vol.2 
@@ -450,16 +448,16 @@ DESCRIPTION:「헌터×헌터」 가챠예요. 곤·키르아·크레이지
   슬롯·폿클린·몬투투 유피가 나오는 표시용 액세서리
  예요. 1회 300엔\, 전 5종이에요. 일본 발매는 2026년 11월 4
  째 주예요.\n공식: https://www.gashapon.jp/products/detail.php?jan_co
- de=4582769981791000\n자세히: https://quietjapan.github.io/japan-events-
- test/i/all-gacha-hxh-mejirushi-chimeraant2/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-hxh-mejirush
- i-chimeraant2/
+ de=4582769981791000\n자세히: https://quietjapan.github.io/japan-events/
+ i/all-gacha-hxh-mejirushi-chimeraant2/
+URL:https://quietjapan.github.io/japan-events/i/all-gacha-hxh-mejirushi-chi
+ meraant2/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:all-suisei-once-upon-stellar-seven-print-2026-11-01@quietjapan.github.i
  o
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20270101
 SUMMARY:호시마치 스이세이 Once Upon a Stellar 콘텐츠프린트 (
@@ -467,29 +465,29 @@ SUMMARY:호시마치 스이세이 Once Upon a Stellar 콘텐츠프린트 (
 DESCRIPTION:세븐일레븐 멀티카피기에서 뽑는 호시마치 스
  이세이 투어 콘텐츠프린트예요. L판 300엔.\n공식: https://w
  ww.sej.co.jp/products/bromide/hssbromide2611/\n자세히: https://quietjap
- an.github.io/japan-events-test/i/all-suisei-once-upon-stellar-seven-print/
-URL:https://quietjapan.github.io/japan-events-test/i/all-suisei-once-upon-s
- tellar-seven-print/
+ an.github.io/japan-events/i/all-suisei-once-upon-stellar-seven-print/
+URL:https://quietjapan.github.io/japan-events/i/all-suisei-once-upon-stella
+ r-seven-print/
 LOCATION:전국 세븐일레븐 멀티카피기
 END:VEVENT
 BEGIN:VEVENT
 UID:all-gacha-sanrio-holiday-ornament-2026-11-15@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:산리오 캐릭터즈 Holiday 오너먼트 참 (가챠)
 DESCRIPTION:산리오 Holiday 의상 오너먼트 참 가챠예요. 1회 30
  0엔\, 전 5종. 일본 발매는 2026년 11월 3째 주예요.\n공식: h
  ttps://www.gashapon.jp/products/detail.php?jan_code=4582770054767000\n자
- 세히: https://quietjapan.github.io/japan-events-test/i/all-gacha-sanrio-
- holiday-ornament/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-sanrio-holid
+ 세히: https://quietjapan.github.io/japan-events/i/all-gacha-sanrio-holid
  ay-ornament/
+URL:https://quietjapan.github.io/japan-events/i/all-gacha-sanrio-holiday-or
+ nament/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:all-starrail-aha-animate-fair-2026-11-13@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261221
 SUMMARY:『붕괴: 스타레일』星神★アッハ 구현 기념 페어 (
@@ -497,29 +495,29 @@ SUMMARY:『붕괴: 스타레일』星神★アッハ 구현 기념 페어 (
 DESCRIPTION:『붕괴: 스타레일』 星神★アッハ 구현 기념으
  로 전국 애니메이트에서 열리는 페어예요. 구매 특전 카
  드가 있어요.\n공식: https://prtimes.jp/main/html/rd/p/000009164.000
- 016756.html\n자세히: https://quietjapan.github.io/japan-events-test/i/a
- ll-starrail-aha-animate-fair/
-URL:https://quietjapan.github.io/japan-events-test/i/all-starrail-aha-anima
- te-fair/
+ 016756.html\n자세히: https://quietjapan.github.io/japan-events/i/all-st
+ arrail-aha-animate-fair/
+URL:https://quietjapan.github.io/japan-events/i/all-starrail-aha-animate-fa
+ ir/
 LOCATION:전국 애니메이트 (통판 제외)
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-kimetsu31-2026-12-21@quietjapan.github.io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:이치방쿠지 귀멸의 칼날 ~남매의 혈귀~
 DESCRIPTION:「귀멸의 칼날」 이치방쿠지예요. A상은 우즈이
   텐겐 MASTERLISE 피규어(약 26cm)예요.\n공식: https://1kuji.com/p
- roducts/kimetsu31\n자세히: https://quietjapan.github.io/japan-events-te
- st/i/1kuji-kimetsu31/
-URL:https://quietjapan.github.io/japan-events-test/i/1kuji-kimetsu31/
+ roducts/kimetsu31\n자세히: https://quietjapan.github.io/japan-events/i/
+ 1kuji-kimetsu31/
+URL:https://quietjapan.github.io/japan-events/i/1kuji-kimetsu31/
 LOCATION:이치방쿠지 공식 숍·이치방쿠지 ONLINE
 END:VEVENT
 BEGIN:VEVENT
 UID:all-gacha-pokemon-texture-selection-clear-2026-11-23@quietjapan.github.
  io
-DTSTAMP:20261113T104055Z
+DTSTAMP:20261113T104611Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:포켓몬 Texture Selection ~CLEAR~ (가챠)
@@ -527,10 +525,10 @@ DESCRIPTION:「포켓몬」 질감에 주목한 피규어 가챠 1탄\, 클
  리어 파츠 사양이에요. 써니고(가라르의 모습)·란쿨루
  스·샹델라·눈미벌레 전 4종(약 4~6.5cm)\, 1회 400엔이에요.
  \n공식: https://www.takaratomy-arts.co.jp/items/item.html?n=Y905636\n자
- 세히: https://quietjapan.github.io/japan-events-test/i/all-gacha-pokemon
- -texture-selection-clear/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-pokemon-text
+ 세히: https://quietjapan.github.io/japan-events/i/all-gacha-pokemon-text
  ure-selection-clear/
+URL:https://quietjapan.github.io/japan-events/i/all-gacha-pokemon-texture-s
+ election-clear/
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 END:VCALENDAR
