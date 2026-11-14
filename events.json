@@ -1,6 +1,6 @@
 {
-  "base_date": "2026-11-13",
-  "last_updated": "2026-11-13",
+  "base_date": "2026-11-14",
+  "last_updated": "2026-11-14",
   "is_sample": false,
   "events": [
     {
@@ -16504,14 +16504,20 @@
       "price": "",
       "official_url": "https://www.medicos-e.net/newsdetail/anime_dandadan/",
       "source_url": "https://www.medicos-e.net/newsdetail/anime_dandadan/",
-      "notes": "",
-      "checked_date": "2026-10-24",
+      "notes": "헤이세이 갸루 테마 새 일러스트. 『단다단』 관련 상품 1,000엔(세금 포함)마다 특전 미니 포토카드(전 5종 랜덤) 1장, 3,000엔마다 회장 한정 일러스트 카드 1장(소진 시 종료). 1회 계산당 각 5개까지. 입장 방법·결제 수단은 아베노 라쿠바스 특설 페이지 확인.",
+      "checked_date": "2026-11-14",
       "evidence": [
         {
           "url": "https://www.medicos-e.net/newsdetail/anime_dandadan/",
           "tier": "official",
           "quote": "＜大阪会場＞【開催期間】2026年11月21日（土）〜2026年11月29日（日）【開催場所】アベノラクバス（あべのHoop）",
           "checked": "2026-10-24"
+        },
+        {
+          "url": "https://www.medicos-e.net/newsdetail/anime_dandadan/",
+          "tier": "official",
+          "quote": "期間中、TVアニメ『ダンダダン』関連商品を 1,000円（税込）お買い上げごとに特典ミニフォトカード（全 5種）をランダムで 1枚プレゼント！",
+          "checked": "2026-11-14"
         }
       ],
       "source_tier": "official",
@@ -34700,6 +34706,97 @@
       "thumb_small": "thumbs/1abd1df4b700de69.webp",
       "image_fb": "gfb/1abd1df4b700de69.webp",
       "image_local": "img/1abd1df4b700de69.webp"
+    },
+    {
+      "title_ko": "택면×하이큐!! 콜라보 팝업 (긴시초 마루이)",
+      "title_ja": "「宅麺×ハイキュー!!」コラボポップアップ",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "긴시초 마루이",
+      "start": "2026-11-12",
+      "end": "2026-11-23",
+      "official_url": "https://haikyu.jp/news/6030/",
+      "source_url": "https://www.takumen.com/st/lp/haikyucollab2026",
+      "notes": "콜라보 라멘 이트인 + 오리지널 굿즈 판매. 전반 11/12~11/17 아오바조사이·네코마, 후반 11/18~11/23 카라스노·후쿠로다니 라멘 제공. 11/12~15는 Livepocket 사전 예약(추첨), 11/16 이후는 선착 예약 입장. 라멘 1품마다 학교별 카드 세트 1세트+코스터(랜덤 전 4종) 1장. 같은 기간 마루이 패밀리 미조노구치(가나가와)·히로시마 PARCO, 11/27~12/13 나고야 PARCO에서도 열려요. 공식 마루이 페이지 본문은 JS라 층 정보는 확인하지 못했어요.",
+      "checked_date": "2026-11-14",
+      "translation_check": true,
+      "price": "굿즈 220~2,420엔 (세금 포함)",
+      "map_query": "東京都墨田区江東橋3-9-10 錦糸町マルイ",
+      "id": "tokyo-takumen-haikyu-collab-kinshicho-marui",
+      "summary_source": "https://www.takumen.com/st/lp/haikyucollab2026",
+      "reservation": "필요 (11/12~15 사전 추첨, 11/16 이후 Livepocket 선착)",
+      "summary_ko": "라멘 통판 「택면」과 『하이큐!!』 콜라보 팝업이에요. 학교별 콜라보 라멘을 이트인으로 먹고 새로 그린 일러스트 굿즈도 살 수 있어요.",
+      "thumbnail": "https://www.takumen.com/st/lp/haikyucollab2026/images/hero.webp",
+      "thumbnail_source": "https://www.takumen.com/st/lp/haikyucollab2026",
+      "evidence": [
+        {
+          "url": "https://haikyu.jp/news/6030/",
+          "tier": "official",
+          "quote": "コラボラーメン店舗 開催期間 2026年11月12日(木)〜11月23日(月・祝) ・錦糸町マルイ(東京) ・マルイファミリー溝口(神奈川) ・広島PARCO(広島) 2026年11月27日(金)〜12月13日(日) ・名古屋PARCO（愛知）",
+          "checked": "2026-11-14"
+        },
+        {
+          "url": "https://www.takumen.com/st/lp/haikyucollab2026",
+          "tier": "official",
+          "quote": "錦糸町マルイ 開催期間：11月12日（木）～11月23日（月・祝） 内容：イートイン、オリジナルコラボグッズ販売",
+          "checked": "2026-11-14"
+        }
+      ],
+      "lead_source": null,
+      "verified_at": "2026-11-14",
+      "source_tier": "official",
+      "added": "2026-11-14",
+      "lat": 35.69535,
+      "lon": 139.81374,
+      "thumb_small": "thumbs/25d916888557f4a7.webp",
+      "image_fb": "gfb/25d916888557f4a7.webp",
+      "image_local": "img/25d916888557f4a7.webp"
+    },
+    {
+      "title_ko": "제1회 전국 다가시 페스 2026 (오리나스 긴시초)",
+      "title_ja": "第一回全国駄菓子フェス2026",
+      "category": "전시·행사",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "오리나스 긴시초 1층 엔트리 코트",
+      "start": "2026-11-21",
+      "end": "2026-11-23",
+      "official_url": "https://www.olinas.jp/event/detail/164",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000052.000026734.html",
+      "notes": "10:00~17:00. 주최 전국다가시야회. 다가시 메이커·도매상 패널 전시, 다가시 연표, 긴시초 다가시 메이커 「어른 구매」 코너, 다가시 엔니치, 오리나스 한정 「공식 다가시야 카드」 배포(3일간 합계 2,220장, 각일 선착 740장). 입장료는 공식 페이지에 적혀 있지 않아요.",
+      "checked_date": "2026-11-14",
+      "translation_check": true,
+      "price": "",
+      "map_query": "東京都墨田区太平4-1-2 オリナス錦糸町",
+      "id": "tokyo-zenkoku-dagashi-fes-2026-olinas",
+      "summary_source": "https://www.olinas.jp/event/detail/164",
+      "reservation": "",
+      "summary_ko": "오리나스 긴시초에서 처음 열리는 전국 다가시(막과자) 페스티벌이에요. 다가시 역사 전시와 엔니치, 한정 카드 배포가 있어요.",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/26734/52/26734-52-66f480e2da804d6345e4c7a4fa5229aa-2891x1627.jpg",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000052.000026734.html",
+      "evidence": [
+        {
+          "url": "https://www.olinas.jp/event/detail/164",
+          "tier": "official",
+          "quote": "第一回全国駄菓子フェス2026 開催決定！ 日程 2026年11月21日（土）～11月23日（月・祝） 時間 10:00～17:00 場所 オリナス錦糸町 1F エントリーコート 主催 全国駄菓子屋会",
+          "checked": "2026-11-14"
+        },
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000052.000026734.html",
+          "tier": "official",
+          "quote": "4．第一回全国駄菓子フェス2026 開催日時 2026年11月21日（土）～11月23日（月・祝） 開催時間 10:00～17:00 オリナス錦糸町 1F エントリーコート",
+          "checked": "2026-11-14"
+        }
+      ],
+      "lead_source": null,
+      "verified_at": "2026-11-14",
+      "source_tier": "official",
+      "added": "2026-11-14",
+      "lat": 35.7002,
+      "lon": 139.8149,
+      "thumb_small": "thumbs/2005b1630a4994a5.webp",
+      "image_local": "img/2005b1630a4994a5.webp"
     }
   ]
 }
