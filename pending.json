@@ -210,7 +210,125 @@
       "checked_date": "2026-11-17",
       "pending_reason": "캡콤 공식 페이지가 202/본문 공란으로 원문 직접 확인 못 함, 보류 유지 (2026-11-17)",
       "translation_check": true
+    },
+    {
+      "checked_date": "2026-11-18",
+      "translation_check": true,
+      "reservation": "불필요",
+      "lead_source": "이로하 11/17 저녁 제보",
+      "title_ko": "갑진전 사무라이 트루퍼 POP UP SHOP (아베노 라쿠바스)",
+      "title_ja": "『鎧真伝サムライトルーパー』POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "아베노 라쿠바스",
+      "start": "2027-01-02",
+      "end": "2027-01-11",
+      "official_url": "https://www.samurai-trooper.net/news/detail.php?id=27007",
+      "source_url": "https://www.samurai-trooper.net/news/detail.php?id=27007",
+      "notes": "공식에 「※後日公開」. 도쿄 회장(12/8~20 MEDICOS SHOP 시부야)은 events.json에 게시.",
+      "pending_reason": "2027년 1월 이후 시작 회기 + 회장 상세 후일 공개 (2026-11-18)",
+      "evidence": [
+        {
+          "url": "https://www.samurai-trooper.net/news/detail.php?id=27007",
+          "tier": "official",
+          "quote": "≪大阪≫ 【開催期間】2027年1月2日(土)～1月11日(月・祝) 【開催場所】アベノラクバス ※後日公開",
+          "checked": "2026-11-18"
+        }
+      ],
+      "map_query": "あべのHoop",
+      "lat": 34.6451,
+      "lon": 135.5137
+    },
+    {
+      "checked_date": "2026-11-18",
+      "translation_check": true,
+      "reservation": "불필요",
+      "lead_source": "이로하 11/17 저녁 제보",
+      "title_ko": "러브라이브! 선샤인!!×HMV POP UP SHOP (HMV&BOOKS NAMBA)",
+      "title_ja": "「ラブライブ！サンシャイン!!」×HMV POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "HMV&BOOKS NAMBA",
+      "start": "2027-01-13",
+      "end": "2027-01-31",
+      "official_url": "https://www.lovelive-anime.jp/news/01_6782.html",
+      "source_url": "https://www.medicos-e.net/newsdetail/uranohoshi_hmv/",
+      "notes": "도쿄 회장(12/2~15 HMV&BOOKS 시부야)은 events.json에 게시. 아트레 아키하바라 팝업과는 별도 행사.",
+      "map_query": "大阪府大阪市中央区難波3-8-9",
+      "pending_reason": "2027년 1월 이후 시작 회기 (2026-11-18)",
+      "evidence": [
+        {
+          "url": "https://www.lovelive-anime.jp/news/01_6782.html",
+          "tier": "official",
+          "quote": "＜大阪会場＞ 【開催期間】2027年1月13日（水）～2027年1月31日（日） 【開催場所】HMV&BOOKS NAMBA",
+          "checked": "2026-11-18"
+        }
+      ],
+      "lat": 34.6655,
+      "lon": 135.5008
+    },
+    {
+      "checked_date": "2026-11-18",
+      "translation_check": true,
+      "reservation": "불필요",
+      "lead_source": "이로하 11/17 저녁 제보",
+      "title_ko": "호리미야 15th POP UP SHOP (하카타 마루이)",
+      "title_ja": "ホリミヤ15th POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "하카타 마루이",
+      "start": "2027-01-16",
+      "end": "2027-01-24",
+      "official_url": "https://magazine.jp.square-enix.com/gfantasy/special/horimiyashop/index.html",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000438.000128734.html",
+      "notes": "공식에 입장 무료(전 회장 공통 안내). 영업시간은 회장에 준함. 도쿄 유라쿠초 마루이 회장(12/4~20)은 events.json에 게시.",
+      "price": "입장 무료",
+      "pending_reason": "2027년 1월 이후 시작 회기 (2026-11-18)",
+      "evidence": [
+        {
+          "url": "https://magazine.jp.square-enix.com/gfantasy/special/horimiyashop/index.html",
+          "tier": "official",
+          "quote": "＝入場無料＝ - FUKUOKA - 2027/1/16(土)～2027/1/24(日) 博多マルイ",
+          "checked": "2026-11-18"
+        }
+      ],
+      "map_query": "福岡県福岡市博多区博多駅中央街9-1",
+      "lat": 33.58884,
+      "lon": 130.419357
+    },
+    {
+      "checked_date": "2026-11-18",
+      "translation_check": true,
+      "reservation": "불필요",
+      "lead_source": "이로하 11/17 저녁 제보",
+      "title_ko": "호리미야 15th POP UP SHOP (난바 마루이)",
+      "title_ja": "ホリミヤ15th POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "난바 마루이",
+      "start": "2027-03-27",
+      "end": "2027-04-11",
+      "official_url": "https://magazine.jp.square-enix.com/gfantasy/special/horimiyashop/index.html",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000438.000128734.html",
+      "notes": "공식에 입장 무료(전 회장 공통 안내). 영업시간은 회장에 준함. 도쿄 유라쿠초 마루이 회장(12/4~20)은 events.json에 게시.",
+      "price": "입장 무료",
+      "pending_reason": "2027년 1월 이후 시작 회기 (2026-11-18)",
+      "evidence": [
+        {
+          "url": "https://magazine.jp.square-enix.com/gfantasy/special/horimiyashop/index.html",
+          "tier": "official",
+          "quote": "＝入場無料＝ - OSAKA - 2027/3/27(土)～2027/4/11(日) なんばマルイ",
+          "checked": "2026-11-18"
+        }
+      ],
+      "map_query": "大阪府大阪市中央区難波3-8-9",
+      "lat": 34.6655,
+      "lon": 135.5008
     }
   ],
-  "base_date": "2026-11-17"
+  "base_date": "2026-11-18"
 }
