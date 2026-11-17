@@ -666,6 +666,28 @@
       "lat": 34.7047,
       "lon": 135.4959,
       "source": "https://tower.jp/store/"
+    },
+    {
+      "keys": [
+        "なんばウォーク",
+        "난바 워크",
+        "なんばウォーク フォレストパーク"
+      ],
+      "address": "大阪府大阪市中央区難波5-1-60 なんばウォーク",
+      "source": "https://www.dora-world.com/contents/2684",
+      "lat": 34.66492,
+      "lon": 135.50111
+    },
+    {
+      "keys": [
+        "天神ロフト",
+        "텐진 로프트",
+        "ミーナ天神"
+      ],
+      "address": "福岡県福岡市中央区天神1-7-11 ミーナ天神4階",
+      "source": "https://www.cocollabo.net/pages/symphogear-xv-2026",
+      "lat": 33.59002,
+      "lon": 130.39975
     }
   ]
 }
