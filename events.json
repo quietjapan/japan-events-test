@@ -25744,15 +25744,15 @@
       "category": "콜라보카페",
       "area": "후쿠오카",
       "region": "fukuoka",
-      "venue": "애니메이트 카페 스탠드 라식 후쿠오카 텐진",
+      "venue": "애니메이트 카페 스탠드 라식 후쿠오카 텐진 (후쿠오카 미쓰코시 8층)",
       "start": "2026-11-19",
       "end": "2026-12-15",
-      "reservation": "불필요",
+      "reservation": "추첨예약제 (11/19~12/15)",
       "price": "",
       "official_url": "https://www.animatecafe.jp/event/ac000779_2",
       "source_url": "https://x.com/animate_cafe/status/2106905311181480136",
-      "notes": "이트인 매장(이케부쿠로 등)과 개최 기간·메뉴가 달라요",
-      "checked_date": "2026-10-29",
+      "notes": "공식 점포 안내: 추첨예약제(11/19~12/15) 10:15~19:45. 추첨 예약 시 각 회차 퇴점 시간까지 입장 접수하면 입점 가능. 자유 입장 시 라스트 오더 19:30. 이트인 매장(이케부쿠로 등)과 개최 기간·메뉴가 달라요.",
+      "checked_date": "2026-11-18",
       "map_query": "ラシック福岡天神",
       "evidence": [
         {
@@ -25760,10 +25760,16 @@
           "tier": "official",
           "quote": "🏠開催店舗：アニメイトカフェスタンドラシック福岡天神\n📅開催期間：11/19～12/15",
           "checked": "2026-10-29"
+        },
+        {
+          "url": "https://www.animatecafe.jp/shop/fukuoka",
+          "tier": "official",
+          "quote": "アニメイトカフェスタンドラシック福岡天神 住所 〒810-8544 福岡県福岡市中央区天神2-1-1 福岡三越8階 ラシック福岡天神 営業時間 抽選予約制 (11/19～12/15) 10:15～19:45 ■ラストオーダー 抽選予約時…各回の退店時間までに入店受付をしていただければご入店可能 フリー入場時…19:30 開催 予定 HUNTER×HUNTER（NEON DINER）",
+          "checked": "2026-11-18"
         }
       ],
       "source_tier": "official",
-      "verified_at": "2026-10-29",
+      "verified_at": "2026-11-18",
       "thumbnail": "https://pbs.twimg.com/media/HT03wbPbEAEsh-b.jpg",
       "thumbnail_source": "https://x.com/animate_cafe/status/2106904891323265267",
       "summary_ko": "『헌터×헌터』 NEON DINER 콜라보의 후쿠오카 텐진 스탠드 매장 버전이에요. 이트인 매장과 메뉴·기간이 달라요.",
@@ -33641,7 +33647,6 @@
       "checked_date": "2026-11-18",
       "verified_at": "2026-11-18",
       "source_tier": "official",
-      "translation_check": true,
       "added": "2026-11-18",
       "lead_source": "다른 캘린더(collabo-cafe.com) 대조 → 공식 확인",
       "id": "tokyo-tokyo-revengers-tojikomerare-hmv-shibuya",
@@ -33675,13 +33680,13 @@
       "lon": 139.7003,
       "thumb_small": "thumbs/321ab4c92b3993cc.webp",
       "image_fb": "gfb/321ab4c92b3993cc.webp",
-      "image_local": "img/321ab4c92b3993cc.webp"
+      "image_local": "img/321ab4c92b3993cc.webp",
+      "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)"
     },
     {
       "checked_date": "2026-11-18",
       "verified_at": "2026-11-18",
       "source_tier": "official",
-      "translation_check": true,
       "added": "2026-11-18",
       "lead_source": "다른 캘린더(collabo-cafe.com) 대조 → 공식 확인",
       "id": "osaka-tokyo-revengers-tojikomerare-hmv-namba",
@@ -33715,13 +33720,13 @@
       "lon": 135.5016,
       "thumb_small": "thumbs/321ab4c92b3993cc.webp",
       "image_fb": "gfb/321ab4c92b3993cc.webp",
-      "image_local": "img/321ab4c92b3993cc.webp"
+      "image_local": "img/321ab4c92b3993cc.webp",
+      "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)"
     },
     {
       "checked_date": "2026-11-18",
       "verified_at": "2026-11-18",
       "source_tier": "official",
-      "translation_check": true,
       "added": "2026-11-18",
       "lead_source": "다른 캘린더(collabo-cafe.com) 대조 → 공식 확인",
       "id": "fukuoka-tokyo-revengers-tojikomerare-hmv-hakata",
@@ -33755,7 +33760,8 @@
       "lon": 130.4207,
       "thumb_small": "thumbs/321ab4c92b3993cc.webp",
       "image_fb": "gfb/321ab4c92b3993cc.webp",
-      "image_local": "img/321ab4c92b3993cc.webp"
+      "image_local": "img/321ab4c92b3993cc.webp",
+      "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)"
     },
     {
       "checked_date": "2026-11-18",
@@ -33926,6 +33932,172 @@
       "thumb_small": "thumbs/cb2da28bc82bb939.webp",
       "image_fb": "gfb/cb2da28bc82bb939.webp",
       "image_local": "img/cb2da28bc82bb939.webp"
+    },
+    {
+      "reservation": "선택 (판매 시작 직후 혼잡 시 정리권·입장 제한 가능성)",
+      "checked_date": "2026-11-18",
+      "translation_check": true,
+      "verified_at": "2026-11-18",
+      "source_tier": "official",
+      "added": "2026-11-18",
+      "lead_source": "이로하 11/18 저녁 제보 (공식 확인)",
+      "price": "",
+      "id": "tokyo-tokyo-ghoul-popup-donki-akihabara",
+      "title_ko": "도쿄 구울 POP UP SHOP (돈키호테 아키하바라점)",
+      "title_ja": "TVアニメ『東京喰種トーキョーグール』POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "돈키호테 아키하바라점 5층",
+      "start": "2026-12-04",
+      "end": "2026-12-27",
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000115.000074558.html",
+      "source_url": "https://store.tohakusha.com/pages/tokyoghoul",
+      "notes": "영업시간은 점포에 준함. 판매 시작 예정 12/4 10:00~. 판매 시작 직후 혼잡 시 정리권 배포·입장 제한이 있을 수 있어요. 새로 그린 일러스트 굿즈. 등백사 온라인 스토어 판매 12/4 10:00~2027/1/31 23:59.",
+      "map_query": "ドン・キホーテ秋葉原店",
+      "summary_ko": "TV 애니메이션 『도쿄 구울』 팝업이에요. 돈키호테 아키하바라점 5층에서 새로 그린 일러스트 굿즈를 팔아요.",
+      "summary_source": "https://prtimes.jp/main/html/rd/p/000000115.000074558.html",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/74558/115/74558-115-9b61900668cb707115f855ee4347263c-1920x1080.png",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000115.000074558.html",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000115.000074558.html",
+          "tier": "official",
+          "quote": "イベント名：TVアニメ『東京喰種トーキョーグール』POP UP SHOP 開催期間：2026年12月4日（金）～12月27日（日） 開催店舗：ドン・キホーテ秋葉原店 5F ※灯白社OnlineStoreでも販売をいたします。 ※営業時間は店舗に準じます。",
+          "checked": "2026-11-18"
+        },
+        {
+          "url": "https://store.tohakusha.com/pages/tokyoghoul",
+          "tier": "official",
+          "quote": "販売場所 ドン・キホーテ秋葉原店 5F 住所 101-0021 東京都千代田区外神田４丁目３−３ 販売期間 2026年12月4日(金)〜12月27日(日) 販売開始 予定日時 12月4日（金）10:00〜 販売開始直後は、混雑状況に応じて整理券配布・入場制限を行う場合がございます。",
+          "checked": "2026-11-18"
+        }
+      ],
+      "lat": 35.7007,
+      "lon": 139.7719,
+      "thumb_small": "thumbs/dcdac6e645681a04.webp",
+      "image_fb": "gfb/dcdac6e645681a04.webp",
+      "image_local": "img/dcdac6e645681a04.webp"
+    },
+    {
+      "reservation": "불필요",
+      "checked_date": "2026-11-18",
+      "translation_check": true,
+      "verified_at": "2026-11-18",
+      "source_tier": "official",
+      "added": "2026-11-18",
+      "lead_source": "이로하 11/18 저녁 제보 (공식 확인)",
+      "price": "",
+      "id": "tokyo-creamy-mami-tokimeki-popup-hmv-shibuya",
+      "title_ko": "ときめきタイムスリップ 마법의 천사 크리미 마미 POP UP STORE (HMV&BOOKS 시부야)",
+      "title_ja": "「ときめきタイムスリップ 魔法の天使クリィミーマミ」POP UP STORE",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "HMV&BOOKS SHIBUYA (시부야 모디 5층)",
+      "start": "2026-12-29",
+      "end": "2027-01-11",
+      "official_url": "https://prtimes.jp/main/html/rd/p/000020619.000007006.html",
+      "source_url": "https://www.hmv.co.jp/news/article/261109107/",
+      "notes": "10:00~21:00. 연말연시: 12/31 10:00~17:00, 1/1 휴무, 1/2·1/3 11:00~20:00, 1/4 이후 통상. 쇼와 아이돌 테마 완전 새로 그린 일러스트 굿즈, 포토스팟·당시 장난감 전시. 오사카 회장은 2027/3/19~3/31 HMV&BOOKS NAMBA(난바 마루이 7F).",
+      "map_query": "東京都渋谷区神南1-21-3",
+      "summary_ko": "『마법의 천사 크리미 마미』 기간 한정 팝업이에요. 시부야에서 쇼와 아이돌 테마 새로 그린 일러스트 굿즈와 전시를 볼 수 있어요.",
+      "summary_source": "https://prtimes.jp/main/html/rd/p/000020619.000007006.html",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/7006/20619/7006-20619-7af1135fcb6aaf44d227c02076927c3e-3900x1475.jpg",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000020619.000007006.html",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000020619.000007006.html",
+          "tier": "official",
+          "quote": "【東京会場】 期間：2026年12月29日（火）～2027年1月11日（月・祝） 場所：HMV＆BOOKS SHIBUYA（渋谷モディ 5F） アクセス：〒150-0041 東京都渋谷区神南１丁目２１−３ 渋谷モディ ５Ｆ 営業時間：10:00～21:00 ●年末年始 営業日及び営業時間 ・12月31日(木) 10:00～17：00 ・1月1日(金・祝) 店休日 ・1月2日(土) 11:00～20:00 ・1月3日(日) 11:00～20:00 ※1月4日(月)以降は通常営業時間(10:00～21:00)となります",
+          "checked": "2026-11-18"
+        }
+      ],
+      "lat": 35.6618,
+      "lon": 139.7007,
+      "thumb_small": "thumbs/4d88d387de66bbf9.webp",
+      "image_fb": "gfb/4d88d387de66bbf9.webp",
+      "image_local": "img/4d88d387de66bbf9.webp"
+    },
+    {
+      "reservation": "선택 (첫날·혼잡 시 입장 정리권 가능성)",
+      "checked_date": "2026-11-18",
+      "translation_check": true,
+      "verified_at": "2026-11-18",
+      "source_tier": "official",
+      "added": "2026-11-18",
+      "lead_source": "이로하 11/18 저녁 제보 (공식 확인)",
+      "price": "",
+      "title_ja": "TVアニメ『進撃の巨人』レイヴンブレイドカフェ in TreeVillage",
+      "category": "콜라보카페",
+      "start": "2026-12-19",
+      "end": "2026-12-30",
+      "official_url": "https://tree-village.jp/news/014480.html",
+      "source_url": "https://tree-village.jp/news/014480.html",
+      "summary_ko": "TV 애니메이션 『진격의 거인』 레이븐블레이드 카페예요. 새로 그린 「레이븐블레이드」 일러스트 굿즈와 콜라보 카페를 트리비리지에서 즐길 수 있어요.",
+      "summary_source": "https://tree-village.jp/news/014480.html",
+      "thumbnail": "https://tree-village.jp/news/2026/09/09/shingeki_main_260909_01.jpg",
+      "thumbnail_source": "https://tree-village.jp/news/014480.html",
+      "evidence": [
+        {
+          "url": "https://tree-village.jp/news/014480.html",
+          "tier": "official",
+          "quote": "【開催日程】 東京：2026年10月10日(土)～11月13日(金) 大阪・博多：2026年12月19日(土)〜12月30日(水) ●大阪会場 ツリービレッジ大阪店 大阪府大阪市北区角田町5-15HEP FIVE梅田8階 バンダイナムコ Cross Store 大阪梅田 内 営業時間：SHOP 11:00～21:00／CAFE 11:00〜20:00（L.O 20:00） ※CAFE イートインスペースご利用時間 20:30まで 大阪・博多店 イベント初日や混雑時には、入場整理券による入場規制をさせていただく場合がございます。",
+          "checked": "2026-11-18"
+        }
+      ],
+      "id": "osaka-shingeki-ravenblade-cafe-treevillage",
+      "title_ko": "진격의 거인 레이븐블레이드 카페 in TreeVillage (트리비리지 오사카)",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "트리비리지 오사카점 (HEP FIVE 우메다 8F Cross Store 내)",
+      "map_query": "大阪府大阪市北区角田町5-15 HEP FIVE梅田8階",
+      "notes": "SHOP 11:00~21:00 / CAFE 11:00~20:00(L.O. 20:00), 카페 이트인 공간은 20:30까지. 1인 1회계 5품까지. 첫날·혼잡 시 입장 정리권이 있을 수 있어요. 도쿄 회장(10/10~11/13 트리비리지 도쿄)은 종료.",
+      "lat": 34.7042,
+      "lon": 135.4995,
+      "thumb_small": "thumbs/3535f28aa0d9709f.webp",
+      "image_fb": "gfb/3535f28aa0d9709f.webp",
+      "image_local": "img/3535f28aa0d9709f.webp"
+    },
+    {
+      "reservation": "선택 (첫날·혼잡 시 입장 정리권 가능성)",
+      "checked_date": "2026-11-18",
+      "translation_check": true,
+      "verified_at": "2026-11-18",
+      "source_tier": "official",
+      "added": "2026-11-18",
+      "lead_source": "이로하 11/18 저녁 제보 (공식 확인)",
+      "price": "",
+      "title_ja": "TVアニメ『進撃の巨人』レイヴンブレイドカフェ in TreeVillage",
+      "category": "콜라보카페",
+      "start": "2026-12-19",
+      "end": "2026-12-30",
+      "official_url": "https://tree-village.jp/news/014480.html",
+      "source_url": "https://tree-village.jp/news/014480.html",
+      "summary_ko": "TV 애니메이션 『진격의 거인』 레이븐블레이드 카페예요. 새로 그린 「레이븐블레이드」 일러스트 굿즈와 콜라보 카페를 트리비리지에서 즐길 수 있어요.",
+      "summary_source": "https://tree-village.jp/news/014480.html",
+      "thumbnail": "https://tree-village.jp/news/2026/09/09/shingeki_main_260909_01.jpg",
+      "thumbnail_source": "https://tree-village.jp/news/014480.html",
+      "evidence": [
+        {
+          "url": "https://tree-village.jp/news/014480.html",
+          "tier": "official",
+          "quote": "【開催日程】 東京：2026年10月10日(土)～11月13日(金) 大阪・博多：2026年12月19日(土)〜12月30日(水) ●福岡会場 ツリービレッジ博多店 福岡県福岡市博多区住吉一丁目2号74番キャナルシティオーパ博多 サウスビルB1F バンダイナムコ Cross Store 博多内 営業時間：SHOP 10:00〜21:00／CAFE 11:00〜20:00（L.O 19:30） 大阪・博多店 イベント初日や混雑時には、入場整理券による入場規制をさせていただく場合がございます。",
+          "checked": "2026-11-18"
+        }
+      ],
+      "id": "fukuoka-shingeki-ravenblade-cafe-treevillage",
+      "title_ko": "진격의 거인 레이븐블레이드 카페 in TreeVillage (트리비리지 하카타)",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "트리비리지 하카타점 (캐널시티 오파 하카타 사우스 B1F Cross Store 내)",
+      "map_query": "福岡県福岡市博多区住吉1-2-74 キャナルシティオーパ博多 サウスビルB1F",
+      "notes": "SHOP 10:00~21:00 / CAFE 11:00~20:00(L.O. 19:30). 1인 1회계 5품까지. 첫날·혼잡 시 입장 정리권이 있을 수 있어요. 도쿄 회장(10/10~11/13 트리비리지 도쿄)은 종료.",
+      "lat": 33.5897,
+      "lon": 130.4111,
+      "thumb_small": "thumbs/3535f28aa0d9709f.webp",
+      "image_fb": "gfb/3535f28aa0d9709f.webp",
+      "image_local": "img/3535f28aa0d9709f.webp"
     }
   ]
 }

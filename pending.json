@@ -340,7 +340,8 @@
       "source_url": "https://tree-village.jp/news/014502.html",
       "pending_reason": "2027년 1월 말 시작 회기(공식 확인 완료, 시기 되면 게시) (2026-11-18)",
       "checked_date": "2026-11-18",
-      "lead_source": "collabo-cafe.com 대조"
+      "lead_source": "collabo-cafe.com 대조",
+      "translation_check": true
     },
     {
       "title_ko": "IDOL×IDOL STORY! 오디션 카페 (LATTEST MIZUMACHI)",
@@ -353,7 +354,8 @@
       "source_url": "https://comic-fuz.com/special/262",
       "pending_reason": "공식 COMIC FUZ 특설 페이지가 JS 화면이라 기간 원문 미취득, 보류 (2026-11-18)",
       "checked_date": "2026-11-18",
-      "lead_source": "collabo-cafe.com 대조"
+      "lead_source": "collabo-cafe.com 대조",
+      "translation_check": true
     },
     {
       "title_ko": "알프스 소녀 하이디 & POPEE the 퍼포머 POP-UP SHOP (후쿠오카·오사카)",
@@ -366,7 +368,8 @@
       "source_url": "http://www.heidi.ne.jp/pg623.html",
       "pending_reason": "공식 하이디 사이트 응답 실패(빈 응답)로 원문 미확인, 보류 (2026-11-18)",
       "checked_date": "2026-11-18",
-      "lead_source": "collabo-cafe.com 대조"
+      "lead_source": "collabo-cafe.com 대조",
+      "translation_check": true
     },
     {
       "title_ko": "마법기사 레이어스 × 도쿄타워 & 우메다 스카이빌딩 「마법기사의 외출 날씨」",
@@ -379,7 +382,37 @@
       "source_url": "https://colabtokyo.hp.peraichi.com/reyearth",
       "pending_reason": "주최 페이지 본문에 기간 텍스트 없음(이미지로만 표기), 보류 (2026-11-18)",
       "checked_date": "2026-11-18",
-      "lead_source": "collabo-cafe.com 대조"
+      "lead_source": "collabo-cafe.com 대조",
+      "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)"
+    },
+    {
+      "checked_date": "2026-11-18",
+      "translation_check": true,
+      "reservation": "불필요",
+      "lead_source": "이로하 11/18 저녁 제보",
+      "title_ko": "ときめきタイムスリップ 마법의 천사 크리미 마미 POP UP STORE (HMV&BOOKS NAMBA)",
+      "title_ja": "「ときめきタイムスリップ 魔法の天使クリィミーマミ」POP UP STORE",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "HMV&BOOKS NAMBA (난바 마루이 7층)",
+      "start": "2027-03-19",
+      "end": "2027-03-31",
+      "official_url": "https://prtimes.jp/main/html/rd/p/000020619.000007006.html",
+      "source_url": "https://www.hmv.co.jp/news/article/261109107/",
+      "notes": "11:00~20:00. 도쿄 회장(12/29~2027/1/11 HMV&BOOKS 시부야)은 events.json에 게시.",
+      "map_query": "大阪府大阪市中央区難波3-8-9",
+      "pending_reason": "2027년 3월 시작 회기 (2026-11-18)",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000020619.000007006.html",
+          "tier": "official",
+          "quote": "【大阪会場】 期間：2027年3月19日（金）～2027年3月31日（水） 場所：HMV＆BOOKS NAMBA（なんばマルイ 7F） アクセス：〒542-0076 大阪府大阪市中央区難波3-8-9 なんばマルイ 7F 営業時間 ： 11:00～20:00",
+          "checked": "2026-11-18"
+        }
+      ],
+      "lat": 34.6655,
+      "lon": 135.5008
     }
   ],
   "base_date": "2026-11-18"
