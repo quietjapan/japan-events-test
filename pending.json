@@ -328,6 +328,58 @@
       "map_query": "大阪府大阪市中央区難波3-8-9",
       "lat": 34.6655,
       "lon": 135.5008
+    },
+    {
+      "title_ko": "약속의 네버랜드 POP UP SHOP & CAFE (트리 빌리지 오사카·하카타)",
+      "title_ja": "「約束のネバーランド」POP UP SHOP＆ CAFE inツリービレッジ",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "start": "2027-01-30",
+      "end": "2027-02-11",
+      "official_url": "https://tree-village.jp/news/014502.html",
+      "source_url": "https://tree-village.jp/news/014502.html",
+      "pending_reason": "2027년 1월 말 시작 회기(공식 확인 완료, 시기 되면 게시) (2026-11-18)",
+      "checked_date": "2026-11-18",
+      "lead_source": "collabo-cafe.com 대조"
+    },
+    {
+      "title_ko": "IDOL×IDOL STORY! 오디션 카페 (LATTEST MIZUMACHI)",
+      "title_ja": "IDOL×IDOL STORY!「オーディションカフェ」in LATTEST MIZUMACHI",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "start": "2026-12-01",
+      "end": "2026-12-23",
+      "official_url": "https://comic-fuz.com/special/262",
+      "source_url": "https://comic-fuz.com/special/262",
+      "pending_reason": "공식 COMIC FUZ 특설 페이지가 JS 화면이라 기간 원문 미취득, 보류 (2026-11-18)",
+      "checked_date": "2026-11-18",
+      "lead_source": "collabo-cafe.com 대조"
+    },
+    {
+      "title_ko": "알프스 소녀 하이디 & POPEE the 퍼포머 POP-UP SHOP (후쿠오카·오사카)",
+      "title_ja": "アルプスの少女ハイジ＆POPEE theぱフォーマー POP-UP SHOP",
+      "category": "팝업스토어",
+      "area": "후쿠오카",
+      "start": "2026-11-16",
+      "end": "2026-12-08",
+      "official_url": "http://www.heidi.ne.jp/pg623.html",
+      "source_url": "http://www.heidi.ne.jp/pg623.html",
+      "pending_reason": "공식 하이디 사이트 응답 실패(빈 응답)로 원문 미확인, 보류 (2026-11-18)",
+      "checked_date": "2026-11-18",
+      "lead_source": "collabo-cafe.com 대조"
+    },
+    {
+      "title_ko": "마법기사 레이어스 × 도쿄타워 & 우메다 스카이빌딩 「마법기사의 외출 날씨」",
+      "title_ja": "TVアニメ「魔法騎士レイアース」× 東京タワー & 梅田スカイビル『魔法騎士のお出かけ日和』",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "start": "2026-11-21",
+      "end": "2027-02-21",
+      "official_url": "https://colabtokyo.hp.peraichi.com/reyearth",
+      "source_url": "https://colabtokyo.hp.peraichi.com/reyearth",
+      "pending_reason": "주최 페이지 본문에 기간 텍스트 없음(이미지로만 표기), 보류 (2026-11-18)",
+      "checked_date": "2026-11-18",
+      "lead_source": "collabo-cafe.com 대조"
     }
   ],
   "base_date": "2026-11-18"
