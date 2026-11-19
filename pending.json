@@ -86,7 +86,9 @@
       "category": "콜라보카페",
       "area": "도쿄",
       "translation_check": true,
-      "pending_reason": "공식 애니메이트카페 페이지에 여전히 개최 기간 미표기(「コラボ開催決定！」만). 기간 확인 후 등록 (2026-11-17)"
+      "pending_reason": "공식 애니메이트카페 페이지에 여전히 개최 기간 미표기(「コラボ開催決定！」만). 기간 확인 후 등록 (2026-11-17)",
+      "thumbnail": "https://animatecafe.jp/images/ogp.png",
+      "thumbnail_source": "https://animatecafe.jp/event/ac000815_2"
     },
     {
       "title_ko": "가챠 홀로라이브 컬러풀 카라비나 모후싯포 마스코트",
@@ -142,7 +144,9 @@
       "title_ko_source": "한국 정식 출간·방영 제목",
       "map_query": "大阪府大阪市中央区難波3-8-9",
       "lat": 34.6655,
-      "lon": 135.5008
+      "lon": 135.5008,
+      "thumbnail": "https://www.0101.co.jp/contents2/storenews/085/a3aba77e323e10d30707db5bb2084e59_02_01.jpg",
+      "thumbnail_source": "https://www.0101.co.jp/085/event/detail.html?article_seq=144797&article_type=sto"
     },
     {
       "title_ko": "BANANA FISH Cafe and Bar - What they see - (루미네 에스트 신주쿠)",
@@ -158,7 +162,9 @@
       "notes": "collabo-cafe 기준 11/26~1/17. 공식 사이트는 로그인/JS 화면만 있어 기간 원문 미취득",
       "checked_date": "2026-11-17",
       "pending_reason": "공식 사이트(ltr-online) 본문이 JS 화면만으로 기간·장소 원문 미취득, 보류 유지 (2026-11-17)",
-      "translation_check": true
+      "translation_check": true,
+      "thumbnail": "https://seat-images.groobee.com/bananafish-cafe/eMuwh8ui6BC2AL0iFmbdGqHHU9VDQoeFofVhqzBa.jpg",
+      "thumbnail_source": "https://bananafish-cafe.ltr-online.com"
     },
     {
       "title_ko": "패배 히로인이 너무 많아! POP UP STORE (게이머즈)",
@@ -174,7 +180,9 @@
       "notes": "collabo-cafe 기준 11/21~. 회장별 기간 미확인",
       "checked_date": "2026-11-17",
       "pending_reason": "게이머즈 공식 페이지 403(유지보수 안내)으로 원문 미확인, 보류 유지 (2026-11-17)",
-      "translation_check": true
+      "translation_check": true,
+      "thumbnail": "https://collabo-cafe.com/wp-content/uploads/bbfca5056243f35653eef78fa9edd7b2.jpeg",
+      "thumbnail_source": "https://collabo-cafe.com/events/collabo/makeine-pop-up-store-gamers-tokyo-aichi-osaka-2026/"
     },
     {
       "title_ko": "역전재판 시리즈 25주년 콜라보 카페 (캐라움 카페)",
@@ -190,26 +198,12 @@
       "notes": "메디코스 공식 X 공지만 확인(오사카 CAFE EPIC TALE 2027/1/16~2/7). 공식 웹 페이지 미확보",
       "checked_date": "2026-11-17",
       "pending_reason": "주최 공식 웹 페이지 원문 미확보, 보류 유지 (2026-11-17)",
-      "translation_check": true,
       "map_query": "東京都豊島区東池袋1-29-1",
       "lat": 35.73029,
-      "lon": 139.71652
-    },
-    {
-      "title_ko": "역전재판 시리즈 25주년 콜라보 (캡콤 카페 이케부쿠로·우메다)",
-      "title_ja": "「逆転裁判」シリーズ25周年 コラボ (カプコンカフェ)",
-      "category": "콜라보카페",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "캡콤 카페 이케부쿠로점 / 캡콤 스토어&카페 우메다점",
-      "start": "2026-10-09",
-      "end": "2026-11-26",
-      "official_url": "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/topics/3073/",
-      "source_url": "https://www.capcom.co.jp/amusement/brands/capcomcafe-umeda/topics/2961/",
-      "notes": "검색 결과상 이케부쿠로 ~11/26, 우메다 ~11/27",
-      "checked_date": "2026-11-17",
-      "pending_reason": "캡콤 공식 페이지가 202/본문 공란으로 원문 직접 확인 못 함, 보류 유지 (2026-11-17)",
-      "translation_check": true
+      "lon": 139.71652,
+      "thumbnail": "https://collabo-cafe.com/wp-content/uploads/gyakuten-saiban-cafe-charaum-epic-tale-25th-2026-minichara.jpg",
+      "thumbnail_source": "https://collabo-cafe.com/events/collabo/gyakuten-saiban-cafe-charaum-epic-tale-25th-2026/",
+      "title_ko_source": "한국 정식 발매·방영 제목 (널리 쓰이는 공식 표기)"
     },
     {
       "checked_date": "2026-11-18",
@@ -238,7 +232,9 @@
       ],
       "map_query": "あべのHoop",
       "lat": 34.6451,
-      "lon": 135.5137
+      "lon": 135.5137,
+      "thumbnail": "https://samurai-trooper.net/assets/og/og6.jpg",
+      "thumbnail_source": "https://www.samurai-trooper.net/news/detail.php?id=27007"
     },
     {
       "checked_date": "2026-11-18",
@@ -267,7 +263,9 @@
         }
       ],
       "lat": 34.6655,
-      "lon": 135.5008
+      "lon": 135.5008,
+      "thumbnail": "https://www.lovelive-anime.jp/lovelive/jp/news/2026/11/06/1002/fdkjSvijFjLfCssU/aWPhwvq8VD7uZFQF.jpeg",
+      "thumbnail_source": "https://www.lovelive-anime.jp/news/01_6782.html"
     },
     {
       "checked_date": "2026-11-18",
@@ -297,7 +295,9 @@
       ],
       "map_query": "福岡県福岡市博多区博多駅中央街9-1",
       "lat": 33.58884,
-      "lon": 130.419357
+      "lon": 130.419357,
+      "thumbnail": "https://magazine.jp.square-enix.com/gfantasy/special/horimiyashop/images/sns_card.jpg?new",
+      "thumbnail_source": "https://magazine.jp.square-enix.com/gfantasy/special/horimiyashop/index.html"
     },
     {
       "checked_date": "2026-11-18",
@@ -327,7 +327,9 @@
       ],
       "map_query": "大阪府大阪市中央区難波3-8-9",
       "lat": 34.6655,
-      "lon": 135.5008
+      "lon": 135.5008,
+      "thumbnail": "https://magazine.jp.square-enix.com/gfantasy/special/horimiyashop/images/sns_card.jpg?new",
+      "thumbnail_source": "https://magazine.jp.square-enix.com/gfantasy/special/horimiyashop/index.html"
     },
     {
       "title_ko": "약속의 네버랜드 POP UP SHOP & CAFE (트리 빌리지 오사카·하카타)",
@@ -355,7 +357,9 @@
       "pending_reason": "공식 COMIC FUZ 특설 페이지가 JS 화면이라 기간 원문 미취득, 보류 (2026-11-18)",
       "checked_date": "2026-11-18",
       "lead_source": "collabo-cafe.com 대조",
-      "translation_check": true
+      "translation_check": true,
+      "thumbnail": "https://comic-fuz.com/assets/placheholder/ogp.png",
+      "thumbnail_source": "https://comic-fuz.com/special/262"
     },
     {
       "title_ko": "알프스 소녀 하이디 & POPEE the 퍼포머 POP-UP SHOP (후쿠오카·오사카)",
@@ -383,7 +387,9 @@
       "pending_reason": "주최 페이지 본문에 기간 텍스트 없음(이미지로만 표기), 보류 (2026-11-18)",
       "checked_date": "2026-11-18",
       "lead_source": "collabo-cafe.com 대조",
-      "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)"
+      "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)",
+      "thumbnail": "https://cdn.peraichi.com/userData/fe6e35bb-5fb1-49f0-a25b-3dfec16c8fe1/img/278ba10f-aca4-44a3-ac4d-3a9b42de2e3d/________KV.png",
+      "thumbnail_source": "https://colabtokyo.hp.peraichi.com/reyearth"
     },
     {
       "checked_date": "2026-11-18",
@@ -412,8 +418,85 @@
         }
       ],
       "lat": 34.6655,
-      "lon": 135.5008
+      "lon": 135.5008,
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/7006/20619/7006-20619-7af1135fcb6aaf44d227c02076927c3e-3900x1475.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000020619.000007006.html"
+    },
+    {
+      "checked_date": "2026-11-19",
+      "translation_check": true,
+      "title_ko": "드라마 「영업이니까요」 팝업스토어 (만화전 덴노지)",
+      "title_ja": "ドラマ「営業ですから」ポップアップストア in マンガ展 天王寺",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "덴노지 미오 본관 6F (만화전 덴노지)",
+      "start": "2027-01-06",
+      "end": "2027-01-17",
+      "official_url": "https://www.manga10.com/event/4130",
+      "source_url": "https://www.manga10.com/event/4130",
+      "notes": "공식 「<マンガ展 天王寺> 2027年1月6日(水) 〜2027年1月17日(日)」, 입장 무료",
+      "pending_reason": "2027년 1월 이후 시작 회기(공식 확인 완료, 시기 되면 게시) (2026-11-19)",
+      "thumbnail": "https://d1qjlssvz4u32r.cloudfront.net/media/uploads/site-7/event/20261126_eigyou/eigyou_mv_1140800.jpg",
+      "thumbnail_source": "https://www.manga10.com/event/4130",
+      "map_query": "大阪府大阪市天王寺区悲田院町10-39",
+      "lat": 34.6472,
+      "lon": 135.5142
+    },
+    {
+      "checked_date": "2026-11-19",
+      "title_ko": "도겐안키 「도쿄 잠복」 기간 한정 숍 (도쿄역)",
+      "title_ja": "桃源暗鬼 東京潜伏 期間限定ショップ",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "도쿄역 (상세 공식 확인 필요)",
+      "start": "2026-11-24",
+      "end": "2026-12-05",
+      "official_url": "https://www.bellemaison.jp/cpg/character/event_tougenanki/event_tougenanki_index.html",
+      "source_url": "https://collabo-cafe.com/events/collabo/tougen-anki-tokyo-senpuku-popup-tokyo-station-2026/",
+      "notes": "캘린더(collabo-cafe) 기준 11/24~12/5",
+      "pending_reason": "벨메종 공식 페이지 403(차단)으로 원문 미확인, 보류 (2026-11-19)",
+      "thumbnail": "https://collabo-cafe.com/wp-content/uploads/tougen-anki-tokyo-senpuku-popup-eyecatch.jpg",
+      "thumbnail_source": "https://collabo-cafe.com/events/collabo/tougen-anki-tokyo-senpuku-popup-tokyo-station-2026/",
+      "title_ko_source": "한국 정식 출간 제목 (널리 쓰이는 공식 표기)"
+    },
+    {
+      "checked_date": "2026-11-19",
+      "translation_check": true,
+      "title_ko": "파라파 더 래퍼 탄생 30주년 POP-UP STORE (시부야 PARCO)",
+      "title_ja": "パラッパラッパー誕生30周年 POP-UP STORE",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "시부야 PARCO 6F",
+      "start": "2026-12-02",
+      "end": "2026-12-08",
+      "official_url": "https://x.com/PARAPPAFRIENDS",
+      "source_url": "https://game.watch.impress.co.jp/docs/news/2156830.html",
+      "notes": "공식 X 「POP-UP STORE 2026.12.02 (WED) – 12.08 (TUE) SHIBUYA PARCO 6F」",
+      "pending_reason": "공식 웹/PARCO 이벤트 페이지 미확보(공식 X·기사만), 보류 (2026-11-19)",
+      "thumbnail": "https://pbs.twimg.com/profile_images/2120015605625667584/ty5H1qC2_400x400.jpg",
+      "thumbnail_source": "https://x.com/PARAPPAFRIENDS"
+    },
+    {
+      "checked_date": "2026-11-19",
+      "translation_check": true,
+      "title_ko": "IdentityV 제5인격 × 애니메이트 카페 (이케부쿠로·덴노지)",
+      "title_ja": "IdentityV 第五人格 × アニメイトカフェ",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "애니메이트 카페 이케부쿠로·덴노지",
+      "start": "2026-12-12",
+      "end": "2027-01-12",
+      "official_url": "https://www.animatecafe.jp/event/ac000803",
+      "source_url": "https://collabofan.com/posts/identityv-animatecafe-nagoya-2026.html",
+      "notes": "캘린더 기준 12/12~1/12, 전 일정 추첨 예약, 12/31~1/3 휴업",
+      "pending_reason": "공식 애니메이트카페 페이지 본문에 「コラボ開催決定!」만 있고 기간·점포 텍스트 미취득, 보류 (2026-11-19)",
+      "thumbnail": "https://www.animatecafe.jp/images/ogp.png",
+      "thumbnail_source": "https://www.animatecafe.jp/event/ac000803"
     }
   ],
-  "base_date": "2026-11-18"
+  "base_date": "2026-11-19"
 }
