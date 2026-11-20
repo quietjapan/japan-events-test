@@ -35468,6 +35468,195 @@
       "thumb_small": "thumbs/80f085cac1f319b6.webp",
       "image_fb": "gfb/80f085cac1f319b6.webp",
       "image_local": "img/80f085cac1f319b6.webp"
+    },
+    {
+      "id": "tokyo-codegeass-popup-shibuya-modi",
+      "title_ko": "코드기어스 반역의 를르슈 POP UP SHOP (시부야 모디)",
+      "title_ja": "『コードギアス 反逆のルルーシュ』POP UP SHOP at 渋谷モディ",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "시부야 모디 1층 칼렌다리움",
+      "start": "2026-11-20",
+      "end": "2026-11-30",
+      "reservation": "",
+      "price": "",
+      "official_url": "https://geass.jp/news/archives/4730",
+      "source_url": "https://bellfine.co.jp/blog/event/codegeass_popup-shop2026/",
+      "notes": "11:00~19:00 (마지막 날 11/30은 17:00까지, 매장 영업시간과 달라요). 새로 그린 를르슈·스자쿠 일러스트 굿즈. 대상 상품 포함 2,200엔(세금 포함)마다 오리지널 포스트카드(전 6종) 랜덤 1장(소진 시 종료). 혼잡 시 입장 제한, 일부 상품 구매 수량 제한",
+      "map_query": "東京都渋谷区神南1-21-3",
+      "thumbnail": "https://geass.jp/news/HX97NbHu/wp-content/uploads/2026/10/SNS用_KV1019.jpg",
+      "thumbnail_source": "https://geass.jp/news/archives/4730",
+      "copyright": "©SUNRISE/PROJECT GEASS・MBS",
+      "summary_ko": "『코드기어스 반역의 를르슈』 기간 한정 팝업이에요. 이번을 위해 새로 그린 를르슈·스자쿠 일러스트 굿즈를 팔고, 구매 금액에 따라 포스트카드 특전을 줘요.",
+      "summary_source": "https://bellfine.co.jp/blog/event/codegeass_popup-shop2026/",
+      "gallery": [
+        {
+          "group": "상품 라인업",
+          "img": "https://geass.jp/news/HX97NbHu/wp-content/uploads/2026/10/商品ラインナップPOP_1019.jpg",
+          "full": "https://geass.jp/news/HX97NbHu/wp-content/uploads/2026/10/商品ラインナップPOP_1019.jpg",
+          "caption_ko": "POP UP SHOP 상품 라인업",
+          "caption_ja": "商品ラインナップ",
+          "source": "https://geass.jp/news/archives/4730",
+          "img_fb": "gfb/b26e6d12e49c3ba6.webp",
+          "img_local": "img/b26e6d12e49c3ba6.webp"
+        },
+        {
+          "group": "구매 특전",
+          "img": "https://geass.jp/news/HX97NbHu/wp-content/uploads/2026/10/購入特典ポストカード色校正POP_1019.jpg",
+          "full": "https://geass.jp/news/HX97NbHu/wp-content/uploads/2026/10/購入特典ポストカード色校正POP_1019.jpg",
+          "caption_ko": "구매 특전 오리지널 포스트카드 (전 6종)",
+          "caption_ja": "購入特典 オリジナルポストカード(全6種)",
+          "price": "2,200엔(세금 포함) 구매마다 랜덤 1장",
+          "source": "https://geass.jp/news/archives/4730",
+          "img_fb": "gfb/adea0679f3dc39fd.webp",
+          "img_local": "img/adea0679f3dc39fd.webp"
+        }
+      ],
+      "gallery_source": "https://geass.jp/news/archives/4730",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "evidence": [
+        {
+          "url": "https://geass.jp/news/archives/4730",
+          "tier": "official",
+          "quote": "■開催期間：11月20日（金）～11月30日（月） ■営業時間：11:00～19:00※最終日のみ17:00 ■会場：渋谷モディ 1F カレンダリウム",
+          "checked": "2026-11-20"
+        },
+        {
+          "url": "https://bellfine.co.jp/blog/event/codegeass_popup-shop2026/",
+          "tier": "official",
+          "quote": "開催期間 2026年11月20日（金）～ 11月30日（月） 営業時間 11:00～19:00 ※最終日のみ17:00 ※店舗の営業時間とは異なります。 開催場所 渋谷モディ 1F カレンダリウム",
+          "checked": "2026-11-20"
+        }
+      ],
+      "checked_date": "2026-11-20",
+      "verified_at": "2026-11-20",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-20",
+      "lat": 35.6618,
+      "lon": 139.7007,
+      "thumb_small": "thumbs/e60f8014c0ea0f1a.webp",
+      "image_fb": "gfb/e60f8014c0ea0f1a.webp",
+      "image_local": "img/e60f8014c0ea0f1a.webp"
+    },
+    {
+      "id": "osaka-keroro-charapop-namco-umeda",
+      "title_ko": "케로로 중사☆ 캐릭터 팝 스토어 (namco 우메다점)",
+      "title_ja": "ケロロ軍曹☆キャラポップストア namco梅田店",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "namco 우메다점 (OS빌딩 3층)",
+      "start": "2026-11-28",
+      "end": "2026-12-20",
+      "reservation": "",
+      "price": "",
+      "official_url": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+      "source_url": "https://bandainamco-am.co.jp/chara_shop/keroro/",
+      "notes": "10:00~21:00 (최종 입장 20:30). 오리지널 굿즈와 미니게임. 혼잡하면 입장 제한이 있을 수 있어요. 이후 하카타(12/26~)·센다이 순회",
+      "map_query": "大阪府大阪市北区小松原町3-3 OSビル3F",
+      "thumbnail": "https://bandainamco-am.co.jp/images/chara_shop/keroro/news/krrCPS2_kvbanner.jpg",
+      "thumbnail_source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+      "summary_ko": "애니메이션 『케로로 중사☆』 방송 기념 캐릭터 팝 스토어 오사카 회장이에요. 오리지널 굿즈와 미니게임이 있고, 극장판 캐릭터 팝 스토어 굿즈도 들어와요.",
+      "summary_source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+      "gallery": [
+        {
+          "group": "오리지널 굿즈",
+          "img": "https://bandainamco-am.co.jp/images/chara_shop/keroro/news/krrCPS2_goodspos_A1_anime.jpg",
+          "full": "https://bandainamco-am.co.jp/images/chara_shop/keroro/news/krrCPS2_goodspos_A1_anime.jpg",
+          "caption_ko": "캐릭터 팝 스토어 오리지널 굿즈",
+          "caption_ja": "ケロロ軍曹キャラポップストア オリジナルグッズ",
+          "source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+          "img_fb": "gfb/a9491fd36c006ce5.webp",
+          "img_local": "img/a9491fd36c006ce5.webp"
+        }
+      ],
+      "gallery_source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+      "gallery_note": "이미지는 공식 페이지 이미지(실제와 다를 수 있음)",
+      "evidence": [
+        {
+          "url": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+          "tier": "official",
+          "quote": "namco梅田店： 2026年11月28日(土) ～ 2026年12月20日(日)",
+          "checked": "2026-11-20"
+        },
+        {
+          "url": "https://bandainamco-am.co.jp/chara_shop/keroro/",
+          "tier": "official",
+          "quote": "namco梅田店 開催期間 2026年11月28日(土) ～ 12月20日(日) 住所 〒530-0018 大阪府大阪市北区小松原町3-3 OSビル3F 営業時間 10:00～21:00 (最終入場20:30)",
+          "checked": "2026-11-20"
+        }
+      ],
+      "checked_date": "2026-11-20",
+      "verified_at": "2026-11-20",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-20",
+      "lat": 34.7026,
+      "lon": 135.5002,
+      "thumb_small": "thumbs/b19a342d092fc7c3.webp",
+      "image_fb": "gfb/b19a342d092fc7c3.webp",
+      "image_local": "img/b19a342d092fc7c3.webp"
+    },
+    {
+      "id": "fukuoka-keroro-charapop-crossstore",
+      "title_ko": "케로로 중사☆ 캐릭터 팝 스토어 (하카타)",
+      "title_ja": "ケロロ軍曹☆キャラポップストア バンダイナムコCross Store 博多",
+      "category": "팝업스토어",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "캐널시티 하카타 사우스빌딩 B1 반다이남코 Cross Store 하카타",
+      "start": "2026-12-26",
+      "end": "2027-01-17",
+      "reservation": "",
+      "price": "",
+      "official_url": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+      "source_url": "https://bandainamco-am.co.jp/chara_shop/keroro/",
+      "notes": "10:00~21:00 (미니게임은 10:00~19:30). 오리지널 굿즈와 미니게임. 연말연시 영업시간은 공식에 아직 안내 없음",
+      "map_query": "福岡県福岡市博多区住吉1-2 キャナルシティ博多 サウスビルB1F",
+      "thumbnail": "https://bandainamco-am.co.jp/images/chara_shop/keroro/news/krrCPS2_kvbanner.jpg",
+      "thumbnail_source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+      "summary_ko": "애니메이션 『케로로 중사☆』 방송 기념 캐릭터 팝 스토어 하카타 회장이에요. 오리지널 굿즈와 미니게임이 있고, 극장판 캐릭터 팝 스토어 굿즈도 들어와요.",
+      "summary_source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+      "gallery": [
+        {
+          "group": "오리지널 굿즈",
+          "img": "https://bandainamco-am.co.jp/images/chara_shop/keroro/news/krrCPS2_goodspos_A1_anime.jpg",
+          "full": "https://bandainamco-am.co.jp/images/chara_shop/keroro/news/krrCPS2_goodspos_A1_anime.jpg",
+          "caption_ko": "캐릭터 팝 스토어 오리지널 굿즈",
+          "caption_ja": "ケロロ軍曹キャラポップストア オリジナルグッズ",
+          "source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+          "img_fb": "gfb/a9491fd36c006ce5.webp",
+          "img_local": "img/a9491fd36c006ce5.webp"
+        }
+      ],
+      "gallery_source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+      "gallery_note": "이미지는 공식 페이지 이미지(실제와 다를 수 있음)",
+      "evidence": [
+        {
+          "url": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
+          "tier": "official",
+          "quote": "バンダイナムコCross Store 博多： 2026年12月26日(土) ～ 2027年1月17日(日)",
+          "checked": "2026-11-20"
+        },
+        {
+          "url": "https://bandainamco-am.co.jp/chara_shop/keroro/",
+          "tier": "official",
+          "quote": "バンダイナムコ Cross Store 博多 開催期間 2026年12月26日(土) ～ 2027年1月17日(日) 住所 〒812-0018 福岡県福岡市博多区住吉1-2 キャナルシティ博多 サウスビルB1F 営業時間 10:00～21:00 ※【ミニゲーム営業時間】10:00～19:30",
+          "checked": "2026-11-20"
+        }
+      ],
+      "checked_date": "2026-11-20",
+      "verified_at": "2026-11-20",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-20",
+      "lat": 33.5891,
+      "lon": 130.4102,
+      "thumb_small": "thumbs/b19a342d092fc7c3.webp",
+      "image_fb": "gfb/b19a342d092fc7c3.webp",
+      "image_local": "img/b19a342d092fc7c3.webp"
     }
   ]
 }

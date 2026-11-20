@@ -764,6 +764,28 @@
       "lat": 34.6631,
       "lon": 135.5044,
       "source": "https://bandainamco-am.co.jp/chara_shop/idolmaster/"
+    },
+    {
+      "keys": [
+        "namco梅田店",
+        "namco 우메다점",
+        "남코 우메다점"
+      ],
+      "address": "大阪府大阪市北区小松原町3-3 OSビル3F",
+      "lat": 34.7026,
+      "lon": 135.5002,
+      "source": "https://bandainamco-am.co.jp/chara_shop/keroro/"
+    },
+    {
+      "keys": [
+        "バンダイナムコ Cross Store 博多",
+        "バンダイナムコCross Store 博多",
+        "반다이남코 Cross Store 하카타"
+      ],
+      "address": "福岡県福岡市博多区住吉1-2 キャナルシティ博多 サウスビルB1F",
+      "lat": 33.5891,
+      "lon": 130.4102,
+      "source": "https://bandainamco-am.co.jp/chara_shop/keroro/"
     }
   ]
 }
