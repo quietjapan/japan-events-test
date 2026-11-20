@@ -688,6 +688,82 @@
       "source": "https://www.cocollabo.net/pages/symphogear-xv-2026",
       "lat": 33.59002,
       "lon": 130.39975
+    },
+    {
+      "keys": [
+        "池袋ロフト",
+        "이케부쿠로 로프트",
+        "LINKS IKEBUKURO"
+      ],
+      "address": "東京都豊島区南池袋1-28-1 LINKS IKEBUKURO",
+      "lat": 35.7271,
+      "lon": 139.7105,
+      "source": "https://www.loft.co.jp/shop_list/detail.php?shop_id=193"
+    },
+    {
+      "keys": [
+        "ジュンク堂書店 池袋本店",
+        "ジュンク堂書店池袋本店",
+        "준쿠도 서점 이케부쿠로 본점"
+      ],
+      "address": "東京都豊島区南池袋2-15-5",
+      "lat": 35.7269,
+      "lon": 139.7121,
+      "source": "https://event.sukiplus.com/bluearchive-maruzen2026"
+    },
+    {
+      "keys": [
+        "ギャラリーゼノン",
+        "GALLERY ZENON",
+        "갤러리 제논"
+      ],
+      "address": "東京都武蔵野市吉祥寺南町2-11-1",
+      "lat": 35.7035,
+      "lon": 139.5837,
+      "source": "https://gallery-zenon.jp/access/"
+    },
+    {
+      "keys": [
+        "福岡PARCO",
+        "후쿠오카 파르코",
+        "후쿠오카 PARCO"
+      ],
+      "address": "福岡県福岡市中央区天神2-11-1",
+      "lat": 33.5904,
+      "lon": 130.3989,
+      "source": "https://fukuoka.parco.jp/info/"
+    },
+    {
+      "keys": [
+        "MARUZEN&ジュンク堂書店 梅田店",
+        "チャスカ茶屋町",
+        "MARUZEN&준쿠도 서점 우메다점"
+      ],
+      "address": "大阪府大阪市北区茶屋町7-20 チャスカ茶屋町",
+      "lat": 34.7073,
+      "lon": 135.5003,
+      "source": "https://event.sukiplus.com/bluearchive-maruzen2026"
+    },
+    {
+      "keys": [
+        "あべのハルカス近鉄本店",
+        "COLLABO PARADISE あべのハルカス",
+        "아베노 하루카스"
+      ],
+      "address": "大阪府大阪市阿倍野区阿倍野筋1-1-43",
+      "lat": 34.6465,
+      "lon": 135.5133,
+      "source": "https://www.sweets-paradise.jp/shop/"
+    },
+    {
+      "keys": [
+        "アイドルマスター オフィシャルショップ 大阪日本橋店",
+        "아이돌마스터 오피셜숍 오사카 닛폰바시"
+      ],
+      "address": "大阪府大阪市浪速区難波中2-1-17 コスモビル1F",
+      "lat": 34.6631,
+      "lon": 135.5044,
+      "source": "https://bandainamco-am.co.jp/chara_shop/idolmaster/"
     }
   ]
 }

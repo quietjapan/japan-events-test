@@ -10563,7 +10563,12 @@
       "region": "tokyo",
       "lat": 35.699265,
       "lon": 139.770554,
-      "added": "2026-10-19"
+      "added": "2026-10-19",
+      "thumbnail": "https://www.medicos-e.net/wp-content/uploads/2026/10/23699307f37bdf098e347c7fd0e2da90-724x1024.jpg",
+      "thumbnail_source": "https://www.medicos-e.net/newsdetail/ga20th/",
+      "thumb_small": "thumbs/412ec5a228bb0eb9.webp",
+      "image_fb": "gfb/412ec5a228bb0eb9.webp",
+      "image_local": "img/412ec5a228bb0eb9.webp"
     },
     {
       "reservation": "",
@@ -10793,7 +10798,12 @@
       "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)",
       "lat": 34.7047,
       "lon": 135.4959,
-      "added": "2026-10-22"
+      "added": "2026-10-22",
+      "thumbnail": "https://news.pierrot.jp/wp-content/uploads/2026/06/NARUTO_N72s2026_banner-5.jpg",
+      "thumbnail_source": "https://news.pierrot.jp/konoha-market2026/",
+      "thumb_small": "thumbs/818449b12df18c5d.webp",
+      "image_fb": "gfb/818449b12df18c5d.webp",
+      "image_local": "img/818449b12df18c5d.webp"
     },
     {
       "id": "osaka-nijisanji-en-welcome-home-boys",
@@ -26121,7 +26131,12 @@
       ],
       "added": "2026-10-31",
       "lat": 34.6451,
-      "lon": 135.5137
+      "lon": 135.5137,
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0640/4561/3268/files/mayonaka_26_1_ts-main_770_590.jpg?v=1790677648",
+      "thumbnail_source": "https://www.cocollabo.net/pages/mayochu",
+      "thumb_small": "thumbs/adebc379da7e9273.webp",
+      "image_fb": "gfb/adebc379da7e9273.webp",
+      "image_local": "img/adebc379da7e9273.webp"
     },
     {
       "source_url": "https://www.the-chara.com/blog/?p=121605",
@@ -26419,7 +26434,12 @@
       ],
       "lat": 35.7096,
       "lon": 139.6549,
-      "title_ko_source": "한국 정식 출간·방영 제목"
+      "title_ko_source": "한국 정식 출간·방영 제목",
+      "thumbnail": "https://www.ufotable.co.jp/cafe/wp-content/uploads/2026/10/lm_musundaenishi_mr2-1.webp",
+      "thumbnail_source": "https://www.ufotable.co.jp/cafe/menu/kimetu",
+      "thumb_small": "thumbs/0bc592499ee28528.webp",
+      "image_fb": "gfb/0bc592499ee28528.webp",
+      "image_local": "img/0bc592499ee28528.webp"
     },
     {
       "reservation": "사전 예약제 (LivePocket 1차 추첨: 매주 수 18시~목 24시)",
@@ -26459,7 +26479,12 @@
       ],
       "lat": 34.6611,
       "lon": 135.5075,
-      "title_ko_source": "한국 정식 출간·방영 제목"
+      "title_ko_source": "한국 정식 출간·방영 제목",
+      "thumbnail": "https://www.ufotable.co.jp/cafe/wp-content/uploads/2026/10/lm_musundaenishi_mr2-1.webp",
+      "thumbnail_source": "https://www.ufotable.co.jp/cafe/menu/kimetu",
+      "thumb_small": "thumbs/0bc592499ee28528.webp",
+      "image_fb": "gfb/0bc592499ee28528.webp",
+      "image_local": "img/0bc592499ee28528.webp"
     },
     {
       "reservation": "불필요",
@@ -27554,7 +27579,7 @@
       "notes": "영업 월~토 10:00~21:00 / 일·공휴 10:00~20:00 (최종일 18:00). 플라워숍 테마 신규 일러스트 굿즈. 오사카(우메다 로프트)는 2027/1/23~2/7",
       "official_url": "https://www.cocollabo.net/pages/kinpri-2026",
       "source_url": "https://www.loft.co.jp/shop_list/info.php?info_id=717881&shop_id=193",
-      "map_query": "池袋ロフト",
+      "map_query": "東京都豊島区南池袋1-28-1 LINKS IKEBUKURO",
       "summary_ko": "「KING OF PRISM」 로프트 팝업이에요. 플라워숍 테마 신규 일러스트 굿즈와 구매 특전 브로마이드가 있어요.",
       "summary_source": "https://www.cocollabo.net/pages/kinpri-2026",
       "thumbnail": "https://www.cocollabo.net/cdn/shop/files/kinpri_26_1_novelty.jpg?v=10206380725164869751",
@@ -27581,7 +27606,9 @@
       ],
       "thumb_small": "thumbs/b023d7b9c177fe64.webp",
       "image_fb": "gfb/b023d7b9c177fe64.webp",
-      "image_local": "img/b023d7b9c177fe64.webp"
+      "image_local": "img/b023d7b9c177fe64.webp",
+      "lat": 35.7271,
+      "lon": 139.7105
     },
     {
       "checked_date": "2026-11-06",
@@ -31448,7 +31475,7 @@
       "notes": "10:00~22:00 (12/31 19:00, 1/2·3 21:00 폐장). 1/1 휴무. 공식 회기 표기는 여전히 「2026年11月13日(金)～2026年1月3日(日)」이나, 같은 공식 페이지 JSON-LD의 endDate가 2027-01-03이고 1/1(金・祝)·1/3(日) 요일도 2027년과 일치해 종료일 2027-01-03을 유지. 공식에 入場無料 표기.",
       "official_url": "https://s.mxtv.jp/event/HiranoKohtaExpo/",
       "source_url": "https://s.mxtv.jp/event/HiranoKohtaExpo/",
-      "map_query": "ジュンク堂書店 池袋本店",
+      "map_query": "東京都豊島区南池袋2-15-5",
       "summary_ko": "『헬싱』·『드리프터즈』의 만화가 히라노 코우타 전시 「대박람회」의 굿즈 팝업이에요. 이케부쿠로 준쿠도 1층에서 열려요.",
       "thumbnail": "https://s.mxtv.jp/event/HiranoKohtaExpo/img/ogp_HiranoKohtaExpo_popupIkebukuro.jpg",
       "evidence": [
@@ -31470,7 +31497,9 @@
       "thumbnail_source": "https://s.mxtv.jp/event/HiranoKohtaExpo/",
       "thumb_small": "thumbs/2d501b6f8dfeaad6.webp",
       "image_fb": "gfb/2d501b6f8dfeaad6.webp",
-      "image_local": "img/2d501b6f8dfeaad6.webp"
+      "image_local": "img/2d501b6f8dfeaad6.webp",
+      "lat": 35.7269,
+      "lon": 139.7121
     },
     {
       "checked_date": "2026-11-13",
@@ -31529,7 +31558,7 @@
       "notes": "11:00~18:00 (최종 입장·카페 L.O. 17:30), 화요일 휴관. 전기 12/5~14 · 후기 12/16~27 (일부 전시 교체).",
       "official_url": "https://sugushinu10th.fundom-event.com/",
       "source_url": "https://sugushinu10th.fundom-event.com/",
-      "map_query": "ギャラリーゼノン 吉祥寺",
+      "map_query": "東京都武蔵野市吉祥寺南町2-11-1",
       "summary_ko": "『흡혈귀는 툭하면 죽는다』 연재 10주년 순회전의 도쿄 피날레예요. 복제 원고·제작 원지·입체물을 전시해요.",
       "thumbnail": "https://sugushinu10th.fundom-event.com/wp-content/uploads/sites/7/2026/02/94ten_KV_web_top_w1920_h1080px.png",
       "evidence": [
@@ -31545,7 +31574,9 @@
       "thumbnail_source": "https://sugushinu10th.fundom-event.com/",
       "title_ko_source": "한국 정식 출간 제목",
       "thumb_small": "thumbs/6b5b07e76b2f21f2.webp",
-      "image_local": "img/6b5b07e76b2f21f2.webp"
+      "image_local": "img/6b5b07e76b2f21f2.webp",
+      "lat": 35.7035,
+      "lon": 139.5837
     },
     {
       "checked_date": "2026-11-13",
@@ -31953,7 +31984,10 @@
       "added": "2026-11-13",
       "thumb_small": "thumbs/637e30304837d2a7.webp",
       "image_fb": "gfb/637e30304837d2a7.webp",
-      "image_local": "img/637e30304837d2a7.webp"
+      "image_local": "img/637e30304837d2a7.webp",
+      "map_query": "福岡県福岡市中央区天神2-11-1",
+      "lat": 33.5904,
+      "lon": 130.3989
     },
     {
       "title_ko": "바람의 백원신 출판 기념전 (유라쿠초 마루이)",
@@ -34909,7 +34943,7 @@
       "area": "도쿄",
       "region": "tokyo",
       "venue": "준쿠도 서점 이케부쿠로 본점",
-      "map_query": "ジュンク堂書店 池袋本店",
+      "map_query": "東京都豊島区南池袋2-15-5",
       "start": "2026-12-02",
       "end": "2026-12-31",
       "notes": "콜라보 굿즈 3,300엔(세금 포함)마다 특전 포스트카드(전 9종 랜덤) 1장. 온라인 판매 12/2~2027/1/31. 매진 공지: SUKI+PLUS 공식 X(@DeNA_goods_info)",
@@ -34935,7 +34969,9 @@
       "lead_source": "collabo-cafe.com 대조",
       "thumb_small": "thumbs/5c0e9754c5fd2fe8.webp",
       "image_fb": "gfb/5c0e9754c5fd2fe8.webp",
-      "image_local": "img/5c0e9754c5fd2fe8.webp"
+      "image_local": "img/5c0e9754c5fd2fe8.webp",
+      "lat": 35.7269,
+      "lon": 139.7121
     },
     {
       "checked_date": "2026-11-20",
@@ -34947,7 +34983,7 @@
       "area": "오사카",
       "region": "osaka",
       "venue": "MARUZEN&준쿠도 서점 우메다점 (차야마치 챠스카)",
-      "map_query": "MARUZEN&ジュンク堂書店 梅田店",
+      "map_query": "大阪府大阪市北区茶屋町7-20 チャスカ茶屋町",
       "start": "2026-12-02",
       "end": "2026-12-27",
       "notes": "콜라보 굿즈 3,300엔(세금 포함)마다 특전 포스트카드(전 9종 랜덤) 1장. 온라인 판매 12/2~2027/1/31. 매진 공지: SUKI+PLUS 공식 X(@DeNA_goods_info)",
@@ -34973,7 +35009,9 @@
       "lead_source": "collabo-cafe.com 대조",
       "thumb_small": "thumbs/5c0e9754c5fd2fe8.webp",
       "image_fb": "gfb/5c0e9754c5fd2fe8.webp",
-      "image_local": "img/5c0e9754c5fd2fe8.webp"
+      "image_local": "img/5c0e9754c5fd2fe8.webp",
+      "lat": 34.7073,
+      "lon": 135.5003
     },
     {
       "checked_date": "2026-11-20",
@@ -35025,7 +35063,7 @@
       "area": "오사카",
       "region": "osaka",
       "venue": "COLLABO PARADISE 아베노 하루카스점 (긴테쓰 본점 윙관 6F)",
-      "map_query": "あべのハルカス近鉄本店 ウイング館",
+      "map_query": "大阪府大阪市阿倍野区阿倍野筋1-1-43",
       "notes": "드링크 전반 11/26~12/11 · 후반 12/12~12/27(캐릭터 교체). 나고야 PARCO점도 같은 기간.",
       "category": "콜라보카페",
       "title_ja": "『名探偵プリキュア！』 COLLABORATION CAFE",
@@ -35051,7 +35089,9 @@
       "lead_source": "collabo-cafe.com 대조",
       "thumb_small": "thumbs/a01d263163aeceb9.webp",
       "image_fb": "gfb/a01d263163aeceb9.webp",
-      "image_local": "img/a01d263163aeceb9.webp"
+      "image_local": "img/a01d263163aeceb9.webp",
+      "lat": 34.6465,
+      "lon": 135.5133
     },
     {
       "checked_date": "2026-11-20",
@@ -35103,7 +35143,7 @@
       "area": "오사카",
       "region": "osaka",
       "venue": "아이돌마스터 오피셜숍 오사카 닛폰바시점",
-      "map_query": "アイドルマスター オフィシャルショップ 大阪日本橋店",
+      "map_query": "大阪府大阪市浪速区難波中2-1-17 コスモビル1F",
       "category": "팝업스토어",
       "title_ja": "「学園アイドルマスター」ポップアップストア 2026 ～Gearbeat Concerto～",
       "title_ko_source": "한국 통용 표기 (『학원 아이돌마스터』)",
@@ -35129,7 +35169,9 @@
       "notes": "각 상품 1회 계산 3점까지(트레이딩은 3BOX 또는 종류 수×3). 센다이·나고야역앞점도 같은 기간. 점포 목록: https://bandainamco-am.co.jp/chara_shop/idolmaster/#contents-shoplist",
       "thumb_small": "thumbs/25621b69633468bc.webp",
       "image_fb": "gfb/25621b69633468bc.webp",
-      "image_local": "img/25621b69633468bc.webp"
+      "image_local": "img/25621b69633468bc.webp",
+      "lat": 34.6631,
+      "lon": 135.5044
     },
     {
       "checked_date": "2026-11-20",
