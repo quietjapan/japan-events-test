@@ -16,6 +16,7 @@ const BMK="qj_bm";let BM=new Set();try{BM=new Set(JSON.parse(localStorage.getIte
 const saveBM=()=>{try{localStorage.setItem(BMK,JSON.stringify([...BM]))}catch(e){}};let EV=[];
 const tokyoYMD=(d=new Date())=>{const p=new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Tokyo",year:"numeric",month:"2-digit",day:"2-digit"}).formatToParts(d);const g=t=>p.find(x=>x.type===t).value;return`${g("year")}-${g("month")}-${g("day")}`};
 const today=(()=>{const[y,m,d]=tokyoYMD().split("-").map(Number);return new Date(y,m-1,d)})();window.QJ_TODAY=today;
+/* 딥링크 ?item=<id>: 첫 render()의 syncURL()이 item을 지우기 전에 미리 읽어 둠 */const WANT0=(()=>{try{return new URLSearchParams(location.search).get("item")}catch(e){return null}})();
 const pd=s=>{if(!s)return null;const[y,m,d]=s.split("-").map(Number);return new Date(y,m-1,d)};
 const fmt=s=>{const d=pd(s);if(!d)return"";return `${d.getMonth()+1}/${d.getDate()}(${"일월화수목금토"[d.getDay()]})`};
 function status(e){const s=pd(e.start),en=pd(e.end);
@@ -198,7 +199,7 @@ function setUpdateLabel(last){
   {const qi=document.getElementById("q");qi.value=st.q;qi.oninput=e=>{st.q=e.target.value;render()};window.QJ_setQ=v=>{qi.value=v;st.q=v;render()};window.QJ_EV=()=>EV.filter(inRegion)}
   const tg=document.getElementById("status");tg.onclick=ev=>{const b=ev.target.closest("button");if(!b)return;st.s=b.dataset.s;tg.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));render()};
   render();
-  const want=new URLSearchParams(location.search).get("item");
+  const want=WANT0;
   if(want){try{history.replaceState(null,"",baseURL()+location.hash)}catch(x){}
     {const raw0=EV.find(c=>itemId(c)===want);if(raw0){const r0=regionOf(raw0);if(r0!=="all"&&r0!==st.region&&window.setRegion)setRegion(r0,{persist:false})}}
     let e=CARDS.find(c=>itemId(c)===want)||CARDS.find(c=>(c._dates||[]).some(d=>itemId(d)===want));
