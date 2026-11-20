@@ -1,38 +1,6 @@
 {
   "events": [
     {
-      "title_ko": "하나조노 신사 도리노이치 (대유제)",
-      "title_ja": "花園神社 大酉祭（酉の市）",
-      "category": "축제",
-      "area": "도쿄",
-      "venue": "하나조노 신사 (신주쿠)",
-      "start": "2026-11-06",
-      "end": "2026-11-19",
-      "reservation": "불필요",
-      "price": "무료",
-      "official_url": "http://hanazono-jinja.or.jp/",
-      "source_url": "https://japan-event.info/ja/articles/hanazono-shrine-tori-no-ichi-2026",
-      "notes": "이치노토리 11/6 전야제·11/7 본제, 니노토리 11/18 전야제·11/19 본제 / 11/07 재확인: 신사 공식 사이트 HTTP 오류·본문 미취득. 신주쿠관광진흥협회·엔조이도쿄에 일정 있으나 공식 원문 미확인 → 보류 유지",
-      "checked_date": "2026-11-17",
-      "map_query": "東京都新宿区新宿5-17-3",
-      "evidence": [
-        {
-          "url": "https://japan-event.info/ja/articles/hanazono-shrine-tori-no-ichi-2026",
-          "tier": "aggregator",
-          "quote": "を添えて掲載しています。 SUMMARY 開催概要 Official ✓ 日時 2026年11月6日(金) 15:00 JST – 2026/11/19 会場 花園神社(新宿) 東京都新宿区新宿5-17-3 料金 — 主催 H",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "aggregator",
-      "verified_at": "2026-10-15",
-      "pending_reason": "신사 공식 사이트 HTTP 500으로 원문 재취득 실패, 보류 유지 (2026-11-17)",
-      "thumbnail": "https://pub-0f4e7c05fe4645118224685565717085.r2.dev/event/4cf2b75f0c55efea.jpg",
-      "thumbnail_source": "https://japan-event.info/ja/articles/hanazono-shrine-tori-no-ichi-2026",
-      "translation_check": true,
-      "lat": 35.69336,
-      "lon": 139.70621
-    },
-    {
       "title_ko": "하나조노 신사 아오조라 골동시장",
       "title_ja": "花園神社 青空骨董市",
       "category": "플리마켓",
@@ -578,6 +546,55 @@
       ],
       "lat": 34.66868,
       "lon": 135.5014
+    },
+    {
+      "category": "팝업스토어",
+      "title_ja": "TVアニメ「終わりのセラフ」POP UP SHOP in マルイ",
+      "title_ko_source": "한국 정식 출간·방영 제목 (『종말의 세라프』)",
+      "reservation": "불필요 (혼잡 시 정리권 등 입장 제한 가능, 마루이 이벤트 페이지·@marui_limited_a 확인)",
+      "price": "공식 안내 확인 (2,000엔마다 특전 미니카드 1장)",
+      "official_url": "https://www.medicos-e.net/newsdetail/owarino-seraph_marui/",
+      "source_url": "https://www.medicos-e.net/newsdetail/owarino-seraph_marui/",
+      "summary_source": "https://www.medicos-e.net/newsdetail/owarino-seraph_marui/",
+      "summary_ko": "『종말의 세라프』 「드레스업」 테마 신규 그림 굿즈를 파는 팝업이에요. 같은 일러스트 등신대 패널 전시와 특전 미니카드(전 15종)가 있어요.",
+      "thumbnail": "https://www.medicos-e.net/wp-content/uploads/2026/10/551a899aa3c9bbcd987f7b622334a586-1.jpg",
+      "thumbnail_source": "https://www.medicos-e.net/newsdetail/owarino-seraph_marui/",
+      "lead_source": "collabo-cafe.com 대조",
+      "id": "osaka-owarinoseraph-dressup-popup-namba-marui",
+      "title_ko": "종말의 세라프 POP UP SHOP in 마루이 (난바 마루이)",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "난바 마루이 5F 이벤트 스페이스",
+      "map_query": "大阪府大阪市中央区難波3-8-9",
+      "start": "2027-01-04",
+      "end": "2027-01-11",
+      "checked_date": "2026-11-20",
+      "evidence": [
+        {
+          "url": "https://www.medicos-e.net/newsdetail/owarino-seraph_marui/",
+          "tier": "official",
+          "quote": "≪大阪会場≫ 【開催期間】2027年1月4日（月）~2027年1月11日（月・祝） 【開催場所】なんばマルイ 5F イベントスペース",
+          "checked": "2026-11-20"
+        }
+      ],
+      "pending_reason": "2027년 1월 이후 시작 회기(공식 확인 완료, 시기 되면 게시) (2026-11-20)",
+      "lat": 34.6655,
+      "lon": 135.5008
+    },
+    {
+      "id": "osaka-hololive-shishiwata-cooking-cafe-shinsaibashi",
+      "title_ko": "홀로라이브 시시와타 쿠킹 콜라보 카페 (SMILE BASE CAFE 신사이바시)",
+      "title_ja": "ししわたクッキング Collaboration Cafe in SMILE BASE CAFE",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "SMILE BASE CAFE 신사이바시점",
+      "start": "2026-12-26",
+      "end": "2027-01-21",
+      "official_url": "https://smilebase.co.jp/event/13479/",
+      "source_url": "https://smilebase.co.jp/event/13479/",
+      "checked_date": "2026-11-20",
+      "pending_reason": "공식 SMILE BASE CAFE 페이지 본문에 점포별 기간 텍스트 없음(기사·이미지로만 확인), 보류 (2026-11-20). 이케부쿠로점 2027/1/27~2/15"
     }
   ],
   "base_date": "2026-11-19"
