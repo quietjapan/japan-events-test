@@ -3,7 +3,7 @@
 var box=document.getElementById("picks"),ul=document.getElementById("pklist");if(!box||!ul)return;
 function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
 var now=new Date(Date.now()+9*36e5).toISOString().slice(0,10);
-Promise.all([fetch("data/picks.json",{cache:"no-store"}).then(function(r){return r.json()}),fetch("events.json").then(function(r){return r.json()})]).then(function(a){
+Promise.all([fetch("data/picks.json",{cache:"no-store"}).then(function(r){return r.json()}),(window.QJ_DATA||fetch("events.json").then(function(r){return r.json()}))]).then(function(a){
   var ev=a[1].events||[];
   var rows=(a[0].picks||[]).map(function(p){var e=ev.find(function(x){return x.id===p.match||x.title_ko===p.match});return e?{p:p,e:e}:null})
     .filter(function(r){return r&&!(r.e.end&&r.e.end<now)});

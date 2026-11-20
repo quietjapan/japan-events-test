@@ -8931,7 +8931,9 @@
       "summary_ko": "「걸즈 밴드 크라이」 무료 기획전이에요. 등신대 아크릴 스탠드, 작중 장면 재현 코너, 역대 라이브 포스터·CD 전시, 니나 포토 스폿, AR 체험이 있어요.",
       "region": "tokyo",
       "added": "2026-10-21",
-      "image_local": "img/a8f35153fe64c9c8.webp"
+      "image_local": "img/a8f35153fe64c9c8.webp",
+      "ny_hours": "12/28~1/4 휴관",
+      "ny_hours_source": "https://animetokyo.jp/archives/events/events90/"
     },
     {
       "title_ko": "超 다마고치 축제 in 시부하라",
@@ -11306,7 +11308,7 @@
       "price": "예약 캐릭터 패널석 600엔·일반석 400엔/인 (세금 포함, 300엔 식사 쿠폰·런천 매트 포함)",
       "official_url": "https://www.medicos-e.net/newsdetail/saikikusuo_cafe/",
       "source_url": "https://www.medicos-e.net/newsdetail/saikikusuo_cafe/",
-      "notes": "12/31~1/3 연말연시 휴무. 90분 입れ替え제(11:00~20:00, 5부). 전기 12/9~24 · 후기 12/25~1/11 메뉴 일부 변경. 굿즈는 당일 카페 이용객만 구매 가능",
+      "notes": "12/30~1/3 연말연시 휴업. 90분 입れ替え제(11:00~20:00, 5부). 전기 12/9~24 · 후기 12/25~1/11 메뉴 일부 변경. 굿즈는 당일 카페 이용객만 구매 가능",
       "map_query": "CAFE EPIC TALE 大阪 日本橋",
       "thumbnail": "https://www.medicos-e.net/wp-content/uploads/2026/10/261c930a385640b332158bdecac67863-1024x724.jpg",
       "thumbnail_source": "https://www.medicos-e.net/newsdetail/saikikusuo_cafe/",
@@ -11425,7 +11427,9 @@
       "image_local": "img/677b5561c759579c.webp",
       "lat": 34.661209,
       "lon": 135.50621,
-      "added": "2026-10-22"
+      "added": "2026-10-22",
+      "ny_hours": "12/30~1/3 연말연시 휴업",
+      "ny_hours_source": "https://www.medicos-e.net/newsdetail/saikikusuo_cafe/"
     },
     {
       "id": "osaka-saezuru-collab-cafe",
@@ -14681,7 +14685,9 @@
       "image_local": "img/0ee79b928b4098e8.webp",
       "lat": 35.6922,
       "lon": 139.6922,
-      "added": "2026-10-24"
+      "added": "2026-10-24",
+      "ny_hours": "1/1 휴업",
+      "ny_hours_source": "https://jujutsuten.com/shinjuku/"
     },
     {
       "source_tier": "official",
@@ -14781,7 +14787,9 @@
         }
       ],
       "gallery_source": "https://horimiya.motto-cafe.com/",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "ny_hours": "12/30~1/4 연말연시 휴업",
+      "ny_hours_source": "https://horimiya.motto-cafe.com/"
     },
     {
       "source_tier": "official",
@@ -19080,7 +19088,9 @@
       "thumb_small": "thumbs/52cd3cc071e49467.webp",
       "image_local": "img/52cd3cc071e49467.webp",
       "image_fb": "gfb/52cd3cc071e49467.webp",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "ny_hours": "연말연시도 쉬지 않고 개최 · 1/1만 13:00 개장",
+      "ny_hours_source": "https://uketsu.jp/museum/"
     },
     {
       "reservation": "",
@@ -21454,7 +21464,9 @@
       "lon": 135.6389,
       "thumb_small": "thumbs/8739fe86f40e5f8f.webp",
       "image_local": "img/8739fe86f40e5f8f.webp",
-      "added": "2026-10-26"
+      "added": "2026-10-26",
+      "ny_hours": "1/1 휴업",
+      "ny_hours_source": "https://ao-eva.exhibit.jp/outline/osaka/"
     },
     {
       "reservation": "",
@@ -28248,7 +28260,9 @@
       "lon": 139.706,
       "thumb_small": "thumbs/16cdfc6d48dc2dc6.webp",
       "image_fb": "gfb/16cdfc6d48dc2dc6.webp",
-      "image_local": "img/16cdfc6d48dc2dc6.webp"
+      "image_local": "img/16cdfc6d48dc2dc6.webp",
+      "ny_hours": "12/31~1/3 휴무",
+      "ny_hours_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/"
     },
     {
       "title_ja": "日向坂46 CAFE 2026",
@@ -28329,7 +28343,9 @@
       "lon": 139.706,
       "thumb_small": "thumbs/16cdfc6d48dc2dc6.webp",
       "image_fb": "gfb/16cdfc6d48dc2dc6.webp",
-      "image_local": "img/16cdfc6d48dc2dc6.webp"
+      "image_local": "img/16cdfc6d48dc2dc6.webp",
+      "ny_hours": "1/1~3 휴무",
+      "ny_hours_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/"
     },
     {
       "title_ja": "日向坂46 CAFE 2026",
@@ -28410,7 +28426,9 @@
       "lon": 135.5137,
       "thumb_small": "thumbs/16cdfc6d48dc2dc6.webp",
       "image_fb": "gfb/16cdfc6d48dc2dc6.webp",
-      "image_local": "img/16cdfc6d48dc2dc6.webp"
+      "image_local": "img/16cdfc6d48dc2dc6.webp",
+      "ny_hours": "1/1·2 휴무",
+      "ny_hours_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/"
     },
     {
       "title_ja": "日向坂46 CAFE 2026",
@@ -28491,7 +28509,9 @@
       "lon": 130.3935,
       "thumb_small": "thumbs/16cdfc6d48dc2dc6.webp",
       "image_fb": "gfb/16cdfc6d48dc2dc6.webp",
-      "image_local": "img/16cdfc6d48dc2dc6.webp"
+      "image_local": "img/16cdfc6d48dc2dc6.webp",
+      "ny_hours": "12/31~1/2 휴무",
+      "ny_hours_source": "https://spacetimes.co.jp/hinatazaka46_cafe2026/"
     },
     {
       "id": "all-gacha-sanrio-holiday-ornament",
@@ -29157,7 +29177,9 @@
       "lon": 135.5142,
       "thumb_small": "thumbs/f2455bfa71fdc279.webp",
       "image_fb": "gfb/f2455bfa71fdc279.webp",
-      "image_local": "img/f2455bfa71fdc279.webp"
+      "image_local": "img/f2455bfa71fdc279.webp",
+      "ny_hours": "12/31·1/1 휴관",
+      "ny_hours_source": "https://prtimes.jp/main/html/rd/p/000000630.000053064.html"
     },
     {
       "reservation": "불필요",
@@ -31499,7 +31521,9 @@
       "image_fb": "gfb/2d501b6f8dfeaad6.webp",
       "image_local": "img/2d501b6f8dfeaad6.webp",
       "lat": 35.7269,
-      "lon": 139.7121
+      "lon": 139.7121,
+      "ny_hours": "12/31 19:00 폐장 · 1/1 휴무 · 1/2·3 21:00 폐장",
+      "ny_hours_source": "https://s.mxtv.jp/event/HiranoKohtaExpo/"
     },
     {
       "checked_date": "2026-11-13",
@@ -31615,7 +31639,9 @@
       "lat": 34.6638,
       "lon": 135.5009,
       "thumb_small": "thumbs/7bec40d44b6bbaf7.webp",
-      "image_local": "img/7bec40d44b6bbaf7.webp"
+      "image_local": "img/7bec40d44b6bbaf7.webp",
+      "ny_hours": "1/1 휴관",
+      "ny_hours_source": "https://www.tv-osaka.co.jp/event/gacha/"
     },
     {
       "checked_date": "2026-11-13",
@@ -31654,7 +31680,9 @@
       "lat": 34.7027,
       "lon": 135.4984,
       "thumb_small": "thumbs/e9d33a3e24ee32d3.webp",
-      "image_local": "img/e9d33a3e24ee32d3.webp"
+      "image_local": "img/e9d33a3e24ee32d3.webp",
+      "ny_hours": "12/31 18:00 종료 · 1/1·2 휴업 · 1/3 19:00 종료",
+      "ny_hours_source": "https://website.hankyu-dept.co.jp/honten/h/gallery_fullmetalalchemist/"
     },
     {
       "checked_date": "2026-11-13",
@@ -31862,7 +31890,9 @@
       "lon": 135.5008,
       "thumb_small": "thumbs/887482a69977aad6.webp",
       "image_fb": "gfb/887482a69977aad6.webp",
-      "image_local": "img/887482a69977aad6.webp"
+      "image_local": "img/887482a69977aad6.webp",
+      "ny_hours": "12/31~1/3 휴업",
+      "ny_hours_source": "https://www.0101.co.jp/085/event/detail.html?article_seq=144529&article_type=sto"
     },
     {
       "checked_date": "2026-11-13",
@@ -32615,7 +32645,9 @@
       "lon": 139.771683,
       "thumb_small": "thumbs/4a8ff56e6cb5e81b.webp",
       "image_fb": "gfb/4a8ff56e6cb5e81b.webp",
-      "image_local": "img/4a8ff56e6cb5e81b.webp"
+      "image_local": "img/4a8ff56e6cb5e81b.webp",
+      "ny_hours": "연말연시 영업시간은 매장에 확인",
+      "ny_hours_source": "https://prtimes.jp/main/html/rd/p/000000642.000080650.html"
     },
     {
       "reservation": "불필요",
@@ -32655,7 +32687,9 @@
       "lon": 135.5015,
       "thumb_small": "thumbs/4a8ff56e6cb5e81b.webp",
       "image_fb": "gfb/4a8ff56e6cb5e81b.webp",
-      "image_local": "img/4a8ff56e6cb5e81b.webp"
+      "image_local": "img/4a8ff56e6cb5e81b.webp",
+      "ny_hours": "연말연시 영업시간은 매장에 확인",
+      "ny_hours_source": "https://prtimes.jp/main/html/rd/p/000000642.000080650.html"
     },
     {
       "reservation": "불필요",
@@ -33652,7 +33686,9 @@
       "lon": 139.7007,
       "thumb_small": "thumbs/4d88d387de66bbf9.webp",
       "image_fb": "gfb/4d88d387de66bbf9.webp",
-      "image_local": "img/4d88d387de66bbf9.webp"
+      "image_local": "img/4d88d387de66bbf9.webp",
+      "ny_hours": "12/31 10:00~17:00 · 1/1 휴무 · 1/2·3 11:00~20:00 · 1/4부터 통상",
+      "ny_hours_source": "https://prtimes.jp/main/html/rd/p/000020619.000007006.html"
     },
     {
       "reservation": "선택 (첫날·혼잡 시 입장 정리권 가능성)",

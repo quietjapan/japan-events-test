@@ -1,6 +1,6 @@
 const CATS=["팝업스토어","콜라보카페","전시·행사","축제","가챠","쿠지","플리마켓","잡지 부록"];
 const STOCK=new Set(["가챠","쿠지"]);const SHOP=new Set(["팝업스토어","콜라보카페","쿠지","가챠","잡지 부록"]);
-const hasGal=e=>!!(e.gallery&&e.gallery.length);const hasDetail=e=>!!e;const MAG="잡지 부록";const MAG_DAYS=35;
+const hasGal=e=>!!((e.gallery&&e.gallery.length)||e.gn);/* gn·gk: events-lite.json의 갤러리 수·파일 키(본문은 자세히 열 때 gal/<gk>.json) */const hasDetail=e=>!!e;const MAG="잡지 부록";const MAG_DAYS=35;
 const CATCLS={"팝업스토어":"c-pop","콜라보카페":"c-cafe","전시·행사":"c-expo","축제":"c-fest","가챠":"c-gacha","쿠지":"c-kuji","플리마켓":"c-flea","잡지 부록":"c-mag"};
 const GEN={"콜라보카페":"cafe","팝업스토어":"pop","전시·행사":"expo","쿠지":"kuji","가챠":"kuji","잡지 부록":"mag","축제":"fest","플리마켓":"flea"};const GENL=[["cafe","☕ 콜라보카페"],["pop","🛍️ 팝업"],["expo","🖼️ 원화전·전시"],["fest","🎪 축제"],["flea","🧺 플리마켓"],["kuji","🎟️ 쿠지·가챠"],["mag","📚 잡지 부록"]];window.QJ_GEN=GEN;
 const st={g:new Set(),qd:"all",cat:"",area:"",q:"",s:"all",from:"",to:"",bm:false,region:"tokyo",tg:new Set()};
@@ -85,7 +85,7 @@ const md=s=>{const d=pd(s);return `${d.getMonth()+1}/${d.getDate()}`};
 const mdList=a=>{let pm=null;return a.map(s=>{const d=pd(s),m=d.getMonth()+1;const t=pm===m?`${d.getDate()}`:`${m}/${d.getDate()}`;pm=m;return t}).join("·")};
 function seriesUnit(rem){const nx=rem[0],last=rem[rem.length-1];
   const any=f=>(rem.find(e=>e[f]&&(!Array.isArray(e[f])||e[f].length))||{})[f];
-  const v=Object.assign({},nx,{_dates:rem,start:nx.start,end:last.end||last.start,date_label:null,blog_url:nx.blog_url||any("blog_url"),gallery:hasGal(nx)?nx.gallery:(any("gallery")||nx.gallery),thumbnail:nx.thumbnail||any("thumbnail")});
+  const v=Object.assign({},nx,{_dates:rem,start:nx.start,end:last.end||last.start,date_label:null,blog_url:nx.blog_url||any("blog_url"),gallery:hasGal(nx)?nx.gallery:(any("gallery")||nx.gallery),gk:hasGal(nx)?nx.gk:(any("gk")||nx.gk),gn:hasGal(nx)?nx.gn:(any("gn")||nx.gn),thumbnail:nx.thumbnail||any("thumbnail")});
   if(v.thumbnail&&!nx.thumbnail){const t=rem.find(e=>e.thumbnail);v.thumbnail_source=t.thumbnail_source;v.thumb_pos=t.thumb_pos;v.image_local=t.image_local;v.image_hd=t.image_hd;v.image_fb=t.image_fb}
   const s=pd(nx.start),en=pd(nx.end||nx.start);let x;
   if(s<=today&&today<=en)x={k:"now",t:"오늘 개최"};else{const n=Math.round((s-today)/864e5);x={k:"soon",t:n===1?"다음 개최 내일":`다음 개최 D-${n}`}}
@@ -169,7 +169,7 @@ function setUpdateLabel(last){
   el.hidden=false;
 }
 
-fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
+(window.QJ_DATA||fetch("events.json",{cache:"no-store"}).then(r=>r.json())).then(d=>{
   EV=d.events||[];LAST=d.last_updated||"";buildGroups();document.getElementById("base").textContent=`기준일: ${d.base_date}`;
   setUpdateLabel(d.last_updated);
   if(d.is_sample)document.getElementById("banner").hidden=false;
@@ -251,7 +251,11 @@ const itemURL=e=>location.origin+location.pathname.replace(/[^/]*$/,"")+"i/"+enc
 function toast(t){let el=document.querySelector(".qtoast");if(!el){el=document.createElement("div");el.className="qtoast";el.setAttribute("role","status");document.body.appendChild(el)}el.textContent=t;el.classList.add("on");clearTimeout(toast._t);toast._t=setTimeout(()=>el.classList.remove("on"),1600)}
 async function copyText(t){try{await navigator.clipboard.writeText(t);return true}catch(x){const a=document.createElement("textarea");a.value=t;a.style.position="fixed";a.style.opacity="0";document.body.appendChild(a);a.select();let ok=false;try{ok=document.execCommand("copy")}catch(y){}a.remove();return ok}}
 document.addEventListener("click",async ev=>{const b=ev.target.closest(".dshare");if(!b||!DETAIL_E)return;ev.stopPropagation();const u=itemURL(DETAIL_E);const ok=await copyText(u);toast(ok?"복사됐어요 ✨":"복사 실패 · 주소창 링크를 길게 눌러 복사해 주세요");window.gtag&&gtag("event","share_link",{item:DETAIL_E.title_ko,category:DETAIL_E.category})});
-function openDetail(e){window.gtag&&gtag("event","open_detail",{item:e.title_ko,category:e.category,has_gallery:hasGal(e)});if(document.querySelector(".dov"))return;DETAIL_E=e;const o=document.createElement("div");o.className="dov";o.innerHTML=detail(e);document.body.appendChild(o);document.body.style.overflow="hidden";document.body.classList.add("modal-open");pushLayer("detail","?item="+encodeURIComponent(itemId(e)));o.querySelector(".dvx").focus();
+/* 갤러리 지연 로딩: 목록엔 gk만, 자세히 열 때 gal/<gk>.json을 받아 붙임. 실패하면 원본 events.json에서 찾아 붙임 */
+function loadGal(e){if(!e.gk||e.gallery)return Promise.resolve();if(e._gp)return e._gp;
+  const put=g=>{if(g&&g.gallery)Object.assign(e,g)};
+  e._gp=fetch("gal/"+e.gk+".json").then(r=>{if(!r.ok)throw 0;return r.json()}).then(put).catch(()=>fetch("events.json").then(r=>r.json()).then(d=>{const x=(d.events||[]).find(x=>x.gallery&&x.gallery.length&&(e.id?x.id===e.id:x.title_ko===e.title_ko));if(x)put({gallery:x.gallery,gallery_note:x.gallery_note,gallery_source:x.gallery_source,gallery_more:x.gallery_more})})).catch(()=>{}).then(()=>{e._gp=null;if(!e.gallery){e.gk=null;e.gn=0}});return e._gp}
+function openDetail(e){if(e.gk&&!e.gallery){loadGal(e).then(()=>openDetail(e));return}window.gtag&&gtag("event","open_detail",{item:e.title_ko,category:e.category,has_gallery:hasGal(e)});if(document.querySelector(".dov"))return;DETAIL_E=e;const o=document.createElement("div");o.className="dov";o.innerHTML=detail(e);document.body.appendChild(o);document.body.style.overflow="hidden";document.body.classList.add("modal-open");pushLayer("detail","?item="+encodeURIComponent(itemId(e)));o.querySelector(".dvx").focus();
   o.addEventListener("click",ev=>{if(ev.target===o||ev.target.closest(".dvx"))closeDetail()})}
 function closeDetail(fromPop){const o=document.querySelector(".dov");if(!o)return;const l=document.querySelector(".lb");if(l)l.remove();o.remove();document.body.style.overflow="";document.body.classList.remove("modal-open");DETAIL_E=null;
   const fixURL=()=>{if(location.search.includes("item=")){syncURL()}};setTimeout(fixURL,60);

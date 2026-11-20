@@ -10,3 +10,6 @@ python3 tools/mkimg.py       # 원본 대표·갤러리 이미지 자체 보관 
 python3 tools/mkshare.py     # 항목별 공유 페이지 i/<id>/
 python3 tools/mkfeeds.py     # 구독용 feeds/*.ics, rss.xml, index.html ItemList JSON-LD
 python3 tools/mksitemap.py   # sitemap.xml(홈+공유 페이지 i/·월별 m/, lastmod) + robots.txt
+python3 tools/mklite.py      # 첫 화면용 가벼운 목록 events-lite.json + 자세히 열 때 받는 갤러리 gal/*.json (테스트 사이트)
+# 지난주 많이 본 행사 TOP 5 → data/top5.json (GA open_detail 기준). GA 실패·환경 없음이면 기존 파일 유지
+if [ -x /workspace/gavenv/bin/python ]; then /workspace/gavenv/bin/python tools/mktop5.py || echo "top5: 건너뜀(기존 파일 유지)"; fi

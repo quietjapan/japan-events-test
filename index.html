@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="ko"><head>
+<script>/* 행사 목록은 가벼운 events-lite.json을 한 번만 받아 app·picks·extras·rows가 함께 씀 */window.QJ_DATA=fetch("events-lite.json",{cache:"no-cache"}).then(function(r){if(!r.ok)throw 0;return r.json()}).catch(function(){return fetch("events.json",{cache:"no-store"}).then(function(r){return r.json()})});</script>
 <meta charset="utf-8"><meta name="naver-site-verification" content="fd835ef0efc56a6bb8bb169881b9c05104981fd0" /><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>오시카츠 재팬 · 일본 덕질 행사 캘린더</title>
 <meta name="description" content="도쿄·오사카·후쿠오카 팝업스토어·콜라보카페·전시·행사·축제·가챠·쿠지·플리마켓·잡지 부록 일정을 한국어로 모아봅니다.">
@@ -40,6 +41,7 @@
 <link rel="stylesheet" href="ideas.css">
 <link rel="stylesheet" href="visited.css">
 <link rel="stylesheet" href="picks.css">
+<link rel="stylesheet" href="rows.css">
 <link rel="stylesheet" href="declutter.css">
 <script>try{if(localStorage.getItem("qj_map")!=="on")document.documentElement.classList.add("nomap")}catch(e){document.documentElement.classList.add("nomap")}</script>
 <link rel="alternate" type="application/rss+xml" title="오시카츠 재팬 · 새로 추가된 행사" href="rss.xml">
@@ -115,6 +117,8 @@
     </div>
     <div class="chipwrap"><div class="chrow"><div id="chips" class="chips"></div></div></div>
   </section>
+  <section id="top5" class="hrow top5" hidden aria-labelledby="t5t"><div class="hrhd"><h2 id="t5t">🏆 지난주 많이 본 행사 TOP 5</h2><span id="t5sub" class="hrsub"></span></div><ol class="hrlist" id="t5list"></ol></section>
+  <section id="xmas" class="hrow xmas" hidden aria-labelledby="xmt"><div class="hrhd"><h2 id="xmt">🎄 크리스마스·연말연시</h2><span id="xmsub" class="hrsub"></span><button type="button" id="xmall" class="hrall">📅 기간으로 모두 보기</button></div><ul class="hrlist" id="xmlist"></ul><p class="hrnote">연말연시 영업시간은 공식 안내에 적힌 것만 보여 드려요. 방문 전 공식 페이지를 꼭 확인해 주세요.</p></section>
   <div class="hlrow">
   <details id="picks" class="picks pkd" hidden><summary class="pkhd"><b id="pktitle">📝 준호 픽</b><span id="pksub">블로그에 직접 정리한 행사</span></summary><ul class="pklist" id="pklist"></ul></details>
   <details id="dlv" class="picks dlv" hidden><summary class="pkhd"><b>⏰ 마감 D-day</b><span id="dlsub">추첨·예매 신청 마감이 다가오는 행사</span></summary><ul class="dllist" id="dllist"></ul><p class="dlnote">공식 안내에 날짜가 적힌 신청·예매 마감만 모았어요. 신청 전 공식 페이지를 꼭 확인해 주세요.</p></details>
@@ -179,6 +183,7 @@
 <script src="visited.js"></script>
 <script src="picks.js"></script>
 <script src="extras.js"></script>
+<script src="rows.js"></script>
 <script src="declutter.js"></script>
 <script>(function(){var b=document.getElementById("qmenu"),p=document.getElementById("qmenup");if(!b)return;function t(o){p.hidden=!o;b.setAttribute("aria-expanded",o)}b.onclick=function(e){e.stopPropagation();t(p.hidden)};p.onclick=function(e){var x=e.target.closest("button[data-a]");if(!x)return;t(false);if(x.dataset.a==="fx")document.getElementById("fxbtn").click();else if(x.dataset.a==="visited")document.getElementById("visited").scrollIntoView({behavior:"smooth"});else scrollTo({top:0,behavior:"smooth"})};document.addEventListener("click",function(e){if(!p.hidden&&!p.contains(e.target))t(false)})})();</script>
 <script>(function(){if(matchMedia("(min-width:720px)").matches){[].forEach(function(id){var d=document.getElementById(id);if(d)d.open=true})}})();</script>

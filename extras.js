@@ -17,7 +17,7 @@ var _rf=window.resetFilters;if(_rf)window.resetFilters=function(){_rf.apply(this
 var dv=document.getElementById("dlv"),dl=document.getElementById("dllist");
 var today=new Date(Date.now()+9*36e5).toISOString().slice(0,10);
 var RG={tokyo:"도쿄",osaka:"오사카",fukuoka:"후쿠오카",all:"전국"};
-if(dv)Promise.all([fetch("data/deadlines.json",{cache:"no-store"}).then(function(r){return r.json()}),fetch("events.json").then(function(r){return r.json()})]).then(function(a){
+if(dv)Promise.all([fetch("data/deadlines.json",{cache:"no-store"}).then(function(r){return r.json()}),(window.QJ_DATA||fetch("events.json").then(function(r){return r.json()}))]).then(function(a){
   var ev=a[1].events||[];
   var rows=(a[0].deadlines||[]).map(function(d){var e=ev.find(function(x){return x.id===d.match||x.title_ko===d.match});return e&&d.deadline>=today?{d:d,e:e,n:Math.round((Date.parse(d.deadline)-Date.parse(today))/864e5)}:null}).filter(Boolean).sort(function(x,y){return x.d.deadline<y.d.deadline?-1:1});
   if(!rows.length)return;
