@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-21",
   "range": [
-    "2026-11-13",
-    "2026-11-19"
+    "2026-11-14",
+    "2026-11-20"
   ],
   "metric": "open_detail(자세히 열람) 이벤트 수, 메인 사이트·본인 접속 제외",
   "items": [
@@ -10,8 +10,8 @@
       "match": "conan-diner",
       "title_ko": "명탐정 코난 다이너 (상설 콜라보 레스토랑)",
       "region": "tokyo",
-      "opens": 4,
-      "users": 3
+      "opens": 5,
+      "users": 4
     },
     {
       "match": "「명탐정 코난 다이너」 개업 기념 POP UP SHOP (시부야 스트림)",
@@ -49,13 +49,6 @@
       "users": 1
     },
     {
-      "match": "MAPPA EXPO 15주년",
-      "title_ko": "MAPPA EXPO 15주년",
-      "region": "tokyo",
-      "opens": 2,
-      "users": 2
-    },
-    {
       "match": "귀멸의 칼날 '귀습래 재래 2026' (ufotable DINING 외)",
       "title_ko": "귀멸의 칼날 '귀습래 재래 2026' (ufotable DINING 외)",
       "region": "tokyo",
@@ -67,6 +60,13 @@
       "title_ko": "하이큐!! × and GALLERY 콜라보 카페 (난바 1호점)",
       "region": "osaka",
       "opens": 2,
+      "users": 1
+    },
+    {
+      "match": "MAPPA EXPO 15주년",
+      "title_ko": "MAPPA EXPO 15주년",
+      "region": "tokyo",
+      "opens": 1,
       "users": 1
     },
     {
