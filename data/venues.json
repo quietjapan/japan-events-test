@@ -786,6 +786,76 @@
       "lat": 33.5891,
       "lon": 130.4102,
       "source": "https://bandainamco-am.co.jp/chara_shop/keroro/"
+    },
+    {
+      "keys": [
+        "タワーレコード渋谷店",
+        "타워레코드 시부야점"
+      ],
+      "address": "東京都渋谷区神南1-22-14",
+      "lat": 35.6619,
+      "lon": 139.7011,
+      "source": "https://towershibuya.jp/news/2026/11/19/237354"
+    },
+    {
+      "keys": [
+        "グランドスケープ池袋",
+        "그랜드스케이프 이케부쿠로"
+      ],
+      "address": "東京都豊島区東池袋1-30-3",
+      "lat": 35.731,
+      "lon": 139.7164,
+      "source": "https://www.the-chara.com/blog/?p=126183"
+    },
+    {
+      "keys": [
+        "THEキャラ CAFE STAND",
+        "THE캬라 CAFE STAND"
+      ],
+      "address": "東京都文京区後楽1-3-61",
+      "lat": 35.70315,
+      "lon": 139.75215,
+      "source": "https://www.the-chara.com/blog/?p=125947"
+    },
+    {
+      "keys": [
+        "MEDICOS SHOP 新宿",
+        "MEDICOS SHOP 신주쿠"
+      ],
+      "address": "東京都新宿区新宿3-1-26",
+      "lat": 35.6901,
+      "lon": 139.706,
+      "source": "https://www.medicos-e.net/newsdetail/shouzhoseikanhyouryuuki/"
+    },
+    {
+      "keys": [
+        "ORBcafe 渋谷サクラステージ",
+        "ORBcafe 시부야 사쿠라 스테이지"
+      ],
+      "address": "東京都渋谷区桜丘町1-4",
+      "lat": 35.657,
+      "lon": 139.702,
+      "source": "https://orb-cafe.com/info/1467/"
+    },
+    {
+      "keys": [
+        "洒落CAFE ハラカド",
+        "샤레 CAFE 하라카도"
+      ],
+      "address": "東京都渋谷区神宮前6-31-21",
+      "lat": 35.66852,
+      "lon": 139.70497,
+      "source": "https://shop.anique.jp/blogs/news/garupan"
+    },
+    {
+      "keys": [
+        "洒落CAFE 心斎橋BIGSTEP",
+        "샤레 CAFE 신사이바시 BIGSTEP"
+      ],
+      "address": "大阪府大阪市中央区西心斎橋1-6-14",
+      "lat": 34.67197,
+      "lon": 135.49872,
+      "source": "https://shop.anique.jp/blogs/news/garupan"
     }
   ]
 }
