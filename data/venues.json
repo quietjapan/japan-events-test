@@ -856,6 +856,29 @@
       "lat": 34.67197,
       "lon": 135.49872,
       "source": "https://shop.anique.jp/blogs/news/garupan"
+    },
+    {
+      "keys": [
+        "池袋P'PARCO",
+        "P'PARCO",
+        "이케부쿠로 P'PARCO",
+        "eeo POP-UP STORE"
+      ],
+      "address": "東京都豊島区東池袋1-50-35",
+      "lat": 35.731537,
+      "lon": 139.712387,
+      "source": "https://eeo.today/store/101/specialfeature/dr_stone2612-popup"
+    },
+    {
+      "keys": [
+        "サンシャインシティ 展示ホールB",
+        "선샤인시티 전시홀 B",
+        "文化会館ビル"
+      ],
+      "address": "東京都豊島区東池袋3-1-4",
+      "lat": 35.727917,
+      "lon": 139.719849,
+      "source": "https://mahoyaku-stage-5thannivexhibition.com/outline/"
     }
   ]
 }
