@@ -37305,6 +37305,65 @@
       "thumb_small": "thumbs/dfc9615ab395112c.webp",
       "image_fb": "gfb/dfc9615ab395112c.webp",
       "image_local": "img/dfc9615ab395112c.webp"
+    },
+    {
+      "id": "tokyo-drstone-hanafuda-popup-magnet-charaditional",
+      "title_ko": "Dr.STONE POP UP SHOP by 캐러디셔널 토이 (MAGNET by SHIBUYA109)",
+      "title_ja": "TVアニメ「Dr.STONE」POP UP SHOP by キャラディショナルトイ",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "MAGNET by SHIBUYA109 6층 이벤트 스페이스",
+      "start": "2026-12-25",
+      "end": "2027-01-11",
+      "reservation": "입장 방법은 추후 안내 예정",
+      "price": "",
+      "official_url": "https://gets-oshi.com/pages/dr-stone-hanafuda",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000193.000007390.html",
+      "notes": "10:00~21:00 (시설 영업시간 기준). ‘화투’ 테마 새 일러스트·새 미니 캐릭터 일러스트 굿즈와 화투 등 판매. 1/4(월)부터 센쿠 생일 기념 굿즈 발매. 1회 계산당 품목별 3개(BOX는 3BOX)까지. 회기 후 ‘게츠오시 마트’ 통판 예정. 이케부쿠로 eeo 『오지장 대집합』 팝업(12/11~12/23)과는 다른 행사예요",
+      "map_query": "東京都渋谷区神南1-23-10",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/7390/193/7390-193-dd6faf2edb0d29ffd5d90fa5c77db4eb-1909x2700.jpg",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000193.000007390.html",
+      "copyright": "©米スタジオ・Boichi／集英社・Dr.STONE製作委員会",
+      "summary_ko": "TV 애니메이션 『Dr.STONE』 팝업이에요. ‘화투’를 테마로 새로 그린 일러스트 굿즈와 화투를 팔고, 1월 4일부터는 센쿠 생일 기념 굿즈도 나와요.",
+      "summary_source": "https://gets-oshi.com/pages/dr-stone-hanafuda",
+      "gallery": [
+        {
+          "group": "상품 라인업",
+          "img": "https://prcdn.freetls.fastly.net/release_image/7390/193/7390-193-8090dd99978388114f78ef9bbc0d2a55-1909x2700.jpg",
+          "full": "https://prcdn.freetls.fastly.net/release_image/7390/193/7390-193-8090dd99978388114f78ef9bbc0d2a55-1909x2700.jpg",
+          "caption_ko": "POP UP SHOP 판매 상품 라인업",
+          "caption_ja": "販売商品",
+          "source": "https://prtimes.jp/main/html/rd/p/000000193.000007390.html",
+          "img_fb": "gfb/cc088c7fa0744c9f.webp",
+          "img_local": "img/cc088c7fa0744c9f.webp"
+        }
+      ],
+      "gallery_source": "https://prtimes.jp/main/html/rd/p/000000193.000007390.html",
+      "gallery_note": "이미지는 주최 측(토키오 게츠) 보도자료 이미지(실제와 다를 수 있음)",
+      "evidence": [
+        {
+          "url": "https://gets-oshi.com/pages/dr-stone-hanafuda",
+          "tier": "official",
+          "quote": "【開催期間】 2026年12月25日（金）〜2027年1月11日（月・祝） 【開催場所】 MAGNET by SHIBUYA 109 6F イベントスペース 【営業時間】 10:00～21:00 ※施設営業時間に準ずる。",
+          "checked": "2026-11-23"
+        },
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000193.000007390.html",
+          "tier": "official",
+          "quote": "【日時・会場】2026年12月25日（金）～2027年1月11日（月・祝）（MAGNET by SHIBUYA 109） 【開催時間】 施設営業時間に準ずる。 ※入場方法については後日ご案内予定となります。",
+          "checked": "2026-11-23"
+        }
+      ],
+      "checked_date": "2026-11-23",
+      "verified_at": "2026-11-23",
+      "source_tier": "official",
+      "added": "2026-11-23",
+      "lat": 35.6612,
+      "lon": 139.6995,
+      "thumb_small": "thumbs/222957c70d20bba1.webp",
+      "image_fb": "gfb/222957c70d20bba1.webp",
+      "image_local": "img/222957c70d20bba1.webp"
     }
   ]
 }
