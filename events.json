@@ -37364,6 +37364,351 @@
       "thumb_small": "thumbs/222957c70d20bba1.webp",
       "image_fb": "gfb/222957c70d20bba1.webp",
       "image_local": "img/222957c70d20bba1.webp"
+    },
+    {
+      "id": "osaka-m1-kanjou-bakuhatsu-ten-lucua",
+      "title_ko": "M-1 감정 폭발전 (오사카 · LUCUA 홀)",
+      "title_ja": "M-1感情爆発展",
+      "category": "전시·행사",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "LUCUA 홀 (루쿠아 9층)",
+      "start": "2026-11-21",
+      "end": "2026-12-06",
+      "reservation": "필요 (30분 단위 일시 지정제, FANY 티켓)",
+      "price": "통상 2,500엔 / 굿즈 포함 3,500엔 (세금 포함)",
+      "official_url": "https://exhibition.m-1gp.com/outline",
+      "source_url": "https://exhibition.m-1gp.com/ticket",
+      "notes": "10:30~20:30 (최종 입장 19:30). 입장자 전원 ‘엔트리 넘버 실’ 1장. 굿즈 포함 티켓은 역대 M-1 키 비주얼 키홀더(전 7종) 랜덤 1개(수량 한정). 미취학 아동 무료(보호자 동반). 도쿄는 12/12~12/26 라포레 뮤지엄 하라주쿠",
+      "map_query": "大阪府大阪市北区梅田3-1-3 ルクア9F",
+      "evidence": [
+        {
+          "url": "https://exhibition.m-1gp.com/outline",
+          "tier": "official",
+          "quote": "大阪 会期 2026年11月21日 (土) ― 2026年12月6日(日) 会場 LUCUAホール 〒530-8558 大阪市北区梅田3-1-3 ルクア9F 開館時間 10:30～20:30（最終入場19:30） ※30分ごとの日時指定制",
+          "checked": "2026-11-23"
+        },
+        {
+          "url": "https://exhibition.m-1gp.com/ticket",
+          "tier": "official",
+          "quote": "通常チケット 2,500円 (税込) グッズ付きチケット 3,500円 (税込) ※ご入場には日時指定券が必要です。",
+          "checked": "2026-11-23"
+        }
+      ],
+      "thumbnail": "https://static.wixstatic.com/media/00f83c_ebb67d6324c24e118f62d474308e5179~mv2.jpg",
+      "thumbnail_source": "https://exhibition.m-1gp.com/outline",
+      "copyright": "© M-1 GRANDPRIX. All Rights Reserved.",
+      "summary_ko": "M-1 그랑프리 첫 체험형 전시회예요. 역대 M-1의 감정이 폭발한 순간을 테마로 한 전시이고, 오사카와 도쿄에서 열려요.",
+      "summary_source": "https://exhibition.m-1gp.com/outline",
+      "checked_date": "2026-11-23",
+      "verified_at": "2026-11-23",
+      "source_tier": "official",
+      "added": "2026-11-23",
+      "lat": 34.701881,
+      "lon": 135.496338,
+      "thumb_small": "thumbs/c2562493e284594f.webp",
+      "image_local": "img/c2562493e284594f.webp"
+    },
+    {
+      "id": "tokyo-m1-kanjou-bakuhatsu-ten-laforet",
+      "title_ko": "M-1 감정 폭발전 (도쿄 · 라포레 뮤지엄 하라주쿠)",
+      "title_ja": "M-1感情爆発展",
+      "category": "전시·행사",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "라포레 뮤지엄 하라주쿠 (라포레 하라주쿠 6층)",
+      "start": "2026-12-12",
+      "end": "2026-12-26",
+      "reservation": "필요 (30분 단위 일시 지정제, FANY 티켓)",
+      "price": "통상 2,500엔 / 굿즈 포함 3,500엔 (세금 포함)",
+      "official_url": "https://exhibition.m-1gp.com/outline",
+      "source_url": "https://exhibition.m-1gp.com/ticket",
+      "notes": "11:00~20:00 (최종 입장 19:00). 입장자 전원 ‘엔트리 넘버 실’ 1장. 굿즈 포함 티켓은 역대 M-1 키 비주얼 키홀더(전 7종) 랜덤 1개(수량 한정). 미취학 아동 무료(보호자 동반). 도쿄·오사카는 일부 전시가 달라요. 오사카는 11/21~12/6 LUCUA 홀",
+      "map_query": "東京都渋谷区神宮前1-11-6 ラフォーレ原宿6F",
+      "evidence": [
+        {
+          "url": "https://exhibition.m-1gp.com/outline",
+          "tier": "official",
+          "quote": "東京 会期 2026年12月12日 (土) ― 2026年12月26日 (日) 会場 ラフォーレミュージアム原宿 〒150-0001 東京都渋谷区神宮前1-11-6 ラフォーレ原宿6F 開館時間 11:00～20:00（最終入場19:00） ※30分ごとの日時指定制",
+          "checked": "2026-11-23"
+        },
+        {
+          "url": "https://exhibition.m-1gp.com/ticket",
+          "tier": "official",
+          "quote": "通常チケット 2,500円 (税込) グッズ付きチケット 3,500円 (税込) … ※東京と大阪で一部展示が異なる場合がございます。",
+          "checked": "2026-11-23"
+        }
+      ],
+      "thumbnail": "https://static.wixstatic.com/media/00f83c_ebb67d6324c24e118f62d474308e5179~mv2.jpg",
+      "thumbnail_source": "https://exhibition.m-1gp.com/outline",
+      "copyright": "© M-1 GRANDPRIX. All Rights Reserved.",
+      "summary_ko": "M-1 그랑프리 첫 체험형 전시회예요. 역대 M-1의 감정이 폭발한 순간을 테마로 한 전시이고, 오사카와 도쿄에서 열려요.",
+      "summary_source": "https://exhibition.m-1gp.com/outline",
+      "checked_date": "2026-11-23",
+      "verified_at": "2026-11-23",
+      "source_tier": "official",
+      "added": "2026-11-23",
+      "lat": 35.668907,
+      "lon": 139.705551,
+      "thumb_small": "thumbs/c2562493e284594f.webp",
+      "image_local": "img/c2562493e284594f.webp"
+    },
+    {
+      "id": "tokyo-windbreaker-sweetspara2-shinjuku",
+      "title_ko": "WIND BREAKER × 스위츠 파라다이스 제2탄 (신주쿠 동쪽 출구점)",
+      "title_ja": "TVアニメ『WIND BREAKER』×SWEETS PARADISE 第2弾",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "스위츠 파라다이스 신주쿠 동쪽 출구점 (신주쿠 FF빌딩 B1)",
+      "start": "2026-12-01",
+      "end": "2026-12-27",
+      "reservation": "선택 (스위파라 앱 사전 예약, 날짜별 선착순 · 이용일 5주 전~전날 20시)",
+      "price": "콜라보 메뉴 대금 + 바이킹 요금 별도",
+      "official_url": "https://www.sweets-paradise.jp/collaboration/wb2",
+      "source_url": "https://www.sweets-paradise.jp/collaboration/wb2",
+      "notes": "콜라보 메뉴는 메뉴 대금과 별도로 바이킹 요금 주문이 필요해요(공식 안내). 메뉴 주문 시 페이퍼 런천 매트(전 2종 중 1장)와 메뉴 1품당 코스터 1장. 굿즈 2,000엔(세금 포함)마다 포스트카드 랜덤 1장. 굿즈는 콜라보 메뉴 이용자만 구매 가능. 나고야·오미야·센다이·히로시마점도 개최",
+      "map_query": "東京都新宿区新宿3-26-6 新宿FFビルB1F",
+      "evidence": [
+        {
+          "url": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "tier": "official",
+          "quote": "■2026年12月1日（火）～12月27日（日） スイーツパラダイス新宿東口店 スイーツパラダイス梅田店 … ※コラボメニューのご利用には、コラボメニュー代金と別途バイキング料金のご注文が必要です。",
+          "checked": "2026-11-23"
+        }
+      ],
+      "thumbnail": "https://www.sweets-paradise.jp/wp-content/uploads/2026/10/2609_ウィンブレ2_KV_等身_RGB.jpg",
+      "thumbnail_source": "https://www.sweets-paradise.jp/collaboration/wb2",
+      "copyright": "©にいさとる・講談社／WIND BREAKER Project",
+      "summary_ko": "TV 애니메이션 『WIND BREAKER』와 스위츠 파라다이스의 두 번째 콜라보 카페예요. 콜라보 메뉴를 시키면 런천 매트와 코스터를 주고, 굿즈 구매 특전으로 포스트카드도 있어요.",
+      "summary_source": "https://www.sweets-paradise.jp/collaboration/wb2",
+      "gallery": [
+        {
+          "group": "메뉴",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_01.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_01.jpg",
+          "caption_ko": "콜라보 메뉴 (1)",
+          "caption_ja": "メニュー表",
+          "source": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "img_fb": "gfb/9c9ebe488a4698b0.webp",
+          "img_local": "img/9c9ebe488a4698b0.webp"
+        },
+        {
+          "group": "메뉴",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_02.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_02.jpg",
+          "caption_ko": "콜라보 메뉴 (2)",
+          "caption_ja": "メニュー表",
+          "source": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "img_fb": "gfb/c1196e58e3b99eb4.webp",
+          "img_local": "img/c1196e58e3b99eb4.webp"
+        },
+        {
+          "group": "노벨티",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_ノベルティ.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_ノベルティ.jpg",
+          "caption_ko": "메뉴 노벨티: 페이퍼 런천 매트(전 2종 중 선택)·메뉴 1품당 코스터 1장",
+          "caption_ja": "ノベルティ",
+          "source": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "img_fb": "gfb/e34259eb88edd469.webp",
+          "img_local": "img/e34259eb88edd469.webp"
+        },
+        {
+          "group": "구매 특전",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_購入特典POP_1116.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_購入特典POP_1116.jpg",
+          "caption_ko": "굿즈 2,000엔(세금 포함)마다 오리지널 포스트카드 랜덤 1장",
+          "caption_ja": "グッズ購入特典",
+          "source": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "img_fb": "gfb/d7909e31a4b51df7.webp",
+          "img_local": "img/d7909e31a4b51df7.webp"
+        },
+        {
+          "group": "굿즈",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ_グッズPOP_1113.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ_グッズPOP_1113.jpg",
+          "caption_ko": "콜라보 굿즈",
+          "caption_ja": "グッズ",
+          "source": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "img_fb": "gfb/369d4a153d9ec657.webp",
+          "img_local": "img/369d4a153d9ec657.webp"
+        }
+      ],
+      "gallery_source": "https://www.sweets-paradise.jp/collaboration/wb2",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "checked_date": "2026-11-23",
+      "verified_at": "2026-11-23",
+      "source_tier": "official",
+      "added": "2026-11-23",
+      "lat": 35.691593,
+      "lon": 139.701706,
+      "thumb_small": "thumbs/6923a860c37f6fe0.webp",
+      "image_fb": "gfb/6923a860c37f6fe0.webp",
+      "image_local": "img/6923a860c37f6fe0.webp"
+    },
+    {
+      "id": "osaka-windbreaker-sweetspara2-umeda",
+      "title_ko": "WIND BREAKER × 스위츠 파라다이스 제2탄 (우메다점)",
+      "title_ja": "TVアニメ『WIND BREAKER』×SWEETS PARADISE 第2弾",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "스위츠 파라다이스 우메다점 (우메다 라쿠텐치 빌딩 2층)",
+      "start": "2026-12-01",
+      "end": "2026-12-27",
+      "reservation": "선택 (스위파라 앱 사전 예약, 날짜별 선착순 · 이용일 5주 전~전날 20시)",
+      "price": "콜라보 메뉴 대금 + 바이킹 요금 별도",
+      "official_url": "https://www.sweets-paradise.jp/collaboration/wb2",
+      "source_url": "https://www.sweets-paradise.jp/collaboration/wb2",
+      "notes": "콜라보 메뉴는 메뉴 대금과 별도로 바이킹 요금 주문이 필요해요(공식 안내). 메뉴 주문 시 페이퍼 런천 매트(전 2종 중 1장)와 메뉴 1품당 코스터 1장. 굿즈 2,000엔(세금 포함)마다 포스트카드 랜덤 1장. 굿즈는 콜라보 메뉴 이용자만 구매 가능. 나고야·오미야·센다이·히로시마점도 개최",
+      "map_query": "大阪府大阪市北区角田町5-1 梅田楽天地ビル2F",
+      "evidence": [
+        {
+          "url": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "tier": "official",
+          "quote": "■2026年12月1日（火）～12月27日（日） スイーツパラダイス新宿東口店 スイーツパラダイス梅田店 … ※コラボメニューのご利用には、コラボメニュー代金と別途バイキング料金のご注文が必要です。",
+          "checked": "2026-11-23"
+        }
+      ],
+      "thumbnail": "https://www.sweets-paradise.jp/wp-content/uploads/2026/10/2609_ウィンブレ2_KV_等身_RGB.jpg",
+      "thumbnail_source": "https://www.sweets-paradise.jp/collaboration/wb2",
+      "copyright": "©にいさとる・講談社／WIND BREAKER Project",
+      "summary_ko": "TV 애니메이션 『WIND BREAKER』와 스위츠 파라다이스의 두 번째 콜라보 카페예요. 콜라보 메뉴를 시키면 런천 매트와 코스터를 주고, 굿즈 구매 특전으로 포스트카드도 있어요.",
+      "summary_source": "https://www.sweets-paradise.jp/collaboration/wb2",
+      "gallery": [
+        {
+          "group": "메뉴",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_01.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_01.jpg",
+          "caption_ko": "콜라보 메뉴 (1)",
+          "caption_ja": "メニュー表",
+          "source": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "img_fb": "gfb/9c9ebe488a4698b0.webp",
+          "img_local": "img/9c9ebe488a4698b0.webp"
+        },
+        {
+          "group": "메뉴",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_02.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_02.jpg",
+          "caption_ko": "콜라보 메뉴 (2)",
+          "caption_ja": "メニュー表",
+          "source": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "img_fb": "gfb/c1196e58e3b99eb4.webp",
+          "img_local": "img/c1196e58e3b99eb4.webp"
+        },
+        {
+          "group": "노벨티",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_ノベルティ.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_メニュー表_1116_ノベルティ.jpg",
+          "caption_ko": "메뉴 노벨티: 페이퍼 런천 매트(전 2종 중 선택)·메뉴 1품당 코스터 1장",
+          "caption_ja": "ノベルティ",
+          "source": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "img_fb": "gfb/e34259eb88edd469.webp",
+          "img_local": "img/e34259eb88edd469.webp"
+        },
+        {
+          "group": "구매 특전",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_購入特典POP_1116.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ2_購入特典POP_1116.jpg",
+          "caption_ko": "굿즈 2,000엔(세금 포함)마다 오리지널 포스트카드 랜덤 1장",
+          "caption_ja": "グッズ購入特典",
+          "source": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "img_fb": "gfb/d7909e31a4b51df7.webp",
+          "img_local": "img/d7909e31a4b51df7.webp"
+        },
+        {
+          "group": "굿즈",
+          "img": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ_グッズPOP_1113.jpg",
+          "full": "https://www.sweets-paradise.jp/wp-content/uploads/2026/11/2611_ウィンブレ_グッズPOP_1113.jpg",
+          "caption_ko": "콜라보 굿즈",
+          "caption_ja": "グッズ",
+          "source": "https://www.sweets-paradise.jp/collaboration/wb2",
+          "img_fb": "gfb/369d4a153d9ec657.webp",
+          "img_local": "img/369d4a153d9ec657.webp"
+        }
+      ],
+      "gallery_source": "https://www.sweets-paradise.jp/collaboration/wb2",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "checked_date": "2026-11-23",
+      "verified_at": "2026-11-23",
+      "source_tier": "official",
+      "added": "2026-11-23",
+      "lat": 34.703781,
+      "lon": 135.500946,
+      "thumb_small": "thumbs/6923a860c37f6fe0.webp",
+      "image_fb": "gfb/6923a860c37f6fe0.webp",
+      "image_local": "img/6923a860c37f6fe0.webp"
+    },
+    {
+      "id": "tokyo-drstone-ten-kagaku-oukoku-museum-sunshine",
+      "title_ko": "TV 애니메이션 Dr.STONE전 과학왕국 뮤지엄 (이케부쿠로 선샤인시티)",
+      "title_ja": "TVアニメ「Dr.STONE」展 科学王国ミュージアム",
+      "category": "전시·행사",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "선샤인시티 전시홀 A (월드 임포트 마트 빌딩 4층)",
+      "start": "2026-12-10",
+      "end": "2027-01-04",
+      "reservation": "이플러스 판매. 12/10~12/13(13일은 14:30 입장 회차까지)·1/2~1/4는 일시 지정제(추첨 후 남은 자리 선착순), 그 외는 날짜 지정 없음",
+      "price": "일반 예매 2,000엔 / 당일 2,300엔, 중학생 이하 예매 1,500엔 / 당일 1,800엔 (굿즈 포함 일반 4,500엔 / 4,800엔)",
+      "official_url": "https://anime-dr-stone.event-tenjikai.com/",
+      "source_url": "https://dr-stone.jp/news/6328/",
+      "notes": "10:00~19:00 (최종 입장 18:30). 12/31(목)·1/1(금·공휴일) 휴관. 굿즈 포함 티켓은 메모리얼 박 아크릴 패널(수량 한정). 1/2~1/4 입장자 전원 ‘이시가미 센쿠 생일 스티커’. 미취학 아동은 보호자 1명당 2명까지 무료. MAGNET 화투 팝업·eeo 오지장 팝업과는 다른 행사예요",
+      "map_query": "東京都豊島区東池袋3-1-3 ワールドインポートマートビル4F",
+      "ny_hours": "12/31(목)·1/1(금) 휴관",
+      "ny_hours_source": "https://anime-dr-stone.event-tenjikai.com/",
+      "evidence": [
+        {
+          "url": "https://anime-dr-stone.event-tenjikai.com/",
+          "tier": "official",
+          "quote": "会期 2026年12月10日(木)〜2027年1月4日(月) ※12月31日(木)・1月1日(金・祝)は休業 会場 池袋・サンシャインシティ 展示ホールA 時間 10:00～19:00 (最終入場18:30) … 一般（高校生以上） 4,500円 4,800円 2,000円 2,300円 中学生以下 4,000円 4,300円 1,500円 1,800円",
+          "checked": "2026-11-23"
+        },
+        {
+          "url": "https://dr-stone.jp/news/6328/",
+          "tier": "official",
+          "quote": "■会場 池袋・サンシャインシティ 展示ホールA 〒170-0013 東京都豊島区東池袋3-1-3 ワールドインポートマートビル4F ■チケット詳細 10月17日(土)午前10時よりイープラスにて販売開始予定 ※一部日時指定日チケットは抽選販売制となっております。",
+          "checked": "2026-11-23"
+        }
+      ],
+      "thumbnail": "https://anime-dr-stone.event-tenjikai.com/assets/img/top/topmain/topmain-pc.webp",
+      "thumbnail_source": "https://anime-dr-stone.event-tenjikai.com/",
+      "copyright": "©米スタジオ・Boichi／集英社・Dr.STONE製作委員会",
+      "summary_ko": "TV 애니메이션 『Dr.STONE』 전시회예요. 센쿠들의 과학왕국 역사를 따라가는 ‘박물관’ 콘셉트로, 설정 자료·원화 전시와 도르래 같은 과학 체험 코너가 있어요.",
+      "summary_source": "https://dr-stone.jp/news/6328/",
+      "gallery": [
+        {
+          "group": "티켓 특전",
+          "img": "https://anime-dr-stone.event-tenjikai.com/assets/img/top/ticket/tokuten-image-2.jpg",
+          "full": "https://anime-dr-stone.event-tenjikai.com/assets/img/top/ticket/tokuten-image-2.jpg",
+          "caption_ko": "굿즈 포함 티켓 특전 메모리얼 박 아크릴 패널 (약 W130×H200mm)",
+          "caption_ja": "メモリアル箔アクリルパネル",
+          "source": "https://anime-dr-stone.event-tenjikai.com/",
+          "img_fb": "gfb/22387cce5a0f47c6.webp",
+          "img_local": "img/22387cce5a0f47c6.webp"
+        },
+        {
+          "group": "입장 특전",
+          "img": "https://anime-dr-stone.event-tenjikai.com/assets/img/top/ticket/birthday-sticker.jpg",
+          "full": "https://anime-dr-stone.event-tenjikai.com/assets/img/top/ticket/birthday-sticker.jpg",
+          "caption_ko": "1/2~1/4 입장자 전원 이시가미 센쿠 생일 스티커",
+          "caption_ja": "石神千空 バースデーステッカー",
+          "source": "https://anime-dr-stone.event-tenjikai.com/",
+          "img_fb": "gfb/3da9d0cee0aa584e.webp",
+          "img_local": "img/3da9d0cee0aa584e.webp"
+        }
+      ],
+      "gallery_source": "https://anime-dr-stone.event-tenjikai.com/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "checked_date": "2026-11-23",
+      "verified_at": "2026-11-23",
+      "source_tier": "official",
+      "added": "2026-11-23",
+      "lat": 35.727844,
+      "lon": 139.719986,
+      "image_fb": "gfb/354dc725fcea77f8.webp",
+      "image_local": "img/354dc725fcea77f8.webp",
+      "thumb_small": "thumbs/354dc725fcea77f8.webp"
     }
   ]
 }

@@ -879,6 +879,59 @@
       "lat": 35.727917,
       "lon": 139.719849,
       "source": "https://mahoyaku-stage-5thannivexhibition.com/outline/"
+    },
+    {
+      "keys": [
+        "スイーツパラダイス新宿東口店",
+        "스위츠 파라다이스 신주쿠 동쪽 출구점"
+      ],
+      "address": "東京都新宿区新宿3-26-6 新宿FFビルB1F",
+      "lat": 35.691593,
+      "lon": 139.701706,
+      "source": "https://www.sweets-paradise.jp/shop/shinjuku/"
+    },
+    {
+      "keys": [
+        "スイーツパラダイス梅田店",
+        "스위츠 파라다이스 우메다점"
+      ],
+      "address": "大阪府大阪市北区角田町5-1 梅田楽天地ビル2F",
+      "lat": 34.703781,
+      "lon": 135.500946,
+      "source": "https://www.sweets-paradise.jp/shop/umeda/"
+    },
+    {
+      "keys": [
+        "サンシャインシティ 展示ホールA",
+        "선샤인시티 전시홀 A",
+        "ワールドインポートマートビル"
+      ],
+      "address": "東京都豊島区東池袋3-1-3 ワールドインポートマートビル4F",
+      "lat": 35.727844,
+      "lon": 139.719986,
+      "source": "https://dr-stone.jp/news/6328/"
+    },
+    {
+      "keys": [
+        "LUCUAホール",
+        "루쿠아 홀",
+        "ルクア9F"
+      ],
+      "address": "大阪府大阪市北区梅田3-1-3 ルクア9F",
+      "lat": 34.701881,
+      "lon": 135.496338,
+      "source": "https://exhibition.m-1gp.com/outline"
+    },
+    {
+      "keys": [
+        "ラフォーレミュージアム原宿",
+        "라포레 뮤지엄 하라주쿠",
+        "ラフォーレ原宿"
+      ],
+      "address": "東京都渋谷区神宮前1-11-6 ラフォーレ原宿6F",
+      "lat": 35.668907,
+      "lon": 139.705551,
+      "source": "https://exhibition.m-1gp.com/outline"
     }
   ]
 }
