@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-23",
+  "generated": "2026-11-24",
   "range": [
-    "2026-11-16",
-    "2026-11-22"
+    "2026-11-17",
+    "2026-11-23"
   ],
   "metric": "open_detail(자세히 열람) 이벤트 수, 메인 사이트·본인 접속 제외",
   "items": [
@@ -10,54 +10,82 @@
       "match": "conan-diner",
       "title_ko": "명탐정 코난 다이너 (상설 콜라보 레스토랑)",
       "region": "tokyo",
-      "opens": 5,
-      "users": 5
+      "opens": 6,
+      "users": 6
     },
     {
       "match": "「명탐정 코난 다이너」 개업 기념 POP UP SHOP (시부야 스트림)",
       "title_ko": "「명탐정 코난 다이너」 개업 기념 POP UP SHOP (시부야 스트림)",
       "region": "tokyo",
-      "opens": 3,
-      "users": 3
-    },
-    {
-      "match": "tokyo-takumen-haikyu-collab-kinshicho-marui",
-      "title_ko": "택면×하이큐!! 콜라보 팝업 (긴시초 마루이)",
-      "region": "tokyo",
-      "opens": 3,
-      "users": 2
-    },
-    {
-      "match": "chainsawman-plaza-reze-shibuya-loft",
-      "title_ko": "CHAINSAW MAN PLAZA 레제편 (시부야 로프트)",
-      "region": "tokyo",
-      "opens": 2,
-      "users": 1
-    },
-    {
-      "match": "내 마음의 위험한 녀석 완결 & 러브코미디가 시작되지 않아 POP UP SHOP",
-      "title_ko": "내 마음의 위험한 녀석 완결 & 러브코미디가 시작되지 않아 POP UP SHOP",
-      "region": "tokyo",
-      "opens": 2,
-      "users": 1
-    },
-    {
-      "match": "봇치 더 록! POP UP Winter 2026/2027 (아트레 아키하바라)",
-      "title_ko": "봇치 더 록! POP UP Winter 2026/2027 (아트레 아키하바라)",
-      "region": "tokyo",
-      "opens": 2,
-      "users": 1
+      "opens": 4,
+      "users": 4
     },
     {
       "match": "하이큐!! 네무라세타이 3 (가챠)",
       "title_ko": "하이큐!! 네무라세타이 3 (가챠)",
       "region": "all",
+      "opens": 4,
+      "users": 1
+    },
+    {
+      "match": "tokyo-chiikawa-clinic-ginza",
+      "title_ko": "치이카와 클리닉 (긴자 미라이 뮤지엄)",
+      "region": "tokyo",
+      "opens": 3,
+      "users": 1
+    },
+    {
+      "match": "tokyo-chiikawa-clinic-tokyoeki",
+      "title_ko": "치이카와 클리닉 (도쿄역 일번가 이치방 플라자)",
+      "region": "tokyo",
+      "opens": 3,
+      "users": 1
+    },
+    {
+      "match": "all-gacha-harrypotter-wand-collection-ps",
+      "title_ko": "해리 포터 마법 지팡이 컬렉션 ~해리 포터와 마법사의 돌~ (가챠)",
+      "region": "all",
+      "opens": 3,
+      "users": 1
+    },
+    {
+      "match": "tokyo-jjk-neon-collection-shinjuku-marui-annex",
+      "title_ko": "주술회전 사멸회유 네온 컬렉션 POP UP SHOP (신주쿠 마루이 아넥스)",
+      "region": "tokyo",
       "opens": 2,
+      "users": 2
+    },
+    {
+      "match": "TV애니 『지박소년 하나코 군 2』 × DECOTTO by animate cafe",
+      "title_ko": "TV애니 『지박소년 하나코 군 2』 × DECOTTO by animate cafe",
+      "region": "tokyo",
+      "opens": 2,
+      "users": 1
+    },
+    {
+      "match": "tokyo-natsume-popup-tower-shinjuku",
+      "title_ko": "나츠메 우인장 POP UP SHOP in TOWER RECORDS (신주쿠)",
+      "region": "tokyo",
+      "opens": 2,
+      "users": 1
+    },
+    {
+      "match": "fukuoka-jujutsu-world-crossstore",
+      "title_ko": "JUJUTSU KAISEN WORLD 하카타 (주술회전)",
+      "region": "fukuoka",
+      "opens": 1,
       "users": 1
     },
     {
       "match": "tokyo-jujutsu-sunshine-city-prince-hotel",
       "title_ko": "TV애니 『주술회전』 × 선샤인시티 프린스호텔",
+      "region": "tokyo",
+      "opens": 1,
+      "users": 1
+    },
+    {
+      "match": "tokyo-kamiina-botan-popup-volks-akiba",
+      "title_ko": "가미이나 보탄, 취한 모습은 백합의 꽃 POP UP SHOP (볼크스 아키하바라)",
       "region": "tokyo",
       "opens": 1,
       "users": 1
@@ -70,43 +98,15 @@
       "users": 1
     },
     {
-      "match": "메지루시 액세서리 산리오 캐릭터즈 올스타즈 Part.3 (가챠)",
-      "title_ko": "메지루시 액세서리 산리오 캐릭터즈 올스타즈 Part.3 (가챠)",
+      "match": "명탐정 코난 규코토 2 (가챠)",
+      "title_ko": "명탐정 코난 규코토 2 (가챠)",
       "region": "all",
       "opens": 1,
       "users": 1
     },
     {
-      "match": "뿌요뿌요 × 하피단V POPUP STORE (후쿠오카)",
-      "title_ko": "뿌요뿌요 × 하피단V POPUP STORE (후쿠오카)",
-      "region": "fukuoka",
-      "opens": 1,
-      "users": 1
-    },
-    {
-      "match": "osaka-saiki-psychic-diner",
-      "title_ko": "사이키 쿠스오의 재난 콜라보 카페 「ΨCHIC DINER」 (오사카)",
-      "region": "osaka",
-      "opens": 1,
-      "users": 1
-    },
-    {
-      "match": "산리오 캐릭터즈 별자리 스윙 마스코트 PART1 (가챠)",
-      "title_ko": "산리오 캐릭터즈 별자리 스윙 마스코트 PART1 (가챠)",
-      "region": "all",
-      "opens": 1,
-      "users": 1
-    },
-    {
-      "match": "osaka-jujutsu-kaisen-world",
-      "title_ko": "주술회전 월드 오사카 (JUJUTSU KAISEN WORLD · 주술 팝업)",
-      "region": "osaka",
-      "opens": 1,
-      "users": 1
-    },
-    {
-      "match": "tokyo-jujutsu-phanpara-3rd-popup-animate-ikebukuro",
-      "title_ko": "주술회전 판텀 퍼레이드 3주년 POP UP STORE (애니메이트 이케부쿠로 본점)",
+      "match": "tokyo-meitantei-precure-cafe-sweetspara-shinjuku",
+      "title_ko": "명탐정 프리큐어! × 스위츠 파라다이스 콜라보 카페 (신주쿠 마루이 아넥스)",
       "region": "tokyo",
       "opens": 1,
       "users": 1

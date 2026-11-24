@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:zg33a1-2026-10-31@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261221
 SUMMARY:페이트/그랜드 오더 콜라보 레스토랑 「영령들의 
@@ -25,7 +25,7 @@ LOCATION:선샤인시티 프린스호텔 B1 「IKEPRI CANVAS」
 END:VEVENT
 BEGIN:VEVENT
 UID:11r5ecl-2026-11-03@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261207
 SUMMARY:하이큐!! × and GALLERY 콜라보 카페
@@ -38,22 +38,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/11r5ecl/
 LOCATION:and GALLERY 이케부쿠로점·유라쿠초점
 END:VEVENT
 BEGIN:VEVENT
-UID:33g6hh-2026-04-17@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20261124
-SUMMARY:은혼 캐릭터 팝 스토어
-DESCRIPTION:반다이남코 크로스 스토어 아토레 아키하바라
- 점의 「은혼」 캐릭터 팝 스토어예요. 이곳 한정 신규 
- 일러스트 오리지널 굿즈를 팔고\, 기간별로 캐릭터 '축
- 제'가 바뀌어요.\n공식: https://bandainamco-am.co.jp/chara_shop/gin
- tama/\n자세히: https://quietjapan.github.io/japan-events-test/i/33g6hh/
-URL:https://quietjapan.github.io/japan-events-test/i/33g6hh/
-LOCATION:반다이남코 Cross Store 아트레 아키하바라점
-END:VEVENT
-BEGIN:VEVENT
 UID:l1lcwn-2026-09-16@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20261208
 SUMMARY:MAPPA EXPO 15주년
@@ -67,7 +53,7 @@ LOCATION:YURAKUCHO MUSEUM (도쿄 국제포럼 지하 1층)
 END:VEVENT
 BEGIN:VEVENT
 UID:9l7h4j-2026-11-20@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20270118
 SUMMARY:후와후완더 시나모롤 파크
@@ -81,7 +67,7 @@ LOCATION:도쿄돔시티 Gallery AaMo
 END:VEVENT
 BEGIN:VEVENT
 UID:6r9cuv-2026-12-20@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:조시가야 데즈쿠리이치 (수공예 시장)
@@ -95,7 +81,7 @@ LOCATION:조시가야 기시보진도
 END:VEVENT
 BEGIN:VEVENT
 UID:luprtw-2026-10-16@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261221
 SUMMARY:나의 히어로 아카데미아 카페 WE ARE HERO HOLICS
@@ -108,7 +94,7 @@ LOCATION:BOX cafe&space 큐플라자 하라주쿠점
 END:VEVENT
 BEGIN:VEVENT
 UID:yv19qi-2026-11-18@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261201
 SUMMARY:다카하타 후도존 단풍 축제
@@ -120,7 +106,7 @@ LOCATION:다카하타 후도존 (히노시)
 END:VEVENT
 BEGIN:VEVENT
 UID:ktr01j-2026-11-10@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261125
 SUMMARY:제5인격 팝업숍 in 핸즈 (신주쿠)
@@ -133,24 +119,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/ktr01j/
 LOCATION:핸즈 신주쿠점 5층
 END:VEVENT
 BEGIN:VEVENT
-UID:tokyo-hyakuemu-popup-medicos-shinjuku-2026-11-06@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261124
-SUMMARY:극장판 『100미터.』 POP UP SHOP
-DESCRIPTION:극장 애니메이션 『ひゃくえむ。』 팝업숍이에
- 요. 사회인·초등학생 시절의 토가시와 코미야가 꽃다발
- 을 든 신규 일러스트 굿즈를 팔고\, 특전 클리어 책갈피(
- 전 6종)와 대형 패널 전시도 있어요.\n공식: https://www.medic
- os-e.net/newsdetail/hyakuemu/\n자세히: https://quietjapan.github.io/jap
- an-events-test/i/tokyo-hyakuemu-popup-medicos-shinjuku/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-hyakuemu-popup-m
- edicos-shinjuku/
-LOCATION:MEDICOS SHOP 신주쿠 (신주쿠 마루이 아넥스 2F)
-END:VEVENT
-BEGIN:VEVENT
 UID:tokyo-shinepost-popup-amiami-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261130
 SUMMARY:샤인포스트 POP UP SHOP
@@ -164,22 +134,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/tokyo-shinepost-popup-
 LOCATION:아미아미 아키하바라 피규어타워점
 END:VEVENT
 BEGIN:VEVENT
-UID:1ewqjrt-2026-11-10@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261124
-SUMMARY:『어서 와\, 첫사랑』 POP UP SHOP
-DESCRIPTION:카메미즈 토라 작가의 『おかえり、初恋。』 
- 팝업숍이 애니메이트 이케부쿠로 본점 2F에서 열려요. 
- 구매 특전이 있고\, 개점 전 대기는 금지예요.\n공식: http
- s://www.the-chara.com/blog/?p=123501\n자세히: https://quietjapan.github
- .io/japan-events-test/i/1ewqjrt/
-URL:https://quietjapan.github.io/japan-events-test/i/1ewqjrt/
-LOCATION:애니메이트 이케부쿠로 본점 2F
-END:VEVENT
-BEGIN:VEVENT
 UID:1bkt5l8-2026-11-12@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261207
 SUMMARY:살짝 위험한 시티(쵸콧토 야바시티) 카페스탠드
@@ -193,7 +149,7 @@ LOCATION:애니메이트 카페스탠드 이케부쿠로 4호점
 END:VEVENT
 BEGIN:VEVENT
 UID:yrcu0o-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261130
 SUMMARY:요괴학교 선생님 시작했습니다! POP UP SHOP
@@ -208,7 +164,7 @@ LOCATION:아미아미 이케부쿠로 mini 페어굿즈점
 END:VEVENT
 BEGIN:VEVENT
 UID:39t3cu-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261207
 SUMMARY:BLACK LAGOON 25주년 원화전
@@ -222,7 +178,7 @@ LOCATION:선샤인시티 선샤인60 전망대 텐보파크 이벤트 스
 END:VEVENT
 BEGIN:VEVENT
 UID:jhpupw-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261130
 SUMMARY:메이드 인 어비스전 (후기)
@@ -236,7 +192,7 @@ LOCATION:세이부 이케부쿠로 본점 서적관 1F·B1
 END:VEVENT
 BEGIN:VEVENT
 UID:vjzsmi-2026-10-30@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261216
 SUMMARY:데드 바이 데이라이트 × DiCE 콜라보 카페
@@ -251,7 +207,7 @@ LOCATION:넷카페 DiCE 이케부쿠로점 (히가시이케부쿠로) 외 (
 END:VEVENT
 BEGIN:VEVENT
 UID:15yn7g6-2026-11-14@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261130
 SUMMARY:TV 애니메이션 『카미츠바키시 건설 중。』 × 가와
@@ -267,7 +223,7 @@ LOCATION:애니메이트 이케부쿠로 본점·아키하바라점 외 (
 END:VEVENT
 BEGIN:VEVENT
 UID:1bpaa99-2026-11-11@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261125
 SUMMARY:피아프로 캐릭터즈 POP UP SHOP in 이케부쿠로 스키마 
@@ -282,24 +238,8 @@ LOCATION:JR 이케부쿠로역 지하 중앙통로 중앙 개찰구 앞 (
  스키마 스토어)
 END:VEVENT
 BEGIN:VEVENT
-UID:10846mo-2026-10-24@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261124
-SUMMARY:지구방위군 POP UP SHOP
-DESCRIPTION:게임 『지구방위군』 팝업숍이에요. 최신 공식 
- 굿즈와 콜라보 굿즈를 팔고\, 디스리 퍼블리셔 역대 타
- 이틀 23종 그림으로 그 자리에서 티셔츠를 프린트해 줘
- 요.\n공식: https://bandainamco-am.co.jp/crossstore/store/crossstore_tok
- yo/news/20261015.html\n자세히: https://quietjapan.github.io/japan-event
- s-test/i/10846mo/
-URL:https://quietjapan.github.io/japan-events-test/i/10846mo/
-LOCATION:반다이남코 Cross Store 도쿄 (이케부쿠로 선샤인시
- 티 월드임포트마트 3층)
-END:VEVENT
-BEGIN:VEVENT
 UID:138zdd-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261130
 SUMMARY:주술회전 PLAZA 긴자 로프트
@@ -312,7 +252,7 @@ LOCATION:긴자 로프트
 END:VEVENT
 BEGIN:VEVENT
 UID:1eej2bu-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261130
 SUMMARY:문호 스트레이독스 AGF2026 × 애니메이트 이케부쿠
@@ -327,37 +267,8 @@ LOCATION:애니메이트 이케부쿠로 본점 3층 와쿠와쿠 스페이
  스
 END:VEVENT
 BEGIN:VEVENT
-UID:1xn9st-2026-11-06@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261124
-SUMMARY:내 마음의 위험한 녀석 완결 & 러브코미디가 시작
- 되지 않아 POP UP SHOP
-DESCRIPTION:『내 마음의 위험한 녀석』 완결과 스핀오프 『
- 러브코미디가 시작되지 않아』 기념 팝업숍이에요. 새
- 로 그린 일러스트 굿즈와 복제 원화를 팔아요.\n공식: htt
- ps://www.medicos-e.net/newsdetail/boku_yaba/\n자세히: https://quietjapa
- n.github.io/japan-events-test/i/1xn9st/
-URL:https://quietjapan.github.io/japan-events-test/i/1xn9st/
-LOCATION:신주쿠 마루이 멘 8층 이벤트 스페이스
-END:VEVENT
-BEGIN:VEVENT
-UID:11n8fko-2026-10-31@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261124
-SUMMARY:케로로 중사☆ 캐릭터 팝 스토어
-DESCRIPTION:애니메이션 『케로로 중사☆』 방송 기념 캐릭
- 터 팝 스토어예요. 오리지널 굿즈와 미니게임이 있고\, 
- 극장판 캐릭터 팝 스토어 굿즈도 들어와요.\n공식: https:/
- /bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html\n자세히:
-  https://quietjapan.github.io/japan-events-test/i/11n8fko/
-URL:https://quietjapan.github.io/japan-events-test/i/11n8fko/
-LOCATION:반다이남코 Cross Store 아트레 아키하바라점
-END:VEVENT
-BEGIN:VEVENT
 UID:1b5ec6x-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261126
 SUMMARY:낙원추방 마음의 레조넌스 POP UP SHOP
@@ -371,7 +282,7 @@ LOCATION:MEDICOS SHOP 신주쿠 (신주쿠 마루이 아넥스 2층)
 END:VEVENT
 BEGIN:VEVENT
 UID:1ncpl48-2026-11-14@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261130
 SUMMARY:생큐피치·하이퍼인플레이션 POP UP SHOP
@@ -384,22 +295,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/1ncpl48/
 LOCATION:MEDICOS SHOP 신주쿠 (신주쿠 마루이 아넥스 2층)
 END:VEVENT
 BEGIN:VEVENT
-UID:dungeon-meshi-volks-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261124
-SUMMARY:던전밥 POP UP SHOP in 볼크스 (아키하바라)
-DESCRIPTION:「던전밥」 '우편배달' 콘셉트 새 일러스트 굿
- 즈를 먼저 파는 팝업이에요. 2\,000엔마다 브로마이드 특
- 전이 있고\, 이후 오사카에서도 열려요.\n공식: https://prti
- mes.jp/main/html/rd/p/000009694.000016064.html\n자세히: https://quietja
- pan.github.io/japan-events-test/i/dungeon-meshi-volks/
-URL:https://quietjapan.github.io/japan-events-test/i/dungeon-meshi-volks/
-LOCATION:볼크스 아키하바라 호비 천국2 6층
-END:VEVENT
-BEGIN:VEVENT
 UID:trigun-shinjuku-2026-11-12@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261126
 SUMMARY:TRIGUN STARGAZE POP UP SHOP (신주쿠 마켓 스페이스 · eeo)
@@ -414,7 +311,7 @@ LOCATION:JR 신주쿠역 중앙동쪽 개찰구 밖 신주쿠 마켓 스페
 END:VEVENT
 BEGIN:VEVENT
 UID:drstone-shinjuku-2026-11-26@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261210
 SUMMARY:Dr.STONE POP UP SHOP (신주쿠 마켓 스페이스 · eeo)
@@ -428,7 +325,7 @@ LOCATION:JR 신주쿠역 중앙동쪽 개찰구 밖 신주쿠 마켓 스페
 END:VEVENT
 BEGIN:VEVENT
 UID:mushishi-zenon-2026-10-31@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261201
 SUMMARY:충사전 도쿄 개선전/FINAL (키치조지 · 갤러리 제논)
@@ -442,7 +339,7 @@ LOCATION:GALLERY ZENON (키치조지)
 END:VEVENT
 BEGIN:VEVENT
 UID:otonapi-medicos-shinjuku-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261125
 SUMMARY:『얌전해 보이는 남자의 엄청난 비밀을 알아버렸
@@ -458,7 +355,7 @@ LOCATION:MEDICOS SHOP 신주쿠 (신주쿠 마루이 아넥스 2층)
 END:VEVENT
 BEGIN:VEVENT
 UID:sugoinu-popup-shibuya-2026-11-19@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261201
 SUMMARY:스고이누 첫 POP UP (시부야 모디)
@@ -471,7 +368,7 @@ LOCATION:시부야 모디 1층
 END:VEVENT
 BEGIN:VEVENT
 UID:umineko-ikebukuro-2026-11-25@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261209
 SUMMARY:괭이갈매기 울 적에 POP UP SHOP (이케부쿠로 스키마 
@@ -486,7 +383,7 @@ LOCATION:JR 이케부쿠로역 지하 중앙통로 중앙개찰구 앞 이
 END:VEVENT
 BEGIN:VEVENT
 UID:pichipichipitch-eeo-2026-11-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261210
 SUMMARY:머메이드 멜로디 피치피치핏치 POP UP (eeo POP-UP STORE)
@@ -499,50 +396,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/pichipichipitch-eeo/
 LOCATION:eeo POP-UP STORE (이케부쿠로)
 END:VEVENT
 BEGIN:VEVENT
-UID:tokrev-shinjuku-marui-2026-11-14@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261124
-SUMMARY:도쿄 리벤저스 POP UP SHOP (신주쿠 마루이 아넥스)
-DESCRIPTION:TV 애니메이션 「도쿄 리벤저스」 팝업으로 미
- 니캐릭터 굿즈 등이 나와요. 구매 금액에 따라 브로마이
- 드 특전과 당첨 경품이 있어요.\n공식: https://www.the-chara.c
- om/blog/?p=123731\n자세히: https://quietjapan.github.io/japan-events-te
- st/i/tokrev-shinjuku-marui/
-URL:https://quietjapan.github.io/japan-events-test/i/tokrev-shinjuku-marui/
-LOCATION:신주쿠 마루이 아넥스 2층
-END:VEVENT
-BEGIN:VEVENT
-UID:urara-meirocho-kirara-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261124
-SUMMARY:우라라 미로첩 POP UP SHOP (신주쿠 · 키라라&FUZ 오피
- 셜 스토어)
-DESCRIPTION:「우라라 미로첩」 새 일러스트 굿즈 팝업이에
- 요. 1\,000엔마다 일러스트 카드 특전이 있고\, 첫날은 추
- 첨 입장이에요.\n공식: https://kirara-fuz-store.jp/event/urara/\n
- 자세히: https://quietjapan.github.io/japan-events-test/i/urara-meirocho
- -kirara/
-URL:https://quietjapan.github.io/japan-events-test/i/urara-meirocho-kirara/
-LOCATION:키라라&FUZ 오피셜 스토어 (신주쿠 마루이 아넥스 2
- 층)
-END:VEVENT
-BEGIN:VEVENT
-UID:b0qiik-2026-11-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:오이 경마장 플리마켓 (Tokyo City Flea Market)
-DESCRIPTION:오이 경마장에서 열리는 플리마켓 'Tokyo City Flea 
- Market'이에요.\n공식: https://trx.jp/\n자세히: https://quietjapan.
- github.io/japan-events-test/i/b0qiik/
-URL:https://quietjapan.github.io/japan-events-test/i/b0qiik/
-LOCATION:오이 경마장 제1주차장
-END:VEVENT
-BEGIN:VEVENT
 UID:b0qiik-2026-11-28@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:오이 경마장 플리마켓 (Tokyo City Flea Market)
@@ -554,7 +409,7 @@ LOCATION:오이 경마장 제1주차장
 END:VEVENT
 BEGIN:VEVENT
 UID:b0qiik-2026-11-29@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:오이 경마장 플리마켓 (Tokyo City Flea Market)
@@ -566,7 +421,7 @@ LOCATION:오이 경마장 제1주차장
 END:VEVENT
 BEGIN:VEVENT
 UID:gbc-animetokyo-2026-11-14@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20270201
 SUMMARY:걸즈 밴드 크라이 특별 기획전 (이케부쿠로 · 아니
@@ -581,7 +436,7 @@ LOCATION:아니메 도쿄 스테이션 (이케부쿠로)
 END:VEVENT
 BEGIN:VEVENT
 UID:yqlu9b-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261207
 SUMMARY:超 다마고치 축제 in 시부하라
@@ -595,7 +450,7 @@ LOCATION:도큐플라자 하라주쿠 「하라카도」 4층 MAZE 외
 END:VEVENT
 BEGIN:VEVENT
 UID:jv6aii-2026-11-20@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261130
 SUMMARY:GA문고 20주년 기념 POP UP SHOP (후반)
@@ -609,39 +464,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/jv6aii/
 LOCATION:코토부키야 아키하바라관 2F
 END:VEVENT
 BEGIN:VEVENT
-UID:jebbw9-2026-11-06@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261124
-SUMMARY:카드파이트!! 뱅가드 Divinez 시리즈 완결 기념 POP UP 
- STORE
-DESCRIPTION:『카드파이트!! 뱅가드 Divinez』 완결 기념 팝업
- 이에요. 'After Party ver.' 새 일러스트 굿즈를 팔고\, 구매 
- 특전으로 PR 카드를 줘요.\n공식: https://prtimes.jp/main/html/rd
- /p/000009749.000014827.html\n자세히: https://quietjapan.github.io/japan
- -events-test/i/jebbw9/
-URL:https://quietjapan.github.io/japan-events-test/i/jebbw9/
-LOCATION:뱅가드 스토어 (AKIHABARA 게이머즈 4층)\, 애니메이
- 트 이케부쿠로 본점·아키하바라·시부야·신주쿠 외
-END:VEVENT
-BEGIN:VEVENT
-UID:kusuriya-sweetspara3-harajuku-2026-10-30@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261124
-SUMMARY:약사의 혼잣말 × 스위츠 파라다이스 제3탄 (SoLaDo 
- 하라주쿠점)
-DESCRIPTION:「약사의 혼잣말」 스위파라 콜라보카페 제3탄
- 이에요.\n공식: https://www.sweets-paradise.jp/collaboration/kusuriyan
- ohitorigoto3\n자세히: https://quietjapan.github.io/japan-events-test/i/
- kusuriya-sweetspara3-harajuku/
-URL:https://quietjapan.github.io/japan-events-test/i/kusuriya-sweetspara3-h
- arajuku/
-LOCATION:스위츠 파라다이스 SoLaDo 하라주쿠점
-END:VEVENT
-BEGIN:VEVENT
 UID:chainsawman-plaza-reze-shibuya-loft-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261130
 SUMMARY:CHAINSAW MAN PLAZA 레제편 (시부야 로프트)
@@ -655,39 +479,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/chainsawman-plaza-reze
 LOCATION:시부야 로프트 6층 아트&컬처 플로어 포럼A
 END:VEVENT
 BEGIN:VEVENT
-UID:lycoris-recoil-popup-shinjuku-marui-2026-2026-11-14@quietjapan.github.i
- o
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261124
-SUMMARY:리코리스 리코일 POP UP SHOP in 마루이 (신주쿠 마루
- 이 멘·폰초 스타일)
-DESCRIPTION:『리코리스 리코일』 폰초 스타일 팝업이에요. 
- 신주쿠 마루이 멘에서 열려요. 입장 무료\, 3\,000엔 이상 
- 구매 시 추첨회가 있어요.\n공식: https://event.amnibus.com/lyco
- ris-recoil-0101-2026/\n자세히: https://quietjapan.github.io/japan-event
- s-test/i/lycoris-recoil-popup-shinjuku-marui-2026/
-URL:https://quietjapan.github.io/japan-events-test/i/lycoris-recoil-popup-s
- hinjuku-marui-2026/
-LOCATION:신주쿠 마루이 멘 8층
-END:VEVENT
-BEGIN:VEVENT
-UID:chiipoke-popup4-ikebukuro-2026-10-24@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261124
-SUMMARY:치이카와 포켓 POP UP STORE 제4탄 (이케부쿠로 PARCO)
-DESCRIPTION:치이카와 게임 앱 「치이카와 포켓」의 팝업스
- 토어 제4탄이에요.\n공식: https://jp.chiikawa-pocket.com/ja/news/2
- 6103071/\n자세히: https://quietjapan.github.io/japan-events-test/i/chii
- poke-popup4-ikebukuro/
-URL:https://quietjapan.github.io/japan-events-test/i/chiipoke-popup4-ikebuk
- uro/
-LOCATION:이케부쿠로 PARCO 본관 6F 0% IKEBUKURO
-END:VEVENT
-BEGIN:VEVENT
 UID:chiikawa-park-xmas-2026-2026-11-20@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261226
 SUMMARY:치이카와 파크 크리스마스 (이케부쿠로 선샤인시
@@ -702,7 +495,7 @@ LOCATION:선샤인시티 아넥스 B1F·1F 치이카와 파크
 END:VEVENT
 BEGIN:VEVENT
 UID:jujutsu-yomiuriland-2026-2026-11-06@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261214
 SUMMARY:주술회전 「사멸회유」 × 요미우리랜드·HANA·BIYORI
@@ -717,7 +510,7 @@ LOCATION:요미우리랜드 · HANA·BIYORI (이나기시)
 END:VEVENT
 BEGIN:VEVENT
 UID:jujutsu-kanketsuten-shinjuku-2026-12-25@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20270126
 SUMMARY:아쿠타미 게게 『주술회전』 완결전 (신주쿠)
@@ -731,7 +524,7 @@ LOCATION:신주쿠 스미토모 빌딩 삼각광장
 END:VEVENT
 BEGIN:VEVENT
 UID:horimiya-cafe-ikebukuro-2026-10-14@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261228
 SUMMARY:호리미야 CAFE 가타기리 고교 문화제 (이케부쿠로)
@@ -744,7 +537,7 @@ LOCATION:motto cafe 이케부쿠로점
 END:VEVENT
 BEGIN:VEVENT
 UID:persona-memoria-crossstore-tokyo-2026-10-09@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261207
 SUMMARY:PERSONA Memoria (반다이남코 Cross Store 도쿄)
@@ -758,23 +551,8 @@ LOCATION:반다이남코 Cross Store 도쿄 (이케부쿠로 선샤인시
  티)
 END:VEVENT
 BEGIN:VEVENT
-UID:maruko-popup-marukorou-hibiya-2026-10-30@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261124
-SUMMARY:마루코는 아홉살 팝업스토어 「MARUKO楼」 (히비야)
-DESCRIPTION:「마루코는 아홉살」 중국풍 아트 신상품 위주
- 로 잡화·옷을 파는 팝업이에요. 2\,000엔마다 트레이딩 
- 카드 1장을 줘요.\n공식: https://www.chibimaru.tv/news/entry/2026/0
- 08462.html\n자세히: https://quietjapan.github.io/japan-events-test/i/ma
- ruko-popup-marukorou-hibiya/
-URL:https://quietjapan.github.io/japan-events-test/i/maruko-popup-marukorou
- -hibiya/
-LOCATION:히비야 샹테 1층 키하치 카페 앞 특설 회장
-END:VEVENT
-BEGIN:VEVENT
 UID:meicho-gratte3-tokyo-2026-10-30@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261130
 SUMMARY:명조 × 애니메이트 그라테 제3탄 (도쿄)
@@ -789,7 +567,7 @@ LOCATION:애니메이트 그라테 이케부쿠로 본점·아키하바라
 END:VEVENT
 BEGIN:VEVENT
 UID:servamp-idol-popup-amnibus-white-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261130
 SUMMARY:서뱀프 「아이돌」 팝업 (시부야)
@@ -802,7 +580,7 @@ LOCATION:시부야 MODI 4층 AMNIBUS STORE -white-
 END:VEVENT
 BEGIN:VEVENT
 UID:heavylover-popup-medicos-shinjuku-2026-11-19@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261201
 SUMMARY:지뢰계 헤비급 러버 팝업 (신주쿠)
@@ -817,7 +595,7 @@ LOCATION:MEDICOS SHOP 신주쿠 (신주쿠 마루이 아넥스 2층)
 END:VEVENT
 BEGIN:VEVENT
 UID:hetalia-mixx-garden-2611-ikebukuro-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261214
 SUMMARY:헤타리아 World★Stars × mixx garden 콜라보 카페 (이케
@@ -832,7 +610,7 @@ LOCATION:mixx garden 이케부쿠로점 (THE KINDAI 1 IKEBUKURO 4층)
 END:VEVENT
 BEGIN:VEVENT
 UID:kamen-rider-55th-exhibition-yomiuriland-2026-11-21@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20270112
 SUMMARY:가면라이더 55주년 기념 전시 「고고 레츠고! 가면
@@ -848,7 +626,7 @@ LOCATION:요미우리랜드 굿조바 스페이스
 END:VEVENT
 BEGIN:VEVENT
 UID:boukyaku-battery-sharecafe-harakado-2026-12-25@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20270112
 SUMMARY:망각 배터리 콜라보 카페 (하라주쿠 하라카도)
@@ -864,7 +642,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-chocoyaba-exhibition-parco-factory-2026-11-06@quietjapan.github.i
  o
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261201
 SUMMARY:쵸콧토 야바시티展 (이케부쿠로 PARCO FACTORY)
@@ -878,23 +656,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/tokyo-chocoyaba-exhibi
 LOCATION:이케부쿠로 PARCO 본관 7층 PARCO FACTORY
 END:VEVENT
 BEGIN:VEVENT
-UID:19shq6l-2026-11-06@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261124
-SUMMARY:아이돌마스터 밀리언 라이브! ARC-FLAGS 팝업 코너 (
- 코토부키야 아키하바라관)
-DESCRIPTION:밀리언 라이브 유닛 ARC-FLAGS(도코로 메구미·마
- 이하마 아유무·마카베 미즈키) 새로 그린 일러스트 굿
- 즈 판매와 등신대 패널 전시가 있어요.\n공식: https://www.k
- otobukiya.co.jp/event/detail/1357/\n자세히: https://quietjapan.github.i
- o/japan-events-test/i/19shq6l/
-URL:https://quietjapan.github.io/japan-events-test/i/19shq6l/
-LOCATION:코토부키야 아키하바라관 1층
-END:VEVENT
-BEGIN:VEVENT
 UID:c20k22-2026-10-15@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261217
 SUMMARY:귀멸의 칼날 '귀습래 재래 2026' (ufotable DINING 외)
@@ -907,23 +670,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/c20k22/
 LOCATION:ufotable DINING·DINING-HIROMA-·MOCKTAIL BAR GINZA
 END:VEVENT
 BEGIN:VEVENT
-UID:n53hp1-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261124
-SUMMARY:무대 『도검난무』 × 애니메이트 10주년 기념 콜라
- 보숍
-DESCRIPTION:무대 『도검난무』 10주년 기념 콜라보숍이에요
- . 애니메이트 앞치마 차림 도검남사 스탠디 전시와 무대
-  사진 전시\, 굿즈 판매가 있어요.\n공식: https://www.animate.
- co.jp/onlyshop/51070/\n자세히: https://quietjapan.github.io/japan-event
- s-test/i/n53hp1/
-URL:https://quietjapan.github.io/japan-events-test/i/n53hp1/
-LOCATION:애니메이트 이케부쿠로 본점 7층 SOUTH
-END:VEVENT
-BEGIN:VEVENT
 UID:k6wue3-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261127
 SUMMARY:봇치 더 록! POP UP Winter 2026/2027 (아트레 아키하바라)
@@ -936,40 +684,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/k6wue3/
 LOCATION:아트레 아키하바라 1·2층 특설회장
 END:VEVENT
 BEGIN:VEVENT
-UID:8wwso9-2026-10-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261124
-SUMMARY:야마부키 축제 in NAMJATOWN (신 테니스의 왕자)
-DESCRIPTION:『신 테니스의 왕자』 야마부키 중학교 콜라보
- 가 난자타운에서 다시 열려요. 콜라보 푸드와 굿즈\, 경
- 품이 있어요.\n공식: https://event.bandainamco-am.co.jp/namja/yamabu
- kimaturi/\n자세히: https://quietjapan.github.io/japan-events-test/i/8ww
- so9/
-URL:https://quietjapan.github.io/japan-events-test/i/8wwso9/
-LOCATION:난자타운 (이케부쿠로 선샤인시티)
-END:VEVENT
-BEGIN:VEVENT
-UID:tokyo-sakamoto-days-popup-street-asakusa-2026-11-06@quietjapan.github.i
- o
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261124
-SUMMARY:SAKAMOTO DAYS POP UP STREET in 아사쿠사
-DESCRIPTION:아사쿠사 상점가 전체에서 『사카모토 데이즈
- 』 이벤트를 해요. 대상 점포에서 1\,000엔 이상 사면 명
- 함 사이즈 카드(전 5종)를 선착순으로 줘요.\n공식: https:/
- /event.amnibus.com/sakamotodays-asakusaomatsuri/\n자세히: https://quiet
- japan.github.io/japan-events-test/i/tokyo-sakamoto-days-popup-street-asaku
- sa/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-sakamoto-days-po
- pup-street-asakusa/
-LOCATION:오쿠야마 오마이리마치 상점가·아사쿠사 니시산
- 도 상점가 (특설 POP UP: 마에다 빌딩 1F)
-END:VEVENT
-BEGIN:VEVENT
 UID:38xisg-2026-11-02@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261210
 SUMMARY:아이돌리쉬 세븐 Harmony Lounge / DREAMY ICE CREAMERY (애니
@@ -984,7 +700,7 @@ LOCATION:애니메이트 카페 이케부쿠로 2호점 (aune 이케부쿠
 END:VEVENT
 BEGIN:VEVENT
 UID:bxsqtt-2026-11-05@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261130
 SUMMARY:TV애니 『지박소년 하나코 군 2』 × DECOTTO by animate c
@@ -998,7 +714,7 @@ LOCATION:DECOTTO by animate cafe (이케부쿠로 PACKS 1층)
 END:VEVENT
 BEGIN:VEVENT
 UID:i2aysd-2026-11-06@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261130
 SUMMARY:마남의 이치 × 애니메이트 카페 스탠드 Hareza 이케
@@ -1013,7 +729,7 @@ LOCATION:애니메이트 카페 스탠드 Hareza 이케부쿠로 (나카이
 END:VEVENT
 BEGIN:VEVENT
 UID:v2j1gr-2026-11-19@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261211
 SUMMARY:「ALIEN STAGE」 EXHIBITION × 애니메이트 카페 (이케부
@@ -1027,21 +743,8 @@ LOCATION:애니메이트 카페 이케부쿠로 (이케부쿠로 PACKS 7·8
  층)
 END:VEVENT
 BEGIN:VEVENT
-UID:1h5z5eo-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261124
-SUMMARY:Paradox Live 7th POP-UP "DOPE WORLD" (도쿄 애니메 센터)
-DESCRIPTION:『파라독스 라이브』 7주년 팝업이에요. 신상품
-  선행 판매와 4th SEASON 전시 구역(유료)이 있어요.\n공식: 
- https://paradoxlive.jp/news/detail.php?id=1136572\n자세히: https://quie
- tjapan.github.io/japan-events-test/i/1h5z5eo/
-URL:https://quietjapan.github.io/japan-events-test/i/1h5z5eo/
-LOCATION:도쿄 애니메 센터 (시부야 MODI 2층)
-END:VEVENT
-BEGIN:VEVENT
 UID:pgmjlk-2026-10-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20270118
 SUMMARY:우케쓰의 이상한 세계전。 (데라다 창고 G1빌딩)
@@ -1054,7 +757,7 @@ LOCATION:데라다 창고 G1빌딩 (시나가와구 히가시시나가와)
 END:VEVENT
 BEGIN:VEVENT
 UID:gi2kcz-2026-10-30@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261125
 SUMMARY:아이돌마스터 샤이니 컬러즈 × 스위츠 파라다이스
@@ -1068,7 +771,7 @@ LOCATION:COLLABO PARADISE 신주쿠 마루이 아넥스점
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-lovelive-bluebird-winterdate-tac-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261130
 SUMMARY:이키즈라이브! 러브라이브! BLUEBIRD 팝업 ~Winter♡Date
@@ -1084,7 +787,7 @@ LOCATION:도쿄 애니메 센터 in DNP PLAZA SHIBUYA (시부야 MODI 2층)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-chocoyaba-gratte-mzyb-2026-11-12@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261207
 SUMMARY:쵸콧토 야바시티 × 그라테 (도쿄 애니메이트 4곳)
@@ -1099,7 +802,7 @@ LOCATION:애니메이트 이케부쿠로 본점·아키하바라 ANNEX·시
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-saiki-psychic-diner-2026-11-06@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261130
 SUMMARY:사이키 쿠스오의 재난 콜라보 카페 「ΨCHIC DINER」 (
@@ -1115,7 +818,7 @@ LOCATION:캐라움 카페 (이케부쿠로 마루빌 4층)
 END:VEVENT
 BEGIN:VEVENT
 UID:12b9ptq-2026-11-26@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261222
 SUMMARY:「명탐정 코난 다이너」 개업 기념 POP UP SHOP (시부
@@ -1132,7 +835,7 @@ LOCATION:시부야 스트림 3층 이벤트 스페이스
 END:VEVENT
 BEGIN:VEVENT
 UID:1e64kj2-2026-11-14@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261130
 SUMMARY:호오즈키의 냉철 연재 15주년 기념 애니메이트 특
@@ -1146,42 +849,9 @@ URL:https://quietjapan.github.io/japan-events-test/i/1e64kj2/
 LOCATION:애니메이트 이케부쿠로 본점
 END:VEVENT
 BEGIN:VEVENT
-UID:tokyo-sirotan-kanahei-popup-yurakucho-marui-2026-11-07@quietjapan.githu
- b.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261124
-SUMMARY:시로탄 × 카나헤이의 소동물 POP UP SHOP
-DESCRIPTION:「시로탄」과 「카나헤이의 소동물」 첫 콜라
- 보 팝업이에요. 콜라보 굿즈를 3\,300엔(세금 포함) 이상 
- 사면 한정 엽서를 선착순으로 1장 줘요. 캐릭터 그리팅
- 도 있어요.\n공식: https://prtimes.jp/main/html/rd/p/000000193.000047
- 389.html\n자세히: https://quietjapan.github.io/japan-events-test/i/toky
- o-sirotan-kanahei-popup-yurakucho-marui/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-sirotan-kanahei-
- popup-yurakucho-marui/
-LOCATION:유라쿠초 마루이 8층 이벤트 스페이스
-END:VEVENT
-BEGIN:VEVENT
-UID:tokyo-mahoako-popup-kotobukiya-akihabara-2026-11-13@quietjapan.github.i
- o
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261124
-SUMMARY:마법소녀를 동경해서 POP UP CORNER in 고토부키야
-DESCRIPTION:TV 애니 「마법소녀를 동경해서」 팝업 코너예
- 요. 신작 굿즈를 팔고\, 신상품 2\,200엔(세금 포함)마다 
- 일러스트 카드(전 9종) 1장을 랜덤으로 줘요.\n공식: https:
- //www.kotobukiya.co.jp/event/detail/1403/\n자세히: https://quietjapan.g
- ithub.io/japan-events-test/i/tokyo-mahoako-popup-kotobukiya-akihabara/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-mahoako-popup-ko
- tobukiya-akihabara/
-LOCATION:고토부키야 아키하바라관 5층 이벤트 플로어
-END:VEVENT
-BEGIN:VEVENT
 UID:tokyo-shinymas-283-popup-bushiroad-akihabara-2026-11-27@quietjapan.gith
  ub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261214
 SUMMARY:283PRODUCTION POP UP SHOP ~미소\, 그 영겁의 빛~ (샤니마
@@ -1198,7 +868,7 @@ LOCATION:부시로드 크리에이티브 스토어 아키하바라 본점 (
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-mairuma-animate-fair-2026-2026-12-05@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261221
 SUMMARY:마계 입문했습니다! 이루마 군 애니메이트 페어
@@ -1214,7 +884,7 @@ LOCATION:애니메이트 이케부쿠로 본점·아키하바라점
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-graniph-chainsawman-reze-collab-2026-11-03@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261201
 SUMMARY:그라니프 × 극장판 체인소맨 레제편 콜라보 (굿즈
@@ -1232,25 +902,8 @@ LOCATION:그라니프 도쿄 2F 그라니프 카페 (시부야구 진구마
  에 4-25-13) · 굿즈는 그라니프 국내 매장·공식 온라인
 END:VEVENT
 BEGIN:VEVENT
-UID:tokyo-revuestarlight-9th-onlyshop-akiba-2026-11-06@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261124
-SUMMARY:소녀☆가극 레뷰 스타라이트 9주년 기념 페어 온리
- 숍
-DESCRIPTION:「레뷰 스타라이트」 9주년 기념 온리숍이 애니
- 메이트 아키하바라에서 열려요. 같은 기간 전국 애니메
- 이트 각 점포에서 9주년 기념 페어와 스탬프 랠리도 함
- 께 진행돼요.\n공식: https://www.animate.co.jp/onlyshop/48795/\n자
- 세히: https://quietjapan.github.io/japan-events-test/i/tokyo-revuestarli
- ght-9th-onlyshop-akiba/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-revuestarlight-9
- th-onlyshop-akiba/
-LOCATION:애니메이트 아키하바라 2호관 7F
-END:VEVENT
-BEGIN:VEVENT
 UID:tokyo-moment-ameiro-11th-cafe-ikebukuro-2026-11-11@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261126
 SUMMARY:밤부 코믹스 moment×아메이로 창간 11주년 콜라보 카
@@ -1267,7 +920,7 @@ LOCATION:THE캬라 CAFÉ 그랜드스케이프 이케부쿠로점 2F
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-tokrev-bloomfate-stellamap-cafe-2026-11-12@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261201
 SUMMARY:TV 애니메이션 도쿄 리벤저스 BloomFate in STELLAMAP Cafe
@@ -1283,7 +936,7 @@ LOCATION:STELLAMAP Cafe (아키하바라)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-utsuranaindesu-popup-kinokuniya-2026-11-18@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261214
 SUMMARY:우츠라나인데스 POP UP SHOP in 기노쿠니야 서점
@@ -1300,7 +953,7 @@ LOCATION:기노쿠니야 서점 신주쿠 본점 8F
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-fairytail-20th-gratte-2026-11-02@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261130
 SUMMARY:20th 페어리 테일 -카페 리바이벌- × 그라테 (도쿄)
@@ -1316,7 +969,7 @@ LOCATION:애니메이트 그라테 이케부쿠로 본점·아키하바라
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-voising-tarot-fair-shibuya-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261130
 SUMMARY:VOISING Tarot Fair -The Arcana Collection- 온리숍 (애니메이
@@ -1332,7 +985,7 @@ LOCATION:애니메이트 시부야점
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-gundam-ace-25th-akiba-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261207
 SUMMARY:건담 에이스 25주년 온리숍 (애니메이트 아키하바
@@ -1347,25 +1000,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/tokyo-gundam-ace-25th-
 LOCATION:애니메이트 아키하바라점 2호관 6층
 END:VEVENT
 BEGIN:VEVENT
-UID:tokyo-nikke-seasons-lofi-ikebukuro-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261124
-SUMMARY:승리의 여신: 니케 SEASONS in Lo-fi 온리숍 (애니메이
- 트 이케부쿠로 본점)
-DESCRIPTION:『승리의 여신: 니케』 Lo-fi 테마 온리숍이에요.
-  도로시·리틀 머메이드·크라운·나유타 굿즈와 타페스
- 트리\, 블랭킷 등을 팔아요.\n공식: https://www.animate.co.jp/on
- lyshop/49846/\n자세히: https://quietjapan.github.io/japan-events-test/i
- /tokyo-nikke-seasons-lofi-ikebukuro/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-nikke-seasons-lo
- fi-ikebukuro/
-LOCATION:애니메이트 이케부쿠로 본점 5층 새틀라이트 스페
- 이스
-END:VEVENT
-BEGIN:VEVENT
 UID:tokyo-mojibakeka-star-wandering-2026-11-20@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261214
 SUMMARY:모지바케카 Star Wandering 온리숍 응원점 (도쿄)
@@ -1380,7 +1016,7 @@ LOCATION:애니메이트 이케부쿠로 본점 (응원점)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-manosaba-winter-onlyshop-akiba-2026-12-12@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20270104
 SUMMARY:마법소녀의 마녀재판 윈터 온리숍 (애니메이트 아
@@ -1397,7 +1033,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-goldenkamuy-sanrio-popup-kiddyland-2026-11-13@quietjapan.github.i
  o
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261127
 SUMMARY:골든 카무이 × 산리오 캐릭터즈 POP UP SHOP (도쿄)
@@ -1412,7 +1048,7 @@ LOCATION:키디랜드 하라주쿠점·신주쿠점
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-tokrev-check-gigo-popup-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261125
 SUMMARY:도쿄 리벤저스 GiGO POP UP SHOP 체크 ver. (도쿄)
@@ -1427,7 +1063,7 @@ LOCATION:GiGO 총본점 (아키하바라)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-medarot-collabocafe-honpo-2026-11-20@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261214
 SUMMARY:메다로트 × 콜라보 카페 본포 (도쿄)
@@ -1441,7 +1077,7 @@ LOCATION:콜라보 카페 본포 아키하바라점
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-tougenanki-special-popup-baseyard-2026-10-30@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261201
 SUMMARY:도원암귀 SPECIAL POPUP at 베이스야드 도쿄 (도쿄)
@@ -1458,7 +1094,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-hunterxhunter-neon-diner-animatecafe-2026-11-13@quietjapan.github
  .io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261216
 SUMMARY:헌터×헌터 NEON DINER 콜라보 카페 (애니메이트 카페 
@@ -1473,30 +1109,9 @@ URL:https://quietjapan.github.io/japan-events-test/i/tokyo-hunterxhunter-ne
 LOCATION:애니메이트 카페 이케부쿠로 3호점
 END:VEVENT
 BEGIN:VEVENT
-UID:tokyo-nakano-suginami-toshima-animanga-fes-toshima-2026-11-01@quietjapa
- n.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261124
-SUMMARY:나카노×스기나미×도시마 애니·만화 페스 2026 in 
- 도시마 (도키와장 4컷 만화 대상 전시 + 3구 디지털 스탬
- 프 랠리)
-DESCRIPTION:만화의 성지 도키와장 동네에서 열리는 애니·
- 만화 페스예요. 「도키와장 마을 4컷 만화 대상」 수상
- 작을 전시하고\, 3구의 디자인 맨홀·애니 스폿을 도는 
- 디지털 스탬프 랠리도 있어요.\n공식: https://www.city.toshima
- .lg.jp/424/miryoku/gyoji/manga_anime_fes.html\n자세히: https://quietjap
- an.github.io/japan-events-test/i/tokyo-nakano-suginami-toshima-animanga-fe
- s-toshima/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-nakano-suginami-
- toshima-animanga-fes-toshima/
-LOCATION:도키와장 만화 뮤지엄·도키와장 거리 쇼와 레트
- 로관 (미나미나가사키)
-END:VEVENT
-BEGIN:VEVENT
 UID:tokyo-summer-pockets-popup-volks-akiba-vol2-2026-11-13@quietjapan.githu
  b.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261130
 SUMMARY:TV 애니메이션 『Summer Pockets』 POP UP SHOP vol.Ⅱ (보크
@@ -1514,7 +1129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-mushoku-tensei-dasoku-onlyshop-ikebukuro-2026-11-28@quietjapan.gi
  thub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261214
 SUMMARY:『무직전생 ~사족편~』 완결 기념 온리숍 (애니메
@@ -1533,7 +1148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-heroaca-10th-bones-popup-ikebukuro-packs-2026-11-07@quietjapan.gi
  thub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261130
 SUMMARY:히로아카 애니 10주년 × bones store POP UP (이케부쿠로
@@ -1550,7 +1165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-shinycolors-yujofumetsu-shibuya-tsutaya-2026-11-11@quietjapan.git
  hub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261201
 SUMMARY:샤니마스 【우정불멸선언】 POP UP SHOP (시부야 츠타
@@ -1567,7 +1182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-aonohako-sanrio-premiumshop-ikebukuro-2026-11-20@quietjapan.githu
  b.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261217
 SUMMARY:아오의 하코 × 산리오 캐릭터즈 PremiumShop (이케부
@@ -1583,25 +1198,8 @@ LOCATION:POP Culture Style IKEBUKURO (이케부쿠로 스퀘어 au Style
  내 2층)
 END:VEVENT
 BEGIN:VEVENT
-UID:tokyo-kimetsu-rerun-cafe-mugen-train-2-2026-11-03@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261124
-SUMMARY:귀멸의 칼날 전편 재방송 콜라보 카페 ~맺은 인연~ 
- 무한열차편 2기 (도쿄)
-DESCRIPTION:「귀멸의 칼날」 재방송 연동 콜라보 카페 무한
- 열차편 2기예요. 상현 3·렌고쿠 테마 메뉴와 굿즈가 나
- 와요.\n공식: https://www.ufotable.co.jp/cafe/reservation/\n자세히: 
- https://quietjapan.github.io/japan-events-test/i/tokyo-kimetsu-rerun-cafe-
- mugen-train-2/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-kimetsu-rerun-ca
- fe-mugen-train-2/
-LOCATION:ufotable Cafe Tokyo / 마치★아소비 CAFE 도쿄 (나카노구
-  노가타)
-END:VEVENT
-BEGIN:VEVENT
 UID:tokyo-rilakkuma-haikyu-popup-harajuku-2026-11-20@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261207
 SUMMARY:리락쿠마×하이큐!! POP UP STORE (베이스야드 도쿄 하
@@ -1616,25 +1214,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/tokyo-rilakkuma-haikyu
 LOCATION:베이스야드 도쿄 하라주쿠점
 END:VEVENT
 BEGIN:VEVENT
-UID:tokyo-estherbunny-mymelody-popup-lumine-est-2026-11-11@quietjapan.githu
- b.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261124
-SUMMARY:에스더 버니 × 마이멜로디 POP-UP STORE (루미네 에스
- 트 신주쿠)
-DESCRIPTION:에스더 버니(리본 버니)×마이멜로디 팝업이에
- 요. 스쿨라이프·유원지 테마 포토 스폿과 파우치·마스
- 코트 등 굿즈가 있어요.\n공식: https://www.characters-collab.net
- /estherbunny_mymelody/\n자세히: https://quietjapan.github.io/japan-even
- ts-test/i/tokyo-estherbunny-mymelody-popup-lumine-est/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-estherbunny-myme
- lody-popup-lumine-est/
-LOCATION:루미네 에스트 신주쿠 B1 (JR 매표기 옆)
-END:VEVENT
-BEGIN:VEVENT
 UID:tokyo-cho-kaguyahime-tokyo-dome-city-2026-11-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20270104
 SUMMARY:초(超) 가구야 공주! × 도쿄 돔 시티 ~MEMORIAL WONDER LA
@@ -1650,7 +1231,7 @@ LOCATION:도쿄 돔 시티 어트랙션즈
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-noraneko-gundan-tobu-ikebukuro-2026-11-05@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261126
 SUMMARY:노라네코 군단(우당탕탕 야옹이) 고치소 파티 in TOB
@@ -1666,7 +1247,7 @@ LOCATION:도부백화점 이케부쿠로점 각 층
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-shingeki-western-popup-shibuya109-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261201
 SUMMARY:진격의 거인 POP UP STORE 웨스턴 아트 (SHIBUYA109 시부
@@ -1681,26 +1262,9 @@ URL:https://quietjapan.github.io/japan-events-test/i/tokyo-shingeki-western
 LOCATION:SHIBUYA109 시부야점 8층 WALLMA
 END:VEVENT
 BEGIN:VEVENT
-UID:tokyo-mobpsycho100-10th-popup-annivroad-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261124
-SUMMARY:모브사이코 100 Ⅲ 10주년 기념 POP UP SHOP 하오리×슈
- 트 ver. (Annivroad)
-DESCRIPTION:『모브사이코 100 Ⅲ』 방송 10주년 기념 팝업이
- 에요. 하오리×슈트 그려내리기 일러스트 굿즈와 프린트
-  포토를 즐겨요.\n공식: https://prtimes.jp/main/html/rd/p/000009849
- .000014827.html\n자세히: https://quietjapan.github.io/japan-events-test
- /i/tokyo-mobpsycho100-10th-popup-annivroad/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-mobpsycho100-10t
- h-popup-annivroad/
-LOCATION:Annivroad by Bushiroad Creative Store (신주쿠 마루이 아넥
- 스 2층)
-END:VEVENT
-BEGIN:VEVENT
 UID:tokyo-kabaneri-10th-popup-shinjuku-marui-2026-11-14@quietjapan.github.i
  o
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261125
 SUMMARY:갑철성의 카바네리 10주년 기념 POP UP SHOP (신주쿠 
@@ -1716,7 +1280,7 @@ LOCATION:신주쿠 마루이 아넥스 7층
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-lycoris-recoil-popup-machida-modi-2026-12-04@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261214
 SUMMARY:리코리스 리코일 POP UP SHOP in 마루이 (마치다 모디·
@@ -1733,7 +1297,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-hanamaruobake-tokyoeki-ichibanplaza-2026-11-13@quietjapan.github.
  io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261127
 SUMMARY:하나마루 오바케 POP-UP STORE (도쿄역 이치방가이)
@@ -1749,7 +1313,7 @@ LOCATION:도쿄역 이치방가이 B1F 도쿄 캐릭터 스트리트 이치
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-kinpri-popup-ikebukuro-loft-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261130
 SUMMARY:KING OF PRISM -Tri-Star Act- POP UP STORE in 로프트 (이케부
@@ -1766,7 +1330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-noragami-popup-kinokuniya-shinjuku-2026-11-13@quietjapan.github.i
  o
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261207
 SUMMARY:만화 『노라가미』 POP UP SHOP (기노쿠니야 신주쿠 
@@ -1783,7 +1347,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-daiya-act2-princesscafe-theaterterrace-2026-11-10@quietjapan.gith
  ub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261201
 SUMMARY:다이아의 A actⅡ × 프린세스카페 (카페 시어터테라
@@ -1800,7 +1364,7 @@ LOCATION:카페 시어터테라스 (선샤인시티 문화회관 4층·히
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-heroaca-keio-christmas-fair-2026-11-19@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261226
 SUMMARY:나의 히어로 아카데미아 크리스마스 페어 2026 (게
@@ -1816,7 +1380,7 @@ LOCATION:게이오 백화점 신주쿠점 (6F cafe AEL·B1F POP UP 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-kurobas-buratto-treevillage-2026-11-14@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261212
 SUMMARY:쿠로코의 농구 부라토 먹거리 산책 POP UP＆CAFE (트
@@ -1831,7 +1395,7 @@ LOCATION:트리비리지 도쿄점 (도쿄 솔라마치 웨스트야드 4F)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-hinatazaka46-cafe-shinjuku-dishup-2026-11-19@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20270118
 SUMMARY:히나타자카46 CAFE 2026 (신주쿠 DISH UP)
@@ -1846,7 +1410,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-hinatazaka46-cafe-harajuku-eightspace-2026-11-26@quietjapan.githu
  b.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20270125
 SUMMARY:히나타자카46 CAFE 2026 (하라주쿠 EIGHT SPACE)
@@ -1859,25 +1423,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/tokyo-hinatazaka46-caf
 LOCATION:EIGHT SPACE (하라주쿠)
 END:VEVENT
 BEGIN:VEVENT
-UID:tokyo-kaoruhana-eflower-popup-ueno-marui-2026-11-13@quietjapan.github.i
- o
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261124
-SUMMARY:薫る花は凛と咲く × E-flower POP UP SHOP (우에노 마루
- 이)
-DESCRIPTION:TV 애니 『薫る花は凛と咲く』 E-flower 신상품을 
- 우에노 마루이에서 선행 판매하는 팝업이에요.\n공식: ht
- tps://prtimes.jp/main/html/rd/p/000000364.000066407.html\n자세히: https
- ://quietjapan.github.io/japan-events-test/i/tokyo-kaoruhana-eflower-popup-
- ueno-marui/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-kaoruhana-eflowe
- r-popup-ueno-marui/
-LOCATION:우에노 마루이
-END:VEVENT
-BEGIN:VEVENT
 UID:tokyo-daimaru-mamegoma-popup-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261125
 SUMMARY:DAIMARU × まめゴマ 팝업스토어 (다이마루 도쿄)
@@ -1892,7 +1439,7 @@ LOCATION:다이마루 도쿄점 3층 이벤트 스페이스
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-bonobono-showcase-ginza-toypark-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261204
 SUMMARY:ぼのぼの 쇼케이스 @ 박품관 TOY PARK 긴자 (40th&10th)
@@ -1906,40 +1453,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/tokyo-bonobono-showcas
 LOCATION:박품관 TOY PARK 긴자 본점 2F 이벤트 스페이스
 END:VEVENT
 BEGIN:VEVENT
-UID:tokyo-starrail-aha-onlyshop-ikebukuro-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261124
-SUMMARY:『붕괴: 스타레일』星神★アッハ 구현 기념 온리
- 숍 (애니메이트 이케부쿠로)
-DESCRIPTION:『붕괴: 스타레일』 星神★アッハ 구현 기념 온
- 리숍 이케부쿠로 회장이에요. 가면 전시와 한정 굿즈가 
- 있어요.\n공식: https://www.animate.co.jp/onlyshop/49802/\n자세히: 
- https://quietjapan.github.io/japan-events-test/i/tokyo-starrail-aha-onlysh
- op-ikebukuro/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-starrail-aha-onl
- yshop-ikebukuro/
-LOCATION:애니메이트 이케부쿠로 본점 7F NORTH
-END:VEVENT
-BEGIN:VEVENT
-UID:tokyo-helluva-boss-mini-popup-ikebukuro-parco-2026-11-06@quietjapan.git
- hub.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261124
-SUMMARY:Helluva Boss mini POP UP STORE (이케부쿠로 파르코)
-DESCRIPTION:해외 애니 「Helluva Boss」 mini 팝업이에요. 이케
- 부쿠로 파르코 본관 6층 INFOLENS GEEK SHOP에서 열려요.\n공
- 식: https://prtimes.jp/main/html/rd/p/000000360.000092133.html\n자세히
- : https://quietjapan.github.io/japan-events-test/i/tokyo-helluva-boss-mini
- -popup-ikebukuro-parco/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-helluva-boss-min
- i-popup-ikebukuro-parco/
-LOCATION:INFOLENS GEEK SHOP 이케부쿠로 파르코 본관 6층
-END:VEVENT
-BEGIN:VEVENT
 UID:tokyo-given-cosmetic-popup-shibuya109-2026-11-07@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261128
 SUMMARY:기븐 COSMETIC COLLABORATION POPUP (SHIBUYA109)
@@ -1954,7 +1469,7 @@ LOCATION:SHIBUYA109 시부야점 8F DISP!!!
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-lotr-25th-popup-magnet-shibuya-2026-11-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261214
 SUMMARY:반지의 제왕 25주년 POP-UP STORE (시부야 MAGNET)
@@ -1969,7 +1484,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-yumeiro-patissiere-popup-yurakucho-marui-2026-11-27@quietjapan.gi
  thub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261207
 SUMMARY:꿈빛 파티시엘 POP UP SHOP in 마루이 (유라쿠초)
@@ -1984,7 +1499,7 @@ LOCATION:유라쿠초 마루이 7F
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-natsume-popup-tower-shinjuku-2026-11-20@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261130
 SUMMARY:나츠메 우인장 POP UP SHOP in TOWER RECORDS (신주쿠)
@@ -1999,7 +1514,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-milgram-minigram-popup-amnibus-green-2026-11-20@quietjapan.github
  .io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261209
 SUMMARY:『미니그램』 from MILGRAM POP UP in AMNIBUS STORE -green- vol
@@ -2014,7 +1529,7 @@ LOCATION:시부야 모디 3F / AMNIBUS STORE -green-
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-daiya-act2-popup-hmv-shibuya-2027-01-21@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270201
 SUMMARY:TV애니 『다이아의 A actⅡ -Second Season-』 POP UP SHOP (H
@@ -2031,7 +1546,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-spyfamily-masquerade-popup-shibuya-tsutaya-2026-12-10@quietjapan.
  github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261229
 SUMMARY:스파이 패밀리 POP UP SHOP -MASQUERADE- (시부야 츠타야 I
@@ -2048,7 +1563,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-kanokari-l-pachislot-popup-gamers-akihabara-2026-11-14@quietjapan
  .github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261130
 SUMMARY:L파치슬로 여친\, 빌리겠습니다 팝업스토어 (AKIHABAR
@@ -2065,7 +1580,7 @@ LOCATION:AKIHABARA 게이머즈 본점 7층
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-moriarty-sharecafe-yurakucho-2026-11-19@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261130
 SUMMARY:우국의 모리아티 콜라보 카페 (유라쿠초 마루이)
@@ -2080,7 +1595,7 @@ LOCATION:샤레 CAFE théâtre 유라쿠초 마루이점 (유라쿠초 마
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-lovelive-gigo-cafe-akihabara3-2026-11-21@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20270412
 SUMMARY:GiGO 콜라보 카페 아키하바라 3호관 10주년 러브라이
@@ -2097,7 +1612,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-lovelive-gigo-cafestand-akihabara2-2026-11-21@quietjapan.github.i
  o
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20270412
 SUMMARY:GiGO 콜라보 카페 스탠드 러브라이브! 시리즈 (아키
@@ -2113,7 +1628,7 @@ LOCATION:GiGO 콜라보 카페 스탠드 아키하바라 2호관
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-peropero-sparkles-cafe-shibuya109-2026-11-29@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261214
 SUMMARY:페로페로★스파클즈 콜라보 카페 in SHIBUYA109
@@ -2128,7 +1643,7 @@ LOCATION:SHIBUYA109 시부야점 8층
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-daiya-act2-popup-tower-shibuya-2026-12-04@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261214
 SUMMARY:TV애니 『다이아의 A actⅡ -Second Season-』 POP UP SHOP in
@@ -2144,7 +1659,7 @@ LOCATION:타워레코드 시부야점
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20261128-2026-11-28@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2159,7 +1674,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20261212-2026-12-12@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2174,7 +1689,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20261213-2026-12-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2189,7 +1704,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20261220-2026-12-20@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2204,7 +1719,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20261226-2026-12-26@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2219,7 +1734,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20261227-2026-12-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2234,7 +1749,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20270102-2027-01-02@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2249,7 +1764,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20270103-2027-01-03@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2264,7 +1779,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20270109-2027-01-09@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2279,7 +1794,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20270110-2027-01-10@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2294,7 +1809,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20270111-2027-01-11@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2309,7 +1824,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20270117-2027-01-17@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2324,7 +1839,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20270123-2027-01-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2339,7 +1854,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20270124-2027-01-24@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2354,7 +1869,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20270130-2027-01-30@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2369,7 +1884,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-vintage-artisan-kitaya-20270131-2027-01-31@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:시부야 키타야 공원 Vintage & Artisan Market
@@ -2384,7 +1899,7 @@ LOCATION:시부야구립 키타야 공원 (시부야구 진난 1-7-3)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-chiikawa-clinic-tokyoeki-2026-11-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261225
 SUMMARY:치이카와 클리닉 (도쿄역 일번가 이치방 플라자)
@@ -2400,7 +1915,7 @@ LOCATION:도쿄역 일번가 지하 1층 도쿄 캐릭터 스트리트 이
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-chiikawa-clinic-ginza-2026-11-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261228
 SUMMARY:치이카와 클리닉 (긴자 미라이 뮤지엄)
@@ -2415,7 +1930,7 @@ LOCATION:긴자 미라이 뮤지엄 (긴자 나미키도리 빌딩)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-rakuen-tsuiho-orbcafe-shibuya-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261212
 SUMMARY:낙원추방 마음의 레조넌스 × ORBcafe 콜라보 카페
@@ -2430,7 +1945,7 @@ LOCATION:ORBcafe 시부야 코엔도리점 (가와라 빌딩 3층)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-charisma-cafe-5th-ikebukuro-2026-11-14@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261214
 SUMMARY:축 5주년 카리스마 카페 (이케부쿠로 Commune Plaza)
@@ -2445,7 +1960,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-hirano-kohta-popup-junkudo-ikebukuro-2026-11-13@quietjapan.github
  .io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20270104
 SUMMARY:히라노 코우타★대박람회 POP UP STORE (준쿠도 이케
@@ -2461,7 +1976,7 @@ LOCATION:준쿠도 서점 이케부쿠로 본점 1층
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-luluttolilly-popup-volks-akiba-2026-11-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261214
 SUMMARY:마법의 자매 룰룻릴리 POP UP SHOP (보크스 아키하바
@@ -2477,7 +1992,7 @@ LOCATION:보크스 아키하바라 하비천국2 1층
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-sugushinu-ten-final-kichijoji-2026-12-05@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261228
 SUMMARY:흡혈귀는 툭하면 죽는다展 연재 10주년 기념 파티 F
@@ -2494,7 +2009,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-kazeno-hanuman-ten-yurakucho-marui-2026-11-27@quietjapan.github.i
  o
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261214
 SUMMARY:바람의 백원신 출판 기념전 (유라쿠초 마루이)
@@ -2509,39 +2024,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/tokyo-kazeno-hanuman-t
 LOCATION:유라쿠초 마루이 8F SPACE3
 END:VEVENT
 BEGIN:VEVENT
-UID:tokyo-takumen-haikyu-collab-kinshicho-marui-2026-11-12@quietjapan.githu
- b.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261124
-SUMMARY:택면×하이큐!! 콜라보 팝업 (긴시초 마루이)
-DESCRIPTION:라멘 통판 「택면」과 『하이큐!!』 콜라보 팝
- 업이에요. 학교별 콜라보 라멘을 이트인으로 먹고 새로 
- 그린 일러스트 굿즈도 살 수 있어요.\n공식: https://haikyu.j
- p/news/6030/\n자세히: https://quietjapan.github.io/japan-events-test/i/
- tokyo-takumen-haikyu-collab-kinshicho-marui/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-takumen-haikyu-c
- ollab-kinshicho-marui/
-LOCATION:긴시초 마루이
-END:VEVENT
-BEGIN:VEVENT
-UID:tokyo-zenkoku-dagashi-fes-2026-olinas-2026-11-21@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261124
-SUMMARY:제1회 전국 다가시 페스 2026 (오리나스 긴시초)
-DESCRIPTION:오리나스 긴시초에서 처음 열리는 전국 다가시(
- 막과자) 페스티벌이에요. 다가시 역사 전시와 엔니치\, 
- 한정 카드 배포가 있어요.\n공식: https://www.olinas.jp/event/de
- tail/164\n자세히: https://quietjapan.github.io/japan-events-test/i/toky
- o-zenkoku-dagashi-fes-2026-olinas/
-URL:https://quietjapan.github.io/japan-events-test/i/tokyo-zenkoku-dagashi-
- fes-2026-olinas/
-LOCATION:오리나스 긴시초 1층 엔트리 코트
-END:VEVENT
-BEGIN:VEVENT
 UID:tokyo-doraemon-popup-ikebukuro-parco-2026-11-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261214
 SUMMARY:I'm Doraemon POP-UP STORE (이케부쿠로 PARCO)
@@ -2557,7 +2041,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-lovelive-sunshine-popup-atre-akihabara-2026-11-27@quietjapan.gith
  ub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261211
 SUMMARY:러브라이브! 선샤인!! POP UP SHOP (아트레 아키하바라
@@ -2574,7 +2058,7 @@ LOCATION:아트레 아키하바라 1 2층 이벤트 스페이스
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-regloss-popup-hmv-shibuya-2026-11-20@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261207
 SUMMARY:ReGLOSS AR LIVE「X-ReCHORD」개최 기념 POP UP SHOP (HMV&BOOKS 
@@ -2591,7 +2075,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-punks-triangle-popup-shinjuku-marui-2026-12-11@quietjapan.github.
  io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261221
 SUMMARY:PUNKS△TRIANGLE POP UP SHOP (신주쿠 마루이 아넥스)
@@ -2606,7 +2090,7 @@ LOCATION:신주쿠 마루이 아넥스 3층 캘린다리움 4
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-tsukiuta-popup-medicos-shibuya-2026-12-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20270107
 SUMMARY:츠키우타. POP UP SHOP (MEDICOS SHOP 시부야)
@@ -2622,7 +2106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-yoroi-shinden-samurai-trooper-popup-medicos-shibuya-2026-12-08@qu
  ietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261221
 SUMMARY:갑진전 사무라이 트루퍼 POP UP SHOP (MEDICOS SHOP 시부
@@ -2639,7 +2123,7 @@ LOCATION:MEDICOS SHOP 시부야 (MAGNET by SHIBUYA109 5층)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-kamiina-botan-popup-volks-akiba-2026-12-19@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20270104
 SUMMARY:가미이나 보탄\, 취한 모습은 백합의 꽃 POP UP SHOP (
@@ -2657,7 +2141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-lovelive-sunshine-popup-hmv-shibuya-2026-12-02@quietjapan.github.
  io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261216
 SUMMARY:러브라이브! 선샤인!!×HMV POP UP SHOP (HMV&BOOKS 시부야)
@@ -2674,7 +2158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-horimiya-15th-popup-yurakucho-marui-2026-12-04@quietjapan.github.
  io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261221
 SUMMARY:호리미야 15th POP UP SHOP (유라쿠초 마루이)
@@ -2690,7 +2174,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-saint-seiya-chugai-grace-cafe-shibuya-2026-12-03@quietjapan.githu
  b.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261231
 SUMMARY:성투사 성시 × Chugai Grace Cafe (시부야점)
@@ -2706,7 +2190,7 @@ LOCATION:Chugai Grace Cafe 시부야점 (그랜드 도쿄 시부야 빌딩
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-promised-neverland-tree-village-2026-12-12@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20270109
 SUMMARY:약속의 네버랜드 POP UP SHOP & CAFE (트리 빌리지 도쿄)
@@ -2723,7 +2207,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-watatabe-popup-amnibus-white-shibuya-2026-11-27@quietjapan.github
  .io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261214
 SUMMARY:나를 먹고 싶은\, 괴물 POP UP SHOP (AMNIBUS STORE -white- 
@@ -2740,7 +2224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-jujutsu-phanpara-3rd-popup-animate-ikebukuro-2026-12-26@quietjapa
  n.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20270112
 SUMMARY:주술회전 판텀 퍼레이드 3주년 POP UP STORE (애니메이
@@ -2758,7 +2242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-jujutsu-sunshine-city-prince-hotel-2026-12-26@quietjapan.github.i
  o
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20270326
 SUMMARY:TV애니 『주술회전』 × 선샤인시티 프린스호텔
@@ -2775,7 +2259,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-persona30-kei-mochizuki-shibuya-loft-2026-12-16@quietjapan.github
  .io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20270108
 SUMMARY:모치즈키 케이 × PERSONA 30th ANNIVERSARY (시부야 로프
@@ -2794,7 +2278,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-tokyo-revengers-tojikomerare-hmv-shibuya-2026-11-28@quietjapan.gi
  thub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261214
 SUMMARY:도쿄 리벤저스 갇혀버렸어 ver. POP UP SHOP (HMV&BOOKS SHI
@@ -2811,7 +2295,7 @@ LOCATION:HMV&BOOKS SHIBUYA (시부야 모디 내)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-tokyo-ghoul-popup-donki-akihabara-2026-12-04@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261228
 SUMMARY:도쿄 구울 POP UP SHOP (돈키호테 아키하바라점)
@@ -2827,7 +2311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-creamy-mami-tokimeki-popup-hmv-shibuya-2026-12-29@quietjapan.gith
  ub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20270112
 SUMMARY:ときめきタイムスリップ 마법의 천사 크리미 마미
@@ -2844,7 +2328,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-kinnikuman-favorite-collection-popup-tac-2026-12-04@quietjapan.gi
  thub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261221
 SUMMARY:킨니쿠맨 POP UP SHOP 「FAVORITE COLLECTION」 (도쿄 애니
@@ -2861,7 +2345,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-nikke-autumn-vacation-popup-volks-akiba-2026-11-28@quietjapan.git
  hub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261214
 SUMMARY:승리의 여신: 니케 × HobbyJAPAN POP UP STORE 오텀 버케
@@ -2879,7 +2363,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-sf6-hololive-cafe3-capcomcafe-ikebukuro-2026-11-28@quietjapan.git
  hub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261218
 SUMMARY:스트리트 파이터 6 × 홀로라이브 콜라보 카페 제3
@@ -2898,7 +2382,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-girls-band-cry-sukajan-popup-kotobukiya-2026-12-04@quietjapan.git
  hub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261214
 SUMMARY:걸즈 밴드 크라이 스카잔 POP UP (고토부키야 아키하
@@ -2915,7 +2399,7 @@ LOCATION:고토부키야 아키하바라관 1층 / 고토부키야 다치
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-sidem-mfes2026-gratte-2026-12-01@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270114
 SUMMARY:아이돌마스터 SideM Mフェス2026 × 애니메이트 그라
@@ -2933,7 +2417,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-futtara-mellowrain-popup-manga10-shibuya-2026-11-20@quietjapan.gi
  thub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261201
 SUMMARY:드라마 「훗타라 도샤부리 메로우 레인」 팝업스
@@ -2950,7 +2434,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-eigyoudesukara-popup-manga10-shibuya-2026-11-26@quietjapan.github
  .io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261207
 SUMMARY:드라마 「영업이니까요(営業ですから)」 팝업스토
@@ -2967,7 +2451,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-orangeroad-takada-akemi-exhibition-edition88-2026-12-03@quietjapa
  n.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261214
 SUMMARY:「변덕쟁이 오렌지☆로드」 다카다 아케미 화집 
@@ -2986,7 +2470,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-gyakuten-saiban-25th-capcomcafe-ikebukuro-2026-10-09@quietjapan.g
  ithub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261127
 SUMMARY:역전재판 시리즈 25주년 콜라보 카페 (캡콤 카페 이
@@ -3003,7 +2487,7 @@ LOCATION:캡콤 카페 이케부쿠로점 (그랜드스케이프 이케부
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-ranma-sharecafe-harakado-2026-11-21@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261207
 SUMMARY:란마 1/2 아이스크림 카페 (하라주쿠 하라카도)
@@ -3018,7 +2502,7 @@ LOCATION:샤레 CAFE 하라카도점 (도큐 플라자 하라주쿠 하라
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-otagal-cosplay-cafe-ichigaya-2026-12-11@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261221
 SUMMARY:오타쿠에게 상냥한 갸루는 없다?! 코스프레 킷사 (
@@ -3034,7 +2518,7 @@ LOCATION:이치가야 (지요다구 구단키타 4-2-15)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-kimetsu-rerun-cafe-yukaku-1-2026-11-25@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20270112
 SUMMARY:귀멸의 칼날 전편 재방송 콜라보 카페 ~맺은 인연~ 
@@ -3052,7 +2536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-tokimeki-memorial-popup-2026winter-yurakucho-2026-12-10@quietjapa
  n.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261228
 SUMMARY:도키메키 메모리얼 POP UP SHOP 2026 Winter (유라쿠초 마
@@ -3069,7 +2553,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-owarinoseraph-dressup-popup-shinjuku-marui-2026-12-11@quietjapan.
  github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261221
 SUMMARY:종말의 세라프 POP UP SHOP in 마루이 (신주쿠 마루이 
@@ -3087,7 +2571,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-takahashi-kazuki-yugioh-artworks-exhibition-2026-12-12@quietjapan
  .github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20270222
 SUMMARY:다카하시 카즈키 원화전 YU-GI-OH! ART WORKS (크리에이
@@ -3104,7 +2588,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-bluearchive-popup-junkudo-ikebukuro-2026-12-02@quietjapan.github.
  io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20270101
 SUMMARY:블루 아카이브 POP UP STORE in 마루젠 준쿠도 서점 2026
@@ -3121,7 +2605,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-meitantei-precure-cafe-sweetspara-shinjuku-2026-11-26@quietjapan.
  github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261228
 SUMMARY:명탐정 프리큐어! × 스위츠 파라다이스 콜라보 카
@@ -3139,7 +2623,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-gakumas-gearbeat-popup-atre-akihabara-2026-12-24@quietjapan.githu
  b.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20270112
 SUMMARY:학원 아이돌마스터 팝업스토어 2026 ~Gearbeat Concerto~ 
@@ -3156,7 +2640,7 @@ LOCATION:아이돌마스터 오피셜숍 아트레 아키하바라점
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-bandori-ournotes-gratte-2026-12-21@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20270201
 SUMMARY:BanG Dream! Our Notes × 애니메이트 그라테 (도쿄)
@@ -3172,7 +2656,7 @@ LOCATION:애니메이트 그라테 이케부쿠로 본점·아키하바라
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-codegeass-popup-shibuya-modi-2026-11-20@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261201
 SUMMARY:코드기어스 반역의 를르슈 POP UP SHOP (시부야 모디)
@@ -3189,7 +2673,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-bluearchive-sunshine-aquarium-abydos-2026-12-11@quietjapan.github
  .io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20270118
 SUMMARY:선샤인 수족관 × 블루 아카이브 「아비도스 아쿠
@@ -3207,7 +2691,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-gochiusa-atre-desuka-akihabara-2026-2026-12-11@quietjapan.github.
  io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261226
 SUMMARY:『주문은 토끼입니까? BLOOM』 「주문은 아트레입니
@@ -3223,7 +2707,7 @@ LOCATION:아트레 아키하바라1 2F 이벤트 스페이스
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-natsume-popup-loft4-ikebukuro-2026-12-11@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261228
 SUMMARY:나츠메 우인장 POP UP STORE in 로프트 제4막 (이케부쿠
@@ -3239,7 +2723,7 @@ LOCATION:이케부쿠로 로프트 11층 버라이어티 잡화 매장
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-ngnl-zero-popup-medicos-shinjuku-2026-11-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261210
 SUMMARY:극장판 「노 게임 노 라이프 제로」 POP UP SHOP (MEDICO
@@ -3256,7 +2740,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-boueibu-eternal-love-popup2-medicos-shinjuku-2026-12-19@quietjapa
  n.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20270106
 SUMMARY:극장판 「미남고교 지구방위부 ETERNAL LOVE!」 POP UP S
@@ -3273,7 +2757,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-ghost-in-the-shell-exhibition-popup-pcs-ikebukuro-2026-11-27@quie
  tjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261209
 SUMMARY:공각기동대전 Ghost and the Shell POP-UP STORE (POP Culture St
@@ -3290,7 +2774,7 @@ LOCATION:POP Culture Style IKEBUKURO (이케부쿠로 스퀘어 au Style
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-gnosia-cafe-dqo-loop3-akihabara-2026-12-18@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20270125
 SUMMARY:TV애니 「그노시아」 × 콜라보 카페 본포 cafe D.Q.O. 
@@ -3307,7 +2791,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-nakamurakun-cafe-mixxgarden-ikebukuro-2026-12-18@quietjapan.githu
  b.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20270125
 SUMMARY:TV애니 「힘내라! 나카무라 군!!」 × mixx garden (이케
@@ -3324,7 +2808,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-jjk-phanpara-3rd-onlyshop-ikebukuro-2026-12-26@quietjapan.github.
  io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20270112
 SUMMARY:주술회전 팬텀 퍼레이드 환영야행본포 3주년 POP UP 
@@ -3341,7 +2825,7 @@ LOCATION:애니메이트 이케부쿠로 본점 5F 새틀라이트 스페
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-korinojoheki-ten-shibuya-modi-2026-11-28@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261214
 SUMMARY:얼음의 성벽 전 (시부야 모디)
@@ -3357,7 +2841,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-specials-costume-panel-towershibuya-2026-11-24@quietjapan.github.
  io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261207
 SUMMARY:영화 『스페셜즈』 Blu-ray&DVD 발매 기념 의상&패널 
@@ -3374,7 +2858,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-40madeni10-thechara-cafe-ikebukuro-2026-12-24@quietjapan.github.i
  o
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20270111
 SUMMARY:40까지 하고 싶은 10가지 × THE캬라 CAFE (이케부쿠로)
@@ -3390,7 +2874,7 @@ LOCATION:그랜드스케이프 이케부쿠로 2F 「THE캬라 CAFE 그랜
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-aoppella-thechara-cafe-stand-tdc-2026-12-11@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261228
 SUMMARY:아오페라 -aoppella!?- × THE캬라 CAFE STAND (도쿄돔시티)
@@ -3405,7 +2889,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-shoujo-seikan-popup-medicos-shinjuku-2026-12-22@quietjapan.github
  .io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20270112
 SUMMARY:소녀 성간 표류기 POP UP SHOP (MEDICOS SHOP 신주쿠)
@@ -3420,7 +2904,7 @@ LOCATION:MEDICOS SHOP 신주쿠 (신주쿠 마루이 아넥스 2F)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-lisagas-french-heart-popup-keio-2026-11-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261229
 SUMMARY:리사와 가스파르 「French Heart POP-UP SHOP」 (게이오 
@@ -3436,7 +2920,7 @@ LOCATION:게이오 백화점 신주쿠점 7F Pirates Factory Gifts
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-iwamoto-senpai-orbcafe-shibuya-2026-11-19@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261207
 SUMMARY:이와모토 선배의 추천 × ORBcafe 콜라보 드링크 스탠
@@ -3453,7 +2937,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-garupan-retropop-cafe-share-harakado-2026-12-11@quietjapan.github
  .io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261221
 SUMMARY:걸즈 앤 판처 레트로 팝 카페 at 샤레 CAFE (하라카도
@@ -3471,7 +2955,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-inazuma-victoryroad-popup-shibuya-modi-2026-12-04@quietjapan.gith
  ub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261214
 SUMMARY:이나즈마 일레븐 영웅들의 빅토리 로드 POP UP SHOP (
@@ -3489,7 +2973,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-zombie-sagashitemasu-popup-amnibus-blue-2026-12-04@quietjapan.git
  hub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261221
 SUMMARY:TV 애니메이션 #좀비 찾고 있습니다 POP UP SHOP (AMNIBUS
@@ -3506,7 +2990,7 @@ LOCATION:AMNIBUS STORE -blue- (MAGNET by SHIBUYA109 5층)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-girlsbandcry-popup-magnet-jol-2026-12-11@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261221
 SUMMARY:걸즈 밴드 크라이 POP UP STORE (MAGNET by SHIBUYA109 JOL Coll
@@ -3522,7 +3006,7 @@ LOCATION:JOL Collab Store (MAGNET by SHIBUYA109 5층)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-hasunosora-popup-amnibus-white-2026-12-12@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261228
 SUMMARY:러브라이브! 하스노소라 여학원 스쿨 아이돌 클럽 
@@ -3540,7 +3024,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-drstone-gochisho-popup-eeo-ikebukuro-2026-12-11@quietjapan.github
  .io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261224
 SUMMARY:닥터 스톤 오지장 대집합 POP UP STORE (eeo 이케부쿠로
@@ -3557,7 +3041,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-jjk-neon-collection-shinjuku-marui-annex-2026-12-04@quietjapan.gi
  thub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261221
 SUMMARY:주술회전 사멸회유 네온 컬렉션 POP UP SHOP (신주쿠 
@@ -3574,7 +3058,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-chihaya-restart-popup-kirara-fuz-shinjuku-2026-12-05@quietjapan.g
  ithub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261221
 SUMMARY:치하야 리스타트! POP UP SHOP (신주쿠 마루이 아넥스)
@@ -3591,7 +3075,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-hitsugi-kuro-popup-kirara-fuz-shinjuku-2026-12-03@quietjapan.gith
  ub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261217
 SUMMARY:관을 짊어진 쿠로。 회중여화 POP UP SHOP (신주쿠 마
@@ -3608,7 +3092,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-mahoyaku-stage-5th-exhibition-sunshine-2027-01-02@quietjapan.gith
  ub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270118
 SUMMARY:무대 『마법사의 약속』 5주년 전 ~Grand Wardrobe Exhibi
@@ -3625,7 +3109,7 @@ LOCATION:이케부쿠로 선샤인시티 전시홀 B (문화회관빌딩 4
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-sengoku-alive-35th-gratte-2026-12-11@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20270112
 SUMMARY:전국 A LIVE 3.5주년 기념 × 애니메이트 그라테 (도쿄
@@ -3643,7 +3127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-drstone-hanafuda-popup-magnet-charaditional-2026-12-25@quietjapan
  .github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20270112
 SUMMARY:Dr.STONE POP UP SHOP by 캐러디셔널 토이 (MAGNET by SHIBUYA10
@@ -3660,7 +3144,7 @@ LOCATION:MAGNET by SHIBUYA109 6층 이벤트 스페이스
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-m1-kanjou-bakuhatsu-ten-laforet-2026-12-12@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261227
 SUMMARY:M-1 감정 폭발전 (도쿄 · 라포레 뮤지엄 하라주쿠)
@@ -3675,7 +3159,7 @@ LOCATION:라포레 뮤지엄 하라주쿠 (라포레 하라주쿠 6층)
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-windbreaker-sweetspara2-shinjuku-2026-12-01@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261228
 SUMMARY:WIND BREAKER × 스위츠 파라다이스 제2탄 (신주쿠 동쪽
@@ -3694,7 +3178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-drstone-ten-kagaku-oukoku-museum-sunshine-2026-12-10@quietjapan.g
  ithub.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20270105
 SUMMARY:TV 애니메이션 Dr.STONE전 과학왕국 뮤지엄 (이케부쿠
@@ -3708,5 +3192,41 @@ DESCRIPTION:TV 애니메이션 『Dr.STONE』 전시회예요. 센쿠들의
 URL:https://quietjapan.github.io/japan-events-test/i/tokyo-drstone-ten-kaga
  ku-oukoku-museum-sunshine/
 LOCATION:선샤인시티 전시홀 A (월드 임포트 마트 빌딩 4층)
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-sanx-universe-popup-lumine-est-shinjuku-2026-11-27@quietjapan.git
+ hub.io
+DTSTAMP:20261124T015425Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261209
+SUMMARY:산엑스 유니버스 POP-UP SHOP ～하늘에서 잘 자＆언제
+ 나 함께 스티커～ (루미네 에스트 신주쿠)
+DESCRIPTION:산엑스 캐릭터들이 한자리에 모이는 팝업이에
+ 요. 새 시리즈 「하늘에서 잘 자」 굿즈와 30캐릭터 「언
+ 제나 함께 스티커」\, 팝업 한정 냥냥냥코 인형 등이 나
+ 와요.\n공식: https://www.san-x.co.jp/ja/blog/2026-11-post-0836170/\n
+ 자세히: https://quietjapan.github.io/japan-events-test/i/tokyo-sanx-uni
+ verse-popup-lumine-est-shinjuku/
+URL:https://quietjapan.github.io/japan-events-test/i/tokyo-sanx-universe-po
+ pup-lumine-est-shinjuku/
+LOCATION:루미네 에스트 신주쿠 B1 (JR 신주쿠역 중앙 동쪽 
+ 개찰구 밖\, 아오야마 플라워 마켓 앞)
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-mahoiku-restart-xmas-popup-volks-akiba-2026-12-12@quietjapan.gith
+ ub.io
+DTSTAMP:20261124T015425Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261228
+SUMMARY:『마법소녀 육성계획 restart』 POP-UP SHOP (볼크스 아
+ 키하바라 호비천국2)
+DESCRIPTION:TV 애니메이션 『마법소녀 육성계획 restart』 팝
+ 업이에요. 페치카·섀도게일·매지컬 데이지의 크리스마
+ 스 새 일러스트 굿즈를 팔아요.\n공식: https://www.volks.co.jp
+ /blog_sr/akiba2/2026/11/12/033493.html\n자세히: https://quietjapan.gith
+ ub.io/japan-events-test/i/tokyo-mahoiku-restart-xmas-popup-volks-akiba/
+URL:https://quietjapan.github.io/japan-events-test/i/tokyo-mahoiku-restart-
+ xmas-popup-volks-akiba/
+LOCATION:볼크스 아키하바라 호비천국2 1층 특설 회장
 END:VEVENT
 END:VCALENDAR

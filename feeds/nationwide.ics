@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:1lekrfi-2026-11-28@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:이치방쿠지 페르소나 시리즈 30주년
@@ -23,7 +23,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:mag-comptiq-2027-01-2026-12-10@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:콤프티크 1월호 부록 ― 시로가네 노엘&호쇼 마린 
@@ -38,7 +38,7 @@ LOCATION:서점·편의점
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-rider_zeztz-2026-11-27@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:이치방쿠지 가면라이더 마이스&가면라이더 제츠
@@ -52,7 +52,7 @@ LOCATION:전국 판매처 (로손·미니스톱 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-db_fa3-2026-11-28@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:이치방쿠지 드래곤볼 Fantastic Adventure 3
@@ -66,7 +66,7 @@ LOCATION:전국 판매처 (패밀리마트 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-myhero48-2026-11-30@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:이치방쿠지 나의 히어로 아카데미아 -그녀들의 이
@@ -82,7 +82,7 @@ LOCATION:전국 판매처 (이치방쿠지 공식 숍 등) · 이치방쿠
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-kusuriya2-2026-12-05@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:이치방쿠지 극장판 약사의 혼잣말 「망비의 비보
@@ -97,7 +97,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-eva20-2026-12-05@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:이치방쿠지 에반게리온 신극장판: 파
@@ -111,7 +111,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-konjiki-no-gash-2026-12-12@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:이치방쿠지 금색의 갓슈!!
@@ -125,7 +125,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-gkmas07-2026-12-12@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:이치방쿠지 학원 아이돌마스터 Part7
@@ -137,7 +137,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-5hanayome22-2026-12-16@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:이치방쿠지 오등분의 신부* ~beachside memories~
@@ -150,7 +150,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-ranma3-2026-12-18@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:이치방쿠지 란마 1/2 ~중화 컬렉션~
@@ -163,7 +163,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-tenipuri4-2026-12-24@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:이치방쿠지 신 테니스의 왕자 -나는 위로 갈 거야-
@@ -177,7 +177,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-bluearchive4-2026-12-26@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:이치방쿠지 블루 아카이브 vol.4
@@ -192,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:all-suisei-once-upon-stellar-seven-print-2026-11-01@quietjapan.github.i
  o
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20270101
 SUMMARY:호시마치 스이세이 Once Upon a Stellar 콘텐츠프린트 (
@@ -207,7 +207,7 @@ LOCATION:전국 세븐일레븐 멀티카피기
 END:VEVENT
 BEGIN:VEVENT
 UID:all-starrail-aha-animate-fair-2026-11-13@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261221
 SUMMARY:『붕괴: 스타레일』星神★アッハ 구현 기념 페어 (
@@ -223,7 +223,7 @@ LOCATION:전국 애니메이트 (통판 제외)
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-kimetsu31-2026-12-21@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:이치방쿠지 귀멸의 칼날 ~남매의 혈귀~
@@ -235,25 +235,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/1kuji-kimetsu31/
 LOCATION:이치방쿠지 공식 숍·이치방쿠지 ONLINE
 END:VEVENT
 BEGIN:VEVENT
-UID:all-gacha-pokemon-texture-selection-clear-2026-11-23@quietjapan.github.
- io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:포켓몬 Texture Selection ~CLEAR~ (가챠)
-DESCRIPTION:「포켓몬」 질감에 주목한 피규어 가챠 1탄\, 클
- 리어 파츠 사양이에요. 써니고(가라르의 모습)·란쿨루
- 스·샹델라·눈미벌레 전 4종(약 4~6.5cm)\, 1회 400엔이에요.
- \n공식: https://www.takaratomy-arts.co.jp/items/item.html?n=Y905636\n자
- 세히: https://quietjapan.github.io/japan-events-test/i/all-gacha-pokemon
- -texture-selection-clear/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-pokemon-text
- ure-selection-clear/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
 UID:kuji-zelda5-2026-12-05@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:이치방쿠지 젤다의 전설 하이랄 컬렉션
@@ -267,7 +250,7 @@ LOCATION:전국 판매처 (로손\, Nintendo TOKYO·OSAKA·KYOTO·FUKUOKA
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-harrypotter6-2026-12-26@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:이치방쿠지 해리 포터 ～Welcome to Hogwarts～
@@ -280,7 +263,7 @@ LOCATION:전국 판매처 (로손 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-mrsgreenapple4-2026-12-19@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:이치방쿠지 Mrs. GREEN APPLE ～SCENT OF WINTER～
@@ -293,130 +276,8 @@ URL:https://quietjapan.github.io/japan-events-test/i/kuji-mrsgreenapple4/
 LOCATION:로손 점포 (점포 한정)
 END:VEVENT
 BEGIN:VEVENT
-UID:all-gacha-pokemon-jarajara-keyholder-2026-11-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:포켓몬 짤랑짤랑 키홀더 (가챠)
-DESCRIPTION:몬스터볼에 포켓몬 플레이트가 달린 키홀더 가
- 챠예요. 푸린·이브이·지라치·미끄메라·나오하 전 5종(
- 플레이트 약 4cm)\, 1회 300엔이에요.\n공식: https://www.takarat
- omy-arts.co.jp/items/item.html?n=Y909047\n자세히: https://quietjapan.gi
- thub.io/japan-events-test/i/all-gacha-pokemon-jarajara-keyholder/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-pokemon-jara
- jara-keyholder/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
-UID:all-gacha-kimetsu-katazun-fig-4-2026-11-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:귀멸의 칼날 카타즌 Fig. 제4탄 (가챠)
-DESCRIPTION:어깨에 올리는 『귀멸의 칼날』 피규어 가챠 재
- 발매분이에요. 키부츠지 무잔·도우마·아카자·카이가
- 쿠 전 4종\, 1회 500엔이에요.\n공식: https://www.takaratomy-arts.
- co.jp/items/item.html?n=Y094453\n자세히: https://quietjapan.github.io/j
- apan-events-test/i/all-gacha-kimetsu-katazun-fig-4/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-kimetsu-kata
- zun-fig-4/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
-UID:all-gacha-sanrio-tsunagaru-oden-charm-2026-11-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:산리오 캐릭터즈 이어지는 오뎅 참 (가챠)
-DESCRIPTION:산리오 캐릭터가 오뎅 재료가 된 참 가챠예요. 
- 시나모롤(달걀)·폼폼푸린(모치킨차쿠)·헬로키티(무) 등
-  전 5종\, 1회 300엔이에요.\n공식: https://www.takaratomy-arts.co.
- jp/items/item.html?n=Y908842\n자세히: https://quietjapan.github.io/japa
- n-events-test/i/all-gacha-sanrio-tsunagaru-oden-charm/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-sanrio-tsuna
- garu-oden-charm/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
-UID:all-gacha-kirby-pukutto-rubber-canbadge-2026-11-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:별의 커비 뿌꾸 러버 캔배지 (가챠)
-DESCRIPTION:『별의 커비』 볼록한 러버 캔배지 가챠예요. 
- 커비·와들디·마호로아·에필린 등 전 6종\, 1회 400엔이
- 에요.\n공식: https://www.takaratomy-arts.co.jp/items/item.html?n=Y9103
- 19\n자세히: https://quietjapan.github.io/japan-events-test/i/all-gacha-
- kirby-pukutto-rubber-canbadge/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-kirby-pukutt
- o-rubber-canbadge/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
-UID:all-gacha-sanrio-childseat-charm-2026-11-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:산리오 캐릭터즈 카시트 참 (가챠)
-DESCRIPTION:카시트에 앉은 산리오 캐릭터 마스코트 참이에
- 요. 헬로키티·마이멜로디·시나모롤·폼폼푸린·케로케
- 로케로피 전 5종이에요.\n공식: https://www.takaratomy-arts.co.jp
- /items/item.html?n=Y908859\n자세히: https://quietjapan.github.io/japan-
- events-test/i/all-gacha-sanrio-childseat-charm/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-sanrio-child
- seat-charm/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
-UID:all-gacha-harrypotter-hogwarts-crest-pins-2026-11-23@quietjapan.github.
- io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:해리 포터 호그와트 크레스트 핀즈 (가챠)
-DESCRIPTION:호그와트 교장과 4개 기숙사 문장을 메탈로 입
- 체 재현한 핀즈예요. 호그와트·그리핀도르·슬리데린·
- 후플푸프·래번클로 전 5종이에요.\n공식: https://www.takarat
- omy-arts.co.jp/items/item.html?n=Y909207\n자세히: https://quietjapan.gi
- thub.io/japan-events-test/i/all-gacha-harrypotter-hogwarts-crest-pins/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-harrypotter-
- hogwarts-crest-pins/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
-UID:all-gacha-twisted-wonderland-dorm-ring-2026-11-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:디즈니 트위스티드 원더랜드 기숙사 문장 반지 컬
- 렉션 (가챠)
-DESCRIPTION:『트위스티드 원더랜드』 캐릭터들이 다는 기
- 숙사 문장을 다이캐스트 반지로 만든 가챠예요. 하츠라
- 뷸부터 디아솜니아까지 전 7종이에요.\n공식: https://www.ta
- karatomy-arts.co.jp/items/item.html?n=Y912375\n자세히: https://quietjap
- an.github.io/japan-events-test/i/all-gacha-twisted-wonderland-dorm-ring/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-twisted-wond
- erland-dorm-ring/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
-UID:all-gacha-katazun-persona5r-vol2-resale-2026-11-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:카타즌 Fig. 페르소나5 더 로열 vol.2 재판매 (가챠)
-DESCRIPTION:옆 사람 어깨에 기대 꾸벅꾸벅 조는 『페르소나
- 5 더 로열』 괴도단 피규어 2탄 재판매예요. 퀸·나비·느
- 와르·바이올렛·크로우 전 5종이에요.\n공식: https://www.ta
- karatomy-arts.co.jp/items/item.html?n=Y088766\n자세히: https://quietjap
- an.github.io/japan-events-test/i/all-gacha-katazun-persona5r-vol2-resale/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-katazun-pers
- ona5r-vol2-resale/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
 UID:all-gacha-sanrio-fuwawa-flocky-resale-2026-11-30@quietjapan.github.io
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:산리오 캐릭터즈 후와와 플로키 마스코트 재판매 (
@@ -432,55 +293,9 @@ URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-sanrio-fuwaw
 LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
-UID:all-gacha-defora-umamusume-keyholder-2026-11-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:데포라바! 우마무스메 프리티 더비 키홀더 (가챠)
-DESCRIPTION:『우마무스메 프리티 더비』 승부복 데포르메 
- 러버 키홀더예요. 빌시나·부에나 비스타·오르페브르·
- 젠틸돈나·아몬드 아이·럭키 라일락·빅투아르 피사 전 
- 7종이에요.\n공식: https://www.takaratomy-arts.co.jp/items/item.html?
- n=Y911125\n자세히: https://quietjapan.github.io/japan-events-test/i/all
- -gacha-defora-umamusume-keyholder/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-defora-umamu
- sume-keyholder/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
-UID:all-gacha-defofig-kusuriya-resale-2026-11-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:데포피그! 약사의 혼잣말 키홀더 재판매 (가챠)
-DESCRIPTION:애니메이션 『약사의 혼잣말』 데포르메 피규
- 어 키홀더 재판매예요. 마오마오 3종과 진시 전 4종이에
- 요.\n공식: https://www.takaratomy-arts.co.jp/items/item.html?n=Y086861\
- n자세히: https://quietjapan.github.io/japan-events-test/i/all-gacha-def
- ofig-kusuriya-resale/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-defofig-kusu
- riya-resale/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
-UID:all-gacha-rody-sanrio-mascot-charm-2026-11-23@quietjapan.github.io
-DTSTAMP:20261123T104157Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:RODY×산리오 캐릭터즈 마스코트 참 (가챠)
-DESCRIPTION:산리오 캐릭터들이 로디로 변신해 하트를 꼭 안
- 은 마스코트 참이에요. 마이멜로디·쿠로미·시나모롤·
- 폼폼푸린·우사하나 전 5종이에요.\n공식: https://www.takarat
- omy-arts.co.jp/items/item.html?n=Y908835\n자세히: https://quietjapan.gi
- thub.io/japan-events-test/i/all-gacha-rody-sanrio-mascot-charm/
-URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-rody-sanrio-
- mascot-charm/
-LOCATION:전국 판매처 (가챠 코너 등)
-END:VEVENT
-BEGIN:VEVENT
 UID:all-gacha-harrypotter-wand-collection-ps-2026-12-01@quietjapan.github.i
  o
-DTSTAMP:20261123T104157Z
+DTSTAMP:20261124T015425Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:해리 포터 마법 지팡이 컬렉션 ~해리 포터와 마법
@@ -493,5 +308,20 @@ DESCRIPTION:영화 『해리 포터와 마법사의 돌』 주요 인물의
 URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-harrypotter-
  wand-collection-ps/
 LOCATION:전국 판매처 (가챠 코너 등)
+END:VEVENT
+BEGIN:VEVENT
+UID:kuji-choigosim-2026-12-05@quietjapan.github.io
+DTSTAMP:20261124T015425Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:이치방쿠지 최고심 (겨울 새 일러스트)
+DESCRIPTION:한국 캐릭터 『최고심』 이치방쿠지예요. 겨울 
+ 테마 새 일러스트 상품이 나오며\, 등급별 상품은 공식 
+ 발표를 기다리는 중이에요.\n공식: https://1kuji.com/products/c
+ hoigosim\n자세히: https://quietjapan.github.io/japan-events-test/i/kuji
+ -choigosim/
+URL:https://quietjapan.github.io/japan-events-test/i/kuji-choigosim/
+LOCATION:전국 판매처 (미니스톱·데일리 야마자키·서점 등
+ )
 END:VEVENT
 END:VCALENDAR

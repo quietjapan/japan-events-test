@@ -1,6 +1,6 @@
 {
-  "base_date": "2026-11-23",
-  "last_updated": "2026-11-23",
+  "base_date": "2026-11-24",
+  "last_updated": "2026-11-24",
   "is_sample": false,
   "events": [
     {
@@ -1277,118 +1277,6 @@
       "region": "tokyo",
       "image_fb": "gfb/139dc590f61e4dbb.webp",
       "image_local": "img/139dc590f61e4dbb.webp",
-      "added": "2026-10-15"
-    },
-    {
-      "title_ko": "은혼 캐릭터 팝 스토어",
-      "title_ja": "銀魂キャラポップストア",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "반다이남코 Cross Store 아트레 아키하바라점",
-      "start": "2026-04-17",
-      "end": "2026-11-23",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://bandainamco-am.co.jp/chara_shop/gintama/",
-      "source_url": "https://charagoo.jp/collab/event/2d702a051e44/",
-      "notes": "",
-      "checked_date": "2026-10-15",
-      "thumbnail": "https://bandainamco-am.co.jp/images/banner/chara_shop/bnr_gintama-cps2026_0.webp",
-      "thumbnail_source": "https://bandainamco-am.co.jp/chara_shop/gintama/",
-      "map_query": "東京都千代田区外神田1-17-6",
-      "evidence": [
-        {
-          "url": "https://bandainamco-am.co.jp/chara_shop/gintama/",
-          "tier": "official",
-          "quote": "ross Store アトレ秋葉原店 開催期間 2026年4月17日(金) 〜 11月23日(月・祝) 【土方祭】 2026年4月17日(金)〜5月11日(月) 【神威祭】 2026年5月12日(火)〜6月5日(金) 【桂",
-          "checked": "2026-10-22"
-        },
-        {
-          "url": "https://charagoo.jp/collab/event/2d702a051e44/",
-          "tier": "aggregator",
-          "quote": "銀魂キャラポップストアは銀魂のコラボ・イベントです。期間は2026年4月17日〜11月23日。場所はバンダイナムコ Cross Store アトレ秋葉原店。 「銀魂キャラポップストア」がバンダイナムコ Cross",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "lat": 35.6987,
-      "lon": 139.7714,
-      "translation_check": true,
-      "summary_ko": "반다이남코 크로스 스토어 아토레 아키하바라점의 「은혼」 캐릭터 팝 스토어예요. 이곳 한정 신규 일러스트 오리지널 굿즈를 팔고, 기간별로 캐릭터 '축제'가 바뀌어요.",
-      "summary_source": "https://bandainamco-am.co.jp/chara_shop/gintama/",
-      "gallery": [
-        {
-          "group": "오리지널 굿즈 (긴토키 디자인 예시)",
-          "img": "https://bandainamco-am.co.jp/images/assets/chara_shop/gintama/goods/2026/img_AcrylicStand-Gintoki-1.png",
-          "caption_ko": "아크릴 스탠드 각 1,800엔 (전 12종)",
-          "source": "https://bandainamco-am.co.jp/chara_shop/gintama/goods.html",
-          "img_fb": "gfb/f714f57d897a180d.webp",
-          "img_local": "img/f714f57d897a180d.webp"
-        },
-        {
-          "group": "오리지널 굿즈 (긴토키 디자인 예시)",
-          "img": "https://bandainamco-am.co.jp/images/assets/chara_shop/gintama/goods/2026/img_BigAcrylicStand-Gintoki.png",
-          "caption_ko": "빅 아크릴 스탠드 각 7,900엔 (전 6종)",
-          "source": "https://bandainamco-am.co.jp/chara_shop/gintama/goods.html",
-          "img_fb": "gfb/b2ec12826739bb94.webp",
-          "img_local": "img/b2ec12826739bb94.webp"
-        },
-        {
-          "group": "오리지널 굿즈 (긴토키 디자인 예시)",
-          "img": "https://bandainamco-am.co.jp/images/assets/chara_shop/gintama/goods/2026/img_Tapestry-Gintoki.png",
-          "caption_ko": "태피스트리 각 5,500엔 (전 6종)",
-          "source": "https://bandainamco-am.co.jp/chara_shop/gintama/goods.html",
-          "img_fb": "gfb/38c820e318bcbac6.webp",
-          "img_local": "img/38c820e318bcbac6.webp"
-        },
-        {
-          "group": "오리지널 굿즈 (긴토키 디자인 예시)",
-          "img": "https://bandainamco-am.co.jp/images/assets/chara_shop/gintama/goods/2026/img_CanBadgeSet-Gintoki.png",
-          "caption_ko": "75mm 캔배지 세트 각 1,500엔",
-          "source": "https://bandainamco-am.co.jp/chara_shop/gintama/goods.html",
-          "img_fb": "gfb/86c6044a6902db1a.webp",
-          "img_local": "img/86c6044a6902db1a.webp"
-        },
-        {
-          "group": "오리지널 굿즈 (긴토키 디자인 예시)",
-          "img": "https://bandainamco-am.co.jp/images/assets/chara_shop/gintama/goods/2026/img_AcrylicObject-Gintoki.png",
-          "caption_ko": "아크릴 오브제 각 1,200엔",
-          "source": "https://bandainamco-am.co.jp/chara_shop/gintama/goods.html",
-          "img_fb": "gfb/9ef05525151ff43a.webp",
-          "img_local": "img/9ef05525151ff43a.webp"
-        },
-        {
-          "group": "오리지널 굿즈 (긴토키 디자인 예시)",
-          "img": "https://bandainamco-am.co.jp/images/assets/chara_shop/gintama/goods/2026/img_DoubleTagKeyholder-Gintoki.png",
-          "caption_ko": "더블 태그 키홀더 각 1,500엔",
-          "source": "https://bandainamco-am.co.jp/chara_shop/gintama/goods.html",
-          "img_fb": "gfb/522c3d5fe1ebc2b5.webp",
-          "img_local": "img/522c3d5fe1ebc2b5.webp"
-        },
-        {
-          "group": "오리지널 굿즈 (긴토키 디자인 예시)",
-          "img": "https://bandainamco-am.co.jp/images/assets/chara_shop/gintama/goods/2026/img_MiniAcrylicBlockStand-A-Gintoki.png",
-          "caption_ko": "미니 아크릴 블록 스탠드 A 990엔",
-          "source": "https://bandainamco-am.co.jp/chara_shop/gintama/goods.html",
-          "img_fb": "gfb/360288b0389e41c9.webp",
-          "img_local": "img/360288b0389e41c9.webp"
-        },
-        {
-          "group": "오리지널 굿즈 (긴토키 디자인 예시)",
-          "img": "https://bandainamco-am.co.jp/images/assets/chara_shop/gintama/goods/2026/img_MiniShikishi-Gintoki-1.png",
-          "caption_ko": "미니 색지 600엔",
-          "source": "https://bandainamco-am.co.jp/chara_shop/gintama/goods.html",
-          "img_fb": "gfb/16fc385d57461a55.webp",
-          "img_local": "img/16fc385d57461a55.webp"
-        }
-      ],
-      "gallery_source": "https://bandainamco-am.co.jp/chara_shop/gintama/goods.html",
-      "gallery_note": "굿즈별로 히지카타·오키타·카츠라·타카스기·카무이 디자인도 있어요",
-      "thumb_small": "thumbs/e88d7f1bb98be6e4.webp",
-      "region": "tokyo",
-      "image_fb": "gfb/e88d7f1bb98be6e4.webp",
-      "image_local": "img/e88d7f1bb98be6e4.webp",
       "added": "2026-10-15"
     },
     {
@@ -3873,90 +3761,6 @@
       "added": "2026-10-19"
     },
     {
-      "title_ko": "극장판 『100미터.』 POP UP SHOP",
-      "title_ja": "劇場アニメ『ひゃくえむ。』POP UP SHOP",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "MEDICOS SHOP 신주쿠 (신주쿠 마루이 아넥스 2F)",
-      "start": "2026-11-06",
-      "end": "2026-11-23",
-      "reservation": "11/6(금) 셔플 추첨 입장 (정리권 11:00~11:10 MEDICOS SHOP 신주쿠 앞 배부, 입장순 11:30경 X 안내, 1틀째 11:45). 그 외 날은 확인되지 않음 (11/06 기준)",
-      "price": "확인되지 않음 (11/06 기준)",
-      "official_url": "https://www.medicos-e.net/newsdetail/hyakuemu/",
-      "source_url": "https://www.medicos-e.net/newsdetail/hyakuemu/",
-      "notes": "특전: 관련 상품 1,000엔(세금 포함)마다 클리어 책갈피(전 6종) 랜덤 1장, 3,000엔마다 회장 한정 일러스트 카드(전 3종) 랜덤 1장. 5,000엔마다 특대 패널 응모권(전 4종·추첨 각 1명). 1회계 종류당 최대 5개(BOX는 5BOX). 코스프레 불가. 오사카 회장 2027/1/29~2/7 아베노 라쿠바스(특설 페이지 추후).",
-      "checked_date": "2026-11-06",
-      "map_query": "東京都新宿区新宿3-1-26",
-      "evidence": [
-        {
-          "url": "https://www.medicos-e.net/newsdetail/hyakuemu/",
-          "tier": "official",
-          "quote": "【開催期間】 2026年 11月 6日(金)～ 2026年 11月 23日(月・祝) 【開催場所】 MEDICOS SHOP新宿（新宿マルイ アネックス 2F）／シャッフル抽選入場対象日：2026年 11月 6日(金)",
-          "checked": "2026-11-06"
-        }
-      ],
-      "source_tier": "official",
-      "translation_check": true,
-      "lat": 35.6901,
-      "lon": 139.706,
-      "verified_at": "2026-11-06",
-      "summary_ko": "극장 애니메이션 『ひゃくえむ。』 팝업숍이에요. 사회인·초등학생 시절의 토가시와 코미야가 꽃다발을 든 신규 일러스트 굿즈를 팔고, 특전 클리어 책갈피(전 6종)와 대형 패널 전시도 있어요.",
-      "summary_source": "https://www.medicos-e.net/newsdetail/hyakuemu/",
-      "thumbnail": "https://www.medicos-e.net/wp-content/uploads/2026/10/KV-1-1024x724.jpg",
-      "thumbnail_source": "https://www.medicos-e.net/newsdetail/hyakuemu/",
-      "gallery": [
-        {
-          "group": "상품",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/79a475cc36105fe466fbc19f5eb23ab7-724x1024.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/79a475cc36105fe466fbc19f5eb23ab7-scaled.jpg",
-          "caption_ko": "상품 라인업 1",
-          "caption_ja": "商品ラインナップ",
-          "source": "https://www.medicos-e.net/newsdetail/hyakuemu/",
-          "img_fb": "gfb/1b199f8a94c151c6.webp",
-          "img_local": "img/ff1b0667eafc6fc1.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/56004fc9a22932309c3300e85534cfdd-724x1024.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/56004fc9a22932309c3300e85534cfdd-scaled.jpg",
-          "caption_ko": "상품 라인업 2",
-          "caption_ja": "商品ラインナップ",
-          "source": "https://www.medicos-e.net/newsdetail/hyakuemu/",
-          "img_fb": "gfb/6c6c71941e83ea73.webp",
-          "img_local": "img/38cda4b0d92ea4a8.webp"
-        },
-        {
-          "group": "특전",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/5b88be2370dfdb96cce72ab8d7619af3-1024x724.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/5b88be2370dfdb96cce72ab8d7619af3-scaled.jpg",
-          "caption_ko": "특전 클리어 책갈피",
-          "caption_ja": "特典クリアしおり（全6種）",
-          "kinds": "전 6종 · 1,000엔(세금 포함)마다 랜덤 1장",
-          "source": "https://www.medicos-e.net/newsdetail/hyakuemu/",
-          "img_fb": "gfb/19351e748b56bbeb.webp",
-          "img_local": "img/69b345ee1d36d097.webp"
-        },
-        {
-          "group": "특전",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/578f8bfb114657a5dd553e3efd561793-1024x724.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/578f8bfb114657a5dd553e3efd561793-scaled.jpg",
-          "caption_ko": "회장 한정 특전 일러스트 카드",
-          "caption_ja": "【会場限定】特典イラストカード（全3種）",
-          "kinds": "전 3종 · 3,000엔(세금 포함)마다 랜덤 1장",
-          "source": "https://www.medicos-e.net/newsdetail/hyakuemu/",
-          "img_fb": "gfb/29cda4083a8ede15.webp",
-          "img_local": "img/3a25b9ac894c605d.webp"
-        }
-      ],
-      "gallery_note": "가격은 상품 라인업 이미지에서 확인할 수 있어요",
-      "thumb_small": "thumbs/c4e1696d9869f850.webp",
-      "region": "tokyo",
-      "image_fb": "gfb/c4e1696d9869f850.webp",
-      "image_local": "img/c4e1696d9869f850.webp",
-      "added": "2026-10-19",
-      "id": "tokyo-hyakuemu-popup-medicos-shinjuku"
-    },
-    {
       "title_ko": "샤인포스트 POP UP SHOP",
       "title_ja": "TVアニメ『シャインポスト』POP UP SHOP",
       "category": "팝업스토어",
@@ -4039,45 +3843,6 @@
       "lon": 139.771,
       "added": "2026-10-18",
       "id": "tokyo-shinepost-popup-amiami"
-    },
-    {
-      "title_ko": "『어서 와, 첫사랑』 POP UP SHOP",
-      "title_ja": "「おかえり、初恋。」POP UP SHOP",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "애니메이트 이케부쿠로 본점 2F",
-      "start": "2026-11-10",
-      "end": "2026-11-23",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://www.the-chara.com/blog/?p=123501",
-      "source_url": "https://www.the-chara.com/blog/?p=123501",
-      "notes": "개점 전 대기 금지. 판매 상품·구매 특전은 아직 공개 전 (coming soon)",
-      "checked_date": "2026-10-18",
-      "map_query": "東京都豊島区東池袋1-20-7",
-      "evidence": [
-        {
-          "url": "https://www.the-chara.com/blog/?p=123501",
-          "tier": "official",
-          "quote": "開催期間 2026年11月10日(火)〜11月23日(月)",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "translation_check": true,
-      "verified_at": "2026-10-22",
-      "summary_ko": "카메미즈 토라 작가의 『おかえり、初恋。』 팝업숍이 애니메이트 이케부쿠로 본점 2F에서 열려요. 구매 특전이 있고, 개점 전 대기는 금지예요.",
-      "summary_source": "https://www.the-chara.com/blog/?p=123501",
-      "thumbnail": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_okerhtki_kv221.jpg",
-      "thumbnail_source": "https://www.the-chara.com/blog/?p=123501",
-      "thumb_pos": "50% 15%",
-      "thumb_small": "thumbs/28db0f847f193bc0.webp",
-      "region": "tokyo",
-      "image_fb": "gfb/28db0f847f193bc0.webp",
-      "image_local": "img/28db0f847f193bc0.webp",
-      "lat": 35.7311,
-      "lon": 139.7154,
-      "added": "2026-10-19"
     },
     {
       "title_ko": "살짝 위험한 시티(쵸콧토 야바시티) 카페스탠드",
@@ -6760,95 +6525,6 @@
       "added": "2026-10-19"
     },
     {
-      "reservation": "불필요",
-      "price": "입장 무료, 즉석 프린트 티셔츠 각 5,500엔 (세금 포함)",
-      "checked_date": "2026-10-19",
-      "source_tier": "official",
-      "translation_check": true,
-      "verified_at": "2026-10-22",
-      "title_ko": "지구방위군 POP UP SHOP",
-      "title_ja": "『地球防衛軍 POP UP SHOP』",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "반다이남코 Cross Store 도쿄 (이케부쿠로 선샤인시티 월드임포트마트 3층)",
-      "start": "2026-10-24",
-      "end": "2026-11-23",
-      "official_url": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-      "thumbnail": "https://bandainamco-am.co.jp/images/crossstore/store/news/crossstore_tokyo/20261015/KV_edf_popupshop.jpg",
-      "map_query": "東京都豊島区東池袋3-1-3 ワールドインポートマートビル",
-      "notes": "10:00~20:00 (티셔츠 주문은 19시까지, 완성까지 약 1시간). 2,000엔마다 EDF HISTORY 홀로 스티커 랜덤 1장(10/24~11/6 1탄, 11/7~ 2탄). 10/24 『지구방위군 6.2』 시연회, 11/7 게임 대회",
-      "source_url": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-      "summary_source": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-      "thumbnail_source": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-      "evidence": [
-        {
-          "url": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-          "tier": "official",
-          "quote": "開催日時：2026年10月24日(土)～11月23日(月・祝)",
-          "checked": "2026-10-22"
-        }
-      ],
-      "gallery": [
-        {
-          "group": "굿즈 라인업",
-          "img": "https://bandainamco-am.co.jp/images/crossstore/store/news/crossstore_tokyo/20261015/product_001.jpg",
-          "caption_ko": "D3P WEB SHOP 굿즈",
-          "source": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-          "img_fb": "gfb/3dc13e98dcba03bf.webp",
-          "img_local": "img/3dc13e98dcba03bf.webp"
-        },
-        {
-          "group": "굿즈 라인업",
-          "img": "https://bandainamco-am.co.jp/images/crossstore/store/news/crossstore_tokyo/20261015/product_002.jpg",
-          "caption_ko": "「이이쟝」 콜라보 굿즈",
-          "source": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-          "img_fb": "gfb/0241a138127caad8.webp",
-          "img_local": "img/0241a138127caad8.webp"
-        },
-        {
-          "group": "굿즈 라인업",
-          "img": "https://bandainamco-am.co.jp/images/crossstore/store/news/crossstore_tokyo/20261015/product_003.jpg",
-          "caption_ko": "오리지널 프린트 티셔츠",
-          "source": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-          "img_fb": "gfb/011b8311a58da9ad.webp",
-          "img_local": "img/011b8311a58da9ad.webp"
-        },
-        {
-          "group": "특전·이벤트",
-          "img": "https://bandainamco-am.co.jp/images/crossstore/store/news/crossstore_tokyo/20261015/sticker_list01.jpg",
-          "caption_ko": "스티커 1탄 (전 10종) 10/24~11/6 배포",
-          "source": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-          "img_fb": "gfb/81e3480d18f8d219.webp",
-          "img_local": "img/81e3480d18f8d219.webp"
-        },
-        {
-          "group": "특전·이벤트",
-          "img": "https://bandainamco-am.co.jp/images/crossstore/store/news/crossstore_tokyo/20261015/sticker_list02.jpg",
-          "caption_ko": "스티커 2탄 (전 9종) 11/7~11/23 배포",
-          "source": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-          "img_fb": "gfb/7fd968093a31e35e.webp",
-          "img_local": "img/7fd968093a31e35e.webp"
-        },
-        {
-          "group": "특전·이벤트",
-          "img": "https://bandainamco-am.co.jp/images/crossstore/store/news/crossstore_tokyo/20261015/statue.jpg",
-          "caption_ko": "실물 크기 레인저 입상 전시",
-          "source": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-          "img_fb": "gfb/4847e34b5b486c56.webp",
-          "img_local": "img/4847e34b5b486c56.webp"
-        }
-      ],
-      "gallery_source": "https://bandainamco-am.co.jp/crossstore/store/crossstore_tokyo/news/20261015.html",
-      "thumb_small": "thumbs/81aea71cd6bb1895.webp",
-      "summary_ko": "게임 『지구방위군』 팝업숍이에요. 최신 공식 굿즈와 콜라보 굿즈를 팔고, 디스리 퍼블리셔 역대 타이틀 23종 그림으로 그 자리에서 티셔츠를 프린트해 줘요.",
-      "region": "tokyo",
-      "image_fb": "gfb/81aea71cd6bb1895.webp",
-      "image_local": "img/81aea71cd6bb1895.webp",
-      "lat": 35.7278,
-      "lon": 139.72,
-      "added": "2026-10-19"
-    },
-    {
       "reservation": "",
       "price": "",
       "checked_date": "2026-10-19",
@@ -6991,181 +6667,6 @@
       "image_local": "img/9ea9222a4489536d.webp",
       "added": "2026-10-19",
       "title_ko_source": "한국 정식 출간·방영 제목"
-    },
-    {
-      "reservation": "",
-      "price": "",
-      "checked_date": "2026-10-19",
-      "source_tier": "official",
-      "translation_check": true,
-      "verified_at": "2026-10-22",
-      "title_ko": "내 마음의 위험한 녀석 완결 & 러브코미디가 시작되지 않아 POP UP SHOP",
-      "title_ja": "「僕の心のヤバイやつ」完結＆「ラブコメディが始まらない」POP UP SHOP",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "신주쿠 마루이 멘 8층 이벤트 스페이스",
-      "start": "2026-11-06",
-      "end": "2026-11-23",
-      "official_url": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-      "thumbnail": "https://www.medicos-e.net/wp-content/uploads/2026/10/6fcbb9e115f68cebf1c39cb2570b1497-1024x724.jpg",
-      "map_query": "新宿マルイ メン",
-      "notes": "1,000엔마다 특전 미니 카드 랜덤 1장(전반 11/6~13·후반 11/14~ 그림 다름), 3,000엔마다 회장 한정 일러스트 카드. 오사카는 12/18~12/27",
-      "gallery": [
-        {
-          "group": "상품",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/006344213650bf98d5436bad12418467-724x1024.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/006344213650bf98d5436bad12418467-scaled.jpg",
-          "caption_ko": "상품 라인업 1",
-          "caption_ja": "商品ラインナップ",
-          "source": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-          "img_fb": "gfb/ea956cd46165074c.webp",
-          "img_local": "img/d24edc3ce7e4fe45.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/5fd96457a4926ea227690bd5a932b628-724x1024.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/5fd96457a4926ea227690bd5a932b628-scaled.jpg",
-          "caption_ko": "상품 라인업 2",
-          "caption_ja": "商品ラインナップ",
-          "source": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-          "img_fb": "gfb/d0cbe6e6517a887d.webp",
-          "img_local": "img/0a7fca66961baed4.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/90be77df54cdb3cdfbe5afdf5c448816-1-724x1024.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/90be77df54cdb3cdfbe5afdf5c448816-1-scaled.jpg",
-          "caption_ko": "상품 라인업 3",
-          "caption_ja": "商品ラインナップ",
-          "source": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-          "img_fb": "gfb/456447b08f008bbd.webp",
-          "img_local": "img/aab5ca67ed3500a9.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/d19997a438e5c42b9b822b05ef6463ff-724x1024.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/d19997a438e5c42b9b822b05ef6463ff-scaled.jpg",
-          "caption_ko": "상품 라인업 4",
-          "caption_ja": "商品ラインナップ",
-          "source": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-          "img_fb": "gfb/5d8f5e5e2b246992.webp",
-          "img_local": "img/ef4d08c920b6a2e9.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/3c8f2a9e0216aa5a01cee169153deef1-724x1024.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/3c8f2a9e0216aa5a01cee169153deef1-scaled.jpg",
-          "caption_ko": "상품 라인업 5",
-          "caption_ja": "商品ラインナップ",
-          "source": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-          "img_fb": "gfb/2a93cc9250e61759.webp",
-          "img_local": "img/4500c09c47984d95.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/c1c251874a7c1f28a610e617600cd1d4-724x1024.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/c1c251874a7c1f28a610e617600cd1d4-scaled.jpg",
-          "caption_ko": "상품 라인업 6",
-          "caption_ja": "商品ラインナップ",
-          "source": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-          "img_fb": "gfb/c46f33231ea3c9f7.webp",
-          "img_local": "img/312ebebc5798f459.webp"
-        },
-        {
-          "group": "특전",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/d7f3d00a5dabdb4a2094895472d2fdd2-1-1024x724.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/d7f3d00a5dabdb4a2094895472d2fdd2-1-scaled.jpg",
-          "caption_ko": "특전 미니 카드",
-          "caption_ja": "特典ミニカード",
-          "source": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-          "kinds": "1,000엔(세금 포함)마다 랜덤 1장",
-          "img_fb": "gfb/5acd082bb4036bc1.webp",
-          "img_local": "img/45dd693d0e609244.webp"
-        },
-        {
-          "group": "특전",
-          "img": "https://www.medicos-e.net/wp-content/uploads/2026/10/f024235b536d490bb62310d32dcff004-1024x724.jpg",
-          "full": "https://www.medicos-e.net/wp-content/uploads/2026/10/f024235b536d490bb62310d32dcff004-scaled.jpg",
-          "caption_ko": "회장 한정 특전 일러스트 카드",
-          "caption_ja": "【会場限定】特典イラストカード",
-          "source": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-          "kinds": "3,000엔(세금 포함)마다 1장",
-          "img_fb": "gfb/b4d71fe0a3753ea0.webp",
-          "img_local": "img/f38af22563ba7279.webp"
-        }
-      ],
-      "gallery_note": "가격은 상품 라인업 이미지에서 확인할 수 있어요",
-      "source_url": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-      "summary_source": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-      "thumbnail_source": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-      "evidence": [
-        {
-          "url": "https://www.medicos-e.net/newsdetail/boku_yaba/",
-          "tier": "official",
-          "quote": "【開催期間】 2026 年 11 月 6 日 ( 金 ) ～ 2026 年 11 月 23 日（月・祝） 【開催場所】新宿マルイメン 8 階イベントスペース",
-          "checked": "2026-10-22"
-        }
-      ],
-      "thumb_small": "thumbs/db90e33e0e4be292.webp",
-      "summary_ko": "『내 마음의 위험한 녀석』 완결과 스핀오프 『러브코미디가 시작되지 않아』 기념 팝업숍이에요. 새로 그린 일러스트 굿즈와 복제 원화를 팔아요.",
-      "region": "tokyo",
-      "image_fb": "gfb/db90e33e0e4be292.webp",
-      "image_local": "img/db90e33e0e4be292.webp",
-      "lat": 35.692524,
-      "lon": 139.706253,
-      "added": "2026-10-19"
-    },
-    {
-      "reservation": "",
-      "price": "",
-      "checked_date": "2026-10-19",
-      "source_tier": "official",
-      "translation_check": true,
-      "verified_at": "2026-10-22",
-      "title_ko": "케로로 중사☆ 캐릭터 팝 스토어",
-      "title_ja": "ケロロ軍曹☆キャラポップストア",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "반다이남코 Cross Store 아트레 아키하바라점",
-      "start": "2026-10-31",
-      "end": "2026-11-23",
-      "official_url": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
-      "thumbnail": "https://bandainamco-am.co.jp/images/chara_shop/keroro/news/krrCPS2_kvbanner.jpg",
-      "map_query": "アトレ秋葉原1",
-      "notes": "오리지널 굿즈와 미니게임. 상세는 10/21 공식 사이트 업데이트 예정. 이후 우메다·하카타·센다이 순회",
-      "source_url": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
-      "summary_source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
-      "thumbnail_source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
-      "evidence": [
-        {
-          "url": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
-          "tier": "official",
-          "quote": "バンダイナムコCross Store アトレ秋葉原店： 2026年10月31日(土) ～ 2026年11月23日(月祝)",
-          "checked": "2026-10-22"
-        }
-      ],
-      "thumb_small": "thumbs/b19a342d092fc7c3.webp",
-      "gallery": [
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://bandainamco-am.co.jp/images/chara_shop/keroro/news/krrCPS2_goodspos_A1_anime.jpg",
-          "full": "https://bandainamco-am.co.jp/images/chara_shop/keroro/news/krrCPS2_goodspos_A1_anime.jpg",
-          "caption_ko": "캐릭터 팝 스토어 오리지널 굿즈",
-          "source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
-          "caption_ja": "ケロロ軍曹キャラポップストア オリジナルグッズ",
-          "img_fb": "gfb/a9491fd36c006ce5.webp",
-          "img_local": "img/a9491fd36c006ce5.webp"
-        }
-      ],
-      "gallery_source": "https://bandainamco-am.co.jp/chara_shop/keroro/NEWS/all/20261016.html",
-      "gallery_note": "이미지는 공식 페이지 이미지(실제와 다를 수 있음)",
-      "lat": 35.6983,
-      "lon": 139.7724,
-      "summary_ko": "애니메이션 『케로로 중사☆』 방송 기념 캐릭터 팝 스토어예요. 오리지널 굿즈와 미니게임이 있고, 극장판 캐릭터 팝 스토어 굿즈도 들어와요.",
-      "region": "tokyo",
-      "image_fb": "gfb/b19a342d092fc7c3.webp",
-      "image_local": "img/b19a342d092fc7c3.webp",
-      "added": "2026-10-19"
     },
     {
       "reservation": "",
@@ -7321,104 +6822,6 @@
       "image_fb": "gfb/1bd15097025b5633.webp",
       "image_local": "img/1bd15097025b5633.webp",
       "added": "2026-10-19"
-    },
-    {
-      "id": "dungeon-meshi-volks",
-      "area": "도쿄",
-      "reservation": "불필요",
-      "checked_date": "2026-10-21",
-      "evidence": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-          "tier": "official",
-          "quote": "開催期間:2026年11月7日(土)～2026年11月23日(月・祝) 開催場所:ボークス 秋葉原ホビー天国2 6Ｆフロア 営業時間:平日11:00～20:00/土日祝10:00～20:00",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "translation_check": true,
-      "summary_source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-      "gallery_source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-      "title_ko": "던전밥 POP UP SHOP in 볼크스 (아키하바라)",
-      "title_ja": "『TVアニメ「ダンジョン飯」 POP UP SHOP in ボークス』",
-      "category": "팝업스토어",
-      "venue": "볼크스 아키하바라 호비 천국2 6층",
-      "start": "2026-11-07",
-      "end": "2026-11-23",
-      "official_url": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-      "notes": "평일 11:00~20:00 / 토일공휴일 10:00~20:00. 굿즈 275~3,300엔. 2,000엔(세금 포함) 구매마다 브로마이드(전 9종) 랜덤 1장 (영수증 합산 불가). 일부 트레이딩 굿즈 BOX 구매 선착순 특전. 오사카 쇼룸은 11/28~12/13",
-      "map_query": "ボークス 秋葉原ホビー天国2",
-      "lat": 35.6995,
-      "lon": 139.7712,
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-aedcf40dee4743671de67db8b40b8416-1140x640.jpg",
-      "thumb_small": "thumbs/5e71b586fdbf2c5f.webp",
-      "summary_ko": "「던전밥」 '우편배달' 콘셉트 새 일러스트 굿즈를 먼저 파는 팝업이에요. 2,000엔마다 브로마이드 특전이 있고, 이후 오사카에서도 열려요.",
-      "region": "tokyo",
-      "image_fb": "gfb/5e71b586fdbf2c5f.webp",
-      "image_local": "img/5e71b586fdbf2c5f.webp",
-      "added": "2026-10-21",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-aedcf40dee4743671de67db8b40b8416-1140x640.jpg?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 1",
-          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-          "img_fb": "gfb/142fbb982b78799c.webp",
-          "img_local": "img/142fbb982b78799c.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-dcc221825acdf670943240f536b62d1e-3900x2758.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 2",
-          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-          "img_fb": "gfb/ca9098d3cece19a5.webp",
-          "img_local": "img/ca9098d3cece19a5.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-9fb0be71befe40588bdb71aef3b94e66-3900x2758.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 3",
-          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-          "img_fb": "gfb/35fa03a01f2f112a.webp",
-          "img_local": "img/35fa03a01f2f112a.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-d611ed120735c13b3d53d2b8fdc5b3c9-1600x1200.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 4",
-          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-          "img_fb": "gfb/8f4b7389d9d0fdbd.webp",
-          "img_local": "img/8f4b7389d9d0fdbd.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-7696eb63ddbadfebd5758b320c2fc110-1600x1200.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 5",
-          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-          "img_fb": "gfb/51d83a465faa3c64.webp",
-          "img_local": "img/51d83a465faa3c64.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prcdn.freetls.fastly.net/release_image/16064/9694/16064-9694-337054e3b286bfc4a65f4a2f7c3dbfc8-1600x1200.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
-          "caption_ko": "공식 이미지 6",
-          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-          "img_fb": "gfb/00c07442828ca21b.webp",
-          "img_local": "img/00c07442828ca21b.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://prtimes.jp/data/corp/16064/tmp-63a1675cdac425ec7ed512a51fddbf99-9b2ecb121a327ce10d76efa58918a543.jpg?auto=avif",
-          "caption_ko": "공식 이미지 7",
-          "source": "https://prtimes.jp/main/html/rd/p/000009694.000016064.html",
-          "img_fb": "gfb/ef0e93c84325f1ed.webp",
-          "img_local": "img/ef0e93c84325f1ed.webp"
-        }
-      ],
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "trigun-shinjuku",
@@ -7826,253 +7229,6 @@
       ],
       "gallery_source": "https://eeo.today/store/101/specialfeature/mmppp-popup",
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
-    },
-    {
-      "area": "도쿄",
-      "reservation": "불필요",
-      "price": "굿즈 440~2,200엔",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "id": "tokrev-shinjuku-marui",
-      "title_ko": "도쿄 리벤저스 POP UP SHOP (신주쿠 마루이 아넥스)",
-      "title_ja": "TVアニメ『東京リベンジャーズ』POP UP SHOP",
-      "category": "팝업스토어",
-      "venue": "신주쿠 마루이 아넥스 2층",
-      "start": "2026-11-14",
-      "end": "2026-11-23",
-      "official_url": "https://www.the-chara.com/blog/?p=123731",
-      "map_query": "新宿マルイ アネックス",
-      "notes": "11:00~20:00 (토일공휴일 10:30~20:00, 마지막 날 18:00까지). 개점 전 대기 금지. 구매 금액에 따라 특전 브로마이드(전 6종) 랜덤 증정, 당첨 시 B6 아크릴 아트. 에포스카드 제시 시 브로마이드 1장 추가",
-      "thumbnail": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevst_kv.jpg",
-      "evidence": [
-        {
-          "url": "https://www.the-chara.com/blog/?p=123731",
-          "tier": "official",
-          "quote": "開催期間 2026年11月14日(土)〜11月23日(月祝)",
-          "checked": "2026-10-22"
-        }
-      ],
-      "gallery": [
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_trkrkrkanb326.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_trkrkrkanb326.jpg",
-          "caption_ko": "트레이딩 반짝이 캔뱃지 (전 6종)",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 トレーディングキラキラ缶バッジ(全6種)",
-          "price": "550엔 (세트 3,300엔, 세금 포함)",
-          "img_fb": "gfb/05d1115230e3dd39.webp",
-          "img_local": "img/05d1115230e3dd39.webp"
-        },
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_trkrkrcrd394.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_trkrkrcrd394.jpg",
-          "caption_ko": "트레이딩 반짝이 카드 (전 6종)",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 トレーディングキラキラカード(全6種)",
-          "price": "550엔 (세트 3,300엔, 세금 포함)",
-          "img_fb": "gfb/fec9b26ff652f7ad.webp",
-          "img_local": "img/fec9b26ff652f7ad.webp"
-        },
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_bgarcstnd278.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_bgarcstnd278.jpg",
-          "caption_ko": "배경 포함 아크릴 스탠드",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 背景付きアクリルスタンド",
-          "price": "각 2,200엔 (세금 포함)",
-          "img_fb": "gfb/fe00bfe1f5614575.webp",
-          "img_local": "img/fe00bfe1f5614575.webp"
-        },
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_sldarckey285.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_sldarckey285.jpg",
-          "caption_ko": "슬라이드 아크릴 키홀더",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 スライドアクリルキーホルダー",
-          "price": "각 990엔 (세금 포함)",
-          "img_fb": "gfb/4ba37cbc840ce408.webp",
-          "img_local": "img/4ba37cbc840ce408.webp"
-        },
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_ilstcrd214.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_ilstcrd214.jpg",
-          "caption_ko": "일러스트 카드",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 イラストカード",
-          "price": "각 440엔 (세금 포함)",
-          "img_fb": "gfb/efb04e8f9988b62e.webp",
-          "img_local": "img/efb04e8f9988b62e.webp"
-        },
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_stkrset201.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_stkrset201.jpg",
-          "caption_ko": "스티커 세트",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 ステッカーセット",
-          "price": "각 770엔 (세금 포함)",
-          "img_fb": "gfb/70feeaed19a7c6a6.webp",
-          "img_local": "img/70feeaed19a7c6a6.webp"
-        },
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_mnknb334.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_mnknb334.jpg",
-          "caption_ko": "트레이딩 미니캐릭터 캔뱃지 (전 6종)",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 トレーディングミニキャラ缶バッジ(全6種)",
-          "price": "550엔 (세트 3,300엔, 세금 포함)",
-          "img_fb": "gfb/00381111741e3475.webp",
-          "img_local": "img/00381111741e3475.webp"
-        },
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_mnarcstnd223.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_mnarcstnd223.jpg",
-          "caption_ko": "미니캐릭터 아크릴 스탠드",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 ミニキャラアクリルスタンド",
-          "price": "각 880엔 (세금 포함)",
-          "img_fb": "gfb/c01f73e6d1d0d9b5.webp",
-          "img_local": "img/c01f73e6d1d0d9b5.webp"
-        },
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_mnarcbrk221.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_mnarcbrk221.jpg",
-          "caption_ko": "미니캐릭터 미니 다이컷 아크릴 블록",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 ミニキャラミニダイカットアクリルブロック",
-          "price": "각 660엔 (세금 포함)",
-          "img_fb": "gfb/ec61fe7d095ac6b0.webp",
-          "img_local": "img/ec61fe7d095ac6b0.webp"
-        },
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_mnonmebag264.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_mnonmebag264.jpg",
-          "caption_ko": "미니캐릭터 이름 뱃지",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 ミニキャラお名前バッジ",
-          "price": "각 880엔 (세금 포함)",
-          "img_fb": "gfb/5a843a3672af1e06.webp",
-          "img_local": "img/5a843a3672af1e06.webp"
-        },
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_mnhrclp237.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_mnhrclp237.jpg",
-          "caption_ko": "미니캐릭터 헤어클립 세트",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 ミニキャラヘアクリップセット",
-          "price": "각 1,100엔 (세금 포함)",
-          "img_fb": "gfb/6cf50fb2249c4424.webp",
-          "img_local": "img/6cf50fb2249c4424.webp"
-        },
-        {
-          "group": "오리지널 굿즈",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_nameplt265.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevcl_nameplt265.jpg",
-          "caption_ko": "이름 아크릴 블록 vol.2",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "TVアニメ『東京リベンジャーズ』 お名前アクリルブロックvol.2",
-          "price": "각 1,650엔 (세금 포함)",
-          "img_fb": "gfb/876c57ba6e1bd009.webp",
-          "img_local": "img/876c57ba6e1bd009.webp"
-        },
-        {
-          "group": "특전",
-          "img": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevst_tktn334.jpg",
-          "full": "https://thechara.xsrv.jp/wp-content/uploads/2026/10/202610_tkrevst_tktn334.jpg",
-          "caption_ko": "특전 브로마이드 (전 6종) · 당첨 경품 B6 아크릴 아트",
-          "source": "https://www.the-chara.com/blog/?p=123731",
-          "caption_ja": "配布特典 ブロマイド / 当たり景品 B6アクリルアート",
-          "img_fb": "gfb/0f7b69c19d78856c.webp",
-          "img_local": "img/0f7b69c19d78856c.webp"
-        }
-      ],
-      "gallery_note": "이미지는 공식 페이지 이미지(실제와 다를 수 있음)",
-      "summary_ko": "TV 애니메이션 「도쿄 리벤저스」 팝업으로 미니캐릭터 굿즈 등이 나와요. 구매 금액에 따라 브로마이드 특전과 당첨 경품이 있어요.",
-      "source_url": "https://www.the-chara.com/blog/?p=123731",
-      "summary_source": "https://www.the-chara.com/blog/?p=123731",
-      "thumbnail_source": "https://www.the-chara.com/blog/?p=123731",
-      "gallery_source": "https://www.the-chara.com/blog/?p=123731",
-      "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)",
-      "lat": 35.6901,
-      "lon": 139.706,
-      "verified_at": "2026-10-22",
-      "thumb_small": "thumbs/229c10be9bfad1ad.webp",
-      "region": "tokyo",
-      "image_fb": "gfb/229c10be9bfad1ad.webp",
-      "image_local": "img/229c10be9bfad1ad.webp",
-      "added": "2026-10-22"
-    },
-    {
-      "area": "도쿄",
-      "reservation": "불필요",
-      "price": "",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "id": "urara-meirocho-kirara",
-      "title_ko": "우라라 미로첩 POP UP SHOP (신주쿠 · 키라라&FUZ 오피셜 스토어)",
-      "title_ja": "「うらら迷路帖」POP UP SHOP",
-      "category": "팝업스토어",
-      "venue": "키라라&FUZ 오피셜 스토어 (신주쿠 마루이 아넥스 2층)",
-      "start": "2026-11-07",
-      "end": "2026-11-23",
-      "official_url": "https://kirara-fuz-store.jp/event/urara/",
-      "map_query": "新宿マルイ アネックス",
-      "notes": "1,000엔(세금 포함)마다 특전 일러스트 카드(전 6종) 랜덤 1장. 11/7은 셔플 추첨 입장(정리권 10:30~10:40 배부, 1차 입장 11:15). 사후 통판 11/24 정오~12/8",
-      "thumbnail": "https://kirara-fuz-store.jp/wp-content/uploads/2026/10/うらら迷路帖_KV_横-scaled.jpg",
-      "evidence": [
-        {
-          "url": "https://kirara-fuz-store.jp/event/urara/",
-          "tier": "official",
-          "quote": "【開催期間】2026年11月7日(土)〜11月23日(月・祝)",
-          "checked": "2026-10-22"
-        }
-      ],
-      "gallery": [
-        {
-          "group": "상품",
-          "img": "https://kirara-fuz-store.jp/wp-content/uploads/2026/10/うらら_MENU_1-724x1024.jpg",
-          "full": "https://kirara-fuz-store.jp/wp-content/uploads/2026/10/うらら_MENU_1-724x1024.jpg",
-          "caption_ko": "상품 라인업",
-          "source": "https://kirara-fuz-store.jp/event/urara/",
-          "img_fb": "gfb/4a79ce9fe8a482a6.webp",
-          "img_local": "img/4a79ce9fe8a482a6.webp"
-        },
-        {
-          "group": "특전",
-          "img": "https://kirara-fuz-store.jp/wp-content/uploads/2026/10/うらら_特典-1024x724.jpg",
-          "full": "https://kirara-fuz-store.jp/wp-content/uploads/2026/10/うらら_特典-1024x724.jpg",
-          "caption_ko": "특전 일러스트 카드",
-          "source": "https://kirara-fuz-store.jp/event/urara/",
-          "kinds": "전 6종 · 1,000엔(세금 포함)마다 랜덤 1장",
-          "img_fb": "gfb/e85ced950c1a753c.webp",
-          "img_local": "img/e85ced950c1a753c.webp"
-        }
-      ],
-      "gallery_note": "이미지는 공식 페이지 이미지(실제와 다를 수 있음)",
-      "summary_ko": "「우라라 미로첩」 새 일러스트 굿즈 팝업이에요. 1,000엔마다 일러스트 카드 특전이 있고, 첫날은 추첨 입장이에요.",
-      "source_url": "https://kirara-fuz-store.jp/event/urara/",
-      "summary_source": "https://kirara-fuz-store.jp/event/urara/",
-      "thumbnail_source": "https://kirara-fuz-store.jp/event/urara/",
-      "gallery_source": "https://kirara-fuz-store.jp/event/urara/",
-      "translation_check": true,
-      "lat": 35.6901,
-      "lon": 139.706,
-      "verified_at": "2026-10-22",
-      "thumb_small": "thumbs/0c3d67d34ff245db.webp",
-      "region": "tokyo",
-      "image_fb": "gfb/0c3d67d34ff245db.webp",
-      "image_local": "img/0c3d67d34ff245db.webp",
-      "added": "2026-10-22"
     },
     {
       "area": "전국",
@@ -8572,43 +7728,6 @@
       "image_fb": "gfb/3060f8ac8af81a2b.webp",
       "image_local": "img/3060f8ac8af81a2b.webp",
       "added": "2026-10-15"
-    },
-    {
-      "title_ko": "오이 경마장 플리마켓 (Tokyo City Flea Market)",
-      "title_ja": "大井競馬場フリーマーケット -Tokyo City Flea Market-",
-      "category": "플리마켓",
-      "area": "도쿄",
-      "venue": "오이 경마장 제1주차장",
-      "start": "2026-11-23",
-      "end": "2026-11-23",
-      "reservation": "불필요",
-      "price": "무료",
-      "official_url": "https://trx.jp/",
-      "source_url": "https://ooi20261123.peatix.com/",
-      "notes": "8:45~13:30 (도쿄 메가 일루미 개최로 단축). 비 오면 취소(소우천 결행). 주최: 도쿄 리사이클 운동 시민의 모임",
-      "checked_date": "2026-10-19",
-      "thumbnail": "https://trx.jp/wp-content/themes/trx2025/img/og.jpg",
-      "thumbnail_source": "https://trx.jp/",
-      "map_query": "東京都品川区勝島2-1-2",
-      "evidence": [
-        {
-          "url": "https://ooi20261123.peatix.com/",
-          "tier": "official",
-          "quote": "Date & time Monday, November 23, 2026 8:45 AM - 1:30 PM JST",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "lat": 35.5934,
-      "lon": 139.7405,
-      "translation_check": true,
-      "summary_source": "https://trx.jp/",
-      "thumb_small": "thumbs/aa84162be2e291ba.webp",
-      "summary_ko": "오이 경마장에서 열리는 플리마켓 'Tokyo City Flea Market'이에요.",
-      "region": "tokyo",
-      "image_local": "img/aa84162be2e291ba.webp",
-      "added": "2026-10-19"
     },
     {
       "title_ko": "오이 경마장 플리마켓 (Tokyo City Flea Market)",
@@ -10363,128 +9482,6 @@
     },
     {
       "reservation": "",
-      "price": "아크릴 스탠드 각 1,760엔, 트레이딩 캔배지 550엔, 아크릴 카드 스탠드 각 2,750엔 (세금 포함)",
-      "checked_date": "2026-11-02",
-      "source_tier": "official",
-      "translation_check": true,
-      "verified_at": "2026-10-19",
-      "title_ko": "카드파이트!! 뱅가드 Divinez 시리즈 완결 기념 POP UP STORE",
-      "title_ja": "カードファイト!! ヴァンガード Divinez シリーズ完結記念POP UP STORE",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "뱅가드 스토어 (AKIHABARA 게이머즈 4층), 애니메이트 이케부쿠로 본점·아키하바라·시부야·신주쿠 외",
-      "start": "2026-11-06",
-      "end": "2026-11-23",
-      "official_url": "https://prtimes.jp/main/html/rd/p/000009749.000014827.html",
-      "thumbnail": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/15195218/Animate_VG_banner_1920%C3%971080_MAIN-1-1024x576.jpg",
-      "thumb_small": "thumbs/37580ec6e2f782b4.webp",
-      "map_query": "AKIHABARAゲーマーズ本店",
-      "notes": "3,300엔마다 새로 그린 뱅가드 PR 카드(전 8종) 랜덤 1장. 애니메이트 통판도 같이 해요",
-      "summary_ko": "『카드파이트!! 뱅가드 Divinez』 완결 기념 팝업이에요. 'After Party ver.' 새 일러스트 굿즈를 팔고, 구매 특전으로 PR 카드를 줘요.",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000009749.000014827.html",
-      "summary_source": "https://bushiroad-creative.com/topics/104744/",
-      "thumbnail_source": "https://bushiroad-creative.com/topics/104744/",
-      "evidence": [
-        {
-          "url": "https://bushiroad-creative.com/topics/104744/",
-          "tier": "official",
-          "quote": "｜POP UP STORE 2026年11月6日(金) ～ 11月23日(月・祝)",
-          "checked": "2026-10-19"
-        }
-      ],
-      "gallery": [
-        {
-          "group": "판매 굿즈",
-          "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210825/VGD_acst_ari_set.jpg",
-          "caption_ko": "아크릴 스탠드 After Party ver. 각 1,760엔",
-          "source": "https://bushiroad-creative.com/topics/104744/",
-          "img_fb": "gfb/7377554c2efc3839.webp",
-          "img_local": "img/7377554c2efc3839.webp"
-        },
-        {
-          "group": "판매 굿즈",
-          "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210836/vg_TRbadge_ari.jpg",
-          "caption_ko": "트레이딩 캔배지 After Party ver. 550엔",
-          "source": "https://bushiroad-creative.com/topics/104744/",
-          "img_fb": "gfb/efbd4a97642d8110.webp",
-          "img_local": "img/efbd4a97642d8110.webp"
-        },
-        {
-          "group": "판매 굿즈",
-          "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210846/3_vang_HAKU_acrylkey_sample_set_ari.jpg",
-          "caption_ko": "박 아크릴 키홀더 After Party ver. 각 990엔",
-          "source": "https://bushiroad-creative.com/topics/104744/",
-          "img_fb": "gfb/066c017d35f5c9e2.webp",
-          "img_local": "img/066c017d35f5c9e2.webp"
-        },
-        {
-          "group": "판매 굿즈",
-          "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210858/4_vang_AkcardST_sample_05.jpg",
-          "caption_ko": "아크릴 카드 스탠드 After Party ver. 각 2,750엔",
-          "source": "https://bushiroad-creative.com/topics/104744/",
-          "img_fb": "gfb/ca4dbb1ce84679ac.webp",
-          "img_local": "img/ca4dbb1ce84679ac.webp"
-        },
-        {
-          "group": "판매 굿즈",
-          "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210911/5_vang_TRminiACblock_sample_ari.jpg",
-          "caption_ko": "트레이딩 미니 아크릴 블록 마커 770엔",
-          "source": "https://bushiroad-creative.com/topics/104744/",
-          "img_fb": "gfb/eeeca37374f30775.webp",
-          "img_local": "img/eeeca37374f30775.webp"
-        },
-        {
-          "group": "판매 굿즈",
-          "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210916/6_vang_postcard_sample_ari.jpg",
-          "caption_ko": "환진성전편 포스트카드 세트 3,300엔",
-          "source": "https://bushiroad-creative.com/topics/104744/",
-          "img_fb": "gfb/ce68276fafd2d253.webp",
-          "img_local": "img/ce68276fafd2d253.webp"
-        },
-        {
-          "group": "판매 굿즈",
-          "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210923/VGDz_genshin_AkcardST_ari.jpg",
-          "caption_ko": "스노돔풍 아크릴 키홀더 1,650엔",
-          "source": "https://bushiroad-creative.com/topics/104744/",
-          "img_fb": "gfb/a963fd2d93201daf.webp",
-          "img_local": "img/a963fd2d93201daf.webp"
-        },
-        {
-          "group": "판매 굿즈",
-          "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210937/7_vang_acst_sample_set_ari.jpg",
-          "caption_ko": "환진성전편·운명성전편 아크릴 스탠드 각 1,760엔",
-          "source": "https://bushiroad-creative.com/topics/104744/",
-          "img_fb": "gfb/d4e83cceb886f1ba.webp",
-          "img_local": "img/d4e83cceb886f1ba.webp"
-        },
-        {
-          "group": "판매 굿즈",
-          "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/09210946/8_vang_TRacrylkey_sample_ari.jpg",
-          "caption_ko": "트레이딩 아크릴 키홀더 770엔",
-          "source": "https://bushiroad-creative.com/topics/104744/",
-          "img_fb": "gfb/61ddb33076dd6b7a.webp",
-          "img_local": "img/61ddb33076dd6b7a.webp"
-        },
-        {
-          "group": "구매 특전",
-          "img": "https://bushiroad-creative.com/wordpress/wp-content/uploads/2026/09/14170137/261106-1123_cf-vanguard-divinez-PUS_MY-1-1024x723.jpg",
-          "caption_ko": "뱅가드 PR 카드 (전 8종, 3,300엔마다)",
-          "source": "https://bushiroad-creative.com/topics/104744/",
-          "img_fb": "gfb/66734bd557991209.webp",
-          "img_local": "img/66734bd557991209.webp"
-        }
-      ],
-      "gallery_source": "https://bushiroad-creative.com/topics/104744/",
-      "region": "tokyo",
-      "image_fb": "gfb/37580ec6e2f782b4.webp",
-      "image_local": "img/37580ec6e2f782b4.webp",
-      "lat": 35.698284,
-      "lon": 139.771698,
-      "added": "2026-10-19",
-      "id": "jebbw9"
-    },
-    {
-      "reservation": "",
       "price": "",
       "checked_date": "2026-10-19",
       "source_tier": "official",
@@ -10518,44 +9515,6 @@
       "image_fb": "gfb/8e45bde6e1c71303.webp",
       "image_local": "img/8e45bde6e1c71303.webp",
       "added": "2026-10-19"
-    },
-    {
-      "id": "osaka-jujutsu-kaisen-world",
-      "title_ko": "주술회전 월드 오사카 (JUJUTSU KAISEN WORLD · 주술 팝업)",
-      "title_ja": "JUJUTSU KAISEN WORLD 大阪会場",
-      "category": "전시·행사",
-      "area": "오사카",
-      "venue": "반다이남코 Cross Store 오사카 우메다 (HEP FIVE)",
-      "start": "2026-10-09",
-      "end": "2026-11-23",
-      "reservation": "불필요 (10/9·10만 사전 예약제였음)",
-      "price": "",
-      "official_url": "https://bandainamco-am.co.jp/crossstore/store/hepfive/news/20260716.html",
-      "source_url": "https://bandainamco-am.co.jp/crossstore/store/hepfive/news/20260716.html",
-      "notes": "10/9·10 이외에는 사전 예약 없이 누구나 입장할 수 있을 예정이지만, 혼잡하면 입장·콘텐츠별 정리권을 배포할 수 있어요. 방문 전 공식 X 확인 권장",
-      "thumbnail": "https://bandainamco-am.co.jp/images/crossstore/store/news/hepfive/20260716_jujutsu-kaisen-world.jpg",
-      "thumbnail_source": "https://bandainamco-am.co.jp/crossstore/store/hepfive/news/20260716.html",
-      "map_query": "HEP FIVE 大阪府大阪市北区角田町5-15",
-      "evidence": [
-        {
-          "url": "https://bandainamco-am.co.jp/crossstore/store/hepfive/news/20260716.html",
-          "tier": "official",
-          "quote": "開催場所:バンダイナムコ Cross Store 大阪梅田 開催期間:2026年10月9日(金)〜11月23日(月・祝) イベント公式サイト イベント公式X <9月28日(月)更新",
-          "checked": "2026-10-22"
-        }
-      ],
-      "summary_ko": "애니메이션 「주술회전」 체험형 이벤트의 오사카 회장이에요. 어트랙션·미니게임, 콜라보 푸드, 새로 그린 일러스트 굿즈가 있어요.",
-      "region": "osaka",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "summary_source": "https://bandainamco-am.co.jp/crossstore/store/hepfive/news/20260716.html",
-      "translation_check": true,
-      "thumb_small": "thumbs/e17aec441ff7abe3.webp",
-      "image_local": "img/e17aec441ff7abe3.webp",
-      "lat": 34.7041,
-      "lon": 135.5004,
-      "added": "2026-10-22"
     },
     {
       "id": "osaka-naruto-konoha-market-2026",
@@ -10595,99 +9554,6 @@
       "thumb_small": "thumbs/818449b12df18c5d.webp",
       "image_fb": "gfb/818449b12df18c5d.webp",
       "image_local": "img/818449b12df18c5d.webp"
-    },
-    {
-      "id": "osaka-nijisanji-en-welcome-home-boys",
-      "title_ko": "니지산지 EN 팝업 「Welcome home, boys!」 (난바 마루이)",
-      "title_ja": "NIJISANJI EN Welcome home, boys!",
-      "category": "팝업스토어",
-      "area": "오사카",
-      "venue": "난바 마루이 5층 이벤트 스페이스",
-      "start": "2026-11-07",
-      "end": "2026-11-23",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://prtimes.jp/main/html/rd/p/000000075.000049377.html",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000075.000049377.html",
-      "notes": "11:00~19:00 (일본어 공지 기준 · 영어 공지에는 10:00~19:00으로 달라요). 입장 방법은 특설 사이트 확인",
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/49377/75/49377-75-056a5b7df611b4bebd1e5d13703f3730-2500x1250.jpg?format=jpeg&auto=webp&fit=bounds&width=1200",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000075.000049377.html",
-      "map_query": "大阪府大阪市中央区難波3-8-9 なんばマルイ",
-      "evidence": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000000075.000049377.html",
-          "tier": "official",
-          "quote": "・なんばマルイ 5Fイベントスペース 期間:2026年11月7日(土)〜 11月23日(月・祝) 営業時間:11:00〜19:00 ・新宿マルイアネックス 6F",
-          "checked": "2026-10-22"
-        }
-      ],
-      "gallery": [
-        {
-          "group": "상품·특전",
-          "img": "https://prcdn.freetls.fastly.net/release_image/49377/75/49377-75-c3875f7a3db6c84548ba7b9373c662c5-2400x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=1200",
-          "full": "https://prcdn.freetls.fastly.net/release_image/49377/75/49377-75-c3875f7a3db6c84548ba7b9373c662c5-2400x2700.jpg",
-          "caption_ko": "상품 목록 ①",
-          "caption_ja": "商品一覧① PRODUCT LIST①",
-          "source": "https://prtimes.jp/main/html/rd/p/000000075.000049377.html",
-          "img_fb": "gfb/99fc13ec907843dc.webp",
-          "img_local": "img/09b4b132be1b243b.webp"
-        },
-        {
-          "group": "상품·특전",
-          "img": "https://prcdn.freetls.fastly.net/release_image/49377/75/49377-75-852326787cd863e76041afec4528b96a-2400x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=1200",
-          "full": "https://prcdn.freetls.fastly.net/release_image/49377/75/49377-75-852326787cd863e76041afec4528b96a-2400x2700.jpg",
-          "caption_ko": "상품 목록 ②",
-          "caption_ja": "商品一覧② PRODUCT LIST②",
-          "source": "https://prtimes.jp/main/html/rd/p/000000075.000049377.html",
-          "img_fb": "gfb/97b938972ff78937.webp",
-          "img_local": "img/47f143a647f39326.webp"
-        },
-        {
-          "group": "상품·특전",
-          "img": "https://prcdn.freetls.fastly.net/release_image/49377/75/49377-75-c5681c0a5fe831f6359d4df2367a2b5b-2400x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=1200",
-          "full": "https://prcdn.freetls.fastly.net/release_image/49377/75/49377-75-c5681c0a5fe831f6359d4df2367a2b5b-2400x2700.jpg",
-          "caption_ko": "구매 특전 — 열쇠 모양 아크릴 키홀더 (전 7종 중 랜덤)",
-          "caption_ja": "購入特典",
-          "source": "https://prtimes.jp/main/html/rd/p/000000075.000049377.html",
-          "img_fb": "gfb/3dfdc634a973d9c3.webp",
-          "img_local": "img/c4e558e5fbbe6633.webp"
-        },
-        {
-          "group": "상품·특전",
-          "img": "https://prcdn.freetls.fastly.net/release_image/49377/75/49377-75-f753a026dd97e20746dff2008bdf2a75-2400x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=1200",
-          "full": "https://prcdn.freetls.fastly.net/release_image/49377/75/49377-75-f753a026dd97e20746dff2008bdf2a75-2400x2700.jpg",
-          "caption_ko": "회장 한정 쇼퍼 (1회 20,000엔 이상 구매 시)",
-          "caption_ja": "会場限定ショッパー",
-          "source": "https://prtimes.jp/main/html/rd/p/000000075.000049377.html",
-          "img_fb": "gfb/65a66cc8d1dcfdd2.webp",
-          "img_local": "img/055bb6b834f181b7.webp"
-        },
-        {
-          "group": "상품·특전",
-          "img": "https://prcdn.freetls.fastly.net/release_image/49377/75/49377-75-6ebbe344e1cb9549147153855e175eec-2400x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=1200",
-          "full": "https://prcdn.freetls.fastly.net/release_image/49377/75/49377-75-6ebbe344e1cb9549147153855e175eec-2400x2700.jpg",
-          "caption_ko": "회장 한정 미니게임 「괴도 쥬얼 게임」",
-          "caption_ja": "怪盗ジュエルゲーム",
-          "source": "https://prtimes.jp/main/html/rd/p/000000075.000049377.html",
-          "img_fb": "gfb/1b5788a06abc1928.webp",
-          "img_local": "img/d5fa150062edf799.webp"
-        }
-      ],
-      "gallery_source": "https://prtimes.jp/main/html/rd/p/000000075.000049377.html",
-      "gallery_note": "이미지는 주최사(BeBlock) PR TIMES 보도자료 이미지예요",
-      "summary_ko": "NIJISANJI EN 7명(알반 녹스, 클로드 클로마크, 서니 브리스코, 우키 비올레타, 반타크로우 브링거, 베잘리우스 반디지, 유 Q 윌슨)의 새 촬영 비주얼 굿즈와 룸웨어, 일본 한정 세트를 파는 팝업이에요. 회장 한정 미니게임·포토 스폿도 있어요.",
-      "region": "osaka",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "summary_source": "https://prtimes.jp/main/html/rd/p/000000075.000049377.html",
-      "translation_check": true,
-      "lat": 34.6655,
-      "lon": 135.5008,
-      "thumb_small": "thumbs/fd5e9c2032b8cc17.webp",
-      "image_fb": "gfb/fd5e9c2032b8cc17.webp",
-      "image_local": "img/fd5e9c2032b8cc17.webp",
-      "added": "2026-10-22"
     },
     {
       "id": "osaka-bleach-stories-of-ichigo",
@@ -11265,50 +10131,6 @@
       "title_ko_source": "한국 정식 발매·방영 제목 (널리 쓰이는 공식 표기)"
     },
     {
-      "id": "osaka-hetalia-20th-worldfesta",
-      "title_ko": "헤타리아 20주년 원화전 WorldFesta (오사카)",
-      "title_ja": "ヘタリア20周年原画展 WorldFesta 大阪会場",
-      "category": "전시·행사",
-      "area": "오사카",
-      "venue": "난바파크스 뮤지엄 (난바파크스 7층)",
-      "start": "2026-11-07",
-      "end": "2026-11-23",
-      "reservation": "필요 (전 일정 일시 지정제, e+)",
-      "price": "예매 2,300엔 · 당일 2,500엔 (세금 포함)",
-      "official_url": "https://hetalia-20thEX.com/",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000008676.000016756.html",
-      "notes": "10:00~19:00 (마지막 날은 17:00까지, 최종 입장은 폐장 30분 전). 입장자 전원 미니 색지(전 13종) 랜덤 증정",
-      "map_query": "大阪府大阪市浪速区難波中2-10-70",
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/16756/8676/16756-8676-2c5ce8f9958367d61156e06499a4d602-3900x2758.jpg?format=jpeg&auto=webp&fit=bounds&width=1200",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000008676.000016756.html",
-      "evidence": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000008676.000016756.html",
-          "tier": "official",
-          "quote": "前売入場券: 2,300円(税込)／当日入場券：2,500円(税込)／全日程日時指定制",
-          "checked": "2026-11-06"
-        },
-        {
-          "url": "https://hetalia-20thEX.com/",
-          "tier": "official",
-          "quote": "大阪会場 開催期間：2026年11月7日（土）～11月23日（祝・月）／会場：大阪・なんばパークスミュージアム／住所：大阪府大阪市浪速区難波中2-10-70 なんばパークス7階",
-          "checked": "2026-11-06"
-        }
-      ],
-      "summary_ko": "『헤타리아』 탄생 20주년 대규모 원화전의 오사카 회장이에요. 히마루야 히데카즈 선생님의 직필 연필화·컬러 일러스트와 실물 크기 이탈리아 입상, 포토 스폿이 있어요.",
-      "region": "osaka",
-      "checked_date": "2026-11-06",
-      "source_tier": "official",
-      "verified_at": "2026-11-06",
-      "summary_source": "https://hetalia-20thEX.com/",
-      "translation_check": true,
-      "lat": 34.6616,
-      "lon": 135.5023,
-      "thumb_small": "thumbs/bed2045e96ba8fc0.webp",
-      "image_local": "img/bed2045e96ba8fc0.webp",
-      "added": "2026-10-22"
-    },
-    {
       "id": "osaka-world-trigger-exhibition-reboot",
       "title_ko": "월드 트리거 전시회 「REBOOT」 (오사카 ATC)",
       "title_ja": "Anime WORLD TRIGGER Exhibition \"REBOOT\" 大阪会場",
@@ -11422,45 +10244,6 @@
       "lat": 34.6373,
       "lon": 135.42,
       "added": "2026-10-22"
-    },
-    {
-      "id": "osaka-cosradi-2026",
-      "series": "cosradi-2026",
-      "title_ko": "코스라지 2026 (코스프레 판매회·동인지 즉매회 · 오사카성 공원)",
-      "title_ja": "OBC V-STATION presents コスラジ2026",
-      "category": "전시·행사",
-      "area": "오사카",
-      "venue": "오사카성 공원 다이요노히로바 야구장",
-      "start": "2026-11-22",
-      "end": "2026-11-23",
-      "reservation": "필요 (입장 티켓제)",
-      "price": "일반 입장 사전 4,000엔 · 당일 5,000엔 (촬영회는 별도 참가비)",
-      "official_url": "https://www.obc1314.co.jp/cosradi2026/",
-      "source_url": "https://www.obc1314.co.jp/cosradi2026/",
-      "notes": "9:00~16:00 (1부 9:00~12:00 / 2부 13:00~16:00). 일부 프로그램 우천 중지. 텐트 40동에 160개 점포. 전용 주차장 없음",
-      "map_query": "大阪府大阪市中央区大阪城3 太陽の広場",
-      "evidence": [
-        {
-          "url": "https://www.obc1314.co.jp/cosradi2026/",
-          "tier": "official",
-          "quote": "日時 : 2026年11月22日(日)9:00〜16:00(1部9:00〜12:00/2部13:00〜16:00) 2026年11月23日(月・祝)9:00〜16:00(1部9:00〜12:00/2部13:00〜16:00)※一部雨天中止",
-          "checked": "2026-10-22"
-        }
-      ],
-      "summary_ko": "라디오 오사카가 여는 이틀간의 동인지·굿즈 즉매회 겸 코스프레 이벤트예요. 출전자·게스트 촬영회, 라디오 공개 녹음도 함께 열려요.",
-      "region": "osaka",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "summary_source": "https://www.obc1314.co.jp/cosradi2026/",
-      "translation_check": true,
-      "lat": 34.6844,
-      "lon": 135.5219,
-      "added": "2026-10-22",
-      "thumbnail": "https://www.obc1314.co.jp/wp-content/uploads/2026/09/cosradi_kv_s.png",
-      "thumbnail_source": "https://www.obc1314.co.jp/cosradi2026/",
-      "thumb_small": "thumbs/8b764a52bc7d0401.webp",
-      "image_local": "img/8b764a52bc7d0401.webp"
     },
     {
       "id": "osaka-hetalia-mixx-garden-2611",
@@ -11802,44 +10585,6 @@
       ],
       "gallery_source": "https://www.kadokawa.co.jp/product/322512000963/",
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
-    },
-    {
-      "reservation": "불필요",
-      "checked_date": "2026-10-22",
-      "source_tier": "official",
-      "verified_at": "2026-10-22",
-      "translation_check": true,
-      "id": "osaka-swapmeet-hanahaku-2611",
-      "title_ko": "스왑미트 인 하나하쿠 공원 스페셜 (쓰루미료쿠치 플리마켓)",
-      "title_ja": "Swapmeet in 花博公園スペシャル",
-      "category": "플리마켓",
-      "area": "오사카",
-      "region": "osaka",
-      "venue": "하나하쿠 기념공원 쓰루미료쿠치 하나미즈키 홀 부속 전시장",
-      "start": "2026-11-22",
-      "end": "2026-11-23",
-      "price": "입장 무료",
-      "official_url": "https://www.tsurumi-ryokuchi.jp/events/28742/",
-      "notes": "10:00~15:00(예정). 비가 오면 중지",
-      "thumbnail": "https://www.tsurumi-ryokuchi.jp/daiwa/wp/wp-content/uploads/2022/02/tsurumi_ogp.jpg",
-      "map_query": "花博記念公園鶴見緑地 ハナミズキホール",
-      "summary_ko": "일본 스왑미트 협회가 여는 이틀간의 플리마켓이에요.",
-      "evidence": [
-        {
-          "url": "https://www.tsurumi-ryokuchi.jp/events/28742/",
-          "tier": "official",
-          "quote": "開催日 2026年11月22日～2026年11月23日 開催時間 午前10時～午後3時（予定） 雨天 中止 場所 ハナミズキホール同附属展示場 入場料 無料",
-          "checked": "2026-10-22"
-        }
-      ],
-      "source_url": "https://www.tsurumi-ryokuchi.jp/events/28742/",
-      "thumbnail_source": "https://www.tsurumi-ryokuchi.jp/events/28742/",
-      "summary_source": "https://www.tsurumi-ryokuchi.jp/events/28742/",
-      "thumb_small": "thumbs/d85352a0c3134b5d.webp",
-      "image_local": "img/d85352a0c3134b5d.webp",
-      "lat": 34.7109,
-      "lon": 135.5807,
-      "added": "2026-10-22"
     },
     {
       "reservation": "불필요",
@@ -12671,45 +11416,6 @@
       "added": "2026-10-22"
     },
     {
-      "id": "kusuriya-sweetspara3-harajuku",
-      "title_ko": "약사의 혼잣말 × 스위츠 파라다이스 제3탄 (SoLaDo 하라주쿠점)",
-      "title_ja": "『薬屋のひとりごと』×スイーツパラダイス 第3弾 SoLaDo原宿店",
-      "category": "콜라보카페",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "스위츠 파라다이스 SoLaDo 하라주쿠점",
-      "start": "2026-10-30",
-      "end": "2026-11-23",
-      "reservation": "권장(공식 앱 예약)",
-      "price": "콜라보 메뉴 값과 별도로 뷔페 요금 필요",
-      "official_url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "source_url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "notes": "좌석 예약은 스위츠 파라다이스 앱에서만(이용일 5주 전~전날 20시). 굿즈는 콜라보 메뉴 이용자만 구매 가능",
-      "checked_date": "2026-10-23",
-      "evidence": [
-        {
-          "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-          "tier": "official",
-          "quote": "■2026年10月30日(金)～2026年11月23日(月) スイーツパラダイスSoLaDo原宿店 スイーツパラダイス天王寺ミオ店 … コラボメニューのご利用には、コラボメニュー代金と別途バイキング料金のご注文が必要です",
-          "checked": "2026-10-23"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-23",
-      "translation_check": true,
-      "summary_ko": "「약사의 혼잣말」 스위파라 콜라보카페 제3탄이에요.",
-      "summary_source": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "map_query": "SoLaDo原宿",
-      "thumbnail": "https://www.sweets-paradise.jp/wp-content/uploads/2026/10/2610_薬屋_アイキャッチ画像_w750×h511.jpg",
-      "thumbnail_source": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "thumb_small": "thumbs/54e3657dc825d4be.webp",
-      "image_fb": "gfb/54e3657dc825d4be.webp",
-      "image_local": "img/54e3657dc825d4be.webp",
-      "lat": 35.6703,
-      "lon": 139.7061,
-      "added": "2026-10-23"
-    },
-    {
       "id": "1kuji-ouran",
       "title_ko": "이치방쿠지 오란고교 호스트부 ~20th Anniversary~",
       "title_ja": "一番くじ 桜蘭高校ホスト部～20th Anniversary～",
@@ -13323,51 +12029,6 @@
       ],
       "gallery_source": "https://www.loft.co.jp/shop_list/info.php?info_id=718439&shop_id=189",
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
-    },
-    {
-      "id": "lycoris-recoil-popup-shinjuku-marui-2026",
-      "title_ko": "리코리스 리코일 POP UP SHOP in 마루이 (신주쿠 마루이 멘·폰초 스타일)",
-      "title_ja": "TVアニメ「リコリス・リコイル」POP UP SHOP in マルイ 新宿マルイ メン",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "신주쿠 마루이 멘 8층",
-      "start": "2026-11-14",
-      "end": "2026-11-23",
-      "price": "입장 무료",
-      "official_url": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
-      "source_url": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
-      "notes": "영업 11:00~19:00 (점포 영업시간과 다름). 「ポンチョスタイル」 신규 그려내리기 굿즈 선행 판매. 세금 포함 3,000엔 이상 1회계당 추첨 1회(에포스카드 제시 시 +1회, 3,000엔마다 아님). 마치다 모디 회차 12/4~12/13.",
-      "checked_date": "2026-11-05",
-      "evidence": [
-        {
-          "url": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
-          "tier": "official",
-          "quote": "2026年11月14日(土)～11月23日(月・祝)／新宿マルイ メン 8F／入場料 無料／営業時間 11:00～19:00",
-          "checked": "2026-11-05"
-        },
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000009745.000016064.html",
-          "tier": "official",
-          "quote": "開催期間：2026年11月14日(土)～11月23日(月・祝) 開催場所：新宿マルイ メン 8F 入場料：無料",
-          "checked": "2026-11-05"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-11-05",
-      "translation_check": true,
-      "summary_ko": "『리코리스 리코일』 폰초 스타일 팝업이에요. 신주쿠 마루이 멘에서 열려요. 입장 무료, 3,000엔 이상 구매 시 추첨회가 있어요.",
-      "summary_source": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
-      "map_query": "新宿マルイ メン",
-      "thumbnail": "https://img.event.amnibus.com/wp-content/uploads/c0f1dce700d945a6d549bad46f4cae6f.jpg",
-      "thumbnail_source": "https://event.amnibus.com/lycoris-recoil-0101-2026/",
-      "lat": 35.692524,
-      "lon": 139.706253,
-      "added": "2026-10-23",
-      "reservation": "선택 (11/14 일부 시간대 LINE 사전예약 추첨, 15:00경부터 프리 입장 / 11/15 이후 프리 입장)",
-      "thumb_small": "thumbs/4b3b10eb9aa5d1eb.webp",
-      "image_fb": "gfb/4b3b10eb9aa5d1eb.webp",
-      "image_local": "img/4b3b10eb9aa5d1eb.webp"
     },
     {
       "id": "osaka-haruhi-sos-ten",
@@ -14026,81 +12687,6 @@
       "checked_date": "2026-10-24",
       "verified_at": "2026-10-24",
       "translation_check": true,
-      "end": "2026-11-23",
-      "price": "",
-      "reservation": "10/24·25는 LINE 입장 정리권제",
-      "notes": "영업 11:00~21:00. 2,200엔(세금 포함) 이상 구매 시 전용 쇼퍼 증정",
-      "id": "chiipoke-popup4-ikebukuro",
-      "title_ko": "치이카와 포켓 POP UP STORE 제4탄 (이케부쿠로 PARCO)",
-      "title_ja": "ちいかわぽけっと POP UP STORE 第4弾 池袋PARCO",
-      "category": "팝업스토어",
-      "region": "tokyo",
-      "venue": "이케부쿠로 PARCO 본관 6F 0% IKEBUKURO",
-      "start": "2026-10-24",
-      "official_url": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
-      "summary_ko": "치이카와 게임 앱 「치이카와 포켓」의 팝업스토어 제4탄이에요.",
-      "thumbnail": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/fb.jpg",
-      "thumbnail_source": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/tokyo.html",
-      "map_query": "池袋PARCO 本館",
-      "evidence": [
-        {
-          "url": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
-          "tier": "official",
-          "quote": "＜東京＞ 2026/10/24(土)〜11/23(月・祝) 池袋PARCO 本館6F 0% IKEBUKURO 11:00-21:00",
-          "checked": "2026-10-24"
-        }
-      ],
-      "source_url": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
-      "summary_source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
-      "area": "도쿄",
-      "thumb_small": "thumbs/21990d02980be767.webp",
-      "image_fb": "gfb/21990d02980be767.webp",
-      "image_local": "img/21990d02980be767.webp",
-      "lat": 35.7308,
-      "lon": 139.7124,
-      "added": "2026-10-24",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://media.chiikawa-pocket.com/f48e3db2-81c1-4ca7-853c-33f63a28141b/1024_popup_main_w.png",
-          "caption_ko": "공식 이미지 1",
-          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
-          "img_fb": "gfb/3791891006b389f6.webp",
-          "img_local": "img/3791891006b389f6.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://media.chiikawa-pocket.com/15dcdbb2-15eb-4907-8c53-86aff6f3a276/vol.4_bonus_1.png",
-          "caption_ko": "공식 이미지 2",
-          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
-          "img_fb": "gfb/f4f77242ec111f7c.webp",
-          "img_local": "img/f4f77242ec111f7c.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://media.chiikawa-pocket.com/bd1c0ae6-f604-4c40-87e7-27b7c2728b22/vol.4_bonus_2.png",
-          "caption_ko": "공식 이미지 3",
-          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
-          "img_fb": "gfb/acf2bed64205b82f.webp",
-          "img_local": "img/acf2bed64205b82f.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://media.chiikawa-pocket.com/9ff32bc2-cbf2-4e69-9a13-7d1bafb3a015/vol.4_bonus_3.png",
-          "caption_ko": "공식 이미지 4",
-          "source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
-          "img_fb": "gfb/f82a6cdb7a388fb9.webp",
-          "img_local": "img/f82a6cdb7a388fb9.webp"
-        }
-      ],
-      "gallery_source": "https://jp.chiikawa-pocket.com/ja/news/26103071/",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
-    },
-    {
-      "source_tier": "official",
-      "checked_date": "2026-10-24",
-      "verified_at": "2026-10-24",
-      "translation_check": true,
       "end": "2026-12-25",
       "price": "대인 3,500엔 · 어린이(4~11세) 1,800엔 · 중고대학생 2,800엔",
       "reservation": "필요 (입장 티켓제, 아소뷰)",
@@ -14502,104 +13088,6 @@
       "thumbnail": "https://bandainamco-am.co.jp/images/crossstore/common/crossstore_ogp.png",
       "thumb_small": "thumbs/6b954f9e1a3e35ab.webp",
       "image_local": "img/6b954f9e1a3e35ab.webp"
-    },
-    {
-      "id": "osaka-kusuriya-sweetspara3-tennoji-mio",
-      "title_ko": "약사의 혼잣말 × 스위츠 파라다이스 제3탄 (오사카 덴노지 미오점)",
-      "title_ja": "薬屋のひとりごとin SWEETS PARADISE 天王寺ミオ店",
-      "category": "콜라보카페",
-      "area": "오사카",
-      "region": "osaka",
-      "venue": "스위츠 파라다이스 덴노지 미오점",
-      "start": "2026-10-30",
-      "end": "2026-11-23",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "source_url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "notes": "콜라보 메뉴는 뷔페 요금 별도. 굿즈는 콜라보 메뉴를 먹은 사람만 살 수 있어요",
-      "checked_date": "2026-10-24",
-      "evidence": [
-        {
-          "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-          "tier": "official",
-          "quote": "■2026年10月30日(金)～2026年11月23日(月) スイーツパラダイスSoLaDo原宿店 スイーツパラダイス天王寺ミオ店 … コラボメニュー代金と別途バイキング料金のご注文が必要です",
-          "checked": "2026-10-24"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-24",
-      "translation_check": true,
-      "summary_ko": "「약사의 혼잣말」 콜라보카페 제3탄 오사카 매장이에요. 콜라보 메뉴는 뷔페 요금과 따로 주문해야 해요.",
-      "summary_source": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "map_query": "天王寺ミオ 大阪府大阪市天王寺区悲田院町10-39",
-      "thumbnail": "https://www.sweets-paradise.jp/wp-content/uploads/2026/10/2610_薬屋_アイキャッチ画像_w750×h511.jpg",
-      "thumbnail_source": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "thumb_small": "thumbs/54e3657dc825d4be.webp",
-      "image_fb": "gfb/54e3657dc825d4be.webp",
-      "image_local": "img/54e3657dc825d4be.webp",
-      "lat": 34.6467,
-      "lon": 135.5145,
-      "added": "2026-10-24"
-    },
-    {
-      "id": "maruko-popup-marukorou-hibiya",
-      "title_ko": "마루코는 아홉살 팝업스토어 「MARUKO楼」 (히비야)",
-      "title_ja": "Chibi Maruko Chan POP UP SHOP MARUKO楼",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "히비야 샹테 1층 키하치 카페 앞 특설 회장",
-      "start": "2026-10-30",
-      "end": "2026-11-23",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://www.chibimaru.tv/news/entry/2026/008462.html",
-      "source_url": "https://www.chibimaru.tv/news/entry/2026/008462.html",
-      "notes": "11:00~20:00",
-      "checked_date": "2026-10-24",
-      "evidence": [
-        {
-          "url": "https://www.chibimaru.tv/news/entry/2026/008462.html",
-          "tier": "official",
-          "quote": "会場 日比谷シャンテ1F　キハチカフェ前特設会場 期間 2026年10月30日（金）～2026年11月23日（月） 営業時間 11:00〜20:00 … 2,000円（税込）お買い上げごとにトレーディングカードをランダムで1枚プレゼント",
-          "checked": "2026-10-24"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-24",
-      "translation_check": true,
-      "summary_ko": "「마루코는 아홉살」 중국풍 아트 신상품 위주로 잡화·옷을 파는 팝업이에요. 2,000엔마다 트레이딩 카드 1장을 줘요.",
-      "summary_source": "https://www.chibimaru.tv/news/entry/2026/008462.html",
-      "map_query": "日比谷シャンテ",
-      "thumbnail": "https://www.chibimaru.tv/news/media/marukorou_hibiya_KV_1200.jpg",
-      "thumbnail_source": "https://www.chibimaru.tv/news/entry/2026/008462.html",
-      "thumb_small": "thumbs/a6b92cf1e6c5f01b.webp",
-      "image_fb": "gfb/a6b92cf1e6c5f01b.webp",
-      "image_local": "img/a6b92cf1e6c5f01b.webp",
-      "lat": 35.673,
-      "lon": 139.7599,
-      "added": "2026-10-24",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://www.chibimaru.tv/news/assets_c/2026/10/marukorou_hibiya_KV_1200-thumb-600xauto-16370.jpg",
-          "caption_ko": "공식 이미지 1",
-          "source": "https://www.chibimaru.tv/news/entry/2026/008462.html",
-          "img_fb": "gfb/bca46ba4b0884ff8.webp",
-          "img_local": "img/bca46ba4b0884ff8.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.chibimaru.tv/news/assets_c/2026/10/4e97fac4fe742c6349afebc299547291f78cdabe-thumb-500xauto-16372.jpg",
-          "caption_ko": "공식 이미지 2",
-          "source": "https://www.chibimaru.tv/news/entry/2026/008462.html",
-          "img_fb": "gfb/f9934f017fa08dca.webp",
-          "img_local": "img/f9934f017fa08dca.webp"
-        }
-      ],
-      "gallery_source": "https://www.chibimaru.tv/news/entry/2026/008462.html",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "id": "meicho-gratte3-tokyo",
@@ -17557,46 +16045,6 @@
       "image_fit": "contain",
       "summary_ko": "밀리언 라이브 유닛 ARC-FLAGS(도코로 메구미·마이하마 아유무·마카베 미즈키) 새로 그린 일러스트 굿즈 판매와 등신대 패널 전시가 있어요.",
       "summary_source": "https://www.kotobukiya.co.jp/event/detail/1357/",
-      "title_ko": "아이돌마스터 밀리언 라이브! ARC-FLAGS 팝업 코너 (코토부키야 아키하바라관)",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "코토부키야 아키하바라관 1층",
-      "start": "2026-11-06",
-      "end": "2026-11-23",
-      "map_query": "コトブキヤ秋葉原館",
-      "lat": 35.699265,
-      "lon": 139.770554,
-      "notes": "11/6~8은 LINE 디지털 QR 정리권(mogily, 9:00~10:30 접수, 추첨식). 오픈 상품 각 3개, 랜덤 상품 각 3BOX까지",
-      "evidence": [
-        {
-          "url": "https://www.kotobukiya.co.jp/event/detail/1357/",
-          "tier": "official",
-          "quote": "「ARC-FLAGS POP UP CORNER」が開催決定！「所恵美」「舞浜歩」「真壁瑞希」の3人が描き下ろしイラストで登場！ 開催日時・場所 【東京会場】コトブキヤ秋葉原館1F　11/6（金）〜11/23（月・祝） 【大阪会場】コトブキヤ日本橋店　12/4(金)～12/20(日)",
-          "checked": "2026-10-25"
-        }
-      ],
-      "thumb_small": "thumbs/382d7974adb5f3d5.webp",
-      "image_local": "img/382d7974adb5f3d5.webp",
-      "image_fb": "gfb/382d7974adb5f3d5.webp",
-      "added": "2026-10-25"
-    },
-    {
-      "reservation": "",
-      "checked_date": "2026-10-25",
-      "verified_at": "2026-10-25",
-      "source_tier": "official",
-      "translation_check": true,
-      "category": "팝업스토어",
-      "title_ja": "アイドルマスター ミリオンライブ! ARC-FLAGS POP UP CORNER",
-      "official_url": "https://www.kotobukiya.co.jp/event/detail/1357/",
-      "source_url": "https://www.kotobukiya.co.jp/event/detail/1357/",
-      "price": "",
-      "thumbnail": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202611_ARC-FLAGS/kv.png",
-      "thumbnail_source": "https://www.kotobukiya.co.jp/event/detail/1357/",
-      "image_hd": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202611_ARC-FLAGS/kv.png",
-      "image_fit": "contain",
-      "summary_ko": "밀리언 라이브 유닛 ARC-FLAGS(도코로 메구미·마이하마 아유무·마카베 미즈키) 새로 그린 일러스트 굿즈 판매와 등신대 패널 전시가 있어요.",
-      "summary_source": "https://www.kotobukiya.co.jp/event/detail/1357/",
       "title_ko": "아이돌마스터 밀리언 라이브! ARC-FLAGS 팝업 코너 (코토부키야 닛폰바시)",
       "area": "오사카",
       "region": "osaka",
@@ -17787,59 +16235,6 @@
       "added": "2026-10-25"
     },
     {
-      "reservation": "",
-      "checked_date": "2026-10-25",
-      "verified_at": "2026-10-25",
-      "source_tier": "official",
-      "translation_check": true,
-      "price": "",
-      "image_fit": "contain",
-      "title_ko": "무대 『도검난무』 × 애니메이트 10주년 기념 콜라보숍",
-      "title_ja": "舞台『刀剣乱舞』×アニメイト 十周年記念コラボショップ",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "애니메이트 이케부쿠로 본점 7층 SOUTH",
-      "start": "2026-11-07",
-      "end": "2026-11-23",
-      "official_url": "https://www.animate.co.jp/onlyshop/51070/",
-      "source_url": "https://www.animate.co.jp/onlyshop/51070/",
-      "map_query": "アニメイト池袋本店",
-      "notes": "입장 추첨 정리권 있음",
-      "evidence": [
-        {
-          "url": "https://www.animate.co.jp/onlyshop/51070/",
-          "tier": "official",
-          "quote": "期間 2026年11月7日(土)～2026年11月23日(月･祝) 開催店舗 池袋本店7F SOUTH",
-          "checked": "2026-10-25"
-        }
-      ],
-      "summary_ko": "무대 『도검난무』 10주년 기념 콜라보숍이에요. 애니메이트 앞치마 차림 도검남사 스탠디 전시와 무대 사진 전시, 굿즈 판매가 있어요.",
-      "summary_source": "https://www.animate.co.jp/onlyshop/51070/",
-      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/09/1790648685-7d6cc56e885f420caab1dd090fc1aa18.jpg",
-      "thumbnail_source": "https://www.animate.co.jp/onlyshop/51070/",
-      "image_hd": "https://www.animate.co.jp/assets/uploads/2026/09/1790648685-7d6cc56e885f420caab1dd090fc1aa18.jpg",
-      "gallery_source": "https://www.animate.co.jp/onlyshop/51070/",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/10/1792725176-b852b36db71cf19578e1f2d3ea0eefa7.jpg",
-          "full": "https://www.animate.co.jp/assets/uploads/2026/10/1792725176-b852b36db71cf19578e1f2d3ea0eefa7.jpg",
-          "caption_ko": "",
-          "caption_ja": "",
-          "source": "https://www.animate.co.jp/onlyshop/51070/",
-          "img_local": "img/fbd89d68b4201fdc.webp",
-          "img_fb": "gfb/fbd89d68b4201fdc.webp"
-        }
-      ],
-      "lat": 35.7303,
-      "lon": 139.7152,
-      "thumb_small": "thumbs/fa75aaf55d0d424b.webp",
-      "image_local": "img/fa75aaf55d0d424b.webp",
-      "image_fb": "gfb/fa75aaf55d0d424b.webp",
-      "added": "2026-10-25"
-    },
-    {
       "reservation": "11/13~15는 9:30부터 matoca(LINE 미니앱) 입장 정리권 배포 (혼잡 완화 시 자유 입장)",
       "checked_date": "2026-11-04",
       "verified_at": "2026-11-04",
@@ -17962,127 +16357,6 @@
       "added": "2026-10-25",
       "lat": 34.66322,
       "lon": 135.50472
-    },
-    {
-      "reservation": "",
-      "checked_date": "2026-10-25",
-      "verified_at": "2026-10-25",
-      "source_tier": "official",
-      "translation_check": true,
-      "price": "",
-      "image_fit": "contain",
-      "title_ko": "야마부키 축제 in NAMJATOWN (신 테니스의 왕자)",
-      "title_ja": "山吹祭り in NAMJATOWN",
-      "category": "전시·행사",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "난자타운 (이케부쿠로 선샤인시티)",
-      "start": "2026-10-27",
-      "end": "2026-11-23",
-      "official_url": "https://event.bandainamco-am.co.jp/namja/yamabukimaturi/",
-      "source_url": "https://bandainamco-am.co.jp/tp/namja/NEWS/events/20261021.html",
-      "map_query": "ナンジャタウン",
-      "notes": "",
-      "evidence": [
-        {
-          "url": "https://bandainamco-am.co.jp/tp/namja/NEWS/events/20261021.html",
-          "tier": "official",
-          "quote": "＜東京・池袋＞ 開催場所：ナンジャタウン 開催期間：2026年10月27日(火)〜2026年11月23日(月)",
-          "checked": "2026-10-25"
-        }
-      ],
-      "summary_ko": "『신 테니스의 왕자』 야마부키 중학교 콜라보가 난자타운에서 다시 열려요. 콜라보 푸드와 굿즈, 경품이 있어요.",
-      "summary_source": "https://bandainamco-am.co.jp/tp/namja/NEWS/events/20261021.html",
-      "thumbnail": "https://event.bandainamco-am.co.jp/namja/yamabukimaturi/images/img/kv.jpg",
-      "thumbnail_source": "https://bandainamco-am.co.jp/tp/namja/NEWS/events/20261021.html",
-      "image_hd": "https://event.bandainamco-am.co.jp/namja/yamabukimaturi/images/img/kv.jpg",
-      "gallery_source": "https://bandainamco-am.co.jp/tp/namja/NEWS/events/20261021.html",
-      "gallery": [],
-      "lat": 35.7289,
-      "lon": 139.719,
-      "thumb_small": "thumbs/5ec89dfabcb50b55.webp",
-      "image_local": "img/5ec89dfabcb50b55.webp",
-      "added": "2026-10-25"
-    },
-    {
-      "reservation": "특설 POP UP SHOP 11/6~11/8은 livepocket 사전 입장예약제. 스탬프랠리 키트는 해당 기간 WEB 정리권 없이 구매 가능. 11/9 이후는 확인되지 않음 (11/06 기준)",
-      "checked_date": "2026-11-06",
-      "verified_at": "2026-11-06",
-      "source_tier": "official",
-      "translation_check": true,
-      "price": "확인되지 않음 (11/06 기준)",
-      "image_fit": "contain",
-      "title_ko": "SAKAMOTO DAYS POP UP STREET in 아사쿠사",
-      "title_ja": "TVアニメ『SAKAMOTO DAYS』 POP UP STREET in 奥山おまいりまち・浅草西参道商店街",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "오쿠야마 오마이리마치 상점가·아사쿠사 니시산도 상점가 (특설 POP UP: 마에다 빌딩 1F)",
-      "start": "2026-11-06",
-      "end": "2026-11-23",
-      "official_url": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-      "source_url": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-      "map_query": "東京都台東区西浅草3-4-3",
-      "notes": "상점가 캠페인: 대상 점포 1회계 1,000엔(세금 포함) 이상 시 명함 사이즈 카드(전 5종) 선착순 1장. 스탬프랠리 키트 770엔(세금 포함, 특설 POP UP·다이토구 니시아사쿠사 3-4-3 마에다 빌딩 1F, 11:00~18:00). 굿즈 2,000엔마다 엽서(전 10종). 상점가 장식·패널도 있어요.",
-      "evidence": [
-        {
-          "url": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-          "tier": "official",
-          "quote": "開催期間：2026年11月6日（金）～11月23日（月・祝）／開催場所：奥山おまいりまち商店街、浅草西参道商店街、他／特設POP UP SHOP（東京都台東区西浅草3-4-3 前田ビル1F）／11月6日～8日 事前入店予約制",
-          "checked": "2026-11-06"
-        },
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000009662.000016064.html",
-          "tier": "official",
-          "quote": "開催期間：2026年11月6日（金）～11月23日（月・祝）開催場所：奥山おまいりまち商店街、浅草西参道商店街、他",
-          "checked": "2026-11-06"
-        }
-      ],
-      "summary_ko": "아사쿠사 상점가 전체에서 『사카모토 데이즈』 이벤트를 해요. 대상 점포에서 1,000엔 이상 사면 명함 사이즈 카드(전 5종)를 선착순으로 줘요.",
-      "summary_source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-      "thumbnail": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/ac020953e27aa5897451ef86559ea448.jpg",
-      "thumbnail_source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-      "image_hd": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/ac020953e27aa5897451ef86559ea448.jpg",
-      "gallery_source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/1a71f90e68809c39074d6c956c895c57.jpg",
-          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/1a71f90e68809c39074d6c956c895c57.jpg",
-          "caption_ko": "",
-          "caption_ja": "",
-          "source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-          "img_local": "img/fb023cbe977085c8.webp",
-          "img_fb": "gfb/fb023cbe977085c8.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/61662c8fdeb2a4f3b24e4e9d33ebf3f9.jpg",
-          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/61662c8fdeb2a4f3b24e4e9d33ebf3f9.jpg",
-          "caption_ko": "",
-          "caption_ja": "",
-          "source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-          "img_local": "img/6239fa21c0f3472f.webp",
-          "img_fb": "gfb/6239fa21c0f3472f.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/26e1ed71e3e98a4de734764810ae0d83.jpg",
-          "full": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/26e1ed71e3e98a4de734764810ae0d83.jpg",
-          "caption_ko": "",
-          "caption_ja": "",
-          "source": "https://event.amnibus.com/sakamotodays-asakusaomatsuri/",
-          "img_local": "img/534a87e7f3ec3f24.webp",
-          "img_fb": "gfb/534a87e7f3ec3f24.webp"
-        }
-      ],
-      "lat": 35.714169,
-      "lon": 139.790726,
-      "thumb_small": "thumbs/0beaa3e912f57acd.webp",
-      "image_local": "img/0beaa3e912f57acd.webp",
-      "image_fb": "gfb/0beaa3e912f57acd.webp",
-      "added": "2026-10-25",
-      "id": "tokyo-sakamoto-days-popup-street-asakusa"
     },
     {
       "reservation": "추첨 예약",
@@ -18455,69 +16729,6 @@
       "lon": 135.5122,
       "added": "2026-10-25",
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
-    },
-    {
-      "reservation": "",
-      "checked_date": "2026-10-25",
-      "verified_at": "2026-10-25",
-      "source_tier": "official",
-      "translation_check": true,
-      "price": "전시 660엔",
-      "image_fit": "contain",
-      "title_ko": "Paradox Live 7th POP-UP \"DOPE WORLD\" (도쿄 애니메 센터)",
-      "title_ja": "Paradox Live 7th Anniversary POP-UP \"DOPE WORLD\"",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "도쿄 애니메 센터 (시부야 MODI 2층)",
-      "start": "2026-11-13",
-      "end": "2026-11-23",
-      "official_url": "https://paradoxlive.jp/news/detail.php?id=1136572",
-      "source_url": "https://paradoxlive.jp/news/detail.php?id=1136572",
-      "map_query": "渋谷モディ",
-      "notes": "11:00~19:00, 유료 전시 660엔 (최종 입장 18:30)",
-      "evidence": [
-        {
-          "url": "https://paradoxlive.jp/news/detail.php?id=1136572",
-          "tier": "official",
-          "quote": "■開催期間：2026年11月13日(金)～11月23日(月・祝) ■営業時間：11:00～19:00 ※有料展示の最終入場18:30までです。 開催場所 東京アニメセンター 渋谷モディ2F",
-          "checked": "2026-10-25"
-        }
-      ],
-      "summary_ko": "『파라독스 라이브』 7주년 팝업이에요. 신상품 선행 판매와 4th SEASON 전시 구역(유료)이 있어요.",
-      "summary_source": "https://paradoxlive.jp/news/detail.php?id=1136572",
-      "thumbnail": "https://m.imageimg.net/upload/artist_img/PDXLV/7c83e8369b50fd524cda93ed4b4e82d0be77f08d_6ac8342c2a00d.jpg",
-      "thumbnail_source": "https://paradoxlive.jp/news/detail.php?id=1136572",
-      "image_hd": "https://m.imageimg.net/upload/artist_img/PDXLV/7c83e8369b50fd524cda93ed4b4e82d0be77f08d_6ac8342c2a00d.jpg",
-      "gallery_source": "https://paradoxlive.jp/news/detail.php?id=1136572",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://m.imageimg.net/upload/artist_img/PDXLV/087712dd3c1b68b3a4e48041d8e3a85e6faa129c_6ac83272469c2.png",
-          "full": "https://m.imageimg.net/upload/artist_img/PDXLV/087712dd3c1b68b3a4e48041d8e3a85e6faa129c_6ac83272469c2.png",
-          "caption_ko": "",
-          "caption_ja": "",
-          "source": "https://paradoxlive.jp/news/detail.php?id=1136572",
-          "img_local": "img/3fa990533821e5ab.webp",
-          "img_fb": "gfb/3fa990533821e5ab.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://m.imageimg.net/upload/artist_img/PDXLV/1b15a5efa38997b491fcd23b11985fdfe9c500aa_6ad6dc683e4d7.jpg",
-          "full": "https://m.imageimg.net/upload/artist_img/PDXLV/1b15a5efa38997b491fcd23b11985fdfe9c500aa_6ad6dc683e4d7.jpg",
-          "caption_ko": "",
-          "caption_ja": "",
-          "source": "https://paradoxlive.jp/news/detail.php?id=1136572",
-          "img_local": "img/5fbc997f3a80c60d.webp",
-          "img_fb": "gfb/5fbc997f3a80c60d.webp"
-        }
-      ],
-      "lat": 35.6618,
-      "lon": 139.7007,
-      "thumb_small": "thumbs/c6f59a8860d1bea6.webp",
-      "image_local": "img/c6f59a8860d1bea6.webp",
-      "image_fb": "gfb/c6f59a8860d1bea6.webp",
-      "added": "2026-10-25"
     },
     {
       "reservation": "",
@@ -19285,45 +17496,6 @@
       "source_tier": "official",
       "verified_at": "2026-10-25",
       "translation_check": true,
-      "id": "fukuoka-kusuriya-sweetsparadise-parco",
-      "title_ko": "약사의 혼잣말 × 스위츠 파라다이스 제3탄 (후쿠오카 파르코점)",
-      "title_ja": "薬屋のひとりごと × スイーツパラダイス 第3弾（福岡パルコ店）",
-      "category": "콜라보카페",
-      "venue": "후쿠오카 파르코 본관 6층 스위츠 파라다이스",
-      "start": "2026-11-02",
-      "end": "2026-11-23",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "source_url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "notes": "요코하마 비브레점과 동시 개최",
-      "map_query": "福岡パルコ",
-      "thumbnail": "https://www.sweets-paradise.jp/wp-content/uploads/2026/10/2610_薬屋_アイキャッチ画像_w750×h511.jpg",
-      "evidence": [
-        {
-          "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-          "tier": "official",
-          "quote": "■2026年11月2日(月)～2026年11月23日(月) スイーツパラダイス横浜ビブレ店 スイーツパラダイス福岡パルコ店",
-          "checked": "2026-10-25"
-        }
-      ],
-      "summary_ko": "스위츠 뷔페 스위파라와 『약사의 혼잣말』 콜라보로, 콜라보 메뉴와 특전을 즐길 수 있어요.",
-      "lat": 33.59042,
-      "lon": 130.398895,
-      "summary_source": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "thumbnail_source": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "thumb_small": "thumbs/54e3657dc825d4be.webp",
-      "image_fb": "gfb/54e3657dc825d4be.webp",
-      "image_local": "img/54e3657dc825d4be.webp",
-      "added": "2026-10-25"
-    },
-    {
-      "area": "후쿠오카",
-      "region": "fukuoka",
-      "checked_date": "2026-10-25",
-      "source_tier": "official",
-      "verified_at": "2026-10-25",
-      "translation_check": true,
       "id": "fukuoka-jackjeanne-exhibition-hakatamarui",
       "title_ko": "잭잔느 전시회 (하카타 마루이)",
       "title_ja": "ジャックジャンヌ展 in 博多マルイ",
@@ -19354,44 +17526,6 @@
       "thumb_small": "thumbs/48379f5537e01579.webp",
       "image_local": "img/48379f5537e01579.webp",
       "added": "2026-10-25"
-    },
-    {
-      "area": "후쿠오카",
-      "region": "fukuoka",
-      "checked_date": "2026-10-25",
-      "source_tier": "official",
-      "verified_at": "2026-10-25",
-      "id": "fukuoka-kimetsu-kinosumimachi-crossstore",
-      "title_ko": "귀멸의 칼날 -오니노스미마치- (Cross Store 하카타)",
-      "title_ja": "アニメ「鬼滅の刃」-鬼之棲街- 博多",
-      "category": "전시·행사",
-      "venue": "캐널시티 하카타 사우스빌딩 B1 반다이남코 Cross Store 하카타",
-      "start": "2026-10-30",
-      "end": "2026-11-23",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://event.bandainamco-am.co.jp/namja/kimetsu2026_08nt/",
-      "source_url": "https://bandainamco-am.co.jp/crossstore/event/?category=%E5%8D%9A%E5%A4%9A",
-      "notes": "",
-      "map_query": "キャナルシティ博多",
-      "thumbnail": "https://event.bandainamco-am.co.jp/namja/kimetsu2026_08nt/images/ogp.jpg",
-      "evidence": [
-        {
-          "url": "https://bandainamco-am.co.jp/crossstore/event/?category=%E5%8D%9A%E5%A4%9A",
-          "tier": "official",
-          "quote": "2026.10.30 ～ 2026.11.23 アニメ「鬼滅の刃」-鬼之棲街- 博多",
-          "checked": "2026-10-25"
-        }
-      ],
-      "summary_ko": "애니메이션 『귀멸의 칼날』 체험형 이벤트 하카타 개최예요.",
-      "lat": 33.589085,
-      "lon": 130.410233,
-      "summary_source": "https://event.bandainamco-am.co.jp/namja/kimetsu2026_08nt/",
-      "thumbnail_source": "https://event.bandainamco-am.co.jp/namja/kimetsu2026_08nt/",
-      "thumb_small": "thumbs/e53fcb8653f4fdb7.webp",
-      "image_local": "img/e53fcb8653f4fdb7.webp",
-      "added": "2026-10-25",
-      "title_ko_source": "한국 정식 출간·방영 제목"
     },
     {
       "area": "후쿠오카",
@@ -19430,130 +17564,6 @@
       "image_local": "img/1da77bf0133a5b97.webp",
       "added": "2026-10-25",
       "title_ko_source": "한국 정식 출간·방영 제목"
-    },
-    {
-      "area": "후쿠오카",
-      "region": "fukuoka",
-      "checked_date": "2026-10-25",
-      "source_tier": "official",
-      "verified_at": "2026-10-25",
-      "translation_check": true,
-      "id": "fukuoka-kabuto-20th-crossstore",
-      "title_ko": "가면라이더 카부토 월드 20th CAST OFF (Cross Store 하카타)",
-      "title_ja": "仮面ライダーカブトワールド 20th CAST OFF 博多",
-      "category": "팝업스토어",
-      "venue": "캐널시티 하카타 사우스빌딩 B1 반다이남코 Cross Store 하카타",
-      "start": "2026-09-19",
-      "end": "2026-11-23",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-      "source_url": "https://bandainamco-am.co.jp/crossstore/event/?category=%E5%8D%9A%E5%A4%9A",
-      "notes": "",
-      "map_query": "キャナルシティ博多",
-      "thumbnail": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/ogp2.jpg",
-      "evidence": [
-        {
-          "url": "https://bandainamco-am.co.jp/crossstore/event/?category=%E5%8D%9A%E5%A4%9A",
-          "tier": "official",
-          "quote": "2026.09.19 ～ 2026.11.23 仮面ライダーカブトワールド 20th CAST OFF 横浜京都博多",
-          "checked": "2026-10-25"
-        }
-      ],
-      "summary_ko": "『가면라이더 카부토』 20주년 기념 이벤트로 요코하마·교토·하카타에서 열려요.",
-      "lat": 33.589085,
-      "lon": 130.410233,
-      "summary_source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-      "thumbnail_source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-      "thumb_small": "thumbs/cb654f99d01be637.webp",
-      "image_fb": "gfb/cb654f99d01be637.webp",
-      "image_local": "img/cb654f99d01be637.webp",
-      "added": "2026-10-25",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img1.jpg",
-          "caption_ko": "공식 이미지 1",
-          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
-          "img_fb": "gfb/d8e866a80baaeaa3.webp",
-          "img_local": "img/d8e866a80baaeaa3.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img2.jpg",
-          "caption_ko": "공식 이미지 2",
-          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
-          "img_fb": "gfb/e325602a953c5b17.webp",
-          "img_local": "img/e325602a953c5b17.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img3.jpg",
-          "caption_ko": "공식 이미지 3",
-          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
-          "img_fb": "gfb/038fa0e3c214c845.webp",
-          "img_local": "img/038fa0e3c214c845.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img4.jpg",
-          "caption_ko": "공식 이미지 4",
-          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
-          "img_fb": "gfb/5c4c764c190d73b8.webp",
-          "img_local": "img/5c4c764c190d73b8.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img5.jpg",
-          "caption_ko": "공식 이미지 5",
-          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
-          "img_fb": "gfb/95738578d8fc5e1e.webp",
-          "img_local": "img/95738578d8fc5e1e.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img6.jpg",
-          "caption_ko": "공식 이미지 6",
-          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
-          "img_fb": "gfb/8e76bb2891f8ef67.webp",
-          "img_local": "img/8e76bb2891f8ef67.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/shf/img7.jpg",
-          "caption_ko": "공식 이미지 7",
-          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-          "caption_ja": "S.H.Figuarts（真骨彫製法）仮面ライダーカブト ライダーフォーム 20th Anniversary Ver.",
-          "img_fb": "gfb/2ff2795525305ecb.webp",
-          "img_local": "img/2ff2795525305ecb.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/gochizo/img1.jpg",
-          "caption_ko": "공식 이미지 8",
-          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-          "caption_ja": "DXレジェンドライダーゴチゾウシリーズ -仮面ライダーカブト Edition-",
-          "img_fb": "gfb/24a328db0a1acf4c.webp",
-          "img_local": "img/24a328db0a1acf4c.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://event.bandainamco-am.co.jp/cx/kabuto_event/images/slide/gochizo/img2.jpg",
-          "caption_ko": "공식 이미지 9",
-          "source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-          "caption_ja": "DXレジェンドライダーゴチゾウシリーズ -仮面ライダーカブト Edition-",
-          "img_fb": "gfb/7c4252d55308a7a0.webp",
-          "img_local": "img/7c4252d55308a7a0.webp"
-        }
-      ],
-      "gallery_source": "https://event.bandainamco-am.co.jp/cx/kabuto_event/",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "area": "후쿠오카",
@@ -19630,202 +17640,6 @@
       "thumbnail_source": "https://event.bandainamco-am.co.jp/cx/jujutsu-kaisen-world/",
       "thumb_small": "thumbs/afdbbd954ff2f168.webp",
       "image_local": "img/afdbbd954ff2f168.webp",
-      "added": "2026-10-25"
-    },
-    {
-      "area": "오사카",
-      "region": "osaka",
-      "checked_date": "2026-11-06",
-      "source_tier": "official",
-      "verified_at": "2026-11-06",
-      "translation_check": true,
-      "id": "osaka-aonohako-casualcoord-109abeno",
-      "title_ko": "아오의 하코 캐주얼 코디 팝업 (SHIBUYA109 아베노)",
-      "title_ja": "アオのハコ カジュアルコーデ POP UP（SHIBUYA109阿倍野店）",
-      "category": "팝업스토어",
-      "venue": "SHIBUYA109 아베노점 2층 WALLMA",
-      "start": "2026-11-11",
-      "end": "2026-11-23",
-      "reservation": "확인되지 않음 (11/06 기준)",
-      "price": "입장 무료",
-      "official_url": "https://www.tms-e.co.jp/release/event/entry-26246.html",
-      "source_url": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-      "notes": "10:00~21:00. 특전: 관련 상품 2,200엔(세금 포함)마다 스티커(전 6종) 랜덤 1장.",
-      "map_query": "SHIBUYA109阿倍野店",
-      "thumbnail": "https://www.tmsshop.jp/slider_img/aonohako_popup_banner_960.jpg",
-      "evidence": [
-        {
-          "url": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "tier": "official",
-          "quote": "大阪会場 SHIBUYA109阿倍野店 2階 WALLMA 期間 2026年11月11日(水)～11月23日(月・祝) 営業時間 午前10時～午後9時",
-          "checked": "2026-10-25"
-        },
-        {
-          "url": "https://www.tms-e.co.jp/release/event/entry-26246.html",
-          "tier": "official",
-          "quote": "SHIBUYA109阿倍野店 2階 WALLMA：2026年11月11日（水）～11月23日（月・祝）／入場料金 無料／午前10時～午後9時",
-          "checked": "2026-11-06"
-        }
-      ],
-      "summary_ko": "『아오의 하코』 캐주얼 코디 일러스트 굿즈 팝업의 오사카 순회예요. 2,200엔 이상 구매 시 특전 스티커를 줘요.",
-      "lat": 34.646053,
-      "lon": 135.512772,
-      "summary_source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-      "thumbnail_source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-      "thumb_small": "thumbs/be54c337b736f71c.webp",
-      "image_fb": "gfb/be54c337b736f71c.webp",
-      "image_local": "img/be54c337b736f71c.webp",
-      "added": "2026-10-25",
-      "gallery": [
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/tokuten_casual_visual.png",
-          "caption_ko": "공식 이미지 1",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "特典ステッカー（全6種）イメージ",
-          "img_fb": "gfb/a599246c10afd5a8.webp",
-          "img_local": "img/a599246c10afd5a8.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-01.png",
-          "caption_ko": "공식 이미지 2",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "ブラインド缶バッジ カジュアルコーデ（全6種） 単品：550円（税込） BOX：3,300円（税込） ※ランダム商品となります。絵柄はお選びいただけません。",
-          "img_fb": "gfb/37d9850296ab43b9.webp",
-          "img_local": "img/37d9850296ab43b9.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-02.png",
-          "caption_ko": "공식 이미지 3",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "アクリルスタンド カジュアルコーデ（3種） 1,980円（税込）",
-          "img_fb": "gfb/e923766ae6337e4e.webp",
-          "img_local": "img/e923766ae6337e4e.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-03.png",
-          "caption_ko": "공식 이미지 4",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "BIGアクリルスタンド カジュアルコーデ（3種） 3,850円（税込）",
-          "img_fb": "gfb/94033e2b0403cd7c.webp",
-          "img_local": "img/94033e2b0403cd7c.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-04.png",
-          "caption_ko": "공식 이미지 5",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "アクリルキーホルダー カジュアルコーデ（3種） 770円（税込）",
-          "img_fb": "gfb/8f24d731e2d7d0ec.webp",
-          "img_local": "img/8f24d731e2d7d0ec.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-05.png",
-          "caption_ko": "공식 이미지 6",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "ブラインドカード カジュアルコーデ（全9種） 単品：440円（税込） BOX：3,960円（税込） ※ランダム商品となります。絵柄はお選びいただけません。",
-          "img_fb": "gfb/2921d10a5967210c.webp",
-          "img_local": "img/2921d10a5967210c.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-06.png",
-          "caption_ko": "공식 이미지 7",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "ブラインドブロマイド カジュアルコーデ（全6種） 単品：440円（税込） BOX：2,640円（税込） ※ランダム商品となります。絵柄はお選びいただけません。",
-          "img_fb": "gfb/114453d7bdd9e8a4.webp",
-          "img_local": "img/114453d7bdd9e8a4.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-07.png",
-          "caption_ko": "공식 이미지 8",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "クリアファイル カジュアルコーデ（3種） 550円（税込）",
-          "img_fb": "gfb/d20d4c900cfb1012.webp",
-          "img_local": "img/d20d4c900cfb1012.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-08.png",
-          "caption_ko": "공식 이미지 9",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "アクリルパネル カジュアルコーデ（2種） 2,750円（税込）",
-          "img_fb": "gfb/fdf1c11c2ee66c31.webp",
-          "img_local": "img/fdf1c11c2ee66c31.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-09.png",
-          "caption_ko": "공식 이미지 10",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "ブラインドミニキャラホロ缶バッジ カジュアルコーデ（全6種） 単品：550円（税込） BOX：3,300円（税込） ※ランダム商品となります。絵柄はお選びいただ",
-          "img_fb": "gfb/be8ec40472cc8f49.webp",
-          "img_local": "img/be8ec40472cc8f49.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-10.png",
-          "caption_ko": "공식 이미지 11",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "ミニキャラアクリルスタンド カジュアルコーデ（3種） 550円（税込）",
-          "img_fb": "gfb/5413ddd47b8e8f63.webp",
-          "img_local": "img/5413ddd47b8e8f63.webp"
-        },
-        {
-          "group": "공식 이미지",
-          "img": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/images/item/item-11.png",
-          "caption_ko": "공식 이미지 12",
-          "source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-          "caption_ja": "ミニキャラステッカー カジュアルコーデ（3種） 880円（税込）",
-          "img_fb": "gfb/428965c9a2b796ae.webp",
-          "img_local": "img/428965c9a2b796ae.webp"
-        }
-      ],
-      "gallery_source": "https://www.tmsshop.jp/dp/aonohako_casualcoordinate/",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
-    },
-    {
-      "area": "오사카",
-      "region": "osaka",
-      "checked_date": "2026-10-25",
-      "source_tier": "official",
-      "verified_at": "2026-10-25",
-      "translation_check": true,
-      "id": "osaka-jojo-sbr-docomo-tower-abeno",
-      "title_ko": "스틸 볼 런 죠죠의 기묘한 모험 × NTT 도코모 팝업 (타워레코드 아베노 Hoop)",
-      "title_ja": "「スティール・ボール・ラン ジョジョの奇妙な冒険」×NTTドコモ ポップアップストア（タワーレコードあべのHoop店）",
-      "category": "팝업스토어",
-      "venue": "아베노 Hoop 6층 타워레코드 TOWER SPACE ABENO",
-      "start": "2026-11-14",
-      "end": "2026-11-23",
-      "reservation": "",
-      "price": "입장 무료",
-      "official_url": "https://tower.jp/article/news/2026/09/18/p101",
-      "source_url": "https://tower.jp/article/news/2026/09/18/p101",
-      "notes": "11:00~21:00",
-      "map_query": "あべのHoop",
-      "thumbnail": "https://sbrjojodocomo.jp/common/images/ogp01.jpg",
-      "evidence": [
-        {
-          "url": "https://tower.jp/article/news/2026/09/18/p101",
-          "tier": "official",
-          "quote": "＜大阪＞ ・場所：タワーレコードあべのHoop店 TOWER SPACE ABENO ・開催期間：2026年11月14日(土)〜2026年11月23日(月祝) ・営業時間：11:00～21:00",
-          "checked": "2026-10-25"
-        }
-      ],
-      "summary_ko": "『스틸 볼 런』 × 도코모 팝업의 오사카 순회예요. 3,000엔 구매마다 선수 카드 특전을 줘요.",
-      "lat": 34.645473,
-      "lon": 135.513748,
-      "summary_source": "https://tower.jp/article/news/2026/09/18/p101",
-      "thumbnail_source": "https://tower.jp/article/news/2026/09/18/p101",
-      "thumb_small": "thumbs/973925dd1ae29ff9.webp",
-      "image_fb": "gfb/973925dd1ae29ff9.webp",
-      "image_local": "img/973925dd1ae29ff9.webp",
       "added": "2026-10-25"
     },
     {
@@ -20953,45 +18767,6 @@
     {
       "reservation": "",
       "price": "",
-      "notes": "",
-      "checked_date": "2026-10-26",
-      "source_tier": "official",
-      "verified_at": "2026-10-26",
-      "id": "fukuoka-chiipoke-popup4-parco",
-      "title_ko": "치이카와 포켓 POP UP STORE 제4탄 (후쿠오카 PARCO)",
-      "title_ja": "ちいかわぽけっと POP UP STORE 第4弾 福岡PARCO",
-      "category": "팝업스토어",
-      "area": "후쿠오카",
-      "region": "fukuoka",
-      "venue": "후쿠오카 PARCO",
-      "start": "2026-11-06",
-      "end": "2026-11-23",
-      "official_url": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/fukuoka.html",
-      "map_query": "福岡PARCO",
-      "thumbnail": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/fb.jpg",
-      "summary_ko": "치이카와 게임 앱 「치이카와 포켓」의 팝업스토어 제4탄 후쿠오카 회장이에요. 도시락·가게 시리즈 굿즈가 나와요.",
-      "source_url": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/fukuoka.html",
-      "summary_source": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/fukuoka.html",
-      "evidence": [
-        {
-          "url": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/fukuoka.html",
-          "tier": "official",
-          "quote": "ちいかわぽけっと POP UP STORE 福岡PARCO(2026/11/6(金)〜11/23(月・祝))",
-          "checked": "2026-10-26"
-        }
-      ],
-      "thumbnail_source": "https://chiikawa-info.jp/p26/chiikawa_pocket042610/fukuoka.html",
-      "translation_check": true,
-      "lat": 33.5908,
-      "lon": 130.3981,
-      "thumb_small": "thumbs/21990d02980be767.webp",
-      "image_fb": "gfb/21990d02980be767.webp",
-      "image_local": "img/21990d02980be767.webp",
-      "added": "2026-10-26"
-    },
-    {
-      "reservation": "",
-      "price": "",
       "notes": "영업 10:00~23:30. 1회 계산당 구매 수량 제한 있음",
       "checked_date": "2026-10-26",
       "source_tier": "official",
@@ -21821,45 +19596,6 @@
       "translation_check": true
     },
     {
-      "id": "tokyo-sirotan-kanahei-popup-yurakucho-marui",
-      "title_ko": "시로탄 × 카나헤이의 소동물 POP UP SHOP",
-      "title_ja": "しろたん×カナヘイの小動物 POP UP SHOP",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "유라쿠초 마루이 8층 이벤트 스페이스",
-      "start": "2026-11-07",
-      "end": "2026-11-23",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://prtimes.jp/main/html/rd/p/000000193.000047389.html",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000193.000047389.html",
-      "notes": "입장 방식·가격은 공식 발표에 기재 없음(미확인)",
-      "checked_date": "2026-10-27",
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/47389/193/47389-193-243e760bae3c613ca152e77b03f7c53e-1920x1200.jpg",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000193.000047389.html",
-      "map_query": "有楽町マルイ",
-      "evidence": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000000193.000047389.html",
-          "tier": "official",
-          "quote": "■有楽町マルイ 開催期間：2026年11月7日(土)～11月23日(月/祝) 開催場所：8Fイベントスペース",
-          "checked": "2026-10-27"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-27",
-      "translation_check": true,
-      "summary_ko": "「시로탄」과 「카나헤이의 소동물」 첫 콜라보 팝업이에요. 콜라보 굿즈를 3,300엔(세금 포함) 이상 사면 한정 엽서를 선착순으로 1장 줘요. 캐릭터 그리팅도 있어요.",
-      "summary_source": "https://prtimes.jp/main/html/rd/p/000000193.000047389.html",
-      "region": "tokyo",
-      "added": "2026-10-27",
-      "thumb_small": "thumbs/8ee0197792661337.webp",
-      "image_fb": "gfb/8ee0197792661337.webp",
-      "image_local": "img/8ee0197792661337.webp",
-      "lat": 35.674213,
-      "lon": 139.763657
-    },
-    {
       "id": "osaka-sirotan-kanahei-popup-namba-marui",
       "title_ko": "시로탄 × 카나헤이의 소동물 POP UP SHOP (오사카)",
       "title_ja": "しろたん×カナヘイの小動物 POP UP SHOP",
@@ -21897,45 +19633,6 @@
       "thumb_small": "thumbs/8ee0197792661337.webp",
       "image_fb": "gfb/8ee0197792661337.webp",
       "image_local": "img/8ee0197792661337.webp"
-    },
-    {
-      "id": "tokyo-mahoako-popup-kotobukiya-akihabara",
-      "title_ko": "마법소녀를 동경해서 POP UP CORNER in 고토부키야",
-      "title_ja": "魔法少女にあこがれて POP UP CORNER in コトブキヤ",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "고토부키야 아키하바라관 5층 이벤트 플로어",
-      "start": "2026-11-13",
-      "end": "2026-11-23",
-      "reservation": "",
-      "price": "",
-      "official_url": "https://www.kotobukiya.co.jp/event/detail/1403/",
-      "source_url": "https://www.kotobukiya.co.jp/event/detail/1403/",
-      "notes": "혼잡 시 입장 제한이 있을 수 있어요",
-      "checked_date": "2026-10-27",
-      "thumbnail": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202611_mahoako/kvb2.png",
-      "thumbnail_source": "https://www.kotobukiya.co.jp/event/detail/1403/",
-      "map_query": "東京都千代田区外神田1-8-8 岡嶋ビル",
-      "evidence": [
-        {
-          "url": "https://www.kotobukiya.co.jp/event/detail/1403/",
-          "tier": "official",
-          "quote": "場所：コトブキヤ秋葉原館 ５Fイベントフロア 期間：2026年11月13日（金）～ 11月23日（月・祝） 場所：コトブキヤ日本橋（大阪） 期間：2026年12月5日（土）～ 12月15日（火）",
-          "checked": "2026-10-27"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-27",
-      "translation_check": true,
-      "summary_ko": "TV 애니 「마법소녀를 동경해서」 팝업 코너예요. 신작 굿즈를 팔고, 신상품 2,200엔(세금 포함)마다 일러스트 카드(전 9종) 1장을 랜덤으로 줘요.",
-      "summary_source": "https://www.kotobukiya.co.jp/event/detail/1403/",
-      "region": "tokyo",
-      "added": "2026-10-27",
-      "thumb_small": "thumbs/3db52431d84ce370.webp",
-      "image_fb": "gfb/3db52431d84ce370.webp",
-      "image_local": "img/3db52431d84ce370.webp",
-      "lat": 35.699265,
-      "lon": 139.770554
     },
     {
       "id": "osaka-mahoako-popup-kotobukiya-nipponbashi",
@@ -22209,83 +19906,6 @@
       "image_local": "img/0d9cd296dbaf270e.webp",
       "lat": 35.6124,
       "lon": 139.6285
-    },
-    {
-      "id": "tokyo-revuestarlight-9th-onlyshop-akiba",
-      "title_ko": "소녀☆가극 레뷰 스타라이트 9주년 기념 페어 온리숍",
-      "title_ja": "少女☆歌劇 レヴュースタァライト 9周年記念フェア～L'Étoile innocente～オンリーショップ",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "venue": "애니메이트 아키하바라 2호관 7F",
-      "start": "2026-11-06",
-      "end": "2026-11-23",
-      "reservation": "불필요",
-      "price": "아크릴 스탠드 각 1,870엔, 아크릴 키홀더 각 1,320엔 등",
-      "official_url": "https://www.animate.co.jp/onlyshop/48795/",
-      "source_url": "https://www.animate.co.jp/onlyshop/48795/",
-      "notes": "같은 기간 9주년 기념 페어를 이케부쿠로 본점·시부야·신주쿠 등 애니메이트 각 점포와 통販에서도 개최",
-      "checked_date": "2026-10-28",
-      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/09/1789538212-f0e194a700c82463da891970a9790c22.jpg",
-      "thumbnail_source": "https://www.animate.co.jp/onlyshop/48795/",
-      "map_query": "東京都千代田区外神田4-3-1",
-      "evidence": [
-        {
-          "url": "https://www.animate.co.jp/onlyshop/48795/",
-          "tier": "official",
-          "quote": "開催期間 2026年11月6日(金)～2026年11月23日(月・祝) 対象店舗 秋葉原店2号館7F / フェア 開催店舗：池袋本店・…・大阪日本橋店・横浜ビブレ店・梅田店・新宿店・アニメイト通販",
-          "checked": "2026-10-28"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-28",
-      "translation_check": true,
-      "summary_ko": "「레뷰 스타라이트」 9주년 기념 온리숍이 애니메이트 아키하바라에서 열려요. 같은 기간 전국 애니메이트 각 점포에서 9주년 기념 페어와 스탬프 랠리도 함께 진행돼요.",
-      "summary_source": "https://www.animate.co.jp/onlyshop/48795/",
-      "region": "tokyo",
-      "added": "2026-10-28",
-      "thumb_small": "thumbs/c56cee31883c7b3c.webp",
-      "image_fb": "gfb/c56cee31883c7b3c.webp",
-      "image_local": "img/c56cee31883c7b3c.webp",
-      "lat": 35.6987,
-      "lon": 139.7712
-    },
-    {
-      "id": "osaka-revuestarlight-9th-fair-animate",
-      "title_ko": "소녀☆가극 레뷰 스타라이트 9주년 기념 페어 (오사카)",
-      "title_ja": "少女☆歌劇 レヴュースタァライト 9周年記念フェア～L'Étoile innocente～",
-      "category": "팝업스토어",
-      "area": "오사카",
-      "venue": "애니메이트 오사카 닛폰바시점·우메다점",
-      "start": "2026-11-06",
-      "end": "2026-11-23",
-      "reservation": "불필요",
-      "official_url": "https://www.animate.co.jp/onlyshop/48795/",
-      "source_url": "https://www.animate.co.jp/onlyshop/48795/",
-      "notes": "아키하바라 온리숍과 같은 기간 페어. 오사카 점포의 판매 상품·가격은 공식 페이지에 없음",
-      "checked_date": "2026-10-28",
-      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/09/1789538212-f0e194a700c82463da891970a9790c22.jpg",
-      "thumbnail_source": "https://www.animate.co.jp/onlyshop/48795/",
-      "map_query": "アニメイト大阪日本橋",
-      "evidence": [
-        {
-          "url": "https://www.animate.co.jp/onlyshop/48795/",
-          "tier": "official",
-          "quote": "開催期間 2026年11月6日(金)～2026年11月23日(月・祝) 対象店舗 秋葉原店2号館7F / フェア 開催店舗：池袋本店・…・大阪日本橋店・横浜ビブレ店・梅田店・新宿店・アニメイト通販",
-          "checked": "2026-10-28"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-28",
-      "translation_check": true,
-      "summary_ko": "「레뷰 스타라이트」 9주년 기념 페어예요. 오사카에서는 애니메이트 오사카 닛폰바시점과 우메다점이 개최 점포예요.",
-      "summary_source": "https://www.animate.co.jp/onlyshop/48795/",
-      "region": "osaka",
-      "added": "2026-10-28",
-      "thumb_small": "thumbs/c56cee31883c7b3c.webp",
-      "image_fb": "gfb/c56cee31883c7b3c.webp",
-      "image_local": "img/c56cee31883c7b3c.webp",
-      "lat": 34.6605,
-      "lon": 135.5047
     },
     {
       "id": "osaka-yumeiro-patissiere-popup-namba",
@@ -22921,179 +20541,6 @@
       "thumb_small": "thumbs/5445d41016fec090.webp",
       "image_fb": "gfb/5445d41016fec090.webp",
       "image_local": "img/5445d41016fec090.webp"
-    },
-    {
-      "id": "tokyo-nikke-seasons-lofi-ikebukuro",
-      "title_ko": "승리의 여신: 니케 SEASONS in Lo-fi 온리숍 (애니메이트 이케부쿠로 본점)",
-      "title_ja": "『勝利の女神:NIKKE』SEASONS in Lo-fi アニメイトオンリーショップ",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "애니메이트 이케부쿠로 본점 5층 새틀라이트 스페이스",
-      "start": "2026-11-07",
-      "end": "2026-11-23",
-      "reservation": "11/7·8은 LINE 입장정리권",
-      "price": "굿즈 440~4,400엔 (세금 포함)",
-      "official_url": "https://www.animate.co.jp/onlyshop/49846/",
-      "source_url": "https://www.animate.co.jp/onlyshop/49846/",
-      "notes": "응원점: 시부야·기치조지 파르코·아키하바라·오사카 닛폰바시·우메다·라식 후쿠오카 텐진 등(매장 일부에서 상품 전개·특전 배포)",
-      "checked_date": "2026-10-29",
-      "map_query": "アニメイト池袋本店",
-      "evidence": [
-        {
-          "url": "https://www.animate.co.jp/onlyshop/49846/",
-          "tier": "official",
-          "quote": "開催期間 2026年11月7日(土)〜2026年11月23日(月・祝) 対象店舗 ■オンリーショップ店舗:池袋本店 5Fサテライトスペース",
-          "checked": "2026-10-29"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-29",
-      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/09/1792121236-b5d71341edca80ad85236f10f1fd5337.jpg",
-      "thumbnail_source": "https://www.animate.co.jp/onlyshop/49846/",
-      "summary_ko": "『승리의 여신: 니케』 Lo-fi 테마 온리숍이에요. 도로시·리틀 머메이드·크라운·나유타 굿즈와 타페스트리, 블랭킷 등을 팔아요.",
-      "summary_source": "https://www.animate.co.jp/onlyshop/49846/",
-      "translation_check": true,
-      "added": "2026-10-29",
-      "gallery": [
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/10/1793013210-87f5f9a89813de78ed22c6086cc59c1a.jpg",
-          "caption_ko": "노블 아트(4종) (ドロシー、リトルマーメイド、クラウン、ナユタ)",
-          "caption_ja": "ノーブルアート(4種)（ドロシー、リトルマーメイド、クラウン、ナユタ）",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "각 1,320엔(세금 포함)",
-          "img_fb": "gfb/1dd6da0ae52e181c.webp",
-          "img_local": "img/1dd6da0ae52e181c.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/09/1790680575-c76c4bccf48685da6cb558777dfbaaa9.jpg",
-          "caption_ko": "코롯토 아크릴 피규어(4종) (ドロシー、リトルマーメイド、クラウン、ナユタ)",
-          "caption_ja": "ころっとアクリルフィギュア(4種)（ドロシー、リトルマーメイド、クラウン、ナユタ）",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "각 770엔(세금 포함)",
-          "img_fb": "gfb/08718748f8ccc70d.webp",
-          "img_local": "img/08718748f8ccc70d.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/10/1793013244-ddf0ccab80270bbeb0b59567365d0f7b.jpg",
-          "caption_ko": "아크릴 디오라마(4종) (ドロシー、リトルマーメイド、クラウン、ナユタ)",
-          "caption_ja": "アクリルジオラマ(4種)（ドロシー、リトルマーメイド、クラウン、ナユタ）",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "각 2,970엔(세금 포함)",
-          "img_fb": "gfb/14e41e39c8da4a24.webp",
-          "img_local": "img/14e41e39c8da4a24.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/09/1790680633-284ba90c44a763fe35998e0d27c6e0e5.jpg",
-          "caption_ko": "피크형 아크릴 키홀더(4종) (ドロシー、リトルマーメイド、クラウン、ナユタ)",
-          "caption_ja": "ピック型アクリルキーホルダー(4種)（ドロシー、リトルマーメイド、クラウン、ナユタ）",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "각 715엔(세금 포함)",
-          "img_fb": "gfb/4e98569f43b6951a.webp",
-          "img_local": "img/4e98569f43b6951a.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/09/1790680660-45469d1b4a585b642446f6595788c1cf.jpg",
-          "caption_ko": "아크릴 키홀더(8종) (Arcane Archive、ARK GUARDIAN、ARK RANGER、Boom! The Ghost!、Astronaut Airlines：Over the Horizon、TERMINUS TICKET、TRUE FLAVOR、Wave to you)",
-          "caption_ja": "アクリルキーホルダー(8種)（Arcane Archive、ARK GUARDIAN、ARK RANGER、Boom! The Ghost!、Astronaut Airlines：Over the Horizon、TERMINUS TICKET、TRUE FLAVOR、Wave to you）",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "각 880엔(세금 포함)",
-          "img_fb": "gfb/afaf62cd2c83caa2.webp",
-          "img_local": "img/afaf62cd2c83caa2.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/09/1790680678-f409a1430acf0f8ee7e3f3586645da27.jpg",
-          "caption_ko": "ワッペン스티커(4종) (ドロシー、リトルマーメイド、クラウン、ナユタ)",
-          "caption_ja": "ワッペンステッカー(4種)（ドロシー、リトルマーメイド、クラウン、ナユタ）",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "각 990엔(세금 포함)",
-          "img_fb": "gfb/f012036629bd3353.webp",
-          "img_local": "img/f012036629bd3353.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/10/1793013271-f58ed795acf8cfaab42fe5e46b9eca6f.jpg",
-          "caption_ko": "타페스트리(4종) (ドロシー、リトルマーメイド、クラウン、ナユタ)",
-          "caption_ja": "タペストリー(4種)（ドロシー、リトルマーメイド、クラウン、ナユタ）",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "각 4,400엔(세금 포함)",
-          "img_fb": "gfb/db5b4f87017476b6.webp",
-          "img_local": "img/db5b4f87017476b6.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/10/1792126873-e1914cf09eeb64a65cb8d290467e30e7.jpg",
-          "caption_ko": "쿠션",
-          "caption_ja": "クッション",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "3,300엔(세금 포함)",
-          "img_fb": "gfb/737359975957a57e.webp",
-          "img_local": "img/737359975957a57e.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/09/1788864027-f0c162509055b6bd6b8c805f216e55a0.jpg",
-          "caption_ko": "스포츠 타월",
-          "caption_ja": "スポーツタオル",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "2,750엔(세금 포함)",
-          "img_fb": "gfb/bb42c26a8d19eb50.webp",
-          "img_local": "img/bb42c26a8d19eb50.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/09/1788864066-1a6f17adc274cfc75011095759f4ca07.jpg",
-          "caption_ko": "블랭킷",
-          "caption_ja": "ブランケット",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "4,400엔(세금 포함)",
-          "img_fb": "gfb/3adeecd9e4e41829.webp",
-          "img_local": "img/3adeecd9e4e41829.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/10/1793013295-a6e54289b950010c70a346a3fb9800c4.jpg",
-          "caption_ko": "머그컵",
-          "caption_ja": "マグカップ",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "1,650엔(세금 포함)",
-          "img_fb": "gfb/5b2153c6e69e755c.webp",
-          "img_local": "img/5b2153c6e69e755c.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/09/1790680714-03ec485416eaef921d117100bf690507.jpg",
-          "caption_ko": "스퀘어 마그넷 컬렉션(전 8종)",
-          "caption_ja": "スクエアマグネットコレクション(全8種)（※ランダム商品）",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "1팩 440엔(세금 포함) / 1BOX(8팩 들이)3,520엔(세금 포함)",
-          "img_fb": "gfb/0b8223e2bdae203b.webp",
-          "img_local": "img/0b8223e2bdae203b.webp"
-        },
-        {
-          "group": "상품",
-          "img": "https://www.animate.co.jp/assets/uploads/2026/10/1793013318-5d1bb24f411496774f7b43f19fc93e7f.jpg",
-          "caption_ko": "캐릭터 배지 컬렉션(전 8종)",
-          "caption_ja": "キャラバッジコレクション(全8種)（※ランダム商品）",
-          "source": "https://www.animate.co.jp/onlyshop/49846/",
-          "price": "1팩 440엔(세금 포함) / 1BOX(8팩 들이)3,520엔(세금 포함)",
-          "img_fb": "gfb/334513275fcc6fda.webp",
-          "img_local": "img/334513275fcc6fda.webp"
-        }
-      ],
-      "gallery_source": "https://www.animate.co.jp/onlyshop/49846/",
-      "gallery_note": "공식 페이지 상품 이미지예요 (실제와 다를 수 있어요)",
-      "lat": 35.7303,
-      "lon": 139.7152,
-      "thumb_small": "thumbs/07c4cb3b6ab7c4a0.webp",
-      "image_fb": "gfb/07c4cb3b6ab7c4a0.webp",
-      "image_local": "img/07c4cb3b6ab7c4a0.webp"
     },
     {
       "id": "tokyo-mojibakeka-star-wandering",
@@ -24787,45 +22234,6 @@
       "image_local": "img/65ec9022c8e1d259.webp"
     },
     {
-      "id": "fukuoka-haikyu-ugly-sweater-hakatamarui",
-      "title_ko": "하이큐!! 어글리 스웨터 POP UP SHOP (하카타 마루이)",
-      "title_ja": "「ハイキュー!!」アグリーセーターPOP UP SHOP",
-      "category": "팝업스토어",
-      "area": "후쿠오카",
-      "region": "fukuoka",
-      "venue": "하카타 마루이 7층 이벤트 스페이스 (마루이노 아니메)",
-      "start": "2026-11-14",
-      "end": "2026-11-23",
-      "reservation": "입장 방법 추후 안내",
-      "price": "",
-      "official_url": "https://www.0101.co.jp/090/event/detail.html?article_seq=144413&article_type=sto",
-      "source_url": "https://www.0101.co.jp/090/event/detail.html?article_seq=144413&article_type=sto",
-      "notes": "영업 10:00~19:00 (매장 영업시간과 다름). 유라쿠초 마루이부터 전국 순회",
-      "checked_date": "2026-10-29",
-      "map_query": "博多マルイ",
-      "evidence": [
-        {
-          "url": "https://www.0101.co.jp/090/event/detail.html?article_seq=144413&article_type=sto",
-          "tier": "official",
-          "quote": "開催場所:博多マルイ 7 階 イベントスペース 開催期間: 2026 年 11 月 14 日 ( 土 ) 〜 2026 年 11 月 23 日 ( 月・祝 )",
-          "checked": "2026-10-29"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-29",
-      "thumbnail": "https://www.0101.co.jp/contents2/storenews/090/a4e7c74b65401d3db25474158fdfcb16_02_01_l.webp",
-      "thumbnail_source": "https://www.0101.co.jp/090/event/detail.html?article_seq=144413&article_type=sto",
-      "summary_ko": "『하이큐!!』 어글리 스웨터 테마 신규 일러스트 팝업숍이에요. 새 굿즈를 많이 판매할 예정이에요.",
-      "summary_source": "https://www.0101.co.jp/090/event/detail.html?article_seq=144413&article_type=sto",
-      "translation_check": true,
-      "added": "2026-10-29",
-      "lat": 33.58884,
-      "lon": 130.419357,
-      "thumb_small": "thumbs/312b65856b19bdc6.webp",
-      "image_fb": "gfb/312b65856b19bdc6.webp",
-      "image_local": "img/312b65856b19bdc6.webp"
-    },
-    {
       "id": "tokyo-hunterxhunter-neon-diner-animatecafe",
       "title_ko": "헌터×헌터 NEON DINER 콜라보 카페 (애니메이트 카페 이케부쿠로 3호점)",
       "title_ja": "HUNTER×HUNTER（NEON DINER）",
@@ -25281,44 +22689,6 @@
       "thumb_small": "thumbs/10aa04b916f78478.webp",
       "image_fb": "gfb/10aa04b916f78478.webp",
       "image_local": "img/10aa04b916f78478.webp"
-    },
-    {
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000133.000165139.html",
-      "checked_date": "2026-10-29",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000133.000165139.html",
-      "evidence": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000000133.000165139.html",
-          "tier": "official",
-          "quote": "期間：令和8年11月1日（日）～23日（月・祝） 場所：トキワ荘マンガミュージアム（豊島区南長崎3-9-22） トキワ荘通り昭和レトロ館 / デジタルdeスタンプラリー 日時：令和8年11月1日(日)～令和9年1月11日(月・祝)",
-          "checked": "2026-10-29"
-        }
-      ],
-      "source_tier": "official",
-      "verified_at": "2026-10-29",
-      "translation_check": true,
-      "summary_source": "https://prtimes.jp/main/html/rd/p/000000133.000165139.html",
-      "added": "2026-10-29",
-      "id": "tokyo-nakano-suginami-toshima-animanga-fes-toshima",
-      "title_ko": "나카노×스기나미×도시마 애니·만화 페스 2026 in 도시마 (도키와장 4컷 만화 대상 전시 + 3구 디지털 스탬프 랠리)",
-      "title_ja": "中野×杉並×豊島アニメ・マンガフェス2026in豊島",
-      "category": "전시·행사",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "도키와장 만화 뮤지엄·도키와장 거리 쇼와 레트로관 (미나미나가사키)",
-      "start": "2026-11-01",
-      "end": "2026-11-23",
-      "reservation": "불필요",
-      "price": "",
-      "official_url": "https://www.city.toshima.lg.jp/424/miryoku/gyoji/manga_anime_fes.html",
-      "map_query": "トキワ荘マンガミュージアム",
-      "notes": "디지털 스탬프 랠리는 11/1~2027/1/11 나카노·스기나미·도시마 3구에서 진행. 11/8 시상식·만화 교실(사전 신청), 11/15 토크쇼(신청 마감), 11/15 도시마 교류도시 광장. 요금은 공식 발표에 없음",
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/165139/133/165139-133-6b9e9ef51775d96579296a8a54d0f5f6-865x1222.png",
-      "summary_ko": "만화의 성지 도키와장 동네에서 열리는 애니·만화 페스예요. 「도키와장 마을 4컷 만화 대상」 수상작을 전시하고, 3구의 디자인 맨홀·애니 스폿을 도는 디지털 스탬프 랠리도 있어요.",
-      "thumb_small": "thumbs/d0cc20a422f7b9df.webp",
-      "image_local": "img/d0cc20a422f7b9df.webp",
-      "lat": 35.7243,
-      "lon": 139.6861
     },
     {
       "source_url": "https://www.volks.co.jp/blog_sr/akiba2/2026/10/29/033363.html",
@@ -25813,96 +23183,6 @@
       "lon": 139.7167
     },
     {
-      "reservation": "사전 예약제 (LivePocket 1차 추첨: 매주 수 18시~목 24시)",
-      "price": "푸드 1,400~1,700엔 · 드링크 각 700엔 (모두 특전 포함, 세금 포함) · 굿즈 440~2,500엔",
-      "notes": "나고야·도쿠시마·기타큐슈 매장도 같은 기간 (도쿠시마·기타큐슈는 자유 입장). 영업 9:00~20:00, 정기휴일 월(공휴일이면 화). 1회 예약 최대 2명. 굿즈만 구매는 각 회차 시작 30분 후부터. 2기 굿즈 웹숍 10/28~11/24",
-      "checked_date": "2026-11-03",
-      "source_tier": "official",
-      "verified_at": "2026-11-03",
-      "added": "2026-11-03",
-      "id": "tokyo-kimetsu-rerun-cafe-mugen-train-2",
-      "title_ko": "귀멸의 칼날 전편 재방송 콜라보 카페 ~맺은 인연~ 무한열차편 2기 (도쿄)",
-      "title_ja": "テレビアニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ縁～ 無限列車編 第2期",
-      "category": "콜라보카페",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "ufotable Cafe Tokyo / 마치★아소비 CAFE 도쿄 (나카노구 노가타)",
-      "start": "2026-11-03",
-      "end": "2026-11-23",
-      "official_url": "https://www.ufotable.co.jp/cafe/reservation/",
-      "map_query": "ufotable Cafe Tokyo",
-      "summary_ko": "「귀멸의 칼날」 재방송 연동 콜라보 카페 무한열차편 2기예요. 상현 3·렌고쿠 테마 메뉴와 굿즈가 나와요.",
-      "source_url": "https://www.ufotable.co.jp/cafe/reservation/",
-      "summary_source": "https://www.ufotable.co.jp/cafe/reservation/",
-      "evidence": [
-        {
-          "url": "https://www.ufotable.co.jp/cafe/reservation/",
-          "tier": "official",
-          "quote": "テレビアニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ縁～ 2026年11月03日(火) ～ 11月23日(月) ▼ 事前予約制店舗 ufotable Cafe Tokyo / マチ★アソビCAFE東京 … ufotable Cafe＆マチ★アソビCAFE大阪",
-          "checked": "2026-11-03"
-        },
-        {
-          "url": "https://www.ufotable.co.jp/cafe/menu/kimetu",
-          "tier": "official",
-          "quote": "「上弦の参」猗窩座の“鬼にならないなら殺す”サラダ 特典つき 1400円(税込) 販売期間 2026/11/03 ~ 2026/11/23 … 【前後半共通】敵対「炭治郎」「魘夢」 特典つき 700円(税込)",
-          "checked": "2026-11-03"
-        }
-      ],
-      "lat": 35.7096,
-      "lon": 139.6549,
-      "title_ko_source": "한국 정식 출간·방영 제목",
-      "thumbnail": "https://www.ufotable.co.jp/cafe/wp-content/uploads/2026/10/lm_musundaenishi_mr2-1.webp",
-      "thumbnail_source": "https://www.ufotable.co.jp/cafe/menu/kimetu",
-      "thumb_small": "thumbs/0bc592499ee28528.webp",
-      "image_fb": "gfb/0bc592499ee28528.webp",
-      "image_local": "img/0bc592499ee28528.webp"
-    },
-    {
-      "reservation": "사전 예약제 (LivePocket 1차 추첨: 매주 수 18시~목 24시)",
-      "price": "푸드 1,400~1,700엔 · 드링크 각 700엔 (모두 특전 포함, 세금 포함) · 굿즈 440~2,500엔",
-      "notes": "나고야·도쿠시마·기타큐슈 매장도 같은 기간 (도쿠시마·기타큐슈는 자유 입장). 영업 9:00~20:00, 정기휴일 월(공휴일이면 화). 1회 예약 최대 2명. 굿즈만 구매는 각 회차 시작 30분 후부터. 2기 굿즈 웹숍 10/28~11/24",
-      "checked_date": "2026-11-03",
-      "source_tier": "official",
-      "verified_at": "2026-11-03",
-      "added": "2026-11-03",
-      "id": "osaka-kimetsu-rerun-cafe-mugen-train-2",
-      "title_ko": "귀멸의 칼날 전편 재방송 콜라보 카페 ~맺은 인연~ 무한열차편 2기 (오사카)",
-      "title_ja": "テレビアニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ縁～ 無限列車編 第2期",
-      "category": "콜라보카페",
-      "area": "오사카",
-      "region": "osaka",
-      "venue": "ufotable Cafe Osaka / 마치★아소비 CAFE 오사카",
-      "start": "2026-11-03",
-      "end": "2026-11-23",
-      "official_url": "https://www.ufotable.co.jp/cafe/reservation/",
-      "map_query": "ufotable Cafe Osaka",
-      "summary_ko": "「귀멸의 칼날」 재방송 연동 콜라보 카페 무한열차편 2기예요. 상현 3·렌고쿠 테마 메뉴와 굿즈가 나와요.",
-      "source_url": "https://www.ufotable.co.jp/cafe/reservation/",
-      "summary_source": "https://www.ufotable.co.jp/cafe/reservation/",
-      "evidence": [
-        {
-          "url": "https://www.ufotable.co.jp/cafe/reservation/",
-          "tier": "official",
-          "quote": "テレビアニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ縁～ 2026年11月03日(火) ～ 11月23日(月) ▼ 事前予約制店舗 ufotable Cafe Tokyo / マチ★アソビCAFE東京 … ufotable Cafe＆マチ★アソビCAFE大阪",
-          "checked": "2026-11-03"
-        },
-        {
-          "url": "https://www.ufotable.co.jp/cafe/menu/kimetu",
-          "tier": "official",
-          "quote": "「上弦の参」猗窩座の“鬼にならないなら殺す”サラダ 特典つき 1400円(税込) 販売期間 2026/11/03 ~ 2026/11/23 … 【前後半共通】敵対「炭治郎」「魘夢」 特典つき 700円(税込)",
-          "checked": "2026-11-03"
-        }
-      ],
-      "lat": 34.6611,
-      "lon": 135.5075,
-      "title_ko_source": "한국 정식 출간·방영 제목",
-      "thumbnail": "https://www.ufotable.co.jp/cafe/wp-content/uploads/2026/10/lm_musundaenishi_mr2-1.webp",
-      "thumbnail_source": "https://www.ufotable.co.jp/cafe/menu/kimetu",
-      "thumb_small": "thumbs/0bc592499ee28528.webp",
-      "image_fb": "gfb/0bc592499ee28528.webp",
-      "image_local": "img/0bc592499ee28528.webp"
-    },
-    {
       "reservation": "불필요",
       "price": "1회 300엔",
       "notes": "발매 시기: 2026년 11월 (예정, 주차 미정). 지역·매장마다 다를 수 있어요",
@@ -26028,45 +23308,6 @@
       "thumb_small": "thumbs/d150f754d1fa2ad7.webp",
       "image_fb": "gfb/d150f754d1fa2ad7.webp",
       "image_local": "img/d150f754d1fa2ad7.webp"
-    },
-    {
-      "checked_date": "2026-11-03",
-      "verified_at": "2026-11-03",
-      "source_tier": "official",
-      "translation_check": true,
-      "added": "2026-11-03",
-      "id": "tokyo-estherbunny-mymelody-popup-lumine-est",
-      "title_ko": "에스더 버니 × 마이멜로디 POP-UP STORE (루미네 에스트 신주쿠)",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "루미네 에스트 신주쿠 B1 (JR 매표기 옆)",
-      "start": "2026-11-11",
-      "end": "2026-11-23",
-      "notes": "영업 평일 11:00~21:00, 토일공휴일 10:30~21:00. JR 신주쿠역 중앙동쪽·동쪽 개찰구 도보 약 1분. 오사카 루쿠아 이레 12/25~1/7",
-      "map_query": "ルミネエスト新宿",
-      "lat": 35.6913,
-      "lon": 139.7006,
-      "title_ja": "ESTHER BUNNY × MY MELODY POP-UP STORE",
-      "category": "팝업스토어",
-      "reservation": "불필요 (공식 안내에 예약 언급 없음)",
-      "price": "입장료 확인되지 않음 (11/03 기준)",
-      "official_url": "https://www.characters-collab.net/estherbunny_mymelody/",
-      "thumbnail": "https://www.characters-collab.net/estherbunny_mymelody/assets/social-preview.png",
-      "summary_ko": "에스더 버니(리본 버니)×마이멜로디 팝업이에요. 스쿨라이프·유원지 테마 포토 스폿과 파우치·마스코트 등 굿즈가 있어요.",
-      "source_url": "https://www.characters-collab.net/estherbunny_mymelody/",
-      "summary_source": "https://www.characters-collab.net/estherbunny_mymelody/",
-      "evidence": [
-        {
-          "url": "https://www.characters-collab.net/estherbunny_mymelody/",
-          "tier": "official",
-          "quote": "TOKYO 11.11 WED — 11.23 MON ルミネエスト新宿 B1 OSAKA 12.25 FRI — 01.07 THU ルクア イーレ 2F",
-          "checked": "2026-11-03"
-        }
-      ],
-      "thumbnail_source": "https://www.characters-collab.net/estherbunny_mymelody/",
-      "thumb_small": "thumbs/425503c4ac2eeac1.webp",
-      "image_fb": "gfb/425503c4ac2eeac1.webp",
-      "image_local": "img/425503c4ac2eeac1.webp"
     },
     {
       "checked_date": "2026-11-03",
@@ -26268,89 +23509,6 @@
       "thumb_small": "thumbs/28af7bacd1312d6a.webp",
       "image_fb": "gfb/28af7bacd1312d6a.webp",
       "image_local": "img/28af7bacd1312d6a.webp"
-    },
-    {
-      "checked_date": "2026-11-05",
-      "source_tier": "official",
-      "verified_at": "2026-11-05",
-      "translation_check": true,
-      "added": "2026-11-05",
-      "id": "fukuoka-kirby-colorful-store-parco",
-      "title_ko": "별의 커비 KIRBY COLORFUL STORE (후쿠오카 파르코)",
-      "title_ja": "KIRBY COLORFUL STORE＠福岡パルコ",
-      "category": "팝업스토어",
-      "area": "후쿠오카",
-      "region": "fukuoka",
-      "venue": "후쿠오카 파르코 본관 5층 PARCO FACTORY",
-      "start": "2026-11-13",
-      "end": "2026-11-23",
-      "reservation": "확인되지 않음 (11/05 기준)",
-      "price": "4,400엔(세금 포함) 이상 구매 시 아크릴 배지 1개 (3종 랜덤)",
-      "notes": "영업 10:00~20:30 (마지막 날 18:00까지)",
-      "official_url": "https://zowie.co.jp/post-8640/",
-      "map_query": "福岡パルコ",
-      "summary_ko": "「별의 커비」 기간 한정 숍이에요. 마스코트·쿠션·브랜드 콜라보 등 이벤트 한정 상품과 인기 상품을 팔아요.",
-      "thumbnail": "https://zowie.co.jp/wp/wp-content/uploads/2025/12/%E4%BC%9A%E5%A0%B4%E9%80%81%E4%BB%98%E7%94%A8_KIRBY_COLORFUL_STORE_ART-1024x1024.jpg",
-      "gallery": [
-        {
-          "group": "상품·특전 (공식)",
-          "img": "https://zowie.co.jp/wp/wp-content/uploads/2025/06/karby_nove_kokuchi_acbadge-1024x1024.jpg",
-          "caption_ko": "구매 특전 아크릴 배지 (3종 랜덤)",
-          "source": "https://zowie.co.jp/post-8640/",
-          "img_fb": "gfb/226b2643f94a5fc1.webp",
-          "img_local": "img/226b2643f94a5fc1.webp"
-        },
-        {
-          "group": "상품·특전 (공식)",
-          "img": "https://zowie.co.jp/wp/wp-content/uploads/2024/04/2404_newitem-03-1024x1024.jpg",
-          "caption_ko": "펜케이스 1,650엔",
-          "source": "https://zowie.co.jp/post-8640/",
-          "img_fb": "gfb/2d930f060568f748.webp",
-          "img_local": "img/2d930f060568f748.webp"
-        },
-        {
-          "group": "상품·특전 (공식)",
-          "img": "https://zowie.co.jp/wp/wp-content/uploads/2024/04/2404_newitem-01-1024x1024.jpg",
-          "caption_ko": "커비 풍선 마스코트 1,980엔",
-          "source": "https://zowie.co.jp/post-8640/",
-          "img_fb": "gfb/abd45aedcad766ff.webp",
-          "img_local": "img/abd45aedcad766ff.webp"
-        },
-        {
-          "group": "상품·특전 (공식)",
-          "img": "https://zowie.co.jp/wp/wp-content/uploads/2024/04/2404_newitem-02-1024x1024.jpg",
-          "caption_ko": "왼쪽: POCOPOCO 1,848엔 / 오른쪽: 멀티 충전 케이블 2,508엔",
-          "source": "https://zowie.co.jp/post-8640/",
-          "img_fb": "gfb/8885ca3caa34a517.webp",
-          "img_local": "img/8885ca3caa34a517.webp"
-        },
-        {
-          "group": "상품·특전 (공식)",
-          "img": "https://zowie.co.jp/wp/wp-content/uploads/2023/03/kirby_item01-2-1024x1024.jpg",
-          "caption_ko": "왼쪽: 니기니기 마스코트 1,650엔 / 가운데: 삼각 볼빵빵 쿠션 4,950엔 / 오른쪽: 삼각 볼빵빵 마스코트 1,870엔",
-          "source": "https://zowie.co.jp/post-8640/",
-          "img_fb": "gfb/d51c180e97adfad5.webp",
-          "img_local": "img/d51c180e97adfad5.webp"
-        }
-      ],
-      "gallery_source": "https://zowie.co.jp/post-8640/",
-      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
-      "evidence": [
-        {
-          "url": "https://zowie.co.jp/post-8640/",
-          "tier": "official",
-          "quote": "期間：2026年11月13日(金)～11月23日(月・祝) 会場：福岡パルコ　本館5階　パルコファクトリー 営業時間：10：00～20：30　※最終日は18時まで",
-          "checked": "2026-11-05"
-        }
-      ],
-      "source_url": "https://zowie.co.jp/post-8640/",
-      "summary_source": "https://zowie.co.jp/post-8640/",
-      "thumbnail_source": "https://zowie.co.jp/post-8640/",
-      "lat": 33.5908,
-      "lon": 130.3986,
-      "thumb_small": "thumbs/b7ed6f3a69421a31.webp",
-      "image_fb": "gfb/b7ed6f3a69421a31.webp",
-      "image_local": "img/b7ed6f3a69421a31.webp"
     },
     {
       "checked_date": "2026-11-05",
@@ -26780,45 +23938,6 @@
       "thumb_small": "thumbs/2635854692e7cb79.webp",
       "image_fb": "gfb/2635854692e7cb79.webp",
       "image_local": "img/2635854692e7cb79.webp"
-    },
-    {
-      "id": "tokyo-mobpsycho100-10th-popup-annivroad",
-      "title_ko": "모브사이코 100 Ⅲ 10주년 기념 POP UP SHOP 하오리×슈트 ver. (Annivroad)",
-      "title_ja": "TVアニメ『モブサイコ100 Ⅲ』10周年記念POP UP SHOP 羽織×スーツver.",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "Annivroad by Bushiroad Creative Store (신주쿠 마루이 아넥스 2층)",
-      "start": "2026-11-07",
-      "end": "2026-11-23",
-      "reservation": "확인되지 않음 (11/05 기준)",
-      "price": "확인되지 않음 (11/05 기준)",
-      "notes": "영업시간은 확인되지 않음 (11/05 기준). 핑거 마스코트 키홀더 각 1,650엔(세금 포함), 프린트 포토 1회 1,000엔(세금 포함). 특전 홀로그램 시트(전 5종) 1회계 3,000엔(세금 포함)마다 랜덤 1장·에포스카드 제시 시 추가 1장. 하오리×슈트 그려내리기 일러스트 굿즈.",
-      "official_url": "https://prtimes.jp/main/html/rd/p/000009849.000014827.html",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000009849.000014827.html",
-      "map_query": "東京都新宿区新宿3-1-26",
-      "summary_ko": "『모브사이코 100 Ⅲ』 방송 10주년 기념 팝업이에요. 하오리×슈트 그려내리기 일러스트 굿즈와 프린트 포토를 즐겨요.",
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/14827/9849/14827-9849-10b5ff9f79d1d41a0aa4f5b71e00f69d-1921x1080.jpg",
-      "evidence": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000009849.000014827.html",
-          "tier": "official",
-          "quote": "2026年11月7日(土)～11月23日(月・祝)／Annivroad by Bushiroad Creative Store／所在地：東京都新宿区新宿3-1-26 新宿マルイ アネックス 2F",
-          "checked": "2026-11-05"
-        }
-      ],
-      "checked_date": "2026-11-05",
-      "verified_at": "2026-11-05",
-      "source_tier": "official",
-      "translation_check": true,
-      "summary_source": "https://prtimes.jp/main/html/rd/p/000009849.000014827.html",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000009849.000014827.html",
-      "added": "2026-11-05",
-      "lat": 35.6901,
-      "lon": 139.706,
-      "thumb_small": "thumbs/52b6877a3a3f295b.webp",
-      "image_fb": "gfb/52b6877a3a3f295b.webp",
-      "image_local": "img/52b6877a3a3f295b.webp"
     },
     {
       "id": "tokyo-kabaneri-10th-popup-shinjuku-marui",
@@ -28013,45 +25132,6 @@
       "checked_date": "2026-11-09",
       "verified_at": "2026-11-09",
       "source_tier": "official",
-      "added": "2026-11-09",
-      "id": "tokyo-kaoruhana-eflower-popup-ueno-marui",
-      "title_ko": "薫る花は凛と咲く × E-flower POP UP SHOP (우에노 마루이)",
-      "title_ja": "TVアニメ『薫る花は凛と咲く』×E-flower POP UP SHOP",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "우에노 마루이",
-      "start": "2026-11-13",
-      "end": "2026-11-23",
-      "official_url": "https://prtimes.jp/main/html/rd/p/000000364.000066407.html",
-      "notes": "우에노 마루이에서 E-flower 신상품 선행 판매. 오로라 아크릴 스탠드 각 2,200엔(세금 포함) 등",
-      "map_query": "東京都台東区上野6-15-1",
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/66407/364/66407-364-d912aa2ed47dd6d3a97dd03307919dc7-1909x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=1200&height=1200",
-      "summary_ko": "TV 애니 『薫る花は凛と咲く』 E-flower 신상품을 우에노 마루이에서 선행 판매하는 팝업이에요.",
-      "evidence": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000000364.000066407.html",
-          "tier": "official",
-          "quote": "上野マルイにて先行販売いたします。 ◆販売期間 2026年11月13日(金)～2026年11月23日(月・祝)",
-          "checked": "2026-11-09"
-        }
-      ],
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000364.000066407.html",
-      "summary_source": "https://prtimes.jp/main/html/rd/p/000000364.000066407.html",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000364.000066407.html",
-      "lat": 35.7115,
-      "lon": 139.7752,
-      "thumb_small": "thumbs/b9f730222a122694.webp",
-      "image_fb": "gfb/b9f730222a122694.webp",
-      "image_local": "img/b9f730222a122694.webp",
-      "title_ko_source": "한국 정식 방영·출간 제목 (널리 쓰이는 공식 표기)"
-    },
-    {
-      "reservation": "불필요",
-      "price": "입장료 확인되지 않음",
-      "checked_date": "2026-11-09",
-      "verified_at": "2026-11-09",
-      "source_tier": "official",
       "translation_check": true,
       "added": "2026-11-09",
       "id": "tokyo-daimaru-mamegoma-popup",
@@ -28164,51 +25244,6 @@
       "image_local": "img/6c2e3aa0e0b4cb4c.webp"
     },
     {
-      "reservation": "필요 (11/13～15 LINE 선착순 입장 정리권)",
-      "price": "입장료 확인되지 않음",
-      "checked_date": "2026-11-09",
-      "verified_at": "2026-11-09",
-      "source_tier": "official",
-      "added": "2026-11-09",
-      "id": "tokyo-starrail-aha-onlyshop-ikebukuro",
-      "title_ko": "『붕괴: 스타레일』星神★アッハ 구현 기념 온리숍 (애니메이트 이케부쿠로)",
-      "title_ja": "『崩壊：スターレイル』星神★アッハ 実装記念オンリーショップ",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "애니메이트 이케부쿠로 본점 7F NORTH",
-      "start": "2026-11-13",
-      "end": "2026-11-23",
-      "official_url": "https://www.animate.co.jp/onlyshop/49802/",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000009164.000016756.html",
-      "notes": "전국 페어(11/13～12/20)와 병행. 이케부쿠로 첫 3일은 LINE 선착순 정리권",
-      "map_query": "東京都豊島区東池袋1-20-7",
-      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/10/1792062501-2ca7ac54361dbb1888b6fe00765c0f03-1920x1356.jpg",
-      "summary_ko": "『붕괴: 스타레일』 星神★アッハ 구현 기념 온리숍 이케부쿠로 회장이에요. 가면 전시와 한정 굿즈가 있어요.",
-      "evidence": [
-        {
-          "url": "https://www.animate.co.jp/onlyshop/49802/",
-          "tier": "official",
-          "quote": "▽池袋本店 7F NORTH 2026年11月13日(金)～2026年11月23日(月・祝)",
-          "checked": "2026-11-09"
-        },
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000009164.000016756.html",
-          "tier": "official",
-          "quote": "＜アニメイト池袋本店 7F NORTH＞2026年11月13日～11月23日",
-          "checked": "2026-11-09"
-        }
-      ],
-      "summary_source": "https://www.animate.co.jp/onlyshop/49802/",
-      "thumbnail_source": "https://www.animate.co.jp/onlyshop/49802/",
-      "lat": 35.7303,
-      "lon": 139.7152,
-      "thumb_small": "thumbs/c42265668764d6d2.webp",
-      "image_fb": "gfb/c42265668764d6d2.webp",
-      "image_local": "img/c42265668764d6d2.webp",
-      "title_ko_source": "한국 정식 서비스 제목 (널리 쓰이는 공식 표기)"
-    },
-    {
       "reservation": "불필요",
       "price": "입장료 확인되지 않음",
       "checked_date": "2026-11-09",
@@ -28288,45 +25323,6 @@
       "image_fb": "gfb/4f52039f3d647223.webp",
       "image_local": "img/4f52039f3d647223.webp",
       "title_ko_source": "한국 정식 서비스 제목 (널리 쓰이는 공식 표기)"
-    },
-    {
-      "reservation": "불필요",
-      "price": "입장료 확인되지 않음",
-      "checked_date": "2026-11-09",
-      "verified_at": "2026-11-09",
-      "source_tier": "official",
-      "translation_check": true,
-      "added": "2026-11-09",
-      "id": "tokyo-helluva-boss-mini-popup-ikebukuro-parco",
-      "title_ko": "Helluva Boss mini POP UP STORE (이케부쿠로 파르코)",
-      "title_ja": "Helluva Boss POP UP STORE",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "INFOLENS GEEK SHOP 이케부쿠로 파르코 본관 6층",
-      "start": "2026-11-06",
-      "end": "2026-11-23",
-      "official_url": "https://prtimes.jp/main/html/rd/p/000000360.000092133.html",
-      "notes": "11:00～21:00. 3,300엔(세금 포함)마다 오리지널 클리어 카드(전 7종) 특전. Season 3 기념",
-      "map_query": "東京都豊島区南池袋1-28-2",
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/92133/360/92133-360-1bb9ebe352f9d1256e3307fbf78deef3-1500x883.png?format=png&auto=webp&fit=bounds&width=1200&height=1200",
-      "summary_ko": "해외 애니 「Helluva Boss」 mini 팝업이에요. 이케부쿠로 파르코 본관 6층 INFOLENS GEEK SHOP에서 열려요.",
-      "evidence": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000000360.000092133.html",
-          "tier": "official",
-          "quote": "開催日程 ：2026年11月6日（金）～2026年11月23日（月・祝） … 池袋パルコ本館6階",
-          "checked": "2026-11-09"
-        }
-      ],
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000360.000092133.html",
-      "summary_source": "https://prtimes.jp/main/html/rd/p/000000360.000092133.html",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000360.000092133.html",
-      "lat": 35.72712,
-      "lon": 139.71034,
-      "thumb_small": "thumbs/dc7bc47948e28374.webp",
-      "image_fb": "gfb/dc7bc47948e28374.webp",
-      "image_local": "img/dc7bc47948e28374.webp"
     },
     {
       "reservation": "추첨 (12/19 셔플 정리권 · 그 외 자유 입장 예정)",
@@ -31308,44 +28304,6 @@
       "image_local": "img/229b0a1bc5ff9f70.webp"
     },
     {
-      "title_ko": "메조피아노×헬로키티 POP-UP SHOP (후쿠오카 PARCO)",
-      "title_ja": "Mezzo Piano×Hello Kitty POP-UP SHOP",
-      "category": "팝업스토어",
-      "area": "후쿠오카",
-      "region": "fukuoka",
-      "venue": "후쿠오카 파르코 본관 5층 PARCO FACTORY",
-      "start": "2026-11-13",
-      "end": "2026-11-23",
-      "official_url": "https://fukuoka.parco.jp/event/detail/?id=39435",
-      "source_url": "https://fukuoka.parco.jp/event/detail/?id=39435",
-      "notes": "10:00~20:30. 공식 X @POPUPNEXT1",
-      "checked_date": "2026-11-13",
-      "translation_check": true,
-      "id": "fukuoka-mezzopiano-hellokitty-parco",
-      "summary_source": "https://fukuoka.parco.jp/event/detail/?id=39435",
-      "summary_ko": "메조피아노×헬로키티 팝업이에요. 헤이세이 레트로풍 '갸루' 콘셉트 아이템을 팔아요.",
-      "thumbnail": "https://image.parco.jp/SCCWEB/image/fukuoka/store/storage/w1240/newsevent_cname_20261106145649.jpg",
-      "thumbnail_source": "https://fukuoka.parco.jp/event/detail/?id=39435",
-      "evidence": [
-        {
-          "url": "https://fukuoka.parco.jp/event/detail/?id=39435",
-          "tier": "official",
-          "quote": "期間:11/13(金)~11/23(月) 場所:福岡PARCO 本館5F PARCO FACTORY 営業時間:10:00~20:30",
-          "checked": "2026-11-13"
-        }
-      ],
-      "lead_source": "11/09 보류(산리오 공식 403) → 후쿠오카 PARCO 공식 이벤트 페이지 확인",
-      "verified_at": "2026-11-13",
-      "source_tier": "official",
-      "added": "2026-11-13",
-      "thumb_small": "thumbs/637e30304837d2a7.webp",
-      "image_fb": "gfb/637e30304837d2a7.webp",
-      "image_local": "img/637e30304837d2a7.webp",
-      "map_query": "福岡県福岡市中央区天神2-11-1",
-      "lat": 33.5904,
-      "lon": 130.3989
-    },
-    {
       "title_ko": "바람의 백원신 출판 기념전 (유라쿠초 마루이)",
       "title_ja": "風の白猿神 出版記念展",
       "category": "전시·행사",
@@ -31383,97 +28341,6 @@
       "added": "2026-11-13",
       "thumb_small": "thumbs/07a9ce6e14be1df7.webp",
       "image_local": "img/07a9ce6e14be1df7.webp"
-    },
-    {
-      "title_ko": "택면×하이큐!! 콜라보 팝업 (긴시초 마루이)",
-      "title_ja": "「宅麺×ハイキュー!!」コラボポップアップ",
-      "category": "콜라보카페",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "긴시초 마루이",
-      "start": "2026-11-12",
-      "end": "2026-11-23",
-      "official_url": "https://haikyu.jp/news/6030/",
-      "source_url": "https://www.takumen.com/st/lp/haikyucollab2026",
-      "notes": "콜라보 라멘 이트인 + 오리지널 굿즈 판매. 전반 11/12~11/17 아오바조사이·네코마, 후반 11/18~11/23 카라스노·후쿠로다니 라멘 제공. 11/12~15는 Livepocket 사전 예약(추첨), 11/16 이후는 선착 예약 입장. 라멘 1품마다 학교별 카드 세트 1세트+코스터(랜덤 전 4종) 1장. 같은 기간 마루이 패밀리 미조노구치(가나가와)·히로시마 PARCO, 11/27~12/13 나고야 PARCO에서도 열려요. 공식 마루이 페이지 본문은 JS라 층 정보는 확인하지 못했어요.",
-      "checked_date": "2026-11-14",
-      "translation_check": true,
-      "price": "굿즈 220~2,420엔 (세금 포함)",
-      "map_query": "東京都墨田区江東橋3-9-10 錦糸町マルイ",
-      "id": "tokyo-takumen-haikyu-collab-kinshicho-marui",
-      "summary_source": "https://www.takumen.com/st/lp/haikyucollab2026",
-      "reservation": "필요 (11/12~15 사전 추첨, 11/16 이후 Livepocket 선착)",
-      "summary_ko": "라멘 통판 「택면」과 『하이큐!!』 콜라보 팝업이에요. 학교별 콜라보 라멘을 이트인으로 먹고 새로 그린 일러스트 굿즈도 살 수 있어요.",
-      "thumbnail": "https://www.takumen.com/st/lp/haikyucollab2026/images/hero.webp",
-      "thumbnail_source": "https://www.takumen.com/st/lp/haikyucollab2026",
-      "evidence": [
-        {
-          "url": "https://haikyu.jp/news/6030/",
-          "tier": "official",
-          "quote": "コラボラーメン店舗 開催期間 2026年11月12日(木)〜11月23日(月・祝) ・錦糸町マルイ(東京) ・マルイファミリー溝口(神奈川) ・広島PARCO(広島) 2026年11月27日(金)〜12月13日(日) ・名古屋PARCO（愛知）",
-          "checked": "2026-11-14"
-        },
-        {
-          "url": "https://www.takumen.com/st/lp/haikyucollab2026",
-          "tier": "official",
-          "quote": "錦糸町マルイ 開催期間：11月12日（木）～11月23日（月・祝） 内容：イートイン、オリジナルコラボグッズ販売",
-          "checked": "2026-11-14"
-        }
-      ],
-      "lead_source": null,
-      "verified_at": "2026-11-14",
-      "source_tier": "official",
-      "added": "2026-11-14",
-      "lat": 35.69535,
-      "lon": 139.81374,
-      "thumb_small": "thumbs/25d916888557f4a7.webp",
-      "image_fb": "gfb/25d916888557f4a7.webp",
-      "image_local": "img/25d916888557f4a7.webp"
-    },
-    {
-      "title_ko": "제1회 전국 다가시 페스 2026 (오리나스 긴시초)",
-      "title_ja": "第一回全国駄菓子フェス2026",
-      "category": "전시·행사",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "오리나스 긴시초 1층 엔트리 코트",
-      "start": "2026-11-21",
-      "end": "2026-11-23",
-      "official_url": "https://www.olinas.jp/event/detail/164",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000052.000026734.html",
-      "notes": "10:00~17:00. 주최 전국다가시야회. 다가시 메이커·도매상 패널 전시, 다가시 연표, 긴시초 다가시 메이커 「어른 구매」 코너, 다가시 엔니치, 오리나스 한정 「공식 다가시야 카드」 배포(3일간 합계 2,220장, 각일 선착 740장). 입장료는 공식 페이지에 적혀 있지 않아요.",
-      "checked_date": "2026-11-14",
-      "translation_check": true,
-      "price": "",
-      "map_query": "東京都墨田区太平4-1-2 オリナス錦糸町",
-      "id": "tokyo-zenkoku-dagashi-fes-2026-olinas",
-      "summary_source": "https://www.olinas.jp/event/detail/164",
-      "reservation": "",
-      "summary_ko": "오리나스 긴시초에서 처음 열리는 전국 다가시(막과자) 페스티벌이에요. 다가시 역사 전시와 엔니치, 한정 카드 배포가 있어요.",
-      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/26734/52/26734-52-66f480e2da804d6345e4c7a4fa5229aa-2891x1627.jpg",
-      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000052.000026734.html",
-      "evidence": [
-        {
-          "url": "https://www.olinas.jp/event/detail/164",
-          "tier": "official",
-          "quote": "第一回全国駄菓子フェス2026 開催決定！ 日程 2026年11月21日（土）～11月23日（月・祝） 時間 10:00～17:00 場所 オリナス錦糸町 1F エントリーコート 主催 全国駄菓子屋会",
-          "checked": "2026-11-14"
-        },
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000000052.000026734.html",
-          "tier": "official",
-          "quote": "4．第一回全国駄菓子フェス2026 開催日時 2026年11月21日（土）～11月23日（月・祝） 開催時間 10:00～17:00 オリナス錦糸町 1F エントリーコート",
-          "checked": "2026-11-14"
-        }
-      ],
-      "lead_source": null,
-      "verified_at": "2026-11-14",
-      "source_tier": "official",
-      "added": "2026-11-14",
-      "lat": 35.7002,
-      "lon": 139.8149,
-      "thumb_small": "thumbs/2005b1630a4994a5.webp",
-      "image_local": "img/2005b1630a4994a5.webp"
     },
     {
       "reservation": "불필요",
@@ -37709,6 +34576,385 @@
       "image_fb": "gfb/354dc725fcea77f8.webp",
       "image_local": "img/354dc725fcea77f8.webp",
       "thumb_small": "thumbs/354dc725fcea77f8.webp"
+    },
+    {
+      "checked_date": "2026-11-24",
+      "verified_at": "2026-11-24",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-24",
+      "reservation": "불필요 (혼잡 시 정리권)",
+      "price": "",
+      "id": "tokyo-sanx-universe-popup-lumine-est-shinjuku",
+      "lead_source": "collabo-cafe.com 대조 (공식 확인)",
+      "title_ko": "산엑스 유니버스 POP-UP SHOP ～하늘에서 잘 자＆언제나 함께 스티커～ (루미네 에스트 신주쿠)",
+      "title_ja": "サンエックスユニバース POP-UP SHOP ～お空でおやすみ＆ずっといっしょシール～",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "루미네 에스트 신주쿠 B1 (JR 신주쿠역 중앙 동쪽 개찰구 밖, 아오야마 플라워 마켓 앞)",
+      "map_query": "東京都新宿区新宿3-38-1",
+      "start": "2026-11-27",
+      "end": "2026-12-08",
+      "official_url": "https://www.san-x.co.jp/ja/blog/2026-11-post-0836170/",
+      "notes": "평일 11:00~21:00 / 토·일·공휴일 10:30~21:00. 산엑스 상품 2,200엔 이상 구매 시 마커 참(전 6종 랜덤), 5,500엔 이상 구매 시 마커 참+쇼퍼 증정(한정 수량). 혼잡 시 정리권 배포 가능.",
+      "summary_ko": "산엑스 캐릭터들이 한자리에 모이는 팝업이에요. 새 시리즈 「하늘에서 잘 자」 굿즈와 30캐릭터 「언제나 함께 스티커」, 팝업 한정 냥냥냥코 인형 등이 나와요.",
+      "thumbnail": "https://www.san-x.co.jp/uploads/1795077376707-6cqnx2d5v7s/banner.webp",
+      "evidence": [
+        {
+          "url": "https://www.san-x.co.jp/ja/blog/2026-11-post-0836170/",
+          "tier": "official",
+          "quote": "【開催概要】 ★ルミネエスト新宿 開催期間：2026年11月27日(金)～12月8日(火) 会場：B１ＪＲ新宿駅中央東改札外 青山フラワーマーケット前 住所：東京都新宿区新宿３-３８-１ 営業時間：平日11：00～21：00 ／ 土日祝10：30～21：00",
+          "checked": "2026-11-24"
+        }
+      ],
+      "source_url": "https://www.san-x.co.jp/ja/blog/2026-11-post-0836170/",
+      "summary_source": "https://www.san-x.co.jp/ja/blog/2026-11-post-0836170/",
+      "thumbnail_source": "https://www.san-x.co.jp/ja/blog/2026-11-post-0836170/",
+      "lat": 35.6913,
+      "lon": 139.7006,
+      "thumb_small": "thumbs/5b3805565fd2fe84.webp",
+      "image_fb": "gfb/5b3805565fd2fe84.webp",
+      "image_local": "img/5b3805565fd2fe84.webp"
+    },
+    {
+      "checked_date": "2026-11-24",
+      "verified_at": "2026-11-24",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-24",
+      "reservation": "불필요",
+      "price": "",
+      "id": "tokyo-mahoiku-restart-xmas-popup-volks-akiba",
+      "lead_source": "collabo-cafe.com 대조 (공식 확인)",
+      "title_ko": "『마법소녀 육성계획 restart』 POP-UP SHOP (볼크스 아키하바라 호비천국2)",
+      "title_ja": "『魔法少女育成計画 restart』POP-UP SHOP",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "볼크스 아키하바라 호비천국2 1층 특설 회장",
+      "map_query": "ボークス秋葉原ホビー天国2",
+      "start": "2026-12-12",
+      "end": "2026-12-27",
+      "official_url": "https://www.volks.co.jp/blog_sr/akiba2/2026/11/12/033493.html",
+      "notes": "평일 11:00~20:00 / 토·일·공휴일 10:00~20:00. 회장에서 대상 상품 2,000엔(세금 포함) 구매마다 특전 포스트카드(전 4종 랜덤) 1장.",
+      "summary_ko": "TV 애니메이션 『마법소녀 육성계획 restart』 팝업이에요. 페치카·섀도게일·매지컬 데이지의 크리스마스 새 일러스트 굿즈를 팔아요.",
+      "thumbnail": "https://www.volks.co.jp/blog_sr/akiba2/assets_c/2026/11/1112_00-thumb-1200x900-181000.jpg",
+      "evidence": [
+        {
+          "url": "https://www.volks.co.jp/blog_sr/akiba2/2026/11/12/033493.html",
+          "tier": "official",
+          "quote": "■『魔法少女育成計画 restart』POP-UP SHOP 開催期間：2026年12月12日（土）～12月27日（日） 開催場所：ボークス秋葉原ホビー天国２ 1F特設会場 営業時間：平日11：00～20：00／土日祝10：00～20：00",
+          "checked": "2026-11-24"
+        }
+      ],
+      "source_url": "https://www.volks.co.jp/blog_sr/akiba2/2026/11/12/033493.html",
+      "summary_source": "https://www.volks.co.jp/blog_sr/akiba2/2026/11/12/033493.html",
+      "thumbnail_source": "https://www.volks.co.jp/blog_sr/akiba2/2026/11/12/033493.html",
+      "lat": 35.700043,
+      "lon": 139.771683,
+      "thumb_small": "thumbs/f781eb3c2bb5fbe1.webp",
+      "image_fb": "gfb/f781eb3c2bb5fbe1.webp",
+      "image_local": "img/f781eb3c2bb5fbe1.webp"
+    },
+    {
+      "checked_date": "2026-11-24",
+      "verified_at": "2026-11-24",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-24",
+      "reservation": "선택 (첫날·혼잡 시 입장 정리권 가능성)",
+      "price": "",
+      "id": "osaka-boa-25th-cafe-treevillage",
+      "lead_source": "collabo-cafe.com 대조 (공식 확인)",
+      "title_ko": "BoA 일본 데뷔 25주년 CAFE & SHOP (트리비리지 오사카)",
+      "title_ja": "BoA Japan Debut \"25th Anniversary\" CAFE & SHOP",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "트리비리지 오사카점 (HEP FIVE 우메다 8F Cross Store 내)",
+      "map_query": "大阪府大阪市北区角田町5-15 HEP FIVE梅田8階",
+      "start": "2026-12-05",
+      "end": "2026-12-17",
+      "official_url": "https://tree-village.jp/news/014495.html",
+      "notes": "SHOP 11:00~21:00 / CAFE 11:00~20:00(L.O. 20:00). 첫날·혼잡 시 입장 정리권이 있을 수 있어요. 요코하마점(11/28~12/25)은 권역 외.",
+      "summary_ko": "BoA 일본 데뷔 25주년 기념 카페 & 숍이에요. 「VALENTI」 등 곡을 이미지한 카페 메뉴와 팝업 한정 굿즈, 미니앨범 『歩幅』 구매 특전이 있어요.",
+      "thumbnail": "https://tree-village.jp/news/2026/11/13/boa_main_261113_01_02.jpg",
+      "evidence": [
+        {
+          "url": "https://tree-village.jp/news/014495.html",
+          "tier": "official",
+          "quote": "【開催日程】 横浜：2026年11月28日(土)～12月25日(金) 大阪・博多：2026年12月5日(土)～12月17日(木) ●大阪会場 ツリービレッジ大阪店 大阪府大阪市北区角田町5-15HEP FIVE梅田8階 バンダイナムコ Cross Store 大阪梅田 内",
+          "checked": "2026-11-24"
+        }
+      ],
+      "source_url": "https://tree-village.jp/news/014495.html",
+      "summary_source": "https://tree-village.jp/news/014495.html",
+      "thumbnail_source": "https://tree-village.jp/news/014495.html",
+      "lat": 34.7042,
+      "lon": 135.4995,
+      "thumb_small": "thumbs/10488d4292f1746d.webp",
+      "image_fb": "gfb/10488d4292f1746d.webp",
+      "image_local": "img/10488d4292f1746d.webp"
+    },
+    {
+      "checked_date": "2026-11-24",
+      "verified_at": "2026-11-24",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-24",
+      "reservation": "선택 (첫날·혼잡 시 입장 정리권 가능성)",
+      "price": "",
+      "id": "fukuoka-boa-25th-cafe-treevillage",
+      "lead_source": "collabo-cafe.com 대조 (공식 확인)",
+      "title_ko": "BoA 일본 데뷔 25주년 CAFE & SHOP (트리비리지 하카타)",
+      "title_ja": "BoA Japan Debut \"25th Anniversary\" CAFE & SHOP",
+      "category": "콜라보카페",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "트리비리지 하카타점 (캐널시티 오파 하카타 사우스 B1F Cross Store 내)",
+      "map_query": "福岡県福岡市博多区住吉1-2-74 キャナルシティオーパ博多 サウスビルB1F",
+      "start": "2026-12-05",
+      "end": "2026-12-17",
+      "official_url": "https://tree-village.jp/news/014495.html",
+      "notes": "SHOP 10:00~21:00 / CAFE 11:00~20:00(L.O. 19:30). 첫날·혼잡 시 입장 정리권이 있을 수 있어요. 요코하마점(11/28~12/25)은 권역 외.",
+      "summary_ko": "BoA 일본 데뷔 25주년 기념 카페 & 숍이에요. 「VALENTI」 등 곡을 이미지한 카페 메뉴와 팝업 한정 굿즈, 미니앨범 『歩幅』 구매 특전이 있어요.",
+      "thumbnail": "https://tree-village.jp/news/2026/11/13/boa_main_261113_01_02.jpg",
+      "evidence": [
+        {
+          "url": "https://tree-village.jp/news/014495.html",
+          "tier": "official",
+          "quote": "【開催日程】 横浜：2026年11月28日(土)～12月25日(金) 大阪・博多：2026年12月5日(土)～12月17日(木) ●福岡会場 ツリービレッジ博多店 福岡県福岡市博多区住吉一丁目2号74番キャナルシティオーパ博多 サウスビルB1F バンダイナムコ Cross Store 博多内",
+          "checked": "2026-11-24"
+        }
+      ],
+      "source_url": "https://tree-village.jp/news/014495.html",
+      "summary_source": "https://tree-village.jp/news/014495.html",
+      "thumbnail_source": "https://tree-village.jp/news/014495.html",
+      "lat": 33.5897,
+      "lon": 130.4111,
+      "thumb_small": "thumbs/10488d4292f1746d.webp",
+      "image_fb": "gfb/10488d4292f1746d.webp",
+      "image_local": "img/10488d4292f1746d.webp"
+    },
+    {
+      "checked_date": "2026-11-24",
+      "verified_at": "2026-11-24",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-24",
+      "reservation": "불필요",
+      "price": "",
+      "id": "fukuoka-heidi-popee-popup-parco",
+      "lead_source": "pending 재확인 (후쿠오카 PARCO 공식)",
+      "title_ko": "알프스 소녀 하이디 & POPEE the 퍼포머 POP-UP SHOP (후쿠오카 PARCO)",
+      "title_ja": "アルプスの少女ハイジ POP-UP SHOP / POPEE theぱフォーマー POP-UP SHOP 福岡",
+      "category": "팝업스토어",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "후쿠오카 PARCO 본관 B1F EVENT SPACE",
+      "map_query": "福岡県福岡市中央区天神2-11-1",
+      "start": "2026-11-26",
+      "end": "2026-12-08",
+      "official_url": "https://fukuoka.parco.jp/event/detail/?id=39600",
+      "notes": "하이디 팝업과 같은 즈이요 작품 『POPEE the 퍼포머』 팝업이 같은 공간에서 동시 개최. POPEE 공식 페이지: https://fukuoka.parco.jp/event/detail/?id=39601",
+      "summary_ko": "『알프스 소녀 하이디』 신작·인기 굿즈와, 같은 즈이요 작품 『POPEE the 퍼포머』 굿즈를 함께 파는 팝업이에요. 요제프 쿠지와 쿠피 라무네 콜라보 굿즈도 있어요.",
+      "thumbnail": "https://image.parco.jp/SCCWEB/image/fukuoka/store/storage/w1240/newsevent_heidi_00_main.jpg",
+      "gallery": [
+        {
+          "group": "하이디 굿즈",
+          "img": "https://image.parco.jp/SCCWEB/image/fukuoka/store/storage/w1240/newsevent_heidi_01_heidikuji.jpg",
+          "caption_ko": "폭신폭신 요제프 쿠지",
+          "caption_ja": "ふわふわヨーゼフくじ",
+          "price": "1회 1,200엔 (세금 포함)",
+          "source": "https://fukuoka.parco.jp/event/detail/?id=39600",
+          "img_fb": "gfb/dda75664fb251b08.webp",
+          "img_local": "img/dda75664fb251b08.webp"
+        },
+        {
+          "group": "하이디 굿즈",
+          "img": "https://image.parco.jp/SCCWEB/image/fukuoka/store/storage/w1240/newsevent_heidi_02_acrylkh_2ren.jpg",
+          "caption_ko": "하이디×쿠피 라무네 2연 키홀더 (전 5종)",
+          "caption_ja": "ハイジ×クッピーラムネ 2連キーホルダー（全5種）",
+          "price": "1,100엔 (세금 포함)",
+          "source": "https://fukuoka.parco.jp/event/detail/?id=39600",
+          "img_fb": "gfb/2769fdee1f580304.webp",
+          "img_local": "img/2769fdee1f580304.webp"
+        },
+        {
+          "group": "하이디 굿즈",
+          "img": "https://image.parco.jp/SCCWEB/image/fukuoka/store/storage/w1240/newsevent_heidi_03_kinchaku.jpg",
+          "caption_ko": "하이디×쿠피 라무네 복주머니 (전 4종)",
+          "caption_ja": "ハイジ×クッピーラムネ 巾着（全４種）",
+          "price": "1,100엔 (세금 포함)",
+          "source": "https://fukuoka.parco.jp/event/detail/?id=39600",
+          "img_fb": "gfb/a034ecbc821ef06a.webp",
+          "img_local": "img/a034ecbc821ef06a.webp"
+        },
+        {
+          "group": "하이디 굿즈",
+          "img": "https://image.parco.jp/SCCWEB/image/fukuoka/store/storage/w1240/newsevent_heidi_04_wt_susaii.jpg",
+          "caption_ko": "워시 타월 수채 꽃 피는 언덕",
+          "caption_ja": "ウォッシュタオル 水彩 花咲く丘",
+          "price": "1,100엔 (세금 포함)",
+          "source": "https://fukuoka.parco.jp/event/detail/?id=39600",
+          "img_fb": "gfb/2806697e854cc53b.webp",
+          "img_local": "img/2806697e854cc53b.webp"
+        },
+        {
+          "group": "POPEE 굿즈",
+          "img": "https://image.parco.jp/SCCWEB/image/fukuoka/store/storage/w1240/newsevent_popee_01_a4clearfile.jpg",
+          "caption_ko": "하이디×포피 A4 클리어 파일",
+          "caption_ja": "ハイジ×ポピー A4クリアファイル",
+          "price": "440엔 (세금 포함)",
+          "source": "https://fukuoka.parco.jp/event/detail/?id=39601",
+          "img_fb": "gfb/b77a702580db38d6.webp",
+          "img_local": "img/b77a702580db38d6.webp"
+        },
+        {
+          "group": "POPEE 굿즈",
+          "img": "https://image.parco.jp/SCCWEB/image/fukuoka/store/storage/w1240/newsevent_popee_03_bracket.jpg",
+          "caption_ko": "블랭킷 (전 2종)",
+          "caption_ja": "ブランケット（全2種）",
+          "price": "3,300엔 (세금 포함)",
+          "source": "https://fukuoka.parco.jp/event/detail/?id=39601",
+          "img_fb": "gfb/ae155e1d4fc5d1fa.webp",
+          "img_local": "img/ae155e1d4fc5d1fa.webp"
+        },
+        {
+          "group": "POPEE 굿즈",
+          "img": "https://image.parco.jp/SCCWEB/image/fukuoka/store/storage/w1240/newsevent_popee_04_nui_mascot.jpg",
+          "caption_ko": "POPEE 인형 마스코트 (전 3종)",
+          "caption_ja": "ぬいぐるみマスコット（全3種）",
+          "price": "1,650엔 (세금 포함)",
+          "source": "https://fukuoka.parco.jp/event/detail/?id=39601",
+          "img_fb": "gfb/fba532de4a7eceb5.webp",
+          "img_local": "img/fba532de4a7eceb5.webp"
+        },
+        {
+          "group": "POPEE 굿즈",
+          "img": "https://image.parco.jp/SCCWEB/image/fukuoka/store/storage/w1240/newsevent_popee_05_nuigurumi.jpg",
+          "caption_ko": "POPEE 인형 (전 3종)",
+          "caption_ja": "ぬいぐるみ（全3種）",
+          "price": "4,180엔 (세금 포함)",
+          "source": "https://fukuoka.parco.jp/event/detail/?id=39601",
+          "img_fb": "gfb/40394a83669d8f9c.webp",
+          "img_local": "img/40394a83669d8f9c.webp"
+        }
+      ],
+      "gallery_source": "https://fukuoka.parco.jp/event/detail/?id=39600",
+      "gallery_note": "이미지는 후쿠오카 PARCO 공식 페이지 이미지예요(실제와 다를 수 있음)",
+      "evidence": [
+        {
+          "url": "https://fukuoka.parco.jp/event/detail/?id=39600",
+          "tier": "official",
+          "quote": "アルプスの少女ハイジ POP-UP SHOP Information イベント期間 2026.11.26 - 2026.12.8 会場 本館B1F EVENT SPACE",
+          "checked": "2026-11-24"
+        },
+        {
+          "url": "https://fukuoka.parco.jp/event/detail/?id=39601",
+          "tier": "official",
+          "quote": "POPEE theぱフォーマー POP-UP SHOP 福岡 Information イベント期間 2026.11.26 - 2026.12.8 会場 本館B1F EVENT SPACE",
+          "checked": "2026-11-24"
+        }
+      ],
+      "source_url": "https://fukuoka.parco.jp/event/detail/?id=39600",
+      "summary_source": "https://fukuoka.parco.jp/event/detail/?id=39600",
+      "thumbnail_source": "https://fukuoka.parco.jp/event/detail/?id=39600",
+      "lat": 33.5904,
+      "lon": 130.3989,
+      "thumb_small": "thumbs/da1954d32e6be789.webp",
+      "image_fb": "gfb/da1954d32e6be789.webp",
+      "image_local": "img/da1954d32e6be789.webp"
+    },
+    {
+      "checked_date": "2026-11-24",
+      "verified_at": "2026-11-24",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-24",
+      "reservation": "불필요",
+      "price": "1회 750엔",
+      "id": "kuji-choigosim",
+      "lead_source": "collabo-cafe.com 대조 (공식 확인)",
+      "title_ko": "이치방쿠지 최고심 (겨울 새 일러스트)",
+      "title_ja": "一番くじ チェゴシム",
+      "category": "쿠지",
+      "area": "전국",
+      "region": "all",
+      "venue": "전국 판매처 (미니스톱·데일리 야마자키·서점 등)",
+      "start": "2026-12-05",
+      "end": null,
+      "official_url": "https://1kuji.com/products/choigosim",
+      "notes": "12/5부터 순차 발매 예정. 취급점: 미니스톱, 데일리 야마자키, 서점, 하비숍, 이치방쿠지 공식숍, 이치방쿠지 ONLINE 등. 상품 라인업은 공식 후일 발표. 더블 찬스 캠페인: 발매일~2027년 3월 말. 매장마다 취급·시기가 다를 수 있어요.",
+      "summary_ko": "한국 캐릭터 『최고심』 이치방쿠지예요. 겨울 테마 새 일러스트 상품이 나오며, 등급별 상품은 공식 발표를 기다리는 중이에요.",
+      "thumbnail": "https://assets.1kuji.com/uploads/product/top_banner/10749/b048a00e-cd48-4b85-9c0f-32ce09535191.webp",
+      "thumb_kind": "product",
+      "evidence": [
+        {
+          "url": "https://1kuji.com/products/choigosim",
+          "tier": "official",
+          "quote": "一番くじ チェゴシム ■発売日： 店頭販売：2026年12月05日(土)より順次発売予定 ■メーカー希望小売価格：1回750円(税10％込) ■取扱店： ミニストップ、デイリーヤマザキ、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
+          "checked": "2026-11-24"
+        }
+      ],
+      "source_url": "https://1kuji.com/products/choigosim",
+      "summary_source": "https://1kuji.com/products/choigosim",
+      "thumbnail_source": "https://1kuji.com/products/choigosim",
+      "thumb_small": "thumbs/177e6f4accd4137c.webp",
+      "image_fb": "gfb/177e6f4accd4137c.webp",
+      "image_local": "img/177e6f4accd4137c.webp"
+    },
+    {
+      "checked_date": "2026-11-24",
+      "verified_at": "2026-11-24",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-24",
+      "reservation": "불필요",
+      "price": "1회 400엔",
+      "id": "all-gacha-chainsawman-reze-pochita-dancing",
+      "lead_source": "타카라토미 아츠 가챠 발매 목록",
+      "title_ko": "극장판 체인소맨 레제편 포치타 가득 컬렉션 ～Dancing Edition～ (가챠)",
+      "title_ja": "劇場版『チェンソーマン レゼ篇』 ポチタいっぱいコレクション ～Dnacing Edition～",
+      "category": "가챠",
+      "area": "전국",
+      "region": "all",
+      "venue": "전국 판매처 (가챠 코너 등)",
+      "start": "2026-11-23",
+      "end": null,
+      "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y909474",
+      "notes": "발매 시기: 2026년 11월 23일 주. 오프닝 영상에서 춤추는 포치타를 재현한 피규어, 높이 약 3.8~5cm, 포치타 B·C는 전용 받침대 포함. 지역·매장마다 다를 수 있어요",
+      "summary_ko": "극장판 『체인소맨 레제편』 오프닝에서 춤추는 포치타를 재현한 가챠예요. 포치타 A~D 전 4종이에요.",
+      "thumbnail": "https://www.takaratomy-arts.co.jp/upfiles/products/Y909474_b.jpg",
+      "thumb_kind": "product",
+      "date_label": "11월 23일 주 발매 (지역·매장별 상이)",
+      "copyright": "© 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社",
+      "gallery": [
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://www.takaratomy-arts.co.jp/upfiles/products/Y909474_b.jpg",
+          "caption_ko": "메인 이미지",
+          "source": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y909474",
+          "img_fb": "gfb/2cff6c784e98e1ad.webp",
+          "img_local": "img/2cff6c784e98e1ad.webp"
+        }
+      ],
+      "gallery_source": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y909474",
+      "evidence": [
+        {
+          "url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y909474",
+          "tier": "official",
+          "quote": "劇場版『チェンソーマン レゼ篇』 ポチタいっぱいコレクション ～Dnacing Edition～ ■価格:400円(税込) ■発売時期:2026年11月（11月23日週発売）",
+          "checked": "2026-11-24"
+        }
+      ],
+      "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y909474",
+      "summary_source": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y909474",
+      "thumbnail_source": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y909474",
+      "thumb_small": "thumbs/2cff6c784e98e1ad.webp",
+      "image_fb": "gfb/2cff6c784e98e1ad.webp",
+      "image_local": "img/2cff6c784e98e1ad.webp"
     }
   ]
 }

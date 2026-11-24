@@ -932,6 +932,16 @@
       "lat": 35.668907,
       "lon": 139.705551,
       "source": "https://exhibition.m-1gp.com/outline"
+    },
+    {
+      "keys": [
+        "ルミネエスト新宿",
+        "루미네 에스트 신주쿠"
+      ],
+      "address": "東京都新宿区新宿3-38-1",
+      "lat": 35.6913,
+      "lon": 139.7006,
+      "source": "https://www.san-x.co.jp/ja/blog/2026-11-post-0836170/"
     }
   ]
 }
