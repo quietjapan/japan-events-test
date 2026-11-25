@@ -42,23 +42,6 @@
       "source_url": "https://www.shonenjump.com/j/jumpcalendar/2026/11/"
     },
     {
-      "title_ja": "ブルーロック × アニメイトカフェ (Hareza池袋・大阪)",
-      "region": "tokyo",
-      "start": "2026-12-01",
-      "end": "2027-01-12",
-      "official_url": "https://animatecafe.jp/event/ac000815_2",
-      "notes": "11/03 다른 캘린더(collabo-cafe) 단서. 공식 페이지가 JS라 기간·오사카 매장 원문 미확인 → 확인 후 등록 / 11/03 재확인: 공식 페이지에 기간 미표기, 그대로 보류 / 11/05 재확인: 공식 페이지에 여전히 기간 미표기, 그대로 보류 / 11/06 재확인: 공식 페이지에 여전히 기간 미표기, 그대로 보류 / 11/07 재확인: 공식 페이지에 여전히 기간 미표기, 그대로 보류 / 11/11 재확인: 공식 페이지에 여전히 기간 미표기, 그대로 보류",
-      "added": "2026-11-03",
-      "checked_date": "2026-11-17",
-      "title_ko": "블루록 × 애니메이트카페 (Hareza 이케부쿠로·오사카)",
-      "category": "콜라보카페",
-      "area": "도쿄",
-      "translation_check": true,
-      "pending_reason": "공식 애니메이트카페 페이지에 여전히 개최 기간 미표기(「コラボ開催決定！」만). 기간 확인 후 등록 (2026-11-17)",
-      "thumbnail": "https://animatecafe.jp/images/ogp.png",
-      "thumbnail_source": "https://animatecafe.jp/event/ac000815_2"
-    },
-    {
       "title_ko": "가챠 홀로라이브 컬러풀 카라비나 모후싯포 마스코트",
       "title_ja": "ホロライブ カラフルカラビナもふしっぽマスコット",
       "category": "가챠",

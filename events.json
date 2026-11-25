@@ -34775,6 +34775,277 @@
       "thumb_small": "thumbs/93890a4df23062de.webp",
       "image_fb": "gfb/93890a4df23062de.webp",
       "image_local": "img/93890a4df23062de.webp"
+    },
+    {
+      "id": "tokyo-shugochara-20th-genga-ten-solamachi",
+      "title_ko": "캐릭캐릭 체인지(しゅごキャラ！) 20주년 기념 원화전 ~The Unlocked Sparkle~ (도쿄 소라마치)",
+      "title_ja": "しゅごキャラ！20周年記念原画展～The Unlocked Sparkle～",
+      "category": "전시·행사",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "도쿄 소라마치 5층 스페이스 634",
+      "start": "2026-12-12",
+      "end": "2026-12-27",
+      "reservation": "토일은 일시 지정권(정리번호 순 입장), 평일은 기간 유효권(1회 입장) · 이플러스·패밀리마트 (12/11 23:59까지 예매, 당일권은 이플러스·회장)",
+      "price": "일반 입장권 예매 1,800엔 / 당일 2,000엔 (세금 포함). 일반 굿즈 교환권 2,500엔은 입장권 별도 필요",
+      "official_url": "https://www.shugochara-ex.com/",
+      "source_url": "https://www.shugochara-ex.com/",
+      "notes": "12/12·13·19·20·26(토일) 10:00~20:00, 평일 12/14~18·12/21~25 13:00~20:00, 12/27 10:00~18:00 (최종 입장 각 30분 전). 입장 특전 프로필장풍 카드(전 5종) 랜덤 1장. 굿즈 교환권은 실 바인더(이플러스 한정, 입장권 1장당 1장). 물판 3,000엔(세금 포함) 이상 구매 시 시트 실(전 2종) 랜덤 1장. 캐논 SELPHY 랜덤 미니카드 프린트 체험 300엔. 미취학 아동 무료(보호자 동반)",
+      "map_query": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ5F",
+      "thumbnail": "https://www.shugochara-ex.com/assets/imgs/kv.jpg",
+      "thumbnail_source": "https://www.shugochara-ex.com/",
+      "copyright": "©PEACH-PIT／講談社",
+      "summary_ko": "『캐릭캐릭 체인지(しゅごキャラ！)』 20주년을 기념한 첫 원화전이에요. 『しゅごキャラ！』와 『ジュエルジョーカー』 원화 전시와 공간 재현 전시가 있어요.",
+      "summary_source": "https://www.shugochara-ex.com/",
+      "gallery": [
+        {
+          "group": "입장 특전",
+          "img": "https://www.shugochara-ex.com/assets/imgs/ticket_img01.jpg",
+          "full": "https://www.shugochara-ex.com/assets/imgs/ticket_img01.jpg",
+          "caption_ko": "입장 특전 프로필장풍 카드 (전 5종 중 랜덤 1장)",
+          "caption_ja": "入場特典 プロフィール帳風カード(全5種)",
+          "source": "https://www.shugochara-ex.com/",
+          "img_fb": "gfb/ce0c21a96b59d9a7.webp",
+          "img_local": "img/ce0c21a96b59d9a7.webp"
+        },
+        {
+          "group": "굿즈 교환권",
+          "img": "https://www.shugochara-ex.com/assets/imgs/ticket_img03_01.jpg",
+          "full": "https://www.shugochara-ex.com/assets/imgs/ticket_img03_01.jpg",
+          "caption_ko": "일반 굿즈 교환권(2,500엔) 굿즈: 실 바인더",
+          "caption_ja": "一般グッズ シールバインダー",
+          "price": "2,500엔 (세금 포함, 입장권 별도)",
+          "source": "https://www.shugochara-ex.com/",
+          "img_fb": "gfb/050d2b0f393a9922.webp",
+          "img_local": "img/050d2b0f393a9922.webp"
+        },
+        {
+          "group": "구매 특전",
+          "img": "https://www.shugochara-ex.com/assets/imgs/goods_benefit_01.jpg",
+          "full": "https://www.shugochara-ex.com/assets/imgs/goods_benefit_01.jpg",
+          "caption_ko": "물판 3,000엔(세금 포함) 이상 구매 시 시트 실 (전 2종 중 랜덤 1장)",
+          "caption_ja": "物販購入特典 シートシール(全2種)",
+          "source": "https://www.shugochara-ex.com/",
+          "img_fb": "gfb/4dc1450ce07ddcd0.webp",
+          "img_local": "img/4dc1450ce07ddcd0.webp"
+        },
+        {
+          "group": "체험",
+          "img": "https://www.shugochara-ex.com/assets/imgs/minicard.jpg",
+          "full": "https://www.shugochara-ex.com/assets/imgs/minicard.jpg",
+          "caption_ko": "캐논 SELPHY 랜덤 미니카드 (15종 중 1장, 체험 300엔)",
+          "caption_ja": "キヤノンプリンター体験コーナー ミニカード",
+          "price": "300엔 (세금 포함)",
+          "source": "https://www.shugochara-ex.com/",
+          "img_fb": "gfb/002958c6c95258f1.webp",
+          "img_local": "img/002958c6c95258f1.webp"
+        }
+      ],
+      "gallery_source": "https://www.shugochara-ex.com/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "evidence": [
+        {
+          "url": "https://www.shugochara-ex.com/",
+          "tier": "official",
+          "quote": "◆ 開催期間 2026年12月12日(土)～27日(日) … ◆ 開催会場 東京ソラマチ 5F スペース634 … 土日は日時指定券、平日は期間有効券となります。 … ・一般入場券：1,800円(税込) ・一般グッズ引換券：2,500円(税込) … ◆ 当日券 … ・一般入場券：2,000円(税込)",
+          "checked": "2026-11-25"
+        },
+        {
+          "url": "https://www.shugochara-ex.com/",
+          "tier": "official",
+          "quote": "※一般グッズ引換券のみではご入場いただけません。一般入場券を併せてご購入ください。",
+          "checked": "2026-11-25"
+        }
+      ],
+      "title_ko_source": "한국 방영 제목 『캐릭캐릭 체인지』",
+      "checked_date": "2026-11-25",
+      "verified_at": "2026-11-25",
+      "source_tier": "official",
+      "added": "2026-11-25",
+      "lat": 35.710083,
+      "lon": 139.808609,
+      "thumb_small": "thumbs/a54fe85a9a50daa0.webp",
+      "image_fb": "gfb/a54fe85a9a50daa0.webp",
+      "image_local": "img/a54fe85a9a50daa0.webp"
+    },
+    {
+      "id": "tokyo-bluelock-animatecafe-stand-hareza",
+      "title_ko": "블루 록 × 애니메이트 카페 (스탠드 Hareza 이케부쿠로 · 테이크아웃)",
+      "title_ja": "TVアニメ『ブルーロック』（テイクアウト）",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "애니메이트 카페 스탠드 Hareza 이케부쿠로 (나카이케부쿠로 공원 내)",
+      "start": "2026-12-01",
+      "end": "2027-01-12",
+      "reservation": "12/1~12/6 추첨 예약(웹 접수), 12/7~ 프리 입장(혼잡 시 정리권)",
+      "price": "",
+      "official_url": "https://www.animatecafe.jp/event/ac000815",
+      "source_url": "https://www.animatecafe.jp/event/ac000815",
+      "notes": "11:00~20:00 (매장 프리 입장 시 영업시간). 테이크아웃 전용. 메뉴 1개당 주문 특전 코스터 1개(종류 선택 불가). 12/16~ 지기리 효마 생일 브로마이드: 콜라보 메뉴·상품 2,000엔(세금 포함)마다 1장(소진 시 종료). 오사카 닛폰바시 옆 이벤트 스페이스에도 출점",
+      "map_query": "東京都豊島区東池袋1-16-1（中池袋公園内）",
+      "ny_hours": "12/31~1/3 휴업",
+      "ny_hours_source": "https://www.animatecafe.jp/event/ac000815",
+      "evidence": [
+        {
+          "url": "https://www.animatecafe.jp/event/ac000815",
+          "tier": "official",
+          "quote": "(공식 페이지 키 비주얼 이미지) 開催店舗 アニメイトカフェスタンドHareza池袋 開催期間 2026年12月1日(火)～2027年1月12日(火) 【抽選予約(web受付)】2026年12月1日(火)～12月6日(日) 【フリー入場】2026年12月7日(月)～2027年1月12日(火) ※12月31日(木)～1月3日(日)は年末年始のため休業 / 開催店舗 アニメイトカフェ大阪日本橋横 イベントスペース 開催期間 2026年12月16日(水)～12月23日(水) 2027年1月4日(月)～1月11日(月・祝) ご利用方法 全日程抽選予約(web受付)",
+          "checked": "2026-11-25"
+        },
+        {
+          "url": "https://www.animatecafe.jp/shop/hrz",
+          "tier": "official",
+          "quote": "アニメイトカフェスタンドHareza池袋 住所 〒170-0013 東京都豊島区東池袋1-16-1（中池袋公園内） … フリー入場(その他日程)11:00～20:00",
+          "checked": "2026-11-25"
+        }
+      ],
+      "thumbnail": "https://cdn.animatecafe.jp/cafeweb/images/1hlfKRyQSZACM01tnijsbnp6DmL5cn8S.jpg",
+      "thumbnail_source": "https://www.animatecafe.jp/event/ac000815",
+      "copyright": "©金城宗幸・ノ村優介・講談社/「ブルーロック」製作委員会",
+      "summary_ko": "TV 애니메이션 『블루 록』 × 애니메이트 카페 테이크아웃 콜라보예요. 고양이귀·토끼귀 후드 차림의 새 미니 캐릭터 메뉴와 굿즈가 나오고, 메뉴 1개당 코스터 특전을 줘요.",
+      "summary_source": "https://www.animatecafe.jp/event/ac000815",
+      "gallery": [
+        {
+          "group": "캠페인",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/WnKWW1DgVQ8rICkPzTLlxAEuESDtqayv.jpg",
+          "full": "https://cdn.animatecafe.jp/cafeweb/images/WnKWW1DgVQ8rICkPzTLlxAEuESDtqayv.jpg",
+          "caption_ko": "지기리 효마 생일 브로마이드 캠페인 (12/16~, 콜라보 메뉴·상품 2,000엔(세금 포함)마다 1장)",
+          "caption_ja": "バースデーブロマイドプレゼントキャンペーン",
+          "source": "https://www.animatecafe.jp/event/ac000815",
+          "img_fb": "gfb/784050fe8ece7573.webp",
+          "img_local": "img/784050fe8ece7573.webp"
+        }
+      ],
+      "gallery_source": "https://www.animatecafe.jp/event/ac000815",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "checked_date": "2026-11-25",
+      "verified_at": "2026-11-25",
+      "source_tier": "official",
+      "added": "2026-11-25",
+      "lat": 35.731369,
+      "lon": 139.715149,
+      "thumb_small": "thumbs/3c38c12fb034e320.webp",
+      "image_fb": "gfb/3c38c12fb034e320.webp",
+      "image_local": "img/3c38c12fb034e320.webp"
+    },
+    {
+      "id": "osaka-bluelock-animatecafe-nipponbashi-dec",
+      "title_ko": "블루 록 × 애니메이트 카페 출장판 (오사카 닛폰바시 옆 이벤트 스페이스 · 12월)",
+      "title_ja": "TVアニメ『ブルーロック』（出張版）",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "애니메이트 카페 오사카 닛폰바시 옆 이벤트 스페이스",
+      "start": "2026-12-16",
+      "end": "2026-12-23",
+      "reservation": "필요 (전 일정 추첨 예약, 웹 접수)",
+      "price": "",
+      "official_url": "https://www.animatecafe.jp/event/ac000815_2",
+      "source_url": "https://www.animatecafe.jp/event/ac000815_2",
+      "notes": "12:00~20:00. 테이크아웃 전용(좌석 없음). 메뉴 1개당 주문 특전 코스터 1개. 12/16~ 지기리 효마 생일 브로마이드: 콜라보 메뉴·상품 2,000엔(세금 포함)마다 1장(소진 시 종료). 2회차는 1/4~1/11",
+      "map_query": "大阪府大阪市浪速区日本橋4-15-17 2F",
+      "evidence": [
+        {
+          "url": "https://www.animatecafe.jp/event/ac000815",
+          "tier": "official",
+          "quote": "(공식 페이지 키 비주얼 이미지) 開催店舗 アニメイトカフェスタンドHareza池袋 開催期間 2026年12月1日(火)～2027年1月12日(火) 【抽選予約(web受付)】2026年12月1日(火)～12月6日(日) 【フリー入場】2026年12月7日(月)～2027年1月12日(火) ※12月31日(木)～1月3日(日)は年末年始のため休業 / 開催店舗 アニメイトカフェ大阪日本橋横 イベントスペース 開催期間 2026年12月16日(水)～12月23日(水) 2027年1月4日(月)～1月11日(月・祝) ご利用方法 全日程抽選予約(web受付)",
+          "checked": "2026-11-25"
+        },
+        {
+          "url": "https://www.animatecafe.jp/event/ac000815_2",
+          "tier": "official",
+          "quote": "■営業時間：12:00～20:00 ■電話番号： 06-6630-6481 ※テイクアウトのみの営業となります。お席のご用意はございません。",
+          "checked": "2026-11-25"
+        }
+      ],
+      "thumbnail": "https://cdn.animatecafe.jp/cafeweb/images/1hlfKRyQSZACM01tnijsbnp6DmL5cn8S.jpg",
+      "thumbnail_source": "https://www.animatecafe.jp/event/ac000815",
+      "copyright": "©金城宗幸・ノ村優介・講談社/「ブルーロック」製作委員会",
+      "summary_ko": "TV 애니메이션 『블루 록』 × 애니메이트 카페 테이크아웃 콜라보예요. 고양이귀·토끼귀 후드 차림의 새 미니 캐릭터 메뉴와 굿즈가 나오고, 메뉴 1개당 코스터 특전을 줘요.",
+      "summary_source": "https://www.animatecafe.jp/event/ac000815",
+      "gallery": [
+        {
+          "group": "캠페인",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/WnKWW1DgVQ8rICkPzTLlxAEuESDtqayv.jpg",
+          "full": "https://cdn.animatecafe.jp/cafeweb/images/WnKWW1DgVQ8rICkPzTLlxAEuESDtqayv.jpg",
+          "caption_ko": "지기리 효마 생일 브로마이드 캠페인 (12/16~, 콜라보 메뉴·상품 2,000엔(세금 포함)마다 1장)",
+          "caption_ja": "バースデーブロマイドプレゼントキャンペーン",
+          "source": "https://www.animatecafe.jp/event/ac000815",
+          "img_fb": "gfb/784050fe8ece7573.webp",
+          "img_local": "img/784050fe8ece7573.webp"
+        }
+      ],
+      "gallery_source": "https://www.animatecafe.jp/event/ac000815",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "checked_date": "2026-11-25",
+      "verified_at": "2026-11-25",
+      "source_tier": "official",
+      "added": "2026-11-25",
+      "lat": 34.660889,
+      "lon": 135.504944,
+      "thumb_small": "thumbs/3c38c12fb034e320.webp",
+      "image_fb": "gfb/3c38c12fb034e320.webp",
+      "image_local": "img/3c38c12fb034e320.webp"
+    },
+    {
+      "id": "osaka-bluelock-animatecafe-nipponbashi-jan",
+      "title_ko": "블루 록 × 애니메이트 카페 출장판 (오사카 닛폰바시 옆 이벤트 스페이스 · 1월)",
+      "title_ja": "TVアニメ『ブルーロック』（出張版）",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "애니메이트 카페 오사카 닛폰바시 옆 이벤트 스페이스",
+      "start": "2027-01-04",
+      "end": "2027-01-11",
+      "reservation": "필요 (전 일정 추첨 예약, 웹 접수)",
+      "price": "",
+      "official_url": "https://www.animatecafe.jp/event/ac000815_2",
+      "source_url": "https://www.animatecafe.jp/event/ac000815_2",
+      "notes": "12:00~20:00. 테이크아웃 전용(좌석 없음). 메뉴 1개당 주문 특전 코스터 1개. 1회차는 12/16~12/23",
+      "map_query": "大阪府大阪市浪速区日本橋4-15-17 2F",
+      "evidence": [
+        {
+          "url": "https://www.animatecafe.jp/event/ac000815",
+          "tier": "official",
+          "quote": "(공식 페이지 키 비주얼 이미지) 開催店舗 アニメイトカフェスタンドHareza池袋 開催期間 2026年12月1日(火)～2027年1月12日(火) 【抽選予約(web受付)】2026年12月1日(火)～12月6日(日) 【フリー入場】2026年12月7日(月)～2027年1月12日(火) ※12月31日(木)～1月3日(日)は年末年始のため休業 / 開催店舗 アニメイトカフェ大阪日本橋横 イベントスペース 開催期間 2026年12月16日(水)～12月23日(水) 2027年1月4日(月)～1月11日(月・祝) ご利用方法 全日程抽選予約(web受付)",
+          "checked": "2026-11-25"
+        },
+        {
+          "url": "https://www.animatecafe.jp/event/ac000815_2",
+          "tier": "official",
+          "quote": "■営業時間：12:00～20:00 ■電話番号： 06-6630-6481 ※テイクアウトのみの営業となります。お席のご用意はございません。",
+          "checked": "2026-11-25"
+        }
+      ],
+      "thumbnail": "https://cdn.animatecafe.jp/cafeweb/images/1hlfKRyQSZACM01tnijsbnp6DmL5cn8S.jpg",
+      "thumbnail_source": "https://www.animatecafe.jp/event/ac000815",
+      "copyright": "©金城宗幸・ノ村優介・講談社/「ブルーロック」製作委員会",
+      "summary_ko": "TV 애니메이션 『블루 록』 × 애니메이트 카페 테이크아웃 콜라보예요. 고양이귀·토끼귀 후드 차림의 새 미니 캐릭터 메뉴와 굿즈가 나오고, 메뉴 1개당 코스터 특전을 줘요.",
+      "summary_source": "https://www.animatecafe.jp/event/ac000815",
+      "gallery": [
+        {
+          "group": "캠페인",
+          "img": "https://cdn.animatecafe.jp/cafeweb/images/WnKWW1DgVQ8rICkPzTLlxAEuESDtqayv.jpg",
+          "full": "https://cdn.animatecafe.jp/cafeweb/images/WnKWW1DgVQ8rICkPzTLlxAEuESDtqayv.jpg",
+          "caption_ko": "지기리 효마 생일 브로마이드 캠페인 (12/16~, 콜라보 메뉴·상품 2,000엔(세금 포함)마다 1장)",
+          "caption_ja": "バースデーブロマイドプレゼントキャンペーン",
+          "source": "https://www.animatecafe.jp/event/ac000815",
+          "img_fb": "gfb/784050fe8ece7573.webp",
+          "img_local": "img/784050fe8ece7573.webp"
+        }
+      ],
+      "gallery_source": "https://www.animatecafe.jp/event/ac000815",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "checked_date": "2026-11-25",
+      "verified_at": "2026-11-25",
+      "source_tier": "official",
+      "added": "2026-11-25",
+      "lat": 34.660889,
+      "lon": 135.504944,
+      "thumb_small": "thumbs/3c38c12fb034e320.webp",
+      "image_fb": "gfb/3c38c12fb034e320.webp",
+      "image_local": "img/3c38c12fb034e320.webp"
     }
   ]
 }

@@ -952,6 +952,37 @@
       "lat": 35.698811,
       "lon": 139.7715,
       "source": "https://akiba-fancube.tokyo/"
+    },
+    {
+      "keys": [
+        "東京ソラマチ",
+        "도쿄 소라마치",
+        "スペース634"
+      ],
+      "address": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ5F",
+      "lat": 35.710083,
+      "lon": 139.808609,
+      "source": "https://www.shugochara-ex.com/"
+    },
+    {
+      "keys": [
+        "アニメイトカフェスタンドHareza池袋",
+        "애니메이트 카페 스탠드 Hareza 이케부쿠로"
+      ],
+      "address": "東京都豊島区東池袋1-16-1（中池袋公園内）",
+      "lat": 35.731369,
+      "lon": 139.715149,
+      "source": "https://www.animatecafe.jp/shop/hrz"
+    },
+    {
+      "keys": [
+        "アニメイトカフェ大阪日本橋",
+        "애니메이트 카페 오사카 닛폰바시"
+      ],
+      "address": "大阪府大阪市浪速区日本橋4-15-17 2F",
+      "lat": 34.660889,
+      "lon": 135.504944,
+      "source": "https://www.animatecafe.jp/shop/nipponbashi"
     }
   ]
 }
