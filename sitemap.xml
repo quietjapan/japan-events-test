@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://quietjapan.github.io/japan-events-test/</loc><lastmod>2026-11-24</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/m/2026-11/</loc><lastmod>2026-11-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/m/2026-12/</loc><lastmod>2026-11-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/</loc><lastmod>2026-11-25</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/m/2026-11/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/m/2026-12/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/11jhbx1/</loc><lastmod>2026-10-16</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/11ntjg7/</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/11r5ecl/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -18,7 +18,6 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1an0a5j/</loc><lastmod>2026-10-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1b5ec6x/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1bkt5l8/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/1bpaa99/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1cqak96/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1db6yyj/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1e05aob/</loc><lastmod>2026-10-26</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -26,7 +25,6 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1e64kj2/</loc><lastmod>2026-10-26</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1eej2bu/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1essxff/</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/1fa9oq6/</loc><lastmod>2026-10-26</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1ftto1s/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1gtb79z/</loc><lastmod>2026-10-26</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/1gw8ssm/</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -85,6 +83,7 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/all-gacha-pokemon-okkina-otsukisama-light3/</loc><lastmod>2026-11-05</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/all-gacha-pokemon-texture-selection-clear/</loc><lastmod>2026-11-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/all-gacha-pokemon30-metalcharm-eevee/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/i/all-gacha-pokepeace-mofumofu-pochette/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/all-gacha-rody-sanrio-mascot-charm/</loc><lastmod>2026-11-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/all-gacha-sanrio-childseat-charm/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/all-gacha-sanrio-fuwawa-flocky-resale/</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -109,6 +108,7 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/f7qd7n/</loc><lastmod>2026-10-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/fk29ax/</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/fukuoka-aonohako-sanrio-premiumshop-gamers-hakata/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/i/fukuoka-art-of-miku-popup-hmv-hakata/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/fukuoka-bandori-ournotes-gratte-rasic/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/fukuoka-boa-25th-cafe-treevillage/</loc><lastmod>2026-11-24</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/fukuoka-bt21-limited-shop-hmv-hakata/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -145,19 +145,16 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/fukuoka-sidem-mfes2026-gratte-lachic/</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/fukuoka-symphogear-xv-15th-popup-tenjin-loft/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/fukuoka-tamagotchi-exhibition-mitsukoshi/</loc><lastmod>2026-11-05</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/fukuoka-tokrev-check-gigo-popup/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/fukuoka-tokyo-revengers-tojikomerare-hmv-hakata/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/fukuoka-zombieland-saga-movie-1st-gamers-hakata/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/g3coy2/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/gbc-animetokyo/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/geovpt/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/gi2kcz/</loc><lastmod>2026-10-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/heavylover-popup-medicos-shinjuku/</loc><lastmod>2026-10-24</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/hetalia-mixx-garden-2611-ikebukuro/</loc><lastmod>2026-10-24</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/hlhy74/</loc><lastmod>2026-10-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/horimiya-cafe-ikebukuro/</loc><lastmod>2026-10-24</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/i2aysd/</loc><lastmod>2026-10-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/i5b8jr/</loc><lastmod>2026-10-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/imibko/</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/jhpupw/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/jrex4y/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -166,7 +163,6 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/jv6aii/</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/k6wue3/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/kamen-rider-55th-exhibition-yomiuriland/</loc><lastmod>2026-10-24</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/ktr01j/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/kuji-5hanayome22/</loc><lastmod>2026-10-26</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/kuji-battlecats2-2/</loc><lastmod>2026-10-26</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/kuji-bluearchive4/</loc><lastmod>2026-10-26</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -193,6 +189,7 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/oahohx/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-akai-kawa-popup-umeda-loft/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-aonohako-sanrio-premiumshop-gamers-namba/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-art-of-miku-popup-hmv-namba/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-baki-35th-popup-namba-marui/</loc><lastmod>2026-11-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-bandori-ournotes-gratte/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-bleach-stories-of-ichigo/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -270,6 +267,7 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-natsume-popup-tower-umeda/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-ngnl-zero-popup-abeno-lucbus/</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-nijisanji-girls-idol-festival/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-nijisanji-sweetspara17-umeda/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-persona30-kei-mochizuki-izumi-loft/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-pompompurin-30th-popup-umeda-loft/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-punks-triangle-popup-tennoji-mio/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -292,7 +290,6 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-sololeveling-ten-expocity/</loc><lastmod>2026-11-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-starrail-aha-onlyshop-nipponbashi/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-symphogear-xv-15th-popup-namba-loft/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-tokrev-check-gigo-popup/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-tokyo-revengers-tojikomerare-hmv-namba/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-tougenanki-special-popup-baseyard/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-tsurumi-fleamarket-1129/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -300,12 +297,10 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-world-trigger-exhibition-reboot/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-yumeiro-patissiere-popup-namba/</loc><lastmod>2026-10-28</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/osaka-zombieland-saga-movie-1st-gamers-namba/</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/otonapi-medicos-shinjuku/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/p3qmpz/</loc><lastmod>2026-10-16</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/persona-memoria-crossstore-tokyo/</loc><lastmod>2026-10-24</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/pgmjlk/</loc><lastmod>2026-10-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/pichipichipitch-eeo/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/qe1tuw/</loc><lastmod>2026-10-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/qmfhzi/</loc><lastmod>2026-10-16</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/re3e8x/</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/servamp-idol-popup-amnibus-white/</loc><lastmod>2026-10-24</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -327,7 +322,6 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-chocoyaba-gratte-mzyb/</loc><lastmod>2026-10-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-codegeass-popup-shibuya-modi/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-creamy-mami-tokimeki-popup-hmv-shibuya/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-daimaru-mamegoma-popup/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-daiya-act2-popup-hmv-shibuya/</loc><lastmod>2026-11-10</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-daiya-act2-popup-tower-shibuya/</loc><lastmod>2026-11-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-daiya-act2-princesscafe-theaterterrace/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -358,6 +352,7 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-hinatazaka46-cafe-shinjuku-dishup/</loc><lastmod>2026-11-07</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-hirano-kohta-popup-junkudo-ikebukuro/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-hitsugi-kuro-popup-kirara-fuz-shinjuku/</loc><lastmod>2026-11-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-hololive-dreams-tokyo-station-1bangai/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-horimiya-15th-popup-yurakucho-marui/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-hunterxhunter-neon-diner-animatecafe/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-inazuma-victoryroad-popup-shibuya-modi/</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -366,7 +361,6 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-jjk-phanpara-3rd-onlyshop-ikebukuro/</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-jujutsu-phanpara-3rd-popup-animate-ikebukuro/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-jujutsu-sunshine-city-prince-hotel/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-kabaneri-10th-popup-shinjuku-marui/</loc><lastmod>2026-11-05</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-kamiina-botan-popup-volks-akiba/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-kanokari-l-pachislot-popup-gamers-akihabara/</loc><lastmod>2026-11-11</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-kazeno-hanuman-ten-yurakucho-marui/</loc><lastmod>2026-11-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -389,6 +383,7 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-mahoyaku-stage-5th-exhibition-sunshine/</loc><lastmod>2026-11-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-mairuma-animate-fair-2026/</loc><lastmod>2026-10-27</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-manosaba-winter-onlyshop-akiba/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-mdzs-trump-popup-ikebukuro-loft/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-medarot-collabocafe-honpo/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-meitantei-precure-cafe-sweetspara-shinjuku/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-milgram-minigram-popup-amnibus-green/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -400,6 +395,8 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-natsume-popup-loft4-ikebukuro/</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-natsume-popup-tower-shinjuku/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-ngnl-zero-popup-medicos-shinjuku/</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-nijisanji-sweetspara17-shinjuku/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-nijisanji-sweetspara17-ueno/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-nikke-autumn-vacation-popup-volks-akiba/</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-noragami-popup-kinokuniya-shinjuku/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-noraneko-gundan-tobu-ikebukuro/</loc><lastmod>2026-11-05</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -411,6 +408,7 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-prisma-illya-licht-popup-shibuya-tsutaya/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-promised-neverland-tree-village/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-punks-triangle-popup-shinjuku-marui/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-racing-miku-2026-popup-akiba-fan-cube/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-rakuen-tsuiho-orbcafe-shibuya/</loc><lastmod>2026-11-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-ranma-sharecafe-harakado/</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-regloss-popup-hmv-shibuya/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -433,7 +431,6 @@
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-takahashi-kazuki-yugioh-artworks-exhibition/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-tokimeki-memorial-popup-2026winter-yurakucho/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-tokrev-bloomfate-stellamap-cafe/</loc><lastmod>2026-10-28</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-tokrev-check-gigo-popup/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-tokyo-ghoul-popup-donki-akihabara/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-tokyo-revengers-tojikomerare-hmv-shibuya/</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://quietjapan.github.io/japan-events-test/i/tokyo-tougenanki-special-popup-baseyard/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>

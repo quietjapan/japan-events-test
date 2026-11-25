@@ -942,6 +942,16 @@
       "lat": 35.6913,
       "lon": 139.7006,
       "source": "https://www.san-x.co.jp/ja/blog/2026-11-post-0836170/"
+    },
+    {
+      "keys": [
+        "AKIBA FAN CUBE",
+        "アキバファンキューブ"
+      ],
+      "address": "東京都千代田区外神田1-13-1 AKIBA1131ビル 2F",
+      "lat": 35.698811,
+      "lon": 139.7715,
+      "source": "https://akiba-fancube.tokyo/"
     }
   ]
 }
