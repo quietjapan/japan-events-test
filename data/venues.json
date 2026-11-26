@@ -983,6 +983,29 @@
       "lat": 34.660889,
       "lon": 135.504944,
       "source": "https://www.animatecafe.jp/shop/nipponbashi"
+    },
+    {
+      "keys": [
+        "心斎橋PARCO",
+        "신사이바시 PARCO",
+        "신사이바시 파르코",
+        "テレ東本舗。心斎橋店"
+      ],
+      "address": "大阪府大阪市中央区心斎橋筋1丁目8-3",
+      "lat": 34.6745,
+      "lon": 135.5012,
+      "source": "https://www.le-sserafim.jp/news/281a764b180f"
+    },
+    {
+      "keys": [
+        "キャナルシティ博多 ノースビル",
+        "テレ東本舗。 with テレQ",
+        "테레토 혼포。 with 테레Q"
+      ],
+      "address": "福岡県福岡市博多区住吉1丁目2-1",
+      "lat": 33.5904,
+      "lon": 130.4113,
+      "source": "https://canalcity.co.jp/shop/detail/10510404"
     }
   ]
 }

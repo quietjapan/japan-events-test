@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-25",
+  "generated": "2026-11-26",
   "range": [
-    "2026-11-18",
-    "2026-11-24"
+    "2026-11-19",
+    "2026-11-25"
   ],
   "metric": "open_detail(자세히 열람) 이벤트 수, 메인 사이트·본인 접속 제외",
   "items": [
@@ -14,17 +14,10 @@
       "users": 5
     },
     {
-      "match": "「명탐정 코난 다이너」 개업 기념 POP UP SHOP (시부야 스트림)",
-      "title_ko": "「명탐정 코난 다이너」 개업 기념 POP UP SHOP (시부야 스트림)",
-      "region": "tokyo",
-      "opens": 4,
-      "users": 4
-    },
-    {
       "match": "하이큐!! 네무라세타이 3 (가챠)",
       "title_ko": "하이큐!! 네무라세타이 3 (가챠)",
       "region": "all",
-      "opens": 4,
+      "opens": 5,
       "users": 1
     },
     {
@@ -47,6 +40,13 @@
       "region": "all",
       "opens": 3,
       "users": 1
+    },
+    {
+      "match": "「명탐정 코난 다이너」 개업 기념 POP UP SHOP (시부야 스트림)",
+      "title_ko": "「명탐정 코난 다이너」 개업 기념 POP UP SHOP (시부야 스트림)",
+      "region": "tokyo",
+      "opens": 2,
+      "users": 2
     },
     {
       "match": "tokyo-jjk-neon-collection-shinjuku-marui-annex",
@@ -77,22 +77,8 @@
       "users": 1
     },
     {
-      "match": "tokyo-jujutsu-sunshine-city-prince-hotel",
-      "title_ko": "TV애니 『주술회전』 × 선샤인시티 프린스호텔",
-      "region": "tokyo",
-      "opens": 1,
-      "users": 1
-    },
-    {
       "match": "tokyo-kamiina-botan-popup-volks-akiba",
       "title_ko": "가미이나 보탄, 취한 모습은 백합의 꽃 POP UP SHOP (볼크스 아키하바라)",
-      "region": "tokyo",
-      "opens": 1,
-      "users": 1
-    },
-    {
-      "match": "귀멸의 칼날 '귀습래 재래 2026' (ufotable DINING 외)",
-      "title_ko": "귀멸의 칼날 '귀습래 재래 2026' (ufotable DINING 외)",
       "region": "tokyo",
       "opens": 1,
       "users": 1
@@ -107,6 +93,20 @@
     {
       "match": "tokyo-meitantei-precure-cafe-sweetspara-shinjuku",
       "title_ko": "명탐정 프리큐어! × 스위츠 파라다이스 콜라보 카페 (신주쿠 마루이 아넥스)",
+      "region": "tokyo",
+      "opens": 1,
+      "users": 1
+    },
+    {
+      "match": "tokyo-mahoyaku-stage-5th-exhibition-sunshine",
+      "title_ko": "무대 『마법사의 약속』 5주년 전 ~Grand Wardrobe Exhibition & VR Theatre~ (이케부쿠로 선샤인시티)",
+      "region": "tokyo",
+      "opens": 1,
+      "users": 1
+    },
+    {
+      "match": "tokyo-vintage-artisan-kitaya-20261128",
+      "title_ko": "시부야 키타야 공원 Vintage & Artisan Market",
       "region": "tokyo",
       "opens": 1,
       "users": 1

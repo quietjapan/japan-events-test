@@ -789,7 +789,6 @@
     {
       "checked_date": "2026-11-25",
       "lead_source": "collabo-cafe.com 대조",
-      "translation_check": true,
       "title_ko": "마도조사 POP UP STORE in 로프트 (우메다 로프트)",
       "title_ja": "大河幻想ラジオドラマ「魔道祖師」POP UP STORE in ロフト",
       "category": "팝업스토어",
@@ -799,12 +798,12 @@
       "end": "2027-01-24",
       "official_url": "https://www.cocollabo.net/pages/mdzs_2026",
       "source_url": "https://www.cocollabo.net/pages/mdzs_2026",
-      "pending_reason": "2027년 1월 이후 시작 회기(공식 cocollabo 페이지 확인, 도쿄는 라이브). 시기 되면 게시 (2026-11-25)"
+      "pending_reason": "2027년 1월 이후 시작 회기(공식 cocollabo 페이지 확인, 도쿄는 라이브). 시기 되면 게시 (2026-11-25)",
+      "title_ko_source": "한국 정식 출간·방영 제목 (널리 쓰이는 공식 표기)"
     },
     {
       "checked_date": "2026-11-25",
       "lead_source": "collabo-cafe.com 대조",
-      "translation_check": true,
       "title_ko": "마도조사 POP UP STORE in 로프트 (텐진 로프트)",
       "title_ja": "大河幻想ラジオドラマ「魔道祖師」POP UP STORE in ロフト",
       "category": "팝업스토어",
@@ -814,7 +813,8 @@
       "end": "2027-02-21",
       "official_url": "https://www.cocollabo.net/pages/mdzs_2026",
       "source_url": "https://www.cocollabo.net/pages/mdzs_2026",
-      "pending_reason": "2027년 2월 시작 회기(공식 cocollabo 페이지 확인). 시기 되면 게시 (2026-11-25)"
+      "pending_reason": "2027년 2월 시작 회기(공식 cocollabo 페이지 확인). 시기 되면 게시 (2026-11-25)",
+      "title_ko_source": "한국 정식 출간·방영 제목 (널리 쓰이는 공식 표기)"
     },
     {
       "checked_date": "2026-11-25",
