@@ -19073,12 +19073,12 @@
       "venue": "부시로드 크리에이티브 스토어 아키하바라 본점 (애니메이트 아키하바라 ANNEX 5층)",
       "start": "2026-11-27",
       "end": "2026-12-13",
-      "reservation": "",
+      "reservation": "선택 (첫날 11/27만 LINE mogily 선착 정리권, 이후 자유 입장)",
       "price": "",
-      "official_url": "https://prtimes.jp/main/html/rd/p/000009833.000014827.html",
+      "official_url": "https://bushiroad-creative.com/topics/105358/",
       "source_url": "https://prtimes.jp/main/html/rd/p/000009833.000014827.html",
-      "notes": "입장 방식은 공식 발표에 기재 없음(미확인)",
-      "checked_date": "2026-10-27",
+      "notes": "첫날 11/27은 혼잡 완화를 위해 LINE 앱 mogily 정리권으로 입장 정리(아니메이트 아키하바라/ANNEX 공식 LINE 친구 등록 필요, 11/21 18:00부터 선착순 신청). 자유 입장 시작은 부시로드 크리에이티브 스토어 공식 X(@bushi_store)에서 안내. 구매 제한: 1회 계산 신상품 각 3점, 트레이딩 신상품 3BOX(상당 PACK 수)까지. 1회 계산 3,000엔(세금 포함)마다 티켓풍 카드(전 3종) 랜덤 1장(소진 시 종료). 『くじロード 샤이니 컬러즈 ~윤곽 잣는, 마음색 쿠튀르~』(1회 880엔) 오프라인 선행 판매, 쿠지 금액은 3,000엔 특전 대상 외.",
+      "checked_date": "2026-11-26",
       "thumbnail": "https://prcdn.freetls.fastly.net/release_image/14827/9833/14827-9833-be0459c0260f62e0a21d60375e668e1c-3900x2754.jpg",
       "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000009833.000014827.html",
       "map_query": "東京都千代田区外神田4-3-2",
@@ -19088,10 +19088,16 @@
           "tier": "official",
           "quote": "【会期】2026年11月27日(金)～12月13日(日) 【場所】ブシロードクリエイティブストア 秋葉原本店 所在地：東京都千代田区外神田4-3-2 アニメイト秋葉原ANNEX 5F",
           "checked": "2026-10-27"
+        },
+        {
+          "url": "https://bushiroad-creative.com/topics/105358/",
+          "tier": "official",
+          "quote": "｜DATE 2026年11月27日(金)～12月13日(日) ｜VENUE ブシロードクリエイティブストア 秋葉原本店 初日11月27日(金)のご入場についてのご案内 【更新】2026年11月20日(金) 混雑緩和の為 、LINEアプリ【mogily】を使用した整理券による入場整理を行います。",
+          "checked": "2026-11-26"
         }
       ],
       "source_tier": "official",
-      "verified_at": "2026-10-27",
+      "verified_at": "2026-11-26",
       "translation_check": true,
       "summary_ko": "「아이돌마스터 샤이니 컬러즈」 신규 일러스트 팝업이에요. 1회 결제 3,000엔(세금 포함)마다 티켓풍 카드(전 3종) 1장을 랜덤으로 줘요.",
       "summary_source": "https://prtimes.jp/main/html/rd/p/000009833.000014827.html",
@@ -19101,7 +19107,8 @@
       "image_fb": "gfb/47fea98cf7b75b6e.webp",
       "image_local": "img/47fea98cf7b75b6e.webp",
       "lat": 35.6987,
-      "lon": 139.7712
+      "lon": 139.7712,
+      "copyright": "THE IDOLM@STER™& ©Bandai Namco Entertainment Inc."
     },
     {
       "id": "tokyo-mairuma-animate-fair-2026",
@@ -33416,7 +33423,7 @@
       "price": "콜라보 메뉴 대금 + 바이킹 요금 별도",
       "official_url": "https://www.sweets-paradise.jp/collaboration/wb2",
       "source_url": "https://www.sweets-paradise.jp/collaboration/wb2",
-      "notes": "콜라보 메뉴는 메뉴 대금과 별도로 바이킹 요금 주문이 필요해요(공식 안내). 메뉴 주문 시 페이퍼 런천 매트(전 2종 중 1장)와 메뉴 1품당 코스터 1장. 굿즈 2,000엔(세금 포함)마다 포스트카드 랜덤 1장. 굿즈는 콜라보 메뉴 이용자만 구매 가능. 나고야·오미야·센다이·히로시마점도 개최",
+      "notes": "콜라보 메뉴는 메뉴 대금과 별도로 바이킹 요금 주문이 필요해요(공식 안내). 메뉴 주문 시 페이퍼 런천 매트(전 2종 중 1장)와 메뉴 1품당 코스터 1장. 굿즈 2,000엔(세금 포함)마다 포스트카드 랜덤 1장. 굿즈는 콜라보 메뉴 이용자만 구매 가능. 나고야·오미야·센다이·히로시마점도 개최. 그룹 이용 시 콜라보 메뉴 주문 여부와 관계없이 전원 같은 코스 구매 필요, 일반 손님과 같은 매장 이용. 앱 예약은 1계정 1일시, 당일 예약 불가.",
       "map_query": "東京都新宿区新宿3-26-6 新宿FFビルB1F",
       "evidence": [
         {
@@ -33485,8 +33492,8 @@
       ],
       "gallery_source": "https://www.sweets-paradise.jp/collaboration/wb2",
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
-      "checked_date": "2026-11-23",
-      "verified_at": "2026-11-23",
+      "checked_date": "2026-11-26",
+      "verified_at": "2026-11-26",
       "source_tier": "official",
       "added": "2026-11-23",
       "lat": 35.691593,
@@ -33510,7 +33517,7 @@
       "price": "콜라보 메뉴 대금 + 바이킹 요금 별도",
       "official_url": "https://www.sweets-paradise.jp/collaboration/wb2",
       "source_url": "https://www.sweets-paradise.jp/collaboration/wb2",
-      "notes": "콜라보 메뉴는 메뉴 대금과 별도로 바이킹 요금 주문이 필요해요(공식 안내). 메뉴 주문 시 페이퍼 런천 매트(전 2종 중 1장)와 메뉴 1품당 코스터 1장. 굿즈 2,000엔(세금 포함)마다 포스트카드 랜덤 1장. 굿즈는 콜라보 메뉴 이용자만 구매 가능. 나고야·오미야·센다이·히로시마점도 개최",
+      "notes": "콜라보 메뉴는 메뉴 대금과 별도로 바이킹 요금 주문이 필요해요(공식 안내). 메뉴 주문 시 페이퍼 런천 매트(전 2종 중 1장)와 메뉴 1품당 코스터 1장. 굿즈 2,000엔(세금 포함)마다 포스트카드 랜덤 1장. 굿즈는 콜라보 메뉴 이용자만 구매 가능. 나고야·오미야·센다이·히로시마점도 개최. 그룹 이용 시 콜라보 메뉴 주문 여부와 관계없이 전원 같은 코스 구매 필요, 일반 손님과 같은 매장 이용. 앱 예약은 1계정 1일시, 당일 예약 불가.",
       "map_query": "大阪府大阪市北区角田町5-1 梅田楽天地ビル2F",
       "evidence": [
         {
@@ -33579,8 +33586,8 @@
       ],
       "gallery_source": "https://www.sweets-paradise.jp/collaboration/wb2",
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
-      "checked_date": "2026-11-23",
-      "verified_at": "2026-11-23",
+      "checked_date": "2026-11-26",
+      "verified_at": "2026-11-26",
       "source_tier": "official",
       "added": "2026-11-23",
       "lat": 34.703781,
