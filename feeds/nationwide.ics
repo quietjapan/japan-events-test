@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:1lekrfi-2026-11-28@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:이치방쿠지 페르소나 시리즈 30주년
@@ -23,7 +23,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:mag-comptiq-2027-01-2026-12-10@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:콤프티크 1월호 부록 ― 시로가네 노엘&호쇼 마린 
@@ -38,7 +38,7 @@ LOCATION:서점·편의점
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-rider_zeztz-2026-11-27@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:이치방쿠지 가면라이더 마이스&가면라이더 제츠
@@ -52,7 +52,7 @@ LOCATION:전국 판매처 (로손·미니스톱 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-db_fa3-2026-11-28@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:이치방쿠지 드래곤볼 Fantastic Adventure 3
@@ -66,7 +66,7 @@ LOCATION:전국 판매처 (패밀리마트 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-myhero48-2026-11-30@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:이치방쿠지 나의 히어로 아카데미아 -그녀들의 이
@@ -82,7 +82,7 @@ LOCATION:전국 판매처 (이치방쿠지 공식 숍 등) · 이치방쿠
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-kusuriya2-2026-12-05@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:이치방쿠지 극장판 약사의 혼잣말 「망비의 비보
@@ -97,7 +97,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-eva20-2026-12-05@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:이치방쿠지 에반게리온 신극장판: 파
@@ -111,7 +111,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-konjiki-no-gash-2026-12-12@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:이치방쿠지 금색의 갓슈!!
@@ -125,7 +125,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-gkmas07-2026-12-12@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:이치방쿠지 학원 아이돌마스터 Part7
@@ -137,7 +137,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-5hanayome22-2026-12-16@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:이치방쿠지 오등분의 신부* ~beachside memories~
@@ -150,7 +150,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-ranma3-2026-12-18@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:이치방쿠지 란마 1/2 ~중화 컬렉션~
@@ -163,7 +163,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-tenipuri4-2026-12-24@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:이치방쿠지 신 테니스의 왕자 -나는 위로 갈 거야-
@@ -177,7 +177,7 @@ LOCATION:전국 판매처 (편의점·서점 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-bluearchive4-2026-12-26@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:이치방쿠지 블루 아카이브 vol.4
@@ -192,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:all-suisei-once-upon-stellar-seven-print-2026-11-01@quietjapan.github.i
  o
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20270101
 SUMMARY:호시마치 스이세이 Once Upon a Stellar 콘텐츠프린트 (
@@ -207,7 +207,7 @@ LOCATION:전국 세븐일레븐 멀티카피기
 END:VEVENT
 BEGIN:VEVENT
 UID:all-starrail-aha-animate-fair-2026-11-13@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261221
 SUMMARY:『붕괴: 스타레일』星神★アッハ 구현 기념 페어 (
@@ -223,7 +223,7 @@ LOCATION:전국 애니메이트 (통판 제외)
 END:VEVENT
 BEGIN:VEVENT
 UID:1kuji-kimetsu31-2026-12-21@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:이치방쿠지 귀멸의 칼날 ~남매의 혈귀~
@@ -236,7 +236,7 @@ LOCATION:이치방쿠지 공식 숍·이치방쿠지 ONLINE
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-zelda5-2026-12-05@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:이치방쿠지 젤다의 전설 하이랄 컬렉션
@@ -250,7 +250,7 @@ LOCATION:전국 판매처 (로손\, Nintendo TOKYO·OSAKA·KYOTO·FUKUOKA
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-harrypotter6-2026-12-26@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:이치방쿠지 해리 포터 ～Welcome to Hogwarts～
@@ -263,7 +263,7 @@ LOCATION:전국 판매처 (로손 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-mrsgreenapple4-2026-12-19@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:이치방쿠지 Mrs. GREEN APPLE ～SCENT OF WINTER～
@@ -277,7 +277,7 @@ LOCATION:로손 점포 (점포 한정)
 END:VEVENT
 BEGIN:VEVENT
 UID:all-gacha-sanrio-fuwawa-flocky-resale-2026-11-30@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:산리오 캐릭터즈 후와와 플로키 마스코트 재판매 (
@@ -295,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:all-gacha-harrypotter-wand-collection-ps-2026-12-01@quietjapan.github.i
  o
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:해리 포터 마법 지팡이 컬렉션 ~해리 포터와 마법
@@ -311,7 +311,7 @@ LOCATION:전국 판매처 (가챠 코너 등)
 END:VEVENT
 BEGIN:VEVENT
 UID:kuji-choigosim-2026-12-05@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:이치방쿠지 최고심 (겨울 새 일러스트)
@@ -325,7 +325,7 @@ LOCATION:전국 판매처 (미니스톱·데일리 야마자키·서점 등
 END:VEVENT
 BEGIN:VEVENT
 UID:all-gacha-pokepeace-mofumofu-pochette-2026-12-01@quietjapan.github.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:포케피스 모후모후 포셰트 (가챠)
@@ -341,7 +341,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:all-gacha-natsume-nyanko-face-silicone-case-2026-12-07@quietjapan.githu
  b.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:나츠메 우인장 페이스형 실리콘 케이스 (가챠)
@@ -357,7 +357,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:all-gacha-doraemon-tsunagaring-charm-resale-2026-12-07@quietjapan.githu
  b.io
-DTSTAMP:20261126T015637Z
+DTSTAMP:20261126T021755Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:도라에몽 츠나가링 참 (가챠 · 재판매)
@@ -369,5 +369,102 @@ DESCRIPTION:『도라에몽』 이어 붙이는 링 참 가챠 재판매예
 URL:https://quietjapan.github.io/japan-events-test/i/all-gacha-doraemon-tsu
  nagaring-charm-resale/
 LOCATION:전국 판매처 (가챠 코너 등)
+END:VEVENT
+BEGIN:VEVENT
+UID:kuji-aikatsu8-2026-12-10@quietjapan.github.io
+DTSTAMP:20261126T021755Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:이치방쿠지 쵸콧토 아이카츠! 앙코르 ~최고의 스테
+ 이지를 목표로!~
+DESCRIPTION:「아이카츠!」 이치방쿠지 쵸콧토예요. A상 멀
+ 티 바인더\, B·C상 카드 백 참\, 라스트원상은 스타라이
+ 트 학원 교복 드레스 파우치예요.\n공식: https://1kuji.com/pr
+ oducts/aikatsu8\n자세히: https://quietjapan.github.io/japan-events-test
+ /i/kuji-aikatsu8/
+URL:https://quietjapan.github.io/japan-events-test/i/kuji-aikatsu8/
+LOCATION:이치방쿠지 ONLINE·이치방쿠지 공식숍
+END:VEVENT
+BEGIN:VEVENT
+UID:kuji-pk30th-1-2-2026-12-14@quietjapan.github.io
+DTSTAMP:20261126T021755Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:이치방쿠지 포켓몬 30th ANNIVERSARY vol.1 (재판매)
+DESCRIPTION:포켓몬 30주년 이치방쿠지 vol.1 재판매예요. 간
+ 토~신오 지방 스타팅 3마리 인형\, 라스트원상은 약 50cm 
+ 피카츄(수컷) 30주년 인형이에요.\n공식: https://1kuji.com/pro
+ ducts/pk30th_1-2\n자세히: https://quietjapan.github.io/japan-events-tes
+ t/i/kuji-pk30th-1-2/
+URL:https://quietjapan.github.io/japan-events-test/i/kuji-pk30th-1-2/
+LOCATION:전국 판매처 (편의점·서점 등)
+END:VEVENT
+BEGIN:VEVENT
+UID:kuji-pk30th-2-2-2026-12-25@quietjapan.github.io
+DTSTAMP:20261126T021755Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:이치방쿠지 포켓몬 30th ANNIVERSARY vol.2 (재판매)
+DESCRIPTION:포켓몬 30주년 이치방쿠지 vol.2 재판매예요. 하
+ 나~팔데아 지방 스타팅 3마리 인형\, 라스트원상은 피카
+ 츄(암컷) 30주년 인형이에요.\n공식: https://1kuji.com/products/
+ pk30th_2-2\n자세히: https://quietjapan.github.io/japan-events-test/i/ku
+ ji-pk30th-2-2/
+URL:https://quietjapan.github.io/japan-events-test/i/kuji-pk30th-2-2/
+LOCATION:전국 판매처 (편의점·서점 등)
+END:VEVENT
+BEGIN:VEVENT
+UID:kuji-seitokainoana-2026-12-14@quietjapan.github.io
+DTSTAMP:20261126T021755Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:이치방쿠지 학생회에도 구멍은 있다!
+DESCRIPTION:「학생회에도 구멍은 있다!」 이치방쿠지예요. 
+ A상 무츠 코마로 양면 포스터\, B~G상 새로 그린 빅 아크
+ 릴 스탠드\, 라스트원상은 코마로 바스트업 아크릴 보드
+ 예요.\n공식: https://1kuji.com/products/seitokainoana\n자세히: http
+ s://quietjapan.github.io/japan-events-test/i/kuji-seitokainoana/
+URL:https://quietjapan.github.io/japan-events-test/i/kuji-seitokainoana/
+LOCATION:이치방쿠지 ONLINE·이치방쿠지 공식숍
+END:VEVENT
+BEGIN:VEVENT
+UID:kuji-jra-2026-12-18@quietjapan.github.io
+DTSTAMP:20261126T021755Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:이치방쿠지 서러브레드 제1R
+DESCRIPTION:경주마 테마 이치방쿠지 「서러브레드 제1R」이
+ 에요. 상품 라인업은 공식 페이지에서 아직 공개되지 않
+ 았어요.\n공식: https://1kuji.com/products/jra\n자세히: https://qui
+ etjapan.github.io/japan-events-test/i/kuji-jra/
+URL:https://quietjapan.github.io/japan-events-test/i/kuji-jra/
+LOCATION:전국 판매처 (편의점·서점 등)
+END:VEVENT
+BEGIN:VEVENT
+UID:kuji-disney-toy9-2026-12-19@quietjapan.github.io
+DTSTAMP:20261126T021755Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:이치방쿠지 〈토이 스토리〉 Toys' Glorious Memories
+DESCRIPTION:「토이 스토리」 이치방쿠지예요. A상 ROUNDUP 피
+ 규어\, B상 길 건너는 장면 재현 피규어 5체 세트\, 라스
+ 트원상은 약 30cm 에일리언 BIG 저금통이에요.\n공식: https:
+ //1kuji.com/products/disney_toy9\n자세히: https://quietjapan.github.io/
+ japan-events-test/i/kuji-disney-toy9/
+URL:https://quietjapan.github.io/japan-events-test/i/kuji-disney-toy9/
+LOCATION:세븐일레븐·이토요카도·유메타운 점포 등
+END:VEVENT
+BEGIN:VEVENT
+UID:kuji-lilalamode2-2026-12-12@quietjapan.github.io
+DTSTAMP:20261126T021755Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:이치방 코프레 Lil ala mode ~Black Ribbon Collection~
+DESCRIPTION:일러스트레이터 mikko의 「Lil ala mode」 이치방 코
+ 프레예요. 상품 라인업은 공식 페이지에서 아직 공개되
+ 지 않았어요.\n공식: https://1kuji.com/products/lilalamode2\n자세
+ 히: https://quietjapan.github.io/japan-events-test/i/kuji-lilalamode2/
+URL:https://quietjapan.github.io/japan-events-test/i/kuji-lilalamode2/
+LOCATION:패밀리마트 등
 END:VEVENT
 END:VCALENDAR
