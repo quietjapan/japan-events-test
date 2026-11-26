@@ -1006,6 +1006,16 @@
       "lat": 33.5904,
       "lon": 130.4113,
       "source": "https://canalcity.co.jp/shop/detail/10510404"
+    },
+    {
+      "keys": [
+        "サンシャインシティアルタ",
+        "선샤인시티 알타"
+      ],
+      "address": "東京都豊島区東池袋3-1-3",
+      "lat": 35.727844,
+      "lon": 139.719986,
+      "source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html"
     }
   ]
 }

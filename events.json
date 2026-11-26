@@ -27488,10 +27488,10 @@
       "lon": 135.50111
     },
     {
-      "reservation": "선택 (11/27·28 15:00까지 선착 사전 예약, 이후 자유 입장 예정)",
-      "checked_date": "2026-11-17",
+      "reservation": "선택 (11/27·28 15:00까지 선착 사전 예약·남코파크스 회원 등록 필요, 이후 자유 입장 예정)",
+      "checked_date": "2026-11-26",
       "translation_check": true,
-      "verified_at": "2026-11-17",
+      "verified_at": "2026-11-26",
       "source_tier": "official",
       "added": "2026-11-17",
       "lead_source": "collabo-cafe.com 등 다른 캘린더 대조 후 공식 확인",
@@ -27506,7 +27506,7 @@
       "end": "2026-12-10",
       "official_url": "https://www.lovelive-anime.jp/news/01_6769.html",
       "source_url": "https://www.atre.co.jp/akihabara/news/7847/",
-      "notes": "10:00~21:00 (최종일 20:00 폐점). 11/27·28 15:00까지는 남코파크스 선착 사전 예약 입장, 그날 15:00 이후는 자유 입장 예정(혼잡 시 규제·정리권 가능). 같은 기간 아트레 아키하바라 전관 래핑과 대상 숍 구매 특전(「러브라이브! 시리즈×아트레 아키하바라」)도 열려요. 통판은 12/18 12:00~1/17 23:59, 회장 판매 없음.",
+      "notes": "10:00~21:00 (최종일 12/10은 20:00 폐점). 11/27·28 15:00까지는 선착순 사전 예약 입장(남코파크스 신규 회원 등록 필요, 1인 각 날짜 1회), 그날 15:00 이후는 자유 입장 예정(혼잡 시 규제·정리권 가능). 회장 구매 특전: 1회 계산 3,000엔(세금 포함)마다 L판 브로마이드(전 18종) 랜덤 1장(소진 시 종료). 구매 제한: 오픈 상품 각 3개, 랜덤 상품 각 36개, 미니 쿠지 1회 계산 5회까지. 같은 기간 「러브라이브! 시리즈×아트레 아키하바라」로 전관 래핑, 대상 숍 500엔(세금 포함)마다 오리지널 카드(전 9종) 랜덤 1장. 통판(A-on STORE)은 12/18 12:00~1/17 23:59, 통판 한정 BIG 아크릴 스탠드는 회장 판매 없음.",
       "price": "",
       "map_query": "東京都千代田区外神田1-17-6",
       "summary_ko": "아트레 아키하바라에서 열리는 『러브라이브! 선샤인!!』 팝업이에요. 같은 기간 아트레를 러브라이브! 시리즈가 잭해 래핑과 구매 특전도 있어요.",
@@ -27525,6 +27525,12 @@
           "tier": "official",
           "quote": "11月27日（金）、および11月28日（土）の一部時間帯は混雑が予想されるため、事前予約（先着）による入店制限を実施いたします。 ＜事前予約（先着）対象期間＞ ◆2026年11月27日(金) 〜15:00までの回 ◆2026年11月28日(土) 〜15:00までの回",
           "checked": "2026-11-17"
+        },
+        {
+          "url": "https://www.lovelive-anime.jp/news/01_6769.html",
+          "tier": "official",
+          "quote": "■購入特典 イベントスペース内で1会計につき3,000円(税込)お買い上げいただくごとに、「L判ブロマイド」（全18種）をランダムで1枚プレゼント！",
+          "checked": "2026-11-26"
         }
       ],
       "lat": 35.69835,
@@ -30314,8 +30320,8 @@
       "lon": 135.5003
     },
     {
-      "checked_date": "2026-11-20",
-      "verified_at": "2026-11-20",
+      "checked_date": "2026-11-26",
+      "verified_at": "2026-11-26",
       "source_tier": "official",
       "added": "2026-11-20",
       "id": "tokyo-meitantei-precure-cafe-sweetspara-shinjuku",
@@ -30324,7 +30330,7 @@
       "region": "tokyo",
       "venue": "COLLABO PARADISE 신주쿠 마루이 아넥스점 8F",
       "map_query": "東京都新宿区新宿3-1-26",
-      "notes": "드링크 전반 11/26~12/11 · 후반 12/12~12/27(캐릭터 교체). 12/20(일)은 18:00 최종 입장·19:20 폐점. 나고야 PARCO점도 같은 기간.",
+      "notes": "드링크 전반 11/26~12/11 · 후반 12/12~12/27(캐릭터 교체). 12/20(일)은 18:00 최종 입장·19:20 폐점. 나고야 PARCO점도 같은 기간. 콜라보 굿즈는 콜라보 메뉴를 먹은 손님만, 입장 후 제한 시간 안에 구매 가능. 앱 예약은 1계정 1일시, 이용 당일 앱 예약 불가(매장 전화 확인).",
       "category": "콜라보카페",
       "title_ja": "『名探偵プリキュア！』 COLLABORATION CAFE",
       "translation_check": true,
@@ -30351,11 +30357,12 @@
       "lon": 139.706,
       "thumb_small": "thumbs/a01d263163aeceb9.webp",
       "image_fb": "gfb/a01d263163aeceb9.webp",
-      "image_local": "img/a01d263163aeceb9.webp"
+      "image_local": "img/a01d263163aeceb9.webp",
+      "copyright": "©ABC-A・東映アニメーション"
     },
     {
-      "checked_date": "2026-11-20",
-      "verified_at": "2026-11-20",
+      "checked_date": "2026-11-26",
+      "verified_at": "2026-11-26",
       "source_tier": "official",
       "added": "2026-11-20",
       "id": "osaka-meitantei-precure-cafe-sweetspara-abeno",
@@ -30364,7 +30371,7 @@
       "region": "osaka",
       "venue": "COLLABO PARADISE 아베노 하루카스점 (긴테쓰 본점 윙관 6F)",
       "map_query": "大阪府大阪市阿倍野区阿倍野筋1-1-43",
-      "notes": "드링크 전반 11/26~12/11 · 후반 12/12~12/27(캐릭터 교체). 나고야 PARCO점도 같은 기간.",
+      "notes": "드링크 전반 11/26~12/11 · 후반 12/12~12/27(캐릭터 교체). 나고야 PARCO점도 같은 기간. 콜라보 굿즈는 콜라보 메뉴를 먹은 손님만, 입장 후 제한 시간 안에 구매 가능. 앱 예약은 1계정 1일시, 이용 당일 앱 예약 불가(매장 전화 확인).",
       "category": "콜라보카페",
       "title_ja": "『名探偵プリキュア！』 COLLABORATION CAFE",
       "translation_check": true,
@@ -30391,7 +30398,8 @@
       "image_fb": "gfb/a01d263163aeceb9.webp",
       "image_local": "img/a01d263163aeceb9.webp",
       "lat": 34.6465,
-      "lon": 135.5133
+      "lon": 135.5133,
+      "copyright": "©ABC-A・東映アニメーション"
     },
     {
       "checked_date": "2026-11-20",
@@ -37208,6 +37216,249 @@
       "thumb_small": "thumbs/edfcf4b9250ecb3e.webp",
       "image_fb": "gfb/edfcf4b9250ecb3e.webp",
       "image_local": "img/edfcf4b9250ecb3e.webp"
+    },
+    {
+      "reservation": "불필요 (11/27·28 오전 9:30부터 입장 대기열, 혼잡 해소 후 자유 입장 예정)",
+      "checked_date": "2026-11-26",
+      "translation_check": true,
+      "verified_at": "2026-11-26",
+      "source_tier": "official",
+      "added": "2026-11-26",
+      "lead_source": "이로하 11/26 저녁 제보 (공식 확인)",
+      "id": "tokyo-aikatsu-style-popup-atre-akihabara",
+      "title_ko": "아이카츠! 스타일 POP UP SHOP in AKIHABARA (아트레 아키하바라1)",
+      "title_ja": "『アイカツ！スタイル』POP UP SHOP in AKIHABARA",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "아트레 아키하바라1 2층 캐라팝 스토어 2호점",
+      "start": "2026-11-27",
+      "end": "2026-12-07",
+      "official_url": "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20261104.html",
+      "source_url": "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20261104.html",
+      "price": "",
+      "map_query": "東京都千代田区外神田1-17-6 アトレ秋葉原1",
+      "notes": "올 アイカツ! 브랜드 숍 『아이카츠! 스타일』 출장점. 야구치 히로코 신규 일러스트 굿즈, 이곳 한정 노벨티, 같은 건물 상설 『아이카츠! 오피셜 스토어』와의 쇼핑 랠리. 11/27·28은 오전 9:30부터 대기열(선두: 아트레 아키하바라1 1층 UDX 쪽 건물 옆, 그 전에 줄 서기 금지), 1회 입장당 계산 1회. 11/29 이후는 자유 입장 예정(혼잡 시 대기열 가능, 반다이남코 Cross Store 아트레 아키하바라 공식 X @bncs_akihabara 공지). 입장 규제 시 회장 선행 발매 신상품 구매 제한: 오픈 상품 1종 2개, 클로즈드 상품 1종 20개까지. 영업시간은 공식 미기재.",
+      "summary_ko": "올 아이카츠! 브랜드 숍 『아이카츠! 스타일』의 아키하바라 팝업이에요. 야구치 히로코 신규 일러스트 굿즈와 한정 노벨티, 상설 오피셜 스토어와의 쇼핑 랠리가 있어요.",
+      "summary_source": "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20261104.html",
+      "thumbnail": "https://bandainamco-am.co.jp/images/crossstore/store/news/akihabara-atre/20261104_aikatsu-style.jpg",
+      "thumbnail_source": "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20261104.html",
+      "copyright": "©BNP/BANDAI, DENTSU, TV TOKYO",
+      "evidence": [
+        {
+          "url": "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20261104.html",
+          "tier": "official",
+          "quote": "11月27日(金)～12月7日(月)の期間、秋葉原アトレ1 2階キャラポップストア２号店にて、オールアイカツ！のブランドSHOP『アイカツ！スタイル』のPOP UP SHOPの開催が決定！",
+          "checked": "2026-11-26"
+        },
+        {
+          "url": "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20261104.html",
+          "tier": "official",
+          "quote": "列形成時間 11月27日(金)、28日(土) 午前9時半～ 列形成場所 先頭：「アトレ秋葉原1」1階UDX側アトレ建物沿い",
+          "checked": "2026-11-26"
+        }
+      ],
+      "lat": 35.69835,
+      "lon": 139.77252,
+      "thumb_small": "thumbs/b55c2cb789f83170.webp",
+      "image_fb": "gfb/b55c2cb789f83170.webp",
+      "image_local": "img/b55c2cb789f83170.webp"
+    },
+    {
+      "checked_date": "2026-11-26",
+      "translation_check": true,
+      "verified_at": "2026-11-26",
+      "source_tier": "official",
+      "added": "2026-11-26",
+      "lead_source": "이로하 11/26 저녁 제보 (공식 확인)",
+      "reservation": "불필요",
+      "title_ja": "GLITCH COLLECTION POP UP STORE",
+      "category": "팝업스토어",
+      "official_url": "https://www.infolens.com/glitch-collection-popup/",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+      "price": "",
+      "summary_source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+      "summary_ko": "「어메이징 디지털 서커스」의 Glitch Productions 작품 굿즈가 일본에서 처음 한자리에 모이는 팝업이에요. Murder Drones·Gameoverse 등 일본 미발매 굿즈와 캐릭터 패널 전시가 있어요.",
+      "copyright": "© 2026 by Glitch Productions",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-de59c3bedabeceef075ab2677c1cf68e-3900x2275.jpg",
+          "full": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-de59c3bedabeceef075ab2677c1cf68e-3900x2275.jpg",
+          "caption_ko": "메인 비주얼",
+          "caption_ja": "メインビジュアル",
+          "source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+          "img_fb": "gfb/f84f2ad6ca450328.webp",
+          "img_local": "img/f84f2ad6ca450328.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-516d593a06554675d09ee6f96c22ccc9-3900x3900.png",
+          "full": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-516d593a06554675d09ee6f96c22ccc9-3900x3900.png",
+          "caption_ko": "상품 이미지",
+          "caption_ja": "商品イメージ",
+          "source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+          "img_fb": "gfb/759d1bbce1b2a8a2.webp",
+          "img_local": "img/759d1bbce1b2a8a2.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-7f9b2adec24092aba045313deaf75c47-1259x1179.png",
+          "full": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-7f9b2adec24092aba045313deaf75c47-1259x1179.png",
+          "caption_ko": "어메이징 디지털 서커스 동글동글 폼니 인형 (5,720엔)",
+          "caption_ja": "アメイジングデジタルサーカス ぬいぐるみ（まんまるポムニ）",
+          "source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+          "img_fb": "gfb/d80abc8b49b081e5.webp",
+          "img_local": "img/d80abc8b49b081e5.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-95a7ee2f0ddcefd3b02db7ac5f2020ea-3900x3900.png",
+          "full": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-95a7ee2f0ddcefd3b02db7ac5f2020ea-3900x3900.png",
+          "caption_ko": "어메이징 디지털 서커스 다키시메타이 아크릴 스탠드 (각 880엔)",
+          "caption_ja": "アメイジングデジタルサーカス 抱きしめ隊 アクリルスタンド",
+          "source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+          "img_fb": "gfb/9cb9eacb3a676697.webp",
+          "img_local": "img/9cb9eacb3a676697.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.infolens.com/wp-content/themes/cocoon-child-custom20261124/assets/images/Glitch/Glitchcollection_tokuten.webp",
+          "full": "https://www.infolens.com/wp-content/themes/cocoon-child-custom20261124/assets/images/Glitch/Glitchcollection_tokuten.webp",
+          "caption_ko": "구매 특전 오리지널 스티커 (전 3종)",
+          "caption_ja": "購入特典 オリジナルステッカー",
+          "source": "https://www.infolens.com/glitch-collection-popup/",
+          "img_fb": "gfb/b5f87da5348b9407.webp",
+          "img_local": "img/b5f87da5348b9407.webp"
+        }
+      ],
+      "gallery_source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+      "gallery_note": "공식 보도자료·특설 페이지 이미지예요 © 2026 by Glitch Productions",
+      "id": "tokyo-glitch-collection-popup-sunshine-alta",
+      "title_ko": "GLITCH COLLECTION POP UP STORE (이케부쿠로 선샤인시티 알타)",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "선샤인시티 알타 1층 이벤트 스페이스 (이케부쿠로)",
+      "start": "2026-11-27",
+      "end": "2026-12-09",
+      "map_query": "東京都豊島区東池袋3-1-3 サンシャインシティアルタ",
+      "notes": "영업 11:00~20:00. 「The Amazing Digital Circus」「Murder Drones」「Gameoverse」「The Gaslight District」「Knights of Guinevere」 일본 미발매 굿즈 판매, 캐릭터 패널 전시. 대상 상품 3,300엔(세금 포함)마다 오리지널 스티커(전 3종) 랜덤 1장(1회 계산 3장까지, 영수증 합산 불가, 소진 시 종료). 주최 인포렌즈. 오사카 회장(신사이바시 PARCO)은 12/24~2027/1/11.",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-de59c3bedabeceef075ab2677c1cf68e-3900x2275.jpg",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+          "tier": "official",
+          "quote": "＜東京＞ 店舗所在地：〒170-8630 東京都豊島区東池袋3-1-3 サンシャインシティアルタ 1F イベントスペース 営業時間 ：11:00～20:00 開催日程 ：2026年11月27日（金）～12月9日（水）",
+          "checked": "2026-11-26"
+        },
+        {
+          "url": "https://www.infolens.com/glitch-collection-popup/",
+          "tier": "official",
+          "quote": "＜東京＞ 開催期間： 2026年11月27日(金)～ 2026年12月9日(水) 〒170-8630 東京都豊島区東池袋3-1-3 サンシャインシティアルタ 1F イベントスペース 営業時間 ：11:00～20:00",
+          "checked": "2026-11-26"
+        }
+      ],
+      "lat": 35.727844,
+      "lon": 139.719986,
+      "thumb_small": "thumbs/f84f2ad6ca450328.webp",
+      "image_fb": "gfb/f84f2ad6ca450328.webp",
+      "image_local": "img/f84f2ad6ca450328.webp"
+    },
+    {
+      "checked_date": "2026-11-26",
+      "translation_check": true,
+      "verified_at": "2026-11-26",
+      "source_tier": "official",
+      "added": "2026-11-26",
+      "lead_source": "이로하 11/26 저녁 제보 (공식 확인)",
+      "reservation": "불필요",
+      "title_ja": "GLITCH COLLECTION POP UP STORE",
+      "category": "팝업스토어",
+      "official_url": "https://www.infolens.com/glitch-collection-popup/",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+      "price": "",
+      "summary_source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+      "summary_ko": "「어메이징 디지털 서커스」의 Glitch Productions 작품 굿즈가 일본에서 처음 한자리에 모이는 팝업이에요. Murder Drones·Gameoverse 등 일본 미발매 굿즈와 캐릭터 패널 전시가 있어요.",
+      "copyright": "© 2026 by Glitch Productions",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-516d593a06554675d09ee6f96c22ccc9-3900x3900.png",
+          "full": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-516d593a06554675d09ee6f96c22ccc9-3900x3900.png",
+          "caption_ko": "상품 이미지",
+          "caption_ja": "商品イメージ",
+          "source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+          "img_fb": "gfb/759d1bbce1b2a8a2.webp",
+          "img_local": "img/759d1bbce1b2a8a2.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-7f9b2adec24092aba045313deaf75c47-1259x1179.png",
+          "full": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-7f9b2adec24092aba045313deaf75c47-1259x1179.png",
+          "caption_ko": "어메이징 디지털 서커스 동글동글 폼니 인형 (5,720엔)",
+          "caption_ja": "アメイジングデジタルサーカス ぬいぐるみ（まんまるポムニ）",
+          "source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+          "img_fb": "gfb/d80abc8b49b081e5.webp",
+          "img_local": "img/d80abc8b49b081e5.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-95a7ee2f0ddcefd3b02db7ac5f2020ea-3900x3900.png",
+          "full": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-95a7ee2f0ddcefd3b02db7ac5f2020ea-3900x3900.png",
+          "caption_ko": "어메이징 디지털 서커스 다키시메타이 아크릴 스탠드 (각 880엔)",
+          "caption_ja": "アメイジングデジタルサーカス 抱きしめ隊 アクリルスタンド",
+          "source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+          "img_fb": "gfb/9cb9eacb3a676697.webp",
+          "img_local": "img/9cb9eacb3a676697.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.infolens.com/wp-content/themes/cocoon-child-custom20261124/assets/images/Glitch/Glitchcollection_tokuten.webp",
+          "full": "https://www.infolens.com/wp-content/themes/cocoon-child-custom20261124/assets/images/Glitch/Glitchcollection_tokuten.webp",
+          "caption_ko": "구매 특전 오리지널 스티커 (전 3종)",
+          "caption_ja": "購入特典 オリジナルステッカー",
+          "source": "https://www.infolens.com/glitch-collection-popup/",
+          "img_fb": "gfb/b5f87da5348b9407.webp",
+          "img_local": "img/b5f87da5348b9407.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-de59c3bedabeceef075ab2677c1cf68e-3900x2275.jpg",
+          "full": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-de59c3bedabeceef075ab2677c1cf68e-3900x2275.jpg",
+          "caption_ko": "메인 비주얼",
+          "caption_ja": "メインビジュアル",
+          "source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+          "img_fb": "gfb/f84f2ad6ca450328.webp",
+          "img_local": "img/f84f2ad6ca450328.webp"
+        }
+      ],
+      "gallery_source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+      "gallery_note": "공식 보도자료·특설 페이지 이미지예요 © 2026 by Glitch Productions",
+      "id": "osaka-glitch-collection-popup-shinsaibashi-parco",
+      "title_ko": "GLITCH COLLECTION POP UP STORE (신사이바시 PARCO)",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "신사이바시 PARCO 9층 이벤트 스페이스",
+      "start": "2026-12-24",
+      "end": "2027-01-11",
+      "map_query": "大阪府大阪市中央区心斎橋筋1丁目8-3 心斎橋PARCO",
+      "notes": "영업 10:00~20:00(연말연시는 신사이바시 PARCO 영업시간에 따름). 「The Amazing Digital Circus」「Murder Drones」「Gameoverse」「The Gaslight District」「Knights of Guinevere」 일본 미발매 굿즈 판매, 캐릭터 패널 전시. 대상 상품 3,300엔(세금 포함)마다 오리지널 스티커(전 3종) 랜덤 1장(1회 계산 3장까지, 영수증 합산 불가, 소진 시 종료). 주최 인포렌즈. 도쿄 회장(선샤인시티 알타)은 11/27~12/9.",
+      "thumbnail": "https://prcdn.freetls.fastly.net/release_image/92133/372/92133-372-516d593a06554675d09ee6f96c22ccc9-3900x3900.png",
+      "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+      "evidence": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html",
+          "tier": "official",
+          "quote": "＜大阪＞ 店舗所在地：〒542-0085 大阪府大阪市中央区心斎橋筋1丁目8-3 心斎橋PARCO 9F イベントスペース 営業時間 ：10:00～20:00 開催日程 ：2026年12月24日（木）～2027年1月11日（月） ※心斎橋PARCOの年末年始の営業時間は館の営業時間に準じます。",
+          "checked": "2026-11-26"
+        }
+      ],
+      "lat": 34.6745,
+      "lon": 135.5012,
+      "thumb_small": "thumbs/759d1bbce1b2a8a2.webp",
+      "image_fb": "gfb/759d1bbce1b2a8a2.webp",
+      "image_local": "img/759d1bbce1b2a8a2.webp"
     }
   ]
 }
