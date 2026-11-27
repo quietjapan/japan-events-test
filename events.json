@@ -37709,6 +37709,90 @@
       "thumb_small": "thumbs/c7999a59974f82ac.webp",
       "image_fb": "gfb/c7999a59974f82ac.webp",
       "image_local": "img/c7999a59974f82ac.webp"
+    },
+    {
+      "id": "all-kusuriya-movie-famima-print",
+      "title_ko": "극장판 약사의 혼잣말 「망비의 비보」 패미마 프린트 한정 브로마이드 (패밀리마트)",
+      "title_ja": "『劇場版 薬屋のひとりごと 亡妃の秘宝』ファミマプリント 限定ブロマイド",
+      "category": "잡지 부록",
+      "area": "전국",
+      "region": "all",
+      "venue": "전국 패밀리마트 멀티카피기 (ファミマプリント)",
+      "start": "2026-11-24",
+      "end": "2026-12-14",
+      "reservation": "불필요",
+      "price": "L판 브로마이드 200엔/장 · 오쿠스리풍 포치부쿠로(A4) 400엔 (세금 포함)",
+      "notes": "공식 판매 기간 2026/11/24 10:00~12/14 23:59. ① 시오리풍 랜덤 브로마이드(전 5종, L판 200엔, 랜덤·시크릿 디자인 있음) ② 오쿠스리풍 포치부쿠로(전 1종, A4 보통지 400엔) ③ 극장판 장면 사진 브로마이드(전 17종, L판 200엔, 선택식). 지역·매장에 따라 멀티카피기 취급이 없을 수 있어요. 별도로 패밀리마트 한정 특전 무비티켓 편의점권(일반 1,500엔, ~12/10 판매)을 사면 2L판 오리지널 브로마이드(300엔)를 12/14까지 뽑을 수 있어요(무비티켓 1장당 1장).",
+      "official_url": "https://www.family.co.jp/company/news_releases/2026/20261120_01.html",
+      "source_url": "https://www.family.co.jp/company/news_releases/2026/20261120_01.html",
+      "map_query": null,
+      "lat": null,
+      "lon": null,
+      "summary_ko": "패밀리마트 멀티카피기(ファミマプリント)에서 뽑는 극장판 『약사의 혼잣말 망비의 비보』 한정 브로마이드예요. 시오리풍 랜덤 5종·장면 사진 17종은 L판 200엔, 포치부쿠로는 400엔.",
+      "summary_source": "https://www.family.co.jp/company/news_releases/2026/20261120_01.html",
+      "thumbnail": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261120_fmkusuriya_shiori.png",
+      "thumbnail_source": "https://www.family.co.jp/company/news_releases/2026/20261120_01.html",
+      "copyright": "©2026劇場版「薬屋のひとりごと」製作委員会 ©日向夏・イマジカインフォス",
+      "gallery": [
+        {
+          "group": "공식 이미지",
+          "img": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261120_fmkusuriya_shiori.png",
+          "full": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261120_fmkusuriya_shiori.png",
+          "caption_ko": "시오리풍 랜덤 브로마이드 (전 5종)",
+          "caption_ja": "しおり風ランダムブロマイド（全5種）",
+          "source": "https://www.family.co.jp/company/news_releases/2026/20261120_01.html",
+          "price": "L판 200엔 (세금 포함)",
+          "img_fb": "gfb/e5cf9d910840c561.webp",
+          "img_local": "img/e5cf9d910840c561.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261120_fmkusuriya_bamen.png",
+          "full": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261120_fmkusuriya_bamen.png",
+          "caption_ko": "극장판 장면 사진 브로마이드 (전 17종)",
+          "caption_ja": "劇場版 場面写ブロマイド（全17種）",
+          "source": "https://www.family.co.jp/company/news_releases/2026/20261120_01.html",
+          "price": "L판 200엔 (세금 포함)",
+          "img_fb": "gfb/2b27b5f9f8065620.webp",
+          "img_local": "img/2b27b5f9f8065620.webp"
+        },
+        {
+          "group": "공식 이미지",
+          "img": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261120_fmkusuriya_pochi.png",
+          "full": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261120_fmkusuriya_pochi.png",
+          "caption_ko": "오쿠스리풍 포치부쿠로 (전 1종)",
+          "caption_ja": "おくすり風ポチ袋（全1種）",
+          "source": "https://www.family.co.jp/company/news_releases/2026/20261120_01.html",
+          "price": "A4 400엔 (세금 포함)",
+          "img_fb": "gfb/cee921b52f53eb92.webp",
+          "img_local": "img/cee921b52f53eb92.webp"
+        }
+      ],
+      "gallery_source": "https://www.family.co.jp/company/news_releases/2026/20261120_01.html",
+      "gallery_note": "패밀리마트 공식 뉴스릴리스 이미지예요",
+      "evidence": [
+        {
+          "url": "https://www.family.co.jp/company/news_releases/2026/20261120_01.html",
+          "tier": "official",
+          "quote": "【商品名】しおり風ランダムブロマイド（全5種） 【仕様】ブロマイドL判 【価格】L判：200円（税込） 【発売期間】2026年11月24日（火） 10:00～12月14日（月）23:59 【発売地域】全国 【販売方法】ランダム方式",
+          "checked": "2026-11-27"
+        },
+        {
+          "url": "https://www.family.co.jp/company/news_releases/2026/20261120_01.html",
+          "tier": "official",
+          "quote": "【商品名】おくすり風ポチ袋（全1種） 【仕様】A4普通紙 【価格】400円（税込） … 【商品名】 劇場版 場面写ブロマイド（全17種） 【仕様】ブロマイドL判 【価格】L判：200円(税込)",
+          "checked": "2026-11-27"
+        }
+      ],
+      "checked_date": "2026-11-27",
+      "verified_at": "2026-11-27",
+      "source_tier": "official",
+      "translation_check": true,
+      "added": "2026-11-27",
+      "lead_source": "이로하 11/27 저녁 제보 (공식 확인)",
+      "thumb_small": "thumbs/e5cf9d910840c561.webp",
+      "image_fb": "gfb/e5cf9d910840c561.webp",
+      "image_local": "img/e5cf9d910840c561.webp"
     }
   ]
 }
