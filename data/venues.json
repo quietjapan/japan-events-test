@@ -1037,6 +1037,17 @@
       "lat": 34.6619,
       "lon": 135.5023,
       "source": "https://hololive-grandreception.hololivepro.com/information/"
+    },
+    {
+      "keys": [
+        "NU茶屋町",
+        "NU차야마치",
+        "coly more! 梅田NU茶屋町店"
+      ],
+      "address": "大阪府大阪市北区茶屋町10-12",
+      "lat": 34.706814,
+      "lon": 135.499069,
+      "source": "https://nu-chayamachi.com/info/access/ (GSI 주소검색)"
     }
   ]
 }
