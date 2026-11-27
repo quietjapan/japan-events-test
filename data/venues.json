@@ -1016,6 +1016,27 @@
       "lat": 35.727844,
       "lon": 139.719986,
       "source": "https://prtimes.jp/main/html/rd/p/000000372.000092133.html"
+    },
+    {
+      "keys": [
+        "SKYTREE SPACE",
+        "東京スカイツリー タワーヤード",
+        "도쿄 스카이트리 타워야드"
+      ],
+      "address": "東京都墨田区押上1-1-2 東京スカイツリータウン",
+      "lat": 35.7101,
+      "lon": 139.8107,
+      "source": "https://sirotan-nonbiri-fuwafuwa.com/"
+    },
+    {
+      "keys": [
+        "なんばパークスミュージアム",
+        "난바 파크스 뮤지엄"
+      ],
+      "address": "大阪府大阪市浪速区難波中2-10-70 なんばパークス7階",
+      "lat": 34.6619,
+      "lon": 135.5023,
+      "source": "https://hololive-grandreception.hololivepro.com/information/"
     }
   ]
 }

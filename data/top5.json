@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-26",
+  "generated": "2026-11-27",
   "range": [
-    "2026-11-19",
-    "2026-11-25"
+    "2026-11-20",
+    "2026-11-26"
   ],
   "metric": "open_detail(자세히 열람) 이벤트 수, 메인 사이트·본인 접속 제외",
   "items": [
@@ -10,14 +10,28 @@
       "match": "conan-diner",
       "title_ko": "명탐정 코난 다이너 (상설 콜라보 레스토랑)",
       "region": "tokyo",
-      "opens": 5,
-      "users": 5
+      "opens": 10,
+      "users": 7
     },
     {
       "match": "하이큐!! 네무라세타이 3 (가챠)",
       "title_ko": "하이큐!! 네무라세타이 3 (가챠)",
       "region": "all",
       "opens": 5,
+      "users": 1
+    },
+    {
+      "match": "all-gacha-harrypotter-wand-collection-ps",
+      "title_ko": "해리 포터 마법 지팡이 컬렉션 ~해리 포터와 마법사의 돌~ (가챠)",
+      "region": "all",
+      "opens": 4,
+      "users": 2
+    },
+    {
+      "match": "MAPPA EXPO 15주년",
+      "title_ko": "MAPPA EXPO 15주년",
+      "region": "tokyo",
+      "opens": 3,
       "users": 1
     },
     {
@@ -31,13 +45,6 @@
       "match": "tokyo-chiikawa-clinic-tokyoeki",
       "title_ko": "치이카와 클리닉 (도쿄역 일번가 이치방 플라자)",
       "region": "tokyo",
-      "opens": 3,
-      "users": 1
-    },
-    {
-      "match": "all-gacha-harrypotter-wand-collection-ps",
-      "title_ko": "해리 포터 마법 지팡이 컬렉션 ~해리 포터와 마법사의 돌~ (가챠)",
-      "region": "all",
       "opens": 3,
       "users": 1
     },
@@ -100,13 +107,6 @@
     {
       "match": "tokyo-mahoyaku-stage-5th-exhibition-sunshine",
       "title_ko": "무대 『마법사의 약속』 5주년 전 ~Grand Wardrobe Exhibition & VR Theatre~ (이케부쿠로 선샤인시티)",
-      "region": "tokyo",
-      "opens": 1,
-      "users": 1
-    },
-    {
-      "match": "tokyo-vintage-artisan-kitaya-20261128",
-      "title_ko": "시부야 키타야 공원 Vintage & Artisan Market",
       "region": "tokyo",
       "opens": 1,
       "users": 1

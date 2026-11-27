@@ -164,37 +164,6 @@
       "translation_check": true,
       "reservation": "불필요",
       "lead_source": "이로하 11/17 저녁 제보",
-      "title_ko": "갑진전 사무라이 트루퍼 POP UP SHOP (아베노 라쿠바스)",
-      "title_ja": "『鎧真伝サムライトルーパー』POP UP SHOP",
-      "category": "팝업스토어",
-      "area": "오사카",
-      "region": "osaka",
-      "venue": "아베노 라쿠바스",
-      "start": "2027-01-02",
-      "end": "2027-01-11",
-      "official_url": "https://www.samurai-trooper.net/news/detail.php?id=27007",
-      "source_url": "https://www.samurai-trooper.net/news/detail.php?id=27007",
-      "notes": "공식에 「※後日公開」. 도쿄 회장(12/8~20 MEDICOS SHOP 시부야)은 events.json에 게시.",
-      "pending_reason": "2027년 1월 이후 시작 회기 + 회장 상세 후일 공개 (2026-11-18)",
-      "evidence": [
-        {
-          "url": "https://www.samurai-trooper.net/news/detail.php?id=27007",
-          "tier": "official",
-          "quote": "≪大阪≫ 【開催期間】2027年1月2日(土)～1月11日(月・祝) 【開催場所】アベノラクバス ※後日公開",
-          "checked": "2026-11-18"
-        }
-      ],
-      "map_query": "あべのHoop",
-      "lat": 34.6451,
-      "lon": 135.5137,
-      "thumbnail": "https://samurai-trooper.net/assets/og/og6.jpg",
-      "thumbnail_source": "https://www.samurai-trooper.net/news/detail.php?id=27007"
-    },
-    {
-      "checked_date": "2026-11-18",
-      "translation_check": true,
-      "reservation": "불필요",
-      "lead_source": "이로하 11/17 저녁 제보",
       "title_ko": "러브라이브! 선샤인!!×HMV POP UP SHOP (HMV&BOOKS NAMBA)",
       "title_ja": "「ラブライブ！サンシャイン!!」×HMV POP UP SHOP",
       "category": "팝업스토어",
@@ -378,27 +347,6 @@
       "thumbnail_source": "https://prtimes.jp/main/html/rd/p/000020619.000007006.html"
     },
     {
-      "checked_date": "2026-11-19",
-      "translation_check": true,
-      "title_ko": "드라마 「영업이니까요」 팝업스토어 (만화전 덴노지)",
-      "title_ja": "ドラマ「営業ですから」ポップアップストア in マンガ展 天王寺",
-      "category": "팝업스토어",
-      "area": "오사카",
-      "region": "osaka",
-      "venue": "덴노지 미오 본관 6F (만화전 덴노지)",
-      "start": "2027-01-06",
-      "end": "2027-01-17",
-      "official_url": "https://www.manga10.com/event/4130",
-      "source_url": "https://www.manga10.com/event/4130",
-      "notes": "공식 「<マンガ展 天王寺> 2027年1月6日(水) 〜2027年1月17日(日)」, 입장 무료",
-      "pending_reason": "2027년 1월 이후 시작 회기(공식 확인 완료, 시기 되면 게시) (2026-11-19)",
-      "thumbnail": "https://d1qjlssvz4u32r.cloudfront.net/media/uploads/site-7/event/20261126_eigyou/eigyou_mv_1140800.jpg",
-      "thumbnail_source": "https://www.manga10.com/event/4130",
-      "map_query": "大阪府大阪市天王寺区悲田院町10-39",
-      "lat": 34.6472,
-      "lon": 135.5142
-    },
-    {
       "checked_date": "2026-11-25",
       "title_ko": "도겐안키 「도쿄 잠복」 기간 한정 숍 (도쿄역)",
       "title_ja": "桃源暗鬼 東京潜伏 期間限定ショップ",
@@ -531,40 +479,6 @@
       ],
       "lat": 34.66868,
       "lon": 135.5014
-    },
-    {
-      "category": "팝업스토어",
-      "title_ja": "TVアニメ「終わりのセラフ」POP UP SHOP in マルイ",
-      "title_ko_source": "한국 정식 출간·방영 제목 (『종말의 세라프』)",
-      "reservation": "불필요 (혼잡 시 정리권 등 입장 제한 가능, 마루이 이벤트 페이지·@marui_limited_a 확인)",
-      "price": "공식 안내 확인 (2,000엔마다 특전 미니카드 1장)",
-      "official_url": "https://www.medicos-e.net/newsdetail/owarino-seraph_marui/",
-      "source_url": "https://www.medicos-e.net/newsdetail/owarino-seraph_marui/",
-      "summary_source": "https://www.medicos-e.net/newsdetail/owarino-seraph_marui/",
-      "summary_ko": "『종말의 세라프』 「드레스업」 테마 신규 그림 굿즈를 파는 팝업이에요. 같은 일러스트 등신대 패널 전시와 특전 미니카드(전 15종)가 있어요.",
-      "thumbnail": "https://www.medicos-e.net/wp-content/uploads/2026/10/551a899aa3c9bbcd987f7b622334a586-1.jpg",
-      "thumbnail_source": "https://www.medicos-e.net/newsdetail/owarino-seraph_marui/",
-      "lead_source": "collabo-cafe.com 대조",
-      "id": "osaka-owarinoseraph-dressup-popup-namba-marui",
-      "title_ko": "종말의 세라프 POP UP SHOP in 마루이 (난바 마루이)",
-      "area": "오사카",
-      "region": "osaka",
-      "venue": "난바 마루이 5F 이벤트 스페이스",
-      "map_query": "大阪府大阪市中央区難波3-8-9",
-      "start": "2027-01-04",
-      "end": "2027-01-11",
-      "checked_date": "2026-11-20",
-      "evidence": [
-        {
-          "url": "https://www.medicos-e.net/newsdetail/owarino-seraph_marui/",
-          "tier": "official",
-          "quote": "≪大阪会場≫ 【開催期間】2027年1月4日（月）~2027年1月11日（月・祝） 【開催場所】なんばマルイ 5F イベントスペース",
-          "checked": "2026-11-20"
-        }
-      ],
-      "pending_reason": "2027년 1월 이후 시작 회기(공식 확인 완료, 시기 되면 게시) (2026-11-20)",
-      "lat": 34.6655,
-      "lon": 135.5008
     },
     {
       "id": "osaka-hololive-shishiwata-cooking-cafe-shinsaibashi",
@@ -751,8 +665,8 @@
       "end": "2027-01-12",
       "official_url": "https://www.animatecafe.jp/event/ac000826",
       "source_url": "https://www.animatecafe.jp/event/ac000826",
-      "pending_reason": "공식 애니메이트카페 페이지 본문에 「コラボ開催決定！」만 있고 기간 텍스트 미취득(JS), 보류 (2026-11-24, collabo-cafe.com 대조 단서)",
-      "checked_date": "2026-11-24",
+      "pending_reason": "공식 애니메이트카페 페이지 본문에 기간 텍스트 미취득(JS), 보류 (2026-11-27 재확인). 그라테 콜라보는 공식 확인 후 게시",
+      "checked_date": "2026-11-27",
       "lead_source": "collabo-cafe.com 대조",
       "translation_check": true
     },
@@ -820,36 +734,6 @@
       "checked_date": "2026-11-25",
       "lead_source": "collabo-cafe.com 대조",
       "translation_check": true,
-      "title_ko": "ART OF MIKU POP-UP SHOP (HMV&BOOKS SHIBUYA)",
-      "title_ja": "ART OF MIKU 受注販売&POPUP",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "start": "2027-01-08",
-      "end": "2027-01-17",
-      "official_url": "https://www.hmv.co.jp/news/article/260917166/",
-      "source_url": "https://www.hmv.co.jp/news/article/260917166/",
-      "pending_reason": "2027년 1월 이후 시작 회기(HMV 공식 확인, 난바·하카타는 라이브). 시기 되면 게시 (2026-11-25)"
-    },
-    {
-      "checked_date": "2026-11-25",
-      "lead_source": "collabo-cafe.com 대조",
-      "translation_check": true,
-      "title_ko": "니지산지 × 스위츠 파라다이스 콜라보 카페 제17탄 (후쿠오카 PARCO점)",
-      "title_ja": "にじさんじ×スイーツパラダイス コラボカフェ第17弾",
-      "category": "콜라보카페",
-      "area": "후쿠오카",
-      "region": "fukuoka",
-      "start": "2027-01-08",
-      "end": "2027-01-24",
-      "official_url": "https://www.sweets-paradise.jp/collaboration/nijisanji17th",
-      "source_url": "https://www.sweets-paradise.jp/collaboration/nijisanji17th",
-      "pending_reason": "2027년 1월 8일 시작 회기(공식 확인, 1/12~13 점포 휴무). 시기 되면 게시 (2026-11-25)"
-    },
-    {
-      "checked_date": "2026-11-25",
-      "lead_source": "collabo-cafe.com 대조",
-      "translation_check": true,
       "title_ko": "진격의 거인 POP UP SHOP 「재향(再響)」 by WIT STUDIO (TSUTAYA EBISUBASHI IP서점)",
       "title_ja": "TVアニメ『進撃の巨人』POP UP SHOP 再響 by WIT STUDIO",
       "category": "팝업스토어",
@@ -905,6 +789,100 @@
       "official_url": "https://www.pripricafe.com/",
       "source_url": "https://x.com/princesscafe333",
       "pending_reason": "프린세스 카페 공식 사이트엔 「12/4~12/17 東京・大阪・愛知・高知・福岡 /5会場 詳細は近日公開」만 있고 회장명은 공식 X에만 (2026-11-25)"
+    },
+    {
+      "title_ko": "오에(大穢) 테마파크 Ver. POP UP STORE (아베노 라쿠바스)",
+      "title_ja": "「大穢」POP UP STORE",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "아베노 라쿠바스 (아베노 Hoop 4층)",
+      "start": "2027-01-16",
+      "end": "2027-01-24",
+      "official_url": "https://www.medicos-e.net/newsdetail/owen/",
+      "source_url": "https://www.medicos-e.net/newsdetail/owen/",
+      "map_query": "あべのHoop",
+      "lat": 34.6451,
+      "lon": 135.5137,
+      "evidence": [
+        {
+          "url": "https://www.medicos-e.net/newsdetail/owen/",
+          "tier": "official",
+          "quote": "＜大阪会場＞ 【開催期間】 2027 年 1 月 16 日 ( 土 ) ～ 2027 年 1 月 24 日 ( 日 ) 【開催場所】アベノラクバス（あべの Hoop 4 階）",
+          "checked": "2026-11-27"
+        }
+      ],
+      "pending_reason": "2027년 1월 중순 시작 회기(공식 확인 완료, 도쿄는 라이브). 시기 되면 게시 (2026-11-27)",
+      "checked_date": "2026-11-27",
+      "translation_check": true,
+      "lead_source": "collabo-cafe.com 대조"
+    },
+    {
+      "title_ko": "내 입술이 노려지고 있습니다 POP UP STORE (CAFE EPIC TALE 오사카)",
+      "title_ja": "俺の唇が狙われています ーポロロ学園のブルーラインー POP UP STORE",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "CAFE EPIC TALE (닛폰바시 엑제 레지던스 타워 1층)",
+      "start": "2027-01-27",
+      "end": "2027-02-21",
+      "official_url": "https://www.medicos-e.net/newsdetail/orekuchi/",
+      "source_url": "https://www.medicos-e.net/newsdetail/orekuchi/",
+      "evidence": [
+        {
+          "url": "https://www.medicos-e.net/newsdetail/orekuchi/",
+          "tier": "official",
+          "quote": "≪大阪≫ 【開催期間】2027年1月27日（水）～2月21日（日） ※2月 8 日 ( 土 ) ～ 2 月 10 日 ( 月 ) は休業日となります。 【開催場所】 CAFE EPIC TALE （日本橋 エグゼレジデンスタワー 1 階）",
+          "checked": "2026-11-27"
+        }
+      ],
+      "pending_reason": "2027년 1월 말 시작 회기(공식 확인 완료, 도쿄는 라이브). 시기 되면 게시 (2026-11-27)",
+      "checked_date": "2026-11-27",
+      "translation_check": true,
+      "lead_source": "collabo-cafe.com 대조"
+    },
+    {
+      "title_ko": "18TRIP × 트리 빌리지 홀리데이 콜라보 (오사카·하카타)",
+      "title_ja": "18TRIP × TREE VILLAGE",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "트리 빌리지 오사카점(HEP FIVE 8층)·하카타점(캐널시티 오퍼 B1)",
+      "start": "2027-01-16",
+      "end": "2027-01-28",
+      "official_url": "https://tree-village.jp/news/014500.html",
+      "source_url": "https://tree-village.jp/news/014500.html",
+      "evidence": [
+        {
+          "url": "https://tree-village.jp/news/014500.html",
+          "tier": "official",
+          "quote": "【開催日程】 横浜：2026年12月1日(火)〜2026年12月24日(木) 大阪・博多：2027年1月16日(土)～2027年1月28日(木)",
+          "checked": "2026-11-27"
+        }
+      ],
+      "pending_reason": "2027년 1월 중순 시작 회기(공식 확인 완료, 요코하마는 수록 지역 외). 시기 되면 오사카·후쿠오카 각각 게시 (2026-11-27)",
+      "checked_date": "2026-11-27",
+      "translation_check": true,
+      "lead_source": "collabo-cafe.com 대조"
+    },
+    {
+      "title_ko": "도원암귀 POP UP STORE CITY STYLE (신주쿠 마루이 아넥스·하카타 마루이)",
+      "title_ja": "TVアニメ『桃源暗鬼』 POP UP STORE CITY STYLE",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "신주쿠 마루이 아넥스 6F 캘린더리움6 / 하카타 마루이 7F",
+      "start": "2027-01-08",
+      "end": "2027-02-14",
+      "official_url": "https://meeto-ma.com/news/3230",
+      "source_url": "https://meeto-ma.com/news/3230",
+      "pending_reason": "주최 MeeToMa·마루이 공식 페이지 본문이 JS라 기간 원문 미취득(기사상 신주쿠 2027/1/8~17·하카타 2/5~14), 보류 (2026-11-27, collabo-cafe.com 대조 단서)",
+      "checked_date": "2026-11-27",
+      "lead_source": "collabo-cafe.com 대조",
+      "title_ko_source": "한국 정식 출간 제목 (널리 쓰이는 공식 표기)",
+      "map_query": "福岡県福岡市博多区博多駅中央街9-1",
+      "lat": 33.58884,
+      "lon": 130.419357
     }
   ],
   "base_date": "2026-11-19"
