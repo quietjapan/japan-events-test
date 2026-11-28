@@ -703,21 +703,6 @@
     {
       "checked_date": "2026-11-25",
       "lead_source": "collabo-cafe.com 대조",
-      "title_ko": "마도조사 POP UP STORE in 로프트 (우메다 로프트)",
-      "title_ja": "大河幻想ラジオドラマ「魔道祖師」POP UP STORE in ロフト",
-      "category": "팝업스토어",
-      "area": "오사카",
-      "region": "osaka",
-      "start": "2027-01-09",
-      "end": "2027-01-24",
-      "official_url": "https://www.cocollabo.net/pages/mdzs_2026",
-      "source_url": "https://www.cocollabo.net/pages/mdzs_2026",
-      "pending_reason": "2027년 1월 이후 시작 회기(공식 cocollabo 페이지 확인, 도쿄는 라이브). 시기 되면 게시 (2026-11-25)",
-      "title_ko_source": "한국 정식 출간·방영 제목 (널리 쓰이는 공식 표기)"
-    },
-    {
-      "checked_date": "2026-11-25",
-      "lead_source": "collabo-cafe.com 대조",
       "title_ko": "마도조사 POP UP STORE in 로프트 (텐진 로프트)",
       "title_ja": "大河幻想ラジオドラマ「魔道祖師」POP UP STORE in ロフト",
       "category": "팝업스토어",
@@ -883,7 +868,67 @@
       "map_query": "福岡県福岡市博多区博多駅中央街9-1",
       "lat": 33.58884,
       "lon": 130.419357
+    },
+    {
+      "title_ko": "황천의 츠가이 겨울 패션 POP UP SHOP (유라쿠초·하카타·난바 마루이)",
+      "title_ja": "TVアニメ「黄泉のツガイ」POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "start": "2026-12-11",
+      "end": "2027-02-21",
+      "official_url": "https://www.0101.co.jp/086/event/detail.html?article_seq=145966&article_type=sto",
+      "source_url": "https://www.0101.co.jp/086/event/detail.html?article_seq=145966&article_type=sto",
+      "checked_date": "2026-11-28",
+      "lead_source": "collabo-cafe.com 대조",
+      "pending_reason": "마루이 공식 페이지 본문이 JS라 회장별 기간 원문 미취득(기사상 12/11~2027/2/21 유라쿠초·하카타·난바 순회) (2026-11-28)",
+      "translation_check": true
+    },
+    {
+      "title_ko": "학생회에도 구멍은 있다! POP UP SHOP (보크스 아키하바라·오사카)",
+      "title_ja": "生徒会にも穴はある! POP UP SHOP",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "start": "2026-12-05",
+      "end": "2026-12-20",
+      "official_url": "https://www.penguin.bz/202612/nama-anaru/event.html",
+      "source_url": "https://www.penguin.bz/202612/nama-anaru/event.html",
+      "checked_date": "2026-11-28",
+      "lead_source": "collabo-cafe.com 대조",
+      "pending_reason": "주최(펭귄 퍼레이드) 공식 페이지 접속 실패·숍 페이지 본문에 기간 없음 (2026-11-28)",
+      "translation_check": true
+    },
+    {
+      "title_ko": "기생수전 순회 (도쿄 Space Galleria)",
+      "title_ja": "寄生獣展",
+      "category": "전시·행사",
+      "area": "도쿄",
+      "region": "tokyo",
+      "start": "2027-01-22",
+      "end": "2027-02-22",
+      "official_url": "https://ex.parasyte-ex.com/",
+      "source_url": "https://ex.parasyte-ex.com/",
+      "checked_date": "2026-11-28",
+      "lead_source": "collabo-cafe.com 대조",
+      "pending_reason": "2027년 1월 하순 시작 회기(도쿄 1/22~2/22, 오사카 3/26~, 후쿠오카 5/21~ 기사 단서). 시기 되면 공식 원문 확인 후 게시 (2026-11-28)",
+      "translation_check": true
+    },
+    {
+      "title_ko": "아이카츠 스타즈! 10주년 × 샤레CAFE 컬러풀 체크 (신주쿠·신사이바시)",
+      "title_ja": "アイカツスターズ! 10周年記念コラボカフェ【カラフルチェック】at 洒落CAFE",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "start": "2027-01-16",
+      "end": "2027-02-28",
+      "official_url": null,
+      "source_url": null,
+      "checked_date": "2026-11-28",
+      "lead_source": "collabo-cafe.com 대조",
+      "pending_reason": "2027년 1월 중순 시작 회기(collabo-cafe.com 단서), 공식 페이지 미확인 (2026-11-28)",
+      "translation_check": true
     }
   ],
-  "base_date": "2026-11-19"
+  "base_date": "2026-11-28"
 }

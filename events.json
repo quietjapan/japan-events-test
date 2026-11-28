@@ -1,6 +1,6 @@
 {
-  "base_date": "2026-11-27",
-  "last_updated": "2026-11-27",
+  "base_date": "2026-11-28",
+  "last_updated": "2026-11-28",
   "is_sample": false,
   "events": [
     {
@@ -8945,7 +8945,6 @@
       "verified_at": "2026-10-16",
       "thumb_kind": "product",
       "date_label": "10월 5째 주 발매 (지역·매장별 상이)",
-      "translation_check": true,
       "summary_ko": "「장송의 프리렌」 '마치보우케' 가챠 3탄이에요. 잠든 프리렌 등 여러 캐릭터가 나와요. 1회 400엔, 전 5종이에요.",
       "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770068955000",
       "gallery": [
@@ -9003,7 +9002,8 @@
       "region": "all",
       "image_fb": "gfb/319441afd8dacf06.webp",
       "image_local": "img/319441afd8dacf06.webp",
-      "added": "2026-10-15"
+      "added": "2026-10-15",
+      "title_ko_source": "한국 정식 방영 제목"
     },
     {
       "title_ko": "죠죠의 기묘한 모험 황금의 바람 메지루시 액세서리 01 (가챠)",
@@ -21060,7 +21060,6 @@
       "date_label": "11월 4째 주 발매 (지역·매장별 상이)",
       "region": "all",
       "added": "2026-10-29",
-      "translation_check": true,
       "summary_ko": "「장송의 프리렌」 가챠예요. 1회 300엔, 전 10종이에요. 일본 발매는 2026년 11월 4째 주이에요.",
       "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770095142000",
       "gallery": [
@@ -21157,7 +21156,8 @@
       "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
       "thumb_small": "thumbs/3ccad3c666bca421.webp",
       "image_fb": "gfb/3ccad3c666bca421.webp",
-      "image_local": "img/3ccad3c666bca421.webp"
+      "image_local": "img/3ccad3c666bca421.webp",
+      "title_ko_source": "한국 정식 방영 제목"
     },
     {
       "title_ko": "산리오 캐릭터즈 눈사람 폭신폭신 메지루시 액세서리 (가챠)",
@@ -23921,45 +23921,6 @@
       "thumb_small": "thumbs/a1e41d616f0f84ab.webp",
       "image_fb": "gfb/a1e41d616f0f84ab.webp",
       "image_local": "img/a1e41d616f0f84ab.webp"
-    },
-    {
-      "reservation": "추첨 (일부 일정 사전 추첨 · 이후 자유 입장 시 X 안내)",
-      "price": "입장료 확인되지 않음",
-      "checked_date": "2026-11-09",
-      "verified_at": "2026-11-09",
-      "source_tier": "official",
-      "translation_check": true,
-      "added": "2026-11-09",
-      "id": "tokyo-given-cosmetic-popup-shibuya109",
-      "title_ko": "기븐 COSMETIC COLLABORATION POPUP (SHIBUYA109)",
-      "title_ja": "ギヴン COSMETIC COLLABORATION POPUP",
-      "category": "팝업스토어",
-      "area": "도쿄",
-      "region": "tokyo",
-      "venue": "SHIBUYA109 시부야점 8F DISP!!!",
-      "start": "2026-11-07",
-      "end": "2026-11-27",
-      "official_url": "https://estream-store.com/lp/GIVEN-COSMETIC-COLLABORATION-POPUP/",
-      "source_url": "https://shibuya109.jp/topics/disp-given-cosmetic-collaboration-popup/",
-      "notes": "10:00～21:00(최종 입장 20:30). 네일 폴리시·립 등 코스메·굿즈. 사전 추첨 접수 기간은 종료",
-      "map_query": "東京都渋谷区宇田川町28-6",
-      "thumbnail": "https://estream-store.com/lp/GIVEN-COSMETIC-COLLABORATION-POPUP/img/ogp.png",
-      "summary_ko": "『기븐』 코스메틱 콜라보 팝업이에요. SHIBUYA109 시부야점 8층에서 캐릭터 코스메와 굿즈를 팔아요.",
-      "evidence": [
-        {
-          "url": "https://estream-store.com/lp/GIVEN-COSMETIC-COLLABORATION-POPUP/",
-          "tier": "official",
-          "quote": "開催期間 2026年11月7日(土) - 11月27日(金) 営業時間 10:00 - 21:00 ※最終入場20:30 開催場所 SHIBUYA109渋谷店 8F DISP!!!",
-          "checked": "2026-11-09"
-        }
-      ],
-      "summary_source": "https://estream-store.com/lp/GIVEN-COSMETIC-COLLABORATION-POPUP/",
-      "thumbnail_source": "https://estream-store.com/lp/GIVEN-COSMETIC-COLLABORATION-POPUP/",
-      "lat": 35.6595,
-      "lon": 139.6988,
-      "thumb_small": "thumbs/f1a3ec6afae15400.webp",
-      "image_fb": "gfb/f1a3ec6afae15400.webp",
-      "image_local": "img/f1a3ec6afae15400.webp"
     },
     {
       "reservation": "불필요",
@@ -28300,7 +28261,6 @@
       "checked_date": "2026-11-18",
       "verified_at": "2026-11-18",
       "source_tier": "official",
-      "translation_check": true,
       "added": "2026-11-18",
       "lead_source": "다른 캘린더(collabo-cafe.com) 대조 → 공식 확인",
       "id": "osaka-frieren-bellemaison-popup-jr-osaka",
@@ -28334,7 +28294,8 @@
       "lon": 135.49634,
       "thumb_small": "thumbs/583f3bb82def0730.webp",
       "image_fb": "gfb/583f3bb82def0730.webp",
-      "image_local": "img/583f3bb82def0730.webp"
+      "image_local": "img/583f3bb82def0730.webp",
+      "title_ko_source": "한국 정식 방영 제목"
     },
     {
       "checked_date": "2026-11-18",
@@ -29044,46 +29005,6 @@
       "thumb_small": "thumbs/919f25b569820bef.webp",
       "image_fb": "gfb/919f25b569820bef.webp",
       "image_local": "img/919f25b569820bef.webp"
-    },
-    {
-      "checked_date": "2026-11-19",
-      "verified_at": "2026-11-19",
-      "source_tier": "official",
-      "added": "2026-11-19",
-      "lead_source": "보류 해소 (캡콤 공식 페이지 원문 확인)",
-      "id": "osaka-gyakuten-saiban-25th-capcomcafe-umeda",
-      "title_ko": "역전재판 시리즈 25주년 콜라보 카페 (캡콤 스토어&카페 우메다)",
-      "area": "오사카",
-      "region": "osaka",
-      "venue": "캡콤 스토어&카페 우메다점 (LUCUA SOUTH 13층)",
-      "map_query": "大阪府大阪市北区梅田3-1-1",
-      "end": "2026-11-27",
-      "notes": "우메다는 11/27까지(이케부쿠로 11/26까지). LUCUA SOUTH 리뉴얼 기간 입장 규제 있음.",
-      "title_ja": "「逆転裁判」シリーズ25周年 コラボカフェ (カプコンカフェ)",
-      "category": "콜라보카페",
-      "start": "2026-10-09",
-      "reservation": "선택 (인터넷 예약 권장)",
-      "price": "",
-      "official_url": "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/topics/3073/",
-      "source_url": "https://www.capcom.co.jp/amusement/brands/capcomcafe-umeda/topics/2961/",
-      "summary_ko": "「역전재판」 시리즈 25주년 기념 캡콤 카페 콜라보예요. 콜라보 메뉴와 굿즈가 나와요.",
-      "summary_source": "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/topics/3073/",
-      "thumbnail": "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/wp-content/uploads/sites/5/2026/09/カフェ「逆転裁判25th」メインビジュアル-1-1024x726.jpg",
-      "thumbnail_source": "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/topics/3073/",
-      "evidence": [
-        {
-          "url": "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/topics/3073/",
-          "tier": "official",
-          "quote": "【開催期間】 2026年10月9日(金)〜2026年11月26日(木) ▼「カプコンストア&カフェ 梅田店」 大阪府大阪市北区梅田3-1-1 ルクア サウス梅田店 13F 06-4256-8248 【公式サイト】 https://www.capcom.co.jp/amusement/capcomcafe/umeda/ 【開催期間】 2026年10月9日(金)〜2026年11月27日(金)",
-          "checked": "2026-11-19"
-        }
-      ],
-      "title_ko_source": "한국 정식 발매·방영 제목 (널리 쓰이는 공식 표기)",
-      "lat": 34.70188,
-      "lon": 135.49634,
-      "thumb_small": "thumbs/da019b7adeb7c69a.webp",
-      "image_fb": "gfb/da019b7adeb7c69a.webp",
-      "image_local": "img/da019b7adeb7c69a.webp"
     },
     {
       "checked_date": "2026-11-19",
@@ -36283,9 +36204,9 @@
     },
     {
       "reservation": "불필요",
-      "checked_date": "2026-11-26",
+      "checked_date": "2026-11-28",
       "translation_check": true,
-      "verified_at": "2026-11-26",
+      "verified_at": "2026-11-28",
       "source_tier": "official",
       "added": "2026-11-26",
       "lead_source": "이로하 11/25 제보 (공식 확인)",
@@ -36300,9 +36221,9 @@
       "end": null,
       "official_url": "https://1kuji.com/products/jra",
       "source_url": "https://1kuji.com/products/jra",
-      "notes": "취급점: 로손·미니스톱·데일리 야마자키·서점·하비숍·이치방쿠지 공식숍·이치방쿠지 ONLINE 등. 상품 라인업은 아직 공식 미공개예요.",
+      "notes": "취급점: 로손·미니스톱·데일리 야마자키·서점·하비숍·이치방쿠지 공식숍·이치방쿠지 ONLINE 등. 현재 공개 상품은 A상만(B~G상·라스트원상 미공개).",
       "price": "1회 850엔",
-      "summary_ko": "경주마 테마 이치방쿠지 「서러브레드 제1R」이에요. 상품 라인업은 공식 페이지에서 아직 공개되지 않았어요.",
+      "summary_ko": "경주마 테마 이치방쿠지 「서러브레드 제1R」이에요. A상은 딥 임팩트 피규어(약 17cm)예요.",
       "summary_source": "https://1kuji.com/products/jra",
       "evidence": [
         {
@@ -36318,7 +36239,23 @@
       "thumb_kind": "product",
       "thumb_small": "thumbs/47fe50ab581bd508.webp",
       "image_fb": "gfb/47fe50ab581bd508.webp",
-      "image_local": "img/47fe50ab581bd508.webp"
+      "image_local": "img/47fe50ab581bd508.webp",
+      "gallery": [
+        {
+          "group": "A상",
+          "img": "https://assets.1kuji.com/uploads/product_item/image/107677/62355635-2b81-4097-9464-04d40f664726.webp",
+          "full": "https://assets.1kuji.com/uploads/product_item/image/107677/62355635-2b81-4097-9464-04d40f664726.webp",
+          "caption_ko": "딥 임팩트 피규어",
+          "caption_ja": "A賞 ディープインパクト フィギュア",
+          "source": "https://1kuji.com/products/jra",
+          "size": "크기 약 17cm",
+          "kinds": "전 1종",
+          "img_fb": "gfb/c52c73e34901e3e0.webp",
+          "img_local": "img/c52c73e34901e3e0.webp"
+        }
+      ],
+      "gallery_source": "https://1kuji.com/products/jra",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)"
     },
     {
       "reservation": "불필요",
@@ -38343,6 +38280,1251 @@
       "thumb_small": "thumbs/efc99760b0e35402.webp",
       "image_fb": "gfb/efc99760b0e35402.webp",
       "image_local": "img/efc99760b0e35402.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "tokyo-frieren-winter-journey-boxcafe",
+      "lead_source": "캘린더 대조(collabo-cafe.com) 후 공식 확인",
+      "title_ko": "장송의 프리렌 Cafe ~Winter Journey~ (신주쿠)",
+      "title_ja": "葬送のフリーレンCafe ～Winter Journey～",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "BOX cafe&space 루미네 에스트 신주쿠 1호점 (8층)",
+      "start": "2026-12-17",
+      "end": "2027-02-07",
+      "reservation": "사전 예약 (공식 사이트, 당일석은 공식 안내 확인)",
+      "price": "메뉴·굿즈 별도",
+      "official_url": "https://frierencafe2026.ltr-online.com/",
+      "notes": "크리스털처럼 빛나는 겨울 세계관 콘셉트. 콜라보 메뉴·굿즈 판매. 당일석·굿즈 판매 상황은 공식 사이트 안내. 연말연시 영업은 공식 안내 확인",
+      "map_query": "東京都新宿区新宿3-38-1 ルミネエスト新宿8階",
+      "lat": 35.6913,
+      "lon": 139.7006,
+      "series": "frieren-winter-journey-cafe-2026",
+      "thumbnail": "https://images.ltr-online.com/frierencafe2026/260727_frieren_KV.jpg",
+      "copyright": "©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会",
+      "summary_ko": "TV 애니메이션 『장송의 프리렌』 테마 카페예요. 크리스털처럼 빛나는 겨울 세계관 콘셉트로, 감자 포타주와 마도서 샌드 같은 메뉴와 카페 굿즈가 나와요.",
+      "title_ko_source": "한국 정식 방영 제목",
+      "evidence": [
+        {
+          "url": "https://frierencafe2026.ltr-online.com/",
+          "tier": "official",
+          "quote": "■東京 場所：BOX cafe&space ルミネエスト新宿1号店 日程：2026年12月17日（木）～2027年2月7日（日）",
+          "checked": "2026-11-28"
+        }
+      ],
+      "summary_source": "https://frierencafe2026.ltr-online.com/",
+      "source_url": "https://frierencafe2026.ltr-online.com/",
+      "thumbnail_source": "https://frierencafe2026.ltr-online.com/",
+      "gallery": [
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/0U5A1720_800_600.jpg",
+          "caption_ko": "[프리렌] 감자 포타주와 마도서 샌드",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "【フリーレン】 ジャガイモポタージュと魔導書サンド",
+          "img_fb": "gfb/48bdf5f7259bb658.webp",
+          "img_local": "img/48bdf5f7259bb658.webp"
+        },
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/0U5A1774_800_600.jpg",
+          "caption_ko": "미믹 샌드",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "ミミックサンド",
+          "img_fb": "gfb/6351b318cc0632e9.webp",
+          "img_local": "img/6351b318cc0632e9.webp"
+        },
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/0U5A1852.jpg",
+          "caption_ko": "크리스털 RUSH",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "クリスタルRUSH",
+          "img_fb": "gfb/dfb3a5aa9fd37fdf.webp",
+          "img_local": "img/dfb3a5aa9fd37fdf.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/261110_frieren_cafe_CAN badge.jpg",
+          "caption_ko": "크리스털 캔배지 (랜덤 8종)",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "クリスタル缶バッジ（ランダム８種）",
+          "img_fb": "gfb/9b75b24c5d8e0011.webp",
+          "img_local": "img/9b75b24c5d8e0011.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/261110_frieren_cafe_Acrylkey.jpg",
+          "caption_ko": "2연 아크릴 키홀더 (랜덤 4종)",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "２連アクリルキーホルダー（ランダム４種）",
+          "img_fb": "gfb/048e7430344a8ebf.webp",
+          "img_local": "img/048e7430344a8ebf.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/261110_frieren_cafe_mag.jpg",
+          "caption_ko": "수프 머그컵",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "スープマグカップ",
+          "img_fb": "gfb/40063fba1573dd3c.webp",
+          "img_local": "img/40063fba1573dd3c.webp"
+        }
+      ],
+      "gallery_source": "https://frierencafe2026.ltr-online.com/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/1ab7bf476e6a492a.webp",
+      "image_fb": "gfb/1ab7bf476e6a492a.webp",
+      "image_local": "img/1ab7bf476e6a492a.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "osaka-frieren-winter-journey-boxcafe",
+      "lead_source": "캘린더 대조(collabo-cafe.com) 후 공식 확인",
+      "title_ko": "장송의 프리렌 Cafe ~Winter Journey~ (덴노지)",
+      "title_ja": "葬送のフリーレンCafe ～Winter Journey～",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "BOX cafe&space 덴노지 MIO점 (본관 11층)",
+      "start": "2026-12-17",
+      "end": "2027-01-17",
+      "reservation": "사전 예약 (공식 사이트, 당일석은 공식 안내 확인)",
+      "price": "메뉴·굿즈 별도",
+      "official_url": "https://frierencafe2026.ltr-online.com/",
+      "notes": "크리스털처럼 빛나는 겨울 세계관 콘셉트. 콜라보 메뉴·굿즈 판매. 당일석·굿즈 판매 상황은 공식 사이트 안내. 연말연시 영업은 공식 안내 확인",
+      "map_query": "大阪府大阪市天王寺区悲田院町10-39 天王寺MIO本館11F",
+      "lat": 34.647064,
+      "lon": 135.513474,
+      "series": "frieren-winter-journey-cafe-2026",
+      "thumbnail": "https://images.ltr-online.com/frierencafe2026/260727_frieren_KV.jpg",
+      "copyright": "©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会",
+      "summary_ko": "TV 애니메이션 『장송의 프리렌』 테마 카페예요. 크리스털처럼 빛나는 겨울 세계관 콘셉트로, 감자 포타주와 마도서 샌드 같은 메뉴와 카페 굿즈가 나와요.",
+      "title_ko_source": "한국 정식 방영 제목",
+      "evidence": [
+        {
+          "url": "https://frierencafe2026.ltr-online.com/",
+          "tier": "official",
+          "quote": "■大阪 場所：BOX cafe&space 天王寺MIO店 日程：2026年12月17日（木）～2027年1月17日（日）",
+          "checked": "2026-11-28"
+        }
+      ],
+      "summary_source": "https://frierencafe2026.ltr-online.com/",
+      "source_url": "https://frierencafe2026.ltr-online.com/",
+      "thumbnail_source": "https://frierencafe2026.ltr-online.com/",
+      "gallery": [
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/0U5A1720_800_600.jpg",
+          "caption_ko": "[프리렌] 감자 포타주와 마도서 샌드",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "【フリーレン】 ジャガイモポタージュと魔導書サンド",
+          "img_fb": "gfb/48bdf5f7259bb658.webp",
+          "img_local": "img/48bdf5f7259bb658.webp"
+        },
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/0U5A1774_800_600.jpg",
+          "caption_ko": "미믹 샌드",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "ミミックサンド",
+          "img_fb": "gfb/6351b318cc0632e9.webp",
+          "img_local": "img/6351b318cc0632e9.webp"
+        },
+        {
+          "group": "카페 메뉴 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/0U5A1852.jpg",
+          "caption_ko": "크리스털 RUSH",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "クリスタルRUSH",
+          "img_fb": "gfb/dfb3a5aa9fd37fdf.webp",
+          "img_local": "img/dfb3a5aa9fd37fdf.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/261110_frieren_cafe_CAN badge.jpg",
+          "caption_ko": "크리스털 캔배지 (랜덤 8종)",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "クリスタル缶バッジ（ランダム８種）",
+          "img_fb": "gfb/9b75b24c5d8e0011.webp",
+          "img_local": "img/9b75b24c5d8e0011.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/261110_frieren_cafe_Acrylkey.jpg",
+          "caption_ko": "2연 아크릴 키홀더 (랜덤 4종)",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "２連アクリルキーホルダー（ランダム４種）",
+          "img_fb": "gfb/048e7430344a8ebf.webp",
+          "img_local": "img/048e7430344a8ebf.webp"
+        },
+        {
+          "group": "오리지널 굿즈 (공식)",
+          "img": "https://images.ltr-online.com/frierencafe2026/261110_frieren_cafe_mag.jpg",
+          "caption_ko": "수프 머그컵",
+          "source": "https://frierencafe2026.ltr-online.com/",
+          "caption_ja": "スープマグカップ",
+          "img_fb": "gfb/40063fba1573dd3c.webp",
+          "img_local": "img/40063fba1573dd3c.webp"
+        }
+      ],
+      "gallery_source": "https://frierencafe2026.ltr-online.com/",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/1ab7bf476e6a492a.webp",
+      "image_fb": "gfb/1ab7bf476e6a492a.webp",
+      "image_local": "img/1ab7bf476e6a492a.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "tokyo-tsukiuta-sixgravity-oshiado-harajuku",
+      "lead_source": "캘린더 대조(collabo-cafe.com) 후 공식 확인",
+      "title_ko": "츠키우타。 Six Gravity × 홍차 전문점 오시아도 콜라보 카페 (하라주쿠·다이칸야마)",
+      "title_ja": "ツキウタ。SixGravity × 紅茶専門店オシアド",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "홍차 전문점 오시아도 하라주쿠 (2층) · 홍차 전문점 테시에 다이칸야마점",
+      "start": "2026-12-01",
+      "end": "2027-01-11",
+      "reservation": "하라주쿠: 사전 예약(LivePocket, 추첨·80분제) / 다이칸야마: 예약 불필요",
+      "price": "하라주쿠 입장 티켓 980엔 (아크릴 코스터 6종 랜덤 1개 포함, 전·후반 교체)",
+      "official_url": "https://oshiado.base.shop/p/00031",
+      "notes": "하라주쿠: 콜라보 드링크·푸드·굿즈 판매, 1인 1품 이상 주문. 다이칸야마: 콜라보 드링크·홍차만 판매, 예약 불필요(12:00~20:00, 평일 16~17시 아이들링 타임). 12/8 이후 예약 방법·일정은 오시아도 공식 X에서 공지. 자리가 남으면 전화 문의 후 당일 이용 가능. 연말연시 영업은 공식 안내 확인",
+      "map_query": "東京都渋谷区神宮前1-19-1 紅茶専門店オシアド原宿",
+      "lat": 35.671711,
+      "lon": 139.704208,
+      "summary_ko": "『츠키우타。』 Six Gravity와 홍차 전문점 오시아도의 콜라보 카페예요. 하라주쿠점은 콜라보 드링크·푸드와 굿즈, 다이칸야마점은 콜라보 드링크와 홍차를 팔아요.",
+      "evidence": [
+        {
+          "url": "https://oshiado.base.shop/p/00031",
+          "tier": "official",
+          "quote": "○開催場所日時 紅茶専門店オシアド原宿 2026年12月1日(火)～2027年1月11日(月) 東京都渋谷区神宮前1-19-1 2階 ＊コラボドリンク＆フード、グッズ販売 ＊通常営業あり",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://oshiado.base.shop/p/00031",
+      "source_url": "https://oshiado.base.shop/p/00031"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "tokyo-chiikawa-tokyobanana-popup-ueno",
+      "lead_source": "캘린더 대조(collabo-cafe.com) 후 공식 확인",
+      "title_ko": "치이카와 × 도쿄바나나 POP UP STORE (JR 우에노역)",
+      "title_ja": "ちいかわ×東京ばな奈 ポップアップストア",
+      "category": "팝업스토어",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "JR 우에노역 중앙 개찰구 밖 그랜드 콘코스 행사장",
+      "start": "2026-12-01",
+      "end": "2026-12-21",
+      "reservation": "불필요",
+      "price": "상품별 (공식 안내)",
+      "official_url": "https://www.tokyobanana.jp/products/banana_chiikawa.html",
+      "notes": "12/1은 12:00~21:00, 12/2부터 10:00~21:00, 마지막 날 12/21은 17:00 종료. 수량 한정·조기 품절 가능",
+      "map_query": "東京都台東区上野7-1-1 JR上野駅",
+      "lat": 35.713696,
+      "lon": 139.776917,
+      "thumbnail": "https://www.tokyobanana.jp/assets/chiikawa/images/top/top_cake.png",
+      "summary_ko": "『치이카와』와 도쿄바나나 콜라보 과자 팝업이에요. 치이카와 바나나 푸딩 케이크·쿠키 샌드 등을 JR 우에노역 행사장에서 기간 한정으로 팔아요.",
+      "evidence": [
+        {
+          "url": "https://www.tokyobanana.jp/products/banana_chiikawa.html",
+          "tier": "official",
+          "quote": "JR上野駅 中央改札外グランドコンコース催事 ［開催期間］2026年12月1日(火)～12月21日(月) 営業時間：下記のとおり、営業時間が異なる日がございます。 12月1日(火) 午後12時～午後9時 12月2日(水)以降 午前10時～午後9時 12月21日(月)最終日 午前10時～午後5時",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://www.tokyobanana.jp/products/banana_chiikawa.html",
+      "source_url": "https://www.tokyobanana.jp/products/banana_chiikawa.html",
+      "thumbnail_source": "https://www.tokyobanana.jp/products/banana_chiikawa.html",
+      "gallery": [
+        {
+          "group": "상품 (공식)",
+          "img": "https://www.tokyobanana.jp/assets/chiikawa/images/top/top_cake.png",
+          "caption_ko": "치이카와 바나나 푸딩 케이크",
+          "source": "https://www.tokyobanana.jp/products/banana_chiikawa.html",
+          "caption_ja": "ちいかわ バナナプリンケーキ",
+          "img_fb": "gfb/d4632c6d465930f4.webp",
+          "img_local": "img/d4632c6d465930f4.webp"
+        },
+        {
+          "group": "상품 (공식)",
+          "img": "https://www.tokyobanana.jp/assets/chiikawa/images/top/top_sand.png",
+          "caption_ko": "치이카와 쿠키 샌드",
+          "source": "https://www.tokyobanana.jp/products/banana_chiikawa.html",
+          "caption_ja": "クッキーサンド",
+          "img_fb": "gfb/ec6429de80fcf374.webp",
+          "img_local": "img/ec6429de80fcf374.webp"
+        },
+        {
+          "group": "상품 (공식)",
+          "img": "https://www.tokyobanana.jp/assets/chiikawa/images/top/top_ecobag.png",
+          "caption_ko": "에코백",
+          "source": "https://www.tokyobanana.jp/products/banana_chiikawa.html",
+          "caption_ja": "エコバッグ",
+          "img_fb": "gfb/5fe496cf54e7debc.webp",
+          "img_local": "img/5fe496cf54e7debc.webp"
+        }
+      ],
+      "gallery_source": "https://www.tokyobanana.jp/products/banana_chiikawa.html",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/d4632c6d465930f4.webp",
+      "image_fb": "gfb/d4632c6d465930f4.webp",
+      "image_local": "img/d4632c6d465930f4.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "tokyo-ooe-switch-gratte",
+      "lead_source": "캘린더 대조(collabo-cafe.com·애니메이트 그라테 목록) 후 공식 확인",
+      "title_ko": "오에(大穢) Nintendo Switch 발매 기념 그라테 (이케부쿠로 본점 외 도쿄)",
+      "title_ja": "大穢 Nintendo Switch発売記念Gratte",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "애니메이트 그라테 이케부쿠로 본점 외 (아키하바라 ANNEX·애니메이트 거리점·시부야·기치조지 파르코)",
+      "start": "2026-12-24",
+      "end": "2027-01-24",
+      "reservation": "불필요",
+      "price": "유상 특전 트레이딩 아크릴 코스터 +500엔 (메뉴 1점당)",
+      "official_url": "https://www.animate.co.jp/gratte/54024/",
+      "notes": "라테·쿠키: 이케부쿠로 본점·아키하바라 ANNEX / 라테·쿠키·아이스: 애니메이트 거리점·시부야·기치조지 파르코. 혼잡 시 정리권·구매 수 제한 가능. 연말연시 영업은 각 매장 안내 확인",
+      "map_query": "東京都豊島区東池袋1-20-7 アニメイト池袋本店",
+      "lat": 35.7303,
+      "lon": 139.7152,
+      "series": "ooe-switch-gratte-2026",
+      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/11/1794210853-12b452c08f9bde00f6db82f333b81551-1920x1356.jpg",
+      "summary_ko": "BL 노벨 게임 『오에(大穢)』 Nintendo Switch판 발매 기념 애니메이트 그라테예요. 라테·아이싱 쿠키(일부 점포 아이스)와 유상 특전 트레이딩 아크릴 코스터(전 4종)가 나와요.",
+      "evidence": [
+        {
+          "url": "https://www.animate.co.jp/gratte/54024/",
+          "tier": "official",
+          "quote": "催期間 2026年12月24日(木)～2027年1月24日(日) ラテ・クッキー 販売店舗 アニメイトグラッテ池袋本店・秋葉原ANNEX・横浜ビブレ・名古屋・大阪日本橋・岡山 ラテ・クッキー・アイス 販売店舗 アニメイトグラッテアニメイト通り店・渋谷・吉祥寺パルコ・仙台・梅田・ラシック福岡天神",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://www.animate.co.jp/gratte/54024/",
+      "source_url": "https://www.animate.co.jp/gratte/54024/",
+      "thumbnail_source": "https://www.animate.co.jp/gratte/54024/",
+      "copyright": "©ADELTA",
+      "gallery": [
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2027/11/1795057152-b5c8fb4873ca4fa52d1e0017060781ab-1920x1356.jpg",
+          "caption_ko": "메뉴 안내 이미지",
+          "source": "https://www.animate.co.jp/gratte/54024/",
+          "img_fb": "gfb/b77bb0e668c9666a.webp",
+          "img_local": "img/b77bb0e668c9666a.webp"
+        },
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2027/11/1794791815-ffc60246e0f7986b1514369661dd1b4b.jpg",
+          "caption_ko": "유상 특전 트레이딩 아크릴 코스터 (전 4종)",
+          "source": "https://www.animate.co.jp/gratte/54024/",
+          "caption_ja": "有償特典：トレーディングアクリルコースター（全4種）",
+          "img_fb": "gfb/9d4a25bcf7cc6c94.webp",
+          "img_local": "img/9d4a25bcf7cc6c94.webp"
+        }
+      ],
+      "gallery_source": "https://www.animate.co.jp/gratte/54024/",
+      "gallery_note": "이미지는 애니메이트 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/cf475b5d99451074.webp",
+      "image_fb": "gfb/cf475b5d99451074.webp",
+      "image_local": "img/cf475b5d99451074.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "osaka-ooe-switch-gratte",
+      "lead_source": "캘린더 대조(collabo-cafe.com·애니메이트 그라테 목록) 후 공식 확인",
+      "title_ko": "오에(大穢) Nintendo Switch 발매 기념 그라테 (애니메이트 우메다·오사카 닛폰바시)",
+      "title_ja": "大穢 Nintendo Switch発売記念Gratte",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "애니메이트 우메다 (라테·쿠키·아이스) · 애니메이트 오사카 닛폰바시 (라테·쿠키)",
+      "start": "2026-12-24",
+      "end": "2027-01-24",
+      "reservation": "불필요",
+      "price": "유상 특전 트레이딩 아크릴 코스터 +500엔 (메뉴 1점당)",
+      "official_url": "https://www.animate.co.jp/gratte/54024/",
+      "notes": "혼잡 시 정리권·구매 수 제한 가능. 연말연시 영업은 각 매장 안내 확인",
+      "map_query": "大阪府大阪市北区茶屋町10-12 NU茶屋町3階 アニメイト梅田",
+      "lat": 34.7047,
+      "lon": 135.4959,
+      "series": "ooe-switch-gratte-2026",
+      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/11/1794210853-12b452c08f9bde00f6db82f333b81551-1920x1356.jpg",
+      "summary_ko": "BL 노벨 게임 『오에(大穢)』 Nintendo Switch판 발매 기념 애니메이트 그라테예요. 라테·아이싱 쿠키(일부 점포 아이스)와 유상 특전 트레이딩 아크릴 코스터(전 4종)가 나와요.",
+      "evidence": [
+        {
+          "url": "https://www.animate.co.jp/gratte/54024/",
+          "tier": "official",
+          "quote": "催期間 2026年12月24日(木)～2027年1月24日(日) ラテ・クッキー 販売店舗 アニメイトグラッテ池袋本店・秋葉原ANNEX・横浜ビブレ・名古屋・大阪日本橋・岡山 ラテ・クッキー・アイス 販売店舗 アニメイトグラッテアニメイト通り店・渋谷・吉祥寺パルコ・仙台・梅田・ラシック福岡天神",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://www.animate.co.jp/gratte/54024/",
+      "source_url": "https://www.animate.co.jp/gratte/54024/",
+      "thumbnail_source": "https://www.animate.co.jp/gratte/54024/",
+      "copyright": "©ADELTA",
+      "gallery": [
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2027/11/1795057152-b5c8fb4873ca4fa52d1e0017060781ab-1920x1356.jpg",
+          "caption_ko": "메뉴 안내 이미지",
+          "source": "https://www.animate.co.jp/gratte/54024/",
+          "img_fb": "gfb/b77bb0e668c9666a.webp",
+          "img_local": "img/b77bb0e668c9666a.webp"
+        },
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2027/11/1794791815-ffc60246e0f7986b1514369661dd1b4b.jpg",
+          "caption_ko": "유상 특전 트레이딩 아크릴 코스터 (전 4종)",
+          "source": "https://www.animate.co.jp/gratte/54024/",
+          "caption_ja": "有償特典：トレーディングアクリルコースター（全4種）",
+          "img_fb": "gfb/9d4a25bcf7cc6c94.webp",
+          "img_local": "img/9d4a25bcf7cc6c94.webp"
+        }
+      ],
+      "gallery_source": "https://www.animate.co.jp/gratte/54024/",
+      "gallery_note": "이미지는 애니메이트 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/cf475b5d99451074.webp",
+      "image_fb": "gfb/cf475b5d99451074.webp",
+      "image_local": "img/cf475b5d99451074.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "fukuoka-ooe-switch-gratte",
+      "lead_source": "캘린더 대조(collabo-cafe.com·애니메이트 그라테 목록) 후 공식 확인",
+      "title_ko": "오에(大穢) Nintendo Switch 발매 기념 그라테 (애니메이트 라식 후쿠오카 텐진)",
+      "title_ja": "大穢 Nintendo Switch発売記念Gratte",
+      "category": "콜라보카페",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "애니메이트 라식 후쿠오카 텐진 (라테·쿠키·아이스)",
+      "start": "2026-12-24",
+      "end": "2027-01-24",
+      "reservation": "불필요",
+      "price": "유상 특전 트레이딩 아크릴 코스터 +500엔 (메뉴 1점당)",
+      "official_url": "https://www.animate.co.jp/gratte/54024/",
+      "notes": "혼잡 시 정리권·구매 수 제한 가능. 연말연시 영업은 각 매장 안내 확인",
+      "map_query": "福岡県福岡市中央区天神2-1-1 ラシック福岡天神8階",
+      "lat": 33.587925,
+      "lon": 130.400894,
+      "series": "ooe-switch-gratte-2026",
+      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/11/1794210853-12b452c08f9bde00f6db82f333b81551-1920x1356.jpg",
+      "summary_ko": "BL 노벨 게임 『오에(大穢)』 Nintendo Switch판 발매 기념 애니메이트 그라테예요. 라테·아이싱 쿠키(일부 점포 아이스)와 유상 특전 트레이딩 아크릴 코스터(전 4종)가 나와요.",
+      "evidence": [
+        {
+          "url": "https://www.animate.co.jp/gratte/54024/",
+          "tier": "official",
+          "quote": "催期間 2026年12月24日(木)～2027年1月24日(日) ラテ・クッキー 販売店舗 アニメイトグラッテ池袋本店・秋葉原ANNEX・横浜ビブレ・名古屋・大阪日本橋・岡山 ラテ・クッキー・アイス 販売店舗 アニメイトグラッテアニメイト通り店・渋谷・吉祥寺パルコ・仙台・梅田・ラシック福岡天神",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://www.animate.co.jp/gratte/54024/",
+      "source_url": "https://www.animate.co.jp/gratte/54024/",
+      "thumbnail_source": "https://www.animate.co.jp/gratte/54024/",
+      "copyright": "©ADELTA",
+      "gallery": [
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2027/11/1795057152-b5c8fb4873ca4fa52d1e0017060781ab-1920x1356.jpg",
+          "caption_ko": "메뉴 안내 이미지",
+          "source": "https://www.animate.co.jp/gratte/54024/",
+          "img_fb": "gfb/b77bb0e668c9666a.webp",
+          "img_local": "img/b77bb0e668c9666a.webp"
+        },
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2027/11/1794791815-ffc60246e0f7986b1514369661dd1b4b.jpg",
+          "caption_ko": "유상 특전 트레이딩 아크릴 코스터 (전 4종)",
+          "source": "https://www.animate.co.jp/gratte/54024/",
+          "caption_ja": "有償特典：トレーディングアクリルコースター（全4種）",
+          "img_fb": "gfb/9d4a25bcf7cc6c94.webp",
+          "img_local": "img/9d4a25bcf7cc6c94.webp"
+        }
+      ],
+      "gallery_source": "https://www.animate.co.jp/gratte/54024/",
+      "gallery_note": "이미지는 애니메이트 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/cf475b5d99451074.webp",
+      "image_fb": "gfb/cf475b5d99451074.webp",
+      "image_local": "img/cf475b5d99451074.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "tokyo-rofmao-newarrivals-gratte",
+      "lead_source": "캘린더 대조(collabo-cafe.com·애니메이트 그라테 목록) 후 공식 확인",
+      "title_ko": "니지산지 ROF-MAO New Arrivals 페어 개최 기념 그라테 (이케부쿠로 본점 외 도쿄)",
+      "title_ja": "にじさんじ ROF-MAO New Arrivals フェア開催記念×Gratte",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "애니메이트 그라테 이케부쿠로 본점 외 (아키하바라 ANNEX·애니메이트 거리점·시부야·기치조지 파르코)",
+      "start": "2026-11-28",
+      "end": "2026-12-20",
+      "reservation": "불필요",
+      "price": "메뉴 별도 (니지산지 관련 굿즈·콜라보 음식 2,200엔마다 코스터 1장)",
+      "official_url": "https://www.animate.co.jp/gratte/52092/",
+      "notes": "혼잡 시 정리권·구매 수 제한 가능. 연말연시 영업은 각 매장 안내 확인",
+      "map_query": "東京都豊島区東池袋1-20-7 アニメイト池袋本店",
+      "lat": 35.7303,
+      "lon": 139.7152,
+      "series": "rofmao-newarrivals-gratte-2026",
+      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/10/1792112671-d19334de99d680279d8bdee041bafe1a-1920x1356.jpg",
+      "summary_ko": "니지산지 ROF-MAO 「New Arrivals」 페어 개최 기념 애니메이트 그라테예요. 페어 기간에 니지산지 굿즈·그라테 콜라보 음식을 2,200엔(세금 포함)어치 살 때마다 코스터(전 3종)를 1장 줘요.",
+      "evidence": [
+        {
+          "url": "https://www.animate.co.jp/gratte/52092/",
+          "tier": "official",
+          "quote": "開催期間 2026年11月28日（土） ～2026年12月20日（日） 対象店舗 アニメイトグラッテアニメイト通り店・池袋本店・秋葉原ANNEX・渋谷・吉祥寺パルコ・横浜ビブレ・仙台・名古屋・大阪日本橋・梅田・岡山・ラシック福岡天神",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://www.animate.co.jp/gratte/52092/",
+      "source_url": "https://www.animate.co.jp/gratte/52092/",
+      "thumbnail_source": "https://www.animate.co.jp/gratte/52092/",
+      "copyright": "©ANYCOLOR, Inc.",
+      "gallery": [
+        {
+          "group": "메뉴 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/9000/10/1795050645-62ee5714cb7adbe2b7e35eb9d2c5c478-1920x1356.jpg",
+          "caption_ko": "메뉴 안내 이미지",
+          "source": "https://www.animate.co.jp/gratte/52092/",
+          "img_fb": "gfb/184edb4e19a12194.webp",
+          "img_local": "img/184edb4e19a12194.webp"
+        }
+      ],
+      "gallery_source": "https://www.animate.co.jp/gratte/52092/",
+      "gallery_note": "이미지는 애니메이트 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/512f852032a169f8.webp",
+      "image_fb": "gfb/512f852032a169f8.webp",
+      "image_local": "img/512f852032a169f8.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "osaka-rofmao-newarrivals-gratte",
+      "lead_source": "캘린더 대조(collabo-cafe.com·애니메이트 그라테 목록) 후 공식 확인",
+      "title_ko": "니지산지 ROF-MAO New Arrivals 페어 개최 기념 그라테 (애니메이트 우메다·오사카 닛폰바시)",
+      "title_ja": "にじさんじ ROF-MAO New Arrivals フェア開催記念×Gratte",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "애니메이트 우메다 · 애니메이트 오사카 닛폰바시",
+      "start": "2026-11-28",
+      "end": "2026-12-20",
+      "reservation": "불필요",
+      "price": "메뉴 별도 (니지산지 관련 굿즈·콜라보 음식 2,200엔마다 코스터 1장)",
+      "official_url": "https://www.animate.co.jp/gratte/52092/",
+      "notes": "혼잡 시 정리권·구매 수 제한 가능. 연말연시 영업은 각 매장 안내 확인",
+      "map_query": "大阪府大阪市北区茶屋町10-12 NU茶屋町3階 アニメイト梅田",
+      "lat": 34.7047,
+      "lon": 135.4959,
+      "series": "rofmao-newarrivals-gratte-2026",
+      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/10/1792112671-d19334de99d680279d8bdee041bafe1a-1920x1356.jpg",
+      "summary_ko": "니지산지 ROF-MAO 「New Arrivals」 페어 개최 기념 애니메이트 그라테예요. 페어 기간에 니지산지 굿즈·그라테 콜라보 음식을 2,200엔(세금 포함)어치 살 때마다 코스터(전 3종)를 1장 줘요.",
+      "evidence": [
+        {
+          "url": "https://www.animate.co.jp/gratte/52092/",
+          "tier": "official",
+          "quote": "開催期間 2026年11月28日（土） ～2026年12月20日（日） 対象店舗 アニメイトグラッテアニメイト通り店・池袋本店・秋葉原ANNEX・渋谷・吉祥寺パルコ・横浜ビブレ・仙台・名古屋・大阪日本橋・梅田・岡山・ラシック福岡天神",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://www.animate.co.jp/gratte/52092/",
+      "source_url": "https://www.animate.co.jp/gratte/52092/",
+      "thumbnail_source": "https://www.animate.co.jp/gratte/52092/",
+      "copyright": "©ANYCOLOR, Inc.",
+      "gallery": [
+        {
+          "group": "메뉴 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/9000/10/1795050645-62ee5714cb7adbe2b7e35eb9d2c5c478-1920x1356.jpg",
+          "caption_ko": "메뉴 안내 이미지",
+          "source": "https://www.animate.co.jp/gratte/52092/",
+          "img_fb": "gfb/184edb4e19a12194.webp",
+          "img_local": "img/184edb4e19a12194.webp"
+        }
+      ],
+      "gallery_source": "https://www.animate.co.jp/gratte/52092/",
+      "gallery_note": "이미지는 애니메이트 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/512f852032a169f8.webp",
+      "image_fb": "gfb/512f852032a169f8.webp",
+      "image_local": "img/512f852032a169f8.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "fukuoka-rofmao-newarrivals-gratte",
+      "lead_source": "캘린더 대조(collabo-cafe.com·애니메이트 그라테 목록) 후 공식 확인",
+      "title_ko": "니지산지 ROF-MAO New Arrivals 페어 개최 기념 그라테 (애니메이트 라식 후쿠오카 텐진)",
+      "title_ja": "にじさんじ ROF-MAO New Arrivals フェア開催記念×Gratte",
+      "category": "콜라보카페",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "애니메이트 라식 후쿠오카 텐진",
+      "start": "2026-11-28",
+      "end": "2026-12-20",
+      "reservation": "불필요",
+      "price": "메뉴 별도 (니지산지 관련 굿즈·콜라보 음식 2,200엔마다 코스터 1장)",
+      "official_url": "https://www.animate.co.jp/gratte/52092/",
+      "notes": "혼잡 시 정리권·구매 수 제한 가능. 연말연시 영업은 각 매장 안내 확인",
+      "map_query": "福岡県福岡市中央区天神2-1-1 ラシック福岡天神8階",
+      "lat": 33.587925,
+      "lon": 130.400894,
+      "series": "rofmao-newarrivals-gratte-2026",
+      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/10/1792112671-d19334de99d680279d8bdee041bafe1a-1920x1356.jpg",
+      "summary_ko": "니지산지 ROF-MAO 「New Arrivals」 페어 개최 기념 애니메이트 그라테예요. 페어 기간에 니지산지 굿즈·그라테 콜라보 음식을 2,200엔(세금 포함)어치 살 때마다 코스터(전 3종)를 1장 줘요.",
+      "evidence": [
+        {
+          "url": "https://www.animate.co.jp/gratte/52092/",
+          "tier": "official",
+          "quote": "開催期間 2026年11月28日（土） ～2026年12月20日（日） 対象店舗 アニメイトグラッテアニメイト通り店・池袋本店・秋葉原ANNEX・渋谷・吉祥寺パルコ・横浜ビブレ・仙台・名古屋・大阪日本橋・梅田・岡山・ラシック福岡天神",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://www.animate.co.jp/gratte/52092/",
+      "source_url": "https://www.animate.co.jp/gratte/52092/",
+      "thumbnail_source": "https://www.animate.co.jp/gratte/52092/",
+      "copyright": "©ANYCOLOR, Inc.",
+      "gallery": [
+        {
+          "group": "메뉴 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/9000/10/1795050645-62ee5714cb7adbe2b7e35eb9d2c5c478-1920x1356.jpg",
+          "caption_ko": "메뉴 안내 이미지",
+          "source": "https://www.animate.co.jp/gratte/52092/",
+          "img_fb": "gfb/184edb4e19a12194.webp",
+          "img_local": "img/184edb4e19a12194.webp"
+        }
+      ],
+      "gallery_source": "https://www.animate.co.jp/gratte/52092/",
+      "gallery_note": "이미지는 애니메이트 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/512f852032a169f8.webp",
+      "image_fb": "gfb/512f852032a169f8.webp",
+      "image_local": "img/512f852032a169f8.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "tokyo-kuroshitsuji-20th-gratte-1",
+      "lead_source": "캘린더 대조(collabo-cafe.com·애니메이트 그라테 목록) 후 공식 확인",
+      "title_ko": "흑집사 20주년 기념 프로젝트 in 애니메이트 개최 기념 그라테 (제1탄) (이케부쿠로 본점 외 도쿄)",
+      "title_ja": "「黒執事 20周年記念プロジェクト in アニメイト」開催記念グラッテ 第一弾",
+      "category": "콜라보카페",
+      "area": "도쿄",
+      "region": "tokyo",
+      "venue": "애니메이트 그라테 이케부쿠로 본점 외 (아키하바라 ANNEX·애니메이트 거리점·시부야·기치조지 파르코)",
+      "start": "2026-12-14",
+      "end": "2027-01-31",
+      "reservation": "불필요",
+      "price": "유상 특전 트레이딩 아크릴 코스터 +550엔 (메뉴 1점당)",
+      "official_url": "https://www.animate.co.jp/gratte/53842/",
+      "notes": "라테·쿠키: 이케부쿠로 본점·아키하바라 ANNEX / 라테·쿠키·아이스: 애니메이트 거리점·시부야·기치조지 파르코. 혼잡 시 정리권·구매 수 제한 가능. 연말연시 영업은 각 매장 안내 확인",
+      "map_query": "東京都豊島区東池袋1-20-7 アニメイト池袋本店",
+      "lat": 35.7303,
+      "lon": 139.7152,
+      "series": "kuroshitsuji-20th-gratte-1-2026",
+      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/11/1793936525-423eebc2e7c82eee3d8c2505f4917931-1920x1356.jpg",
+      "summary_ko": "『흑집사』 20주년 기념 프로젝트 개최 기념 애니메이트 그라테 제1탄이에요. 라테·아이싱 쿠키(일부 점포 아이스)와 유상 특전 트레이딩 아크릴 코스터(10종)가 나와요. 제2탄은 2027년 3/1부터예요.",
+      "evidence": [
+        {
+          "url": "https://www.animate.co.jp/gratte/53842/",
+          "tier": "official",
+          "quote": "【第一弾】開催期間 2026年12月14日（月）～2027年1月31日（日） 【第二弾】開催期間 2027年3月1日（月）～2027年5月5日（水・祝） ラテ・クッキー 販売店舗 アニメイトグラッテ池袋本店・秋葉原ANNEX・横浜ビブレ・名古屋・大阪日本橋・岡山 ラテ・クッキー・アイス 販売店舗 アニメイトグラッテアニメイト通り店・渋谷・吉祥寺パルコ・仙台・梅田・ラシック福岡天神",
+          "checked": "2026-11-28"
+        }
+      ],
+      "title_ko_source": "한국 정식 출간·방영 제목",
+      "summary_source": "https://www.animate.co.jp/gratte/53842/",
+      "source_url": "https://www.animate.co.jp/gratte/53842/",
+      "thumbnail_source": "https://www.animate.co.jp/gratte/53842/",
+      "gallery": [
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2026/11/1793936558-52e86bf3f00329c91ed664b36f5497ad-1920x1356.jpg",
+          "caption_ko": "제1탄 메뉴 안내 이미지",
+          "source": "https://www.animate.co.jp/gratte/53842/",
+          "img_fb": "gfb/41fb959e702fb1a3.webp",
+          "img_local": "img/41fb959e702fb1a3.webp"
+        },
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2026/11/1793936540-efeecf8f00089fea9d28af55a921cfea.jpg",
+          "caption_ko": "제1탄 유상 특전 트레이딩 아크릴 코스터 (10종)",
+          "source": "https://www.animate.co.jp/gratte/53842/",
+          "caption_ja": "有償特典：トレーディングアクリルコースター（10種）",
+          "img_fb": "gfb/2fab48407f47f562.webp",
+          "img_local": "img/2fab48407f47f562.webp"
+        }
+      ],
+      "gallery_source": "https://www.animate.co.jp/gratte/53842/",
+      "gallery_note": "이미지는 애니메이트 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/993cf7a05ac2ed7b.webp",
+      "image_fb": "gfb/993cf7a05ac2ed7b.webp",
+      "image_local": "img/993cf7a05ac2ed7b.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "osaka-kuroshitsuji-20th-gratte-1",
+      "lead_source": "캘린더 대조(collabo-cafe.com·애니메이트 그라테 목록) 후 공식 확인",
+      "title_ko": "흑집사 20주년 기념 프로젝트 in 애니메이트 개최 기념 그라테 (제1탄) (애니메이트 우메다·오사카 닛폰바시)",
+      "title_ja": "「黒執事 20周年記念プロジェクト in アニメイト」開催記念グラッテ 第一弾",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "애니메이트 우메다 (라테·쿠키·아이스) · 애니메이트 오사카 닛폰바시 (라테·쿠키)",
+      "start": "2026-12-14",
+      "end": "2027-01-31",
+      "reservation": "불필요",
+      "price": "유상 특전 트레이딩 아크릴 코스터 +550엔 (메뉴 1점당)",
+      "official_url": "https://www.animate.co.jp/gratte/53842/",
+      "notes": "혼잡 시 정리권·구매 수 제한 가능. 연말연시 영업은 각 매장 안내 확인",
+      "map_query": "大阪府大阪市北区茶屋町10-12 NU茶屋町3階 アニメイト梅田",
+      "lat": 34.7047,
+      "lon": 135.4959,
+      "series": "kuroshitsuji-20th-gratte-1-2026",
+      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/11/1793936525-423eebc2e7c82eee3d8c2505f4917931-1920x1356.jpg",
+      "summary_ko": "『흑집사』 20주년 기념 프로젝트 개최 기념 애니메이트 그라테 제1탄이에요. 라테·아이싱 쿠키(일부 점포 아이스)와 유상 특전 트레이딩 아크릴 코스터(10종)가 나와요. 제2탄은 2027년 3/1부터예요.",
+      "evidence": [
+        {
+          "url": "https://www.animate.co.jp/gratte/53842/",
+          "tier": "official",
+          "quote": "【第一弾】開催期間 2026年12月14日（月）～2027年1月31日（日） 【第二弾】開催期間 2027年3月1日（月）～2027年5月5日（水・祝） ラテ・クッキー 販売店舗 アニメイトグラッテ池袋本店・秋葉原ANNEX・横浜ビブレ・名古屋・大阪日本橋・岡山 ラテ・クッキー・アイス 販売店舗 アニメイトグラッテアニメイト通り店・渋谷・吉祥寺パルコ・仙台・梅田・ラシック福岡天神",
+          "checked": "2026-11-28"
+        }
+      ],
+      "title_ko_source": "한국 정식 출간·방영 제목",
+      "summary_source": "https://www.animate.co.jp/gratte/53842/",
+      "source_url": "https://www.animate.co.jp/gratte/53842/",
+      "thumbnail_source": "https://www.animate.co.jp/gratte/53842/",
+      "gallery": [
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2026/11/1793936558-52e86bf3f00329c91ed664b36f5497ad-1920x1356.jpg",
+          "caption_ko": "제1탄 메뉴 안내 이미지",
+          "source": "https://www.animate.co.jp/gratte/53842/",
+          "img_fb": "gfb/41fb959e702fb1a3.webp",
+          "img_local": "img/41fb959e702fb1a3.webp"
+        },
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2026/11/1793936540-efeecf8f00089fea9d28af55a921cfea.jpg",
+          "caption_ko": "제1탄 유상 특전 트레이딩 아크릴 코스터 (10종)",
+          "source": "https://www.animate.co.jp/gratte/53842/",
+          "caption_ja": "有償特典：トレーディングアクリルコースター（10種）",
+          "img_fb": "gfb/2fab48407f47f562.webp",
+          "img_local": "img/2fab48407f47f562.webp"
+        }
+      ],
+      "gallery_source": "https://www.animate.co.jp/gratte/53842/",
+      "gallery_note": "이미지는 애니메이트 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/993cf7a05ac2ed7b.webp",
+      "image_fb": "gfb/993cf7a05ac2ed7b.webp",
+      "image_local": "img/993cf7a05ac2ed7b.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "fukuoka-kuroshitsuji-20th-gratte-1",
+      "lead_source": "캘린더 대조(collabo-cafe.com·애니메이트 그라테 목록) 후 공식 확인",
+      "title_ko": "흑집사 20주년 기념 프로젝트 in 애니메이트 개최 기념 그라테 (제1탄) (애니메이트 라식 후쿠오카 텐진)",
+      "title_ja": "「黒執事 20周年記念プロジェクト in アニメイト」開催記念グラッテ 第一弾",
+      "category": "콜라보카페",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "애니메이트 라식 후쿠오카 텐진 (라테·쿠키·아이스)",
+      "start": "2026-12-14",
+      "end": "2027-01-31",
+      "reservation": "불필요",
+      "price": "유상 특전 트레이딩 아크릴 코스터 +550엔 (메뉴 1점당)",
+      "official_url": "https://www.animate.co.jp/gratte/53842/",
+      "notes": "혼잡 시 정리권·구매 수 제한 가능. 연말연시 영업은 각 매장 안내 확인",
+      "map_query": "福岡県福岡市中央区天神2-1-1 ラシック福岡天神8階",
+      "lat": 33.587925,
+      "lon": 130.400894,
+      "series": "kuroshitsuji-20th-gratte-1-2026",
+      "thumbnail": "https://www.animate.co.jp/assets/uploads/2026/11/1793936525-423eebc2e7c82eee3d8c2505f4917931-1920x1356.jpg",
+      "summary_ko": "『흑집사』 20주년 기념 프로젝트 개최 기념 애니메이트 그라테 제1탄이에요. 라테·아이싱 쿠키(일부 점포 아이스)와 유상 특전 트레이딩 아크릴 코스터(10종)가 나와요. 제2탄은 2027년 3/1부터예요.",
+      "evidence": [
+        {
+          "url": "https://www.animate.co.jp/gratte/53842/",
+          "tier": "official",
+          "quote": "【第一弾】開催期間 2026年12月14日（月）～2027年1月31日（日） 【第二弾】開催期間 2027年3月1日（月）～2027年5月5日（水・祝） ラテ・クッキー 販売店舗 アニメイトグラッテ池袋本店・秋葉原ANNEX・横浜ビブレ・名古屋・大阪日本橋・岡山 ラテ・クッキー・アイス 販売店舗 アニメイトグラッテアニメイト通り店・渋谷・吉祥寺パルコ・仙台・梅田・ラシック福岡天神",
+          "checked": "2026-11-28"
+        }
+      ],
+      "title_ko_source": "한국 정식 출간·방영 제목",
+      "summary_source": "https://www.animate.co.jp/gratte/53842/",
+      "source_url": "https://www.animate.co.jp/gratte/53842/",
+      "thumbnail_source": "https://www.animate.co.jp/gratte/53842/",
+      "gallery": [
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2026/11/1793936558-52e86bf3f00329c91ed664b36f5497ad-1920x1356.jpg",
+          "caption_ko": "제1탄 메뉴 안내 이미지",
+          "source": "https://www.animate.co.jp/gratte/53842/",
+          "img_fb": "gfb/41fb959e702fb1a3.webp",
+          "img_local": "img/41fb959e702fb1a3.webp"
+        },
+        {
+          "group": "메뉴·특전 (공식 이미지)",
+          "img": "https://www.animate.co.jp/assets/uploads/2026/11/1793936540-efeecf8f00089fea9d28af55a921cfea.jpg",
+          "caption_ko": "제1탄 유상 특전 트레이딩 아크릴 코스터 (10종)",
+          "source": "https://www.animate.co.jp/gratte/53842/",
+          "caption_ja": "有償特典：トレーディングアクリルコースター（10種）",
+          "img_fb": "gfb/2fab48407f47f562.webp",
+          "img_local": "img/2fab48407f47f562.webp"
+        }
+      ],
+      "gallery_source": "https://www.animate.co.jp/gratte/53842/",
+      "gallery_note": "이미지는 애니메이트 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/993cf7a05ac2ed7b.webp",
+      "image_fb": "gfb/993cf7a05ac2ed7b.webp",
+      "image_local": "img/993cf7a05ac2ed7b.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "osaka-butai-toukenranbu-sheraton-afternoontea",
+      "lead_source": "캘린더 대조(collabo-cafe.com) 후 공식 확인",
+      "title_ko": "무대 『도검난무』 양전 × 쉐라톤 미야코 호텔 오사카 콜라보 애프터눈 티",
+      "title_ja": "十周年記念特別公演 舞台『刀剣乱舞』陽伝 月と太陽と星々よ コラボレーションアフタヌーンティー",
+      "category": "콜라보카페",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "쉐라톤 미야코 호텔 오사카 레스토랑&라운지 바 eu(유)",
+      "start": "2026-12-01",
+      "end": "2026-12-25",
+      "reservation": "필요 (완전 예약제, 전날 17:00까지)",
+      "price": "애프터눈 티 1인 11,000엔",
+      "official_url": "https://www.miyakohotels.ne.jp/osaka/restaurant/eu/menu/66234/",
+      "notes": "14:00~18:00. 도검남사를 이미지한 오리지널 논알코올 칵테일도 있음. 식품 알레르기는 미리 문의",
+      "map_query": "大阪府大阪市天王寺区上本町6-1-55 シェラトン都ホテル大阪",
+      "lat": 34.665874,
+      "lon": 135.519485,
+      "thumbnail": "https://www.miyakohotels.ne.jp/datas/cache/images/2026/11/26/1300x2048_ea1e9d427fb5664c32c517a73e421e58_964659b3b1b0ad0e791dcf14abb90a40aaaa094c.jpg",
+      "summary_ko": "10주년 기념 특별 공연 무대 『도검난무』 양전 콜라보 애프터눈 티예요. 쉐라톤 미야코 호텔 오사카 라운지에서 완전 예약제로 열리고, 도검남사 이미지 논알코올 칵테일도 있어요.",
+      "evidence": [
+        {
+          "url": "https://www.miyakohotels.ne.jp/osaka/restaurant/eu/menu/66234/",
+          "tier": "official",
+          "quote": "期間 2026年12月01日(火) 〜 12月25日(金) 時間 14:00～18:00 料金 お1人様 ￥11,000 完全予約制です。前日17:00までにご予約ください。",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://www.miyakohotels.ne.jp/osaka/restaurant/eu/menu/66234/",
+      "source_url": "https://www.miyakohotels.ne.jp/osaka/restaurant/eu/menu/66234/",
+      "thumbnail_source": "https://www.miyakohotels.ne.jp/osaka/restaurant/eu/menu/66234/",
+      "thumb_small": "thumbs/8cfeba6cb4132538.webp",
+      "image_fb": "gfb/8cfeba6cb4132538.webp",
+      "image_local": "img/8cfeba6cb4132538.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "lead_source": "collabo-cafe.com 대조 후 공식 확인",
+      "id": "osaka-mdzs-trump-popup-umeda-loft",
+      "title_ko": "마도조사 POP UP STORE in 로프트 (우메다 로프트)",
+      "title_ja": "大河幻想ラジオドラマ「魔道祖師」POP UP STORE in ロフト",
+      "category": "팝업스토어",
+      "area": "오사카",
+      "region": "osaka",
+      "venue": "우메다 로프트 (한신 우메다 본점 6층 로프트 마켓1)",
+      "start": "2027-01-09",
+      "end": "2027-01-24",
+      "reservation": "불필요 (혼잡 시 입장 제한·정리권 가능)",
+      "price": "입장료 공식 미기재 (굿즈 별도)",
+      "official_url": "https://www.cocollabo.net/pages/mdzs_2026",
+      "source_url": "https://www.cocollabo.net/pages/mdzs_2026",
+      "notes": "10:00~20:00, 마지막 날은 17:00 종료. 굿즈 구매 수 제한: 트레이딩 1회 계산 3BOX(또는 3BOX분 단품)까지, 오픈 상품 3개까지. 입장·품절 안내는 우메다 로프트 공식 X. 도쿄 이케부쿠로 로프트(12/1~16)·후쿠오카 텐진 로프트(2027/2/5~) 순회",
+      "map_query": "大阪府大阪市北区梅田1-13-13 阪神梅田本店6階 梅田ロフト",
+      "evidence": [
+        {
+          "url": "https://www.cocollabo.net/pages/mdzs_2026",
+          "tier": "official",
+          "quote": "開催期間： 2027年1月9日(土)～1月24日(日） 開催場所： 阪神梅田本店6階 梅田ロフト ロフトマーケット1 開催時間： 10:00～20:00 ※最終日のみ17:00閉場",
+          "checked": "2026-11-28"
+        }
+      ],
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0640/4561/3268/files/26_1_madoushoshi_ts-main_770_590.jpg?v=1786524474",
+      "thumbnail_source": "https://www.cocollabo.net/pages/mdzs_2026",
+      "copyright": "©MiMi 晋江文学城 墨香銅臭原作",
+      "summary_ko": "중국 라디오 드라마 『마도조사』의 트럼프 테마 새 일러스트 굿즈 팝업이에요. 위무선·남망기 등 7명의 아크릴 스탠드·키홀더·태피스트리를 팔아요.",
+      "summary_source": "https://www.cocollabo.net/pages/mdzs_2026",
+      "gallery": [
+        {
+          "group": "굿즈 (공식)",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140173774_1.jpg?v=6215865487527491993",
+          "caption_ko": "아크릴 스탠드 / 위무선",
+          "caption_ja": "アクリルスタンド / 魏無羨",
+          "price": "1,650엔 (세금 포함)",
+          "source": "https://www.cocollabo.net/pages/mdzs_2026",
+          "img_fb": "gfb/19cf5900a9582264.webp",
+          "img_local": "img/19cf5900a9582264.webp"
+        },
+        {
+          "group": "굿즈 (공식)",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140173781_1.jpg?v=4749561572720990922",
+          "caption_ko": "아크릴 스탠드 / 남망기",
+          "caption_ja": "アクリルスタンド / 藍忘機",
+          "price": "1,650엔 (세금 포함)",
+          "source": "https://www.cocollabo.net/pages/mdzs_2026",
+          "img_fb": "gfb/dc036a2c76c5e851.webp",
+          "img_local": "img/dc036a2c76c5e851.webp"
+        },
+        {
+          "group": "굿즈 (공식)",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140173798_1.jpg?v=12347406339412457125",
+          "caption_ko": "아크릴 스탠드 / 남희신",
+          "caption_ja": "アクリルスタンド / 藍曦臣",
+          "price": "1,650엔 (세금 포함)",
+          "source": "https://www.cocollabo.net/pages/mdzs_2026",
+          "img_fb": "gfb/42074348d4e39ab0.webp",
+          "img_local": "img/42074348d4e39ab0.webp"
+        },
+        {
+          "group": "굿즈 (공식)",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140173804_1.jpg?v=13018902525542557210",
+          "caption_ko": "아크릴 스탠드 / 강징",
+          "caption_ja": "アクリルスタンド / 江澄",
+          "price": "1,650엔 (세금 포함)",
+          "source": "https://www.cocollabo.net/pages/mdzs_2026",
+          "img_fb": "gfb/1925205613c522c8.webp",
+          "img_local": "img/1925205613c522c8.webp"
+        },
+        {
+          "group": "굿즈 (공식)",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140173811_1.jpg?v=16312446717554006604",
+          "caption_ko": "아크릴 스탠드 / 금릉",
+          "caption_ja": "アクリルスタンド / 金凌",
+          "price": "1,650엔 (세금 포함)",
+          "source": "https://www.cocollabo.net/pages/mdzs_2026",
+          "img_fb": "gfb/bb20ea074bd69016.webp",
+          "img_local": "img/bb20ea074bd69016.webp"
+        },
+        {
+          "group": "굿즈 (공식)",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140173828_1.jpg?v=10223267312865194940",
+          "caption_ko": "아크릴 스탠드 / 남사추",
+          "caption_ja": "アクリルスタンド / 藍思追",
+          "price": "1,650엔 (세금 포함)",
+          "source": "https://www.cocollabo.net/pages/mdzs_2026",
+          "img_fb": "gfb/59e74c2d3745e495.webp",
+          "img_local": "img/59e74c2d3745e495.webp"
+        },
+        {
+          "group": "굿즈 (공식)",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140173835_1.jpg?v=12634745010986039385",
+          "caption_ko": "아크릴 스탠드 / 남경의",
+          "caption_ja": "アクリルスタンド / 藍景儀",
+          "price": "1,650엔 (세금 포함)",
+          "source": "https://www.cocollabo.net/pages/mdzs_2026",
+          "img_fb": "gfb/6259151ce923b8a8.webp",
+          "img_local": "img/6259151ce923b8a8.webp"
+        },
+        {
+          "group": "굿즈 (공식)",
+          "img": "https://www.cocollabo.net/cdn/shop/files/4570140173842_1.jpg?v=17776750508589193276",
+          "caption_ko": "BIG 아크릴 키홀더 / 위무선",
+          "caption_ja": "BIGアクリルキーホルダー / 魏無羨",
+          "price": "1,210엔 (세금 포함)",
+          "source": "https://www.cocollabo.net/pages/mdzs_2026",
+          "img_fb": "gfb/ad1c64264cfeb315.webp",
+          "img_local": "img/ad1c64264cfeb315.webp"
+        }
+      ],
+      "gallery_source": "https://www.cocollabo.net/pages/mdzs_2026",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "lat": 34.7015,
+      "lon": 135.4975,
+      "thumb_small": "thumbs/3be58042ec26f937.webp",
+      "image_fb": "gfb/3be58042ec26f937.webp",
+      "image_local": "img/3be58042ec26f937.webp",
+      "title_ko_source": "한국 정식 출간·방영 제목 (널리 쓰이는 공식 표기)"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "fukuoka-parco-game-culture-fes",
+      "lead_source": "후쿠오카 PARCO 공식 이벤트 페이지",
+      "title_ko": "PARCO GAME CULTURE FES (후쿠오카 PARCO)",
+      "title_ja": "PARCO GAME CULTURE FES",
+      "category": "전시·행사",
+      "area": "후쿠오카",
+      "region": "fukuoka",
+      "venue": "후쿠오카 PARCO (관 전체)",
+      "start": "2026-12-11",
+      "end": "2026-12-27",
+      "reservation": "불필요",
+      "price": "기획별 상이 (공식 안내)",
+      "official_url": "https://fukuoka.parco.jp/event/detail/?id=39660",
+      "notes": "게임 테마 관 전체 기획. 『레이튼 교수와 증기의 신세계』(12/10 발매 예정) 시연, 레트로 게임 기기 체험 전시·한정 숍, 『SILENT HILL 2』 기간 한정 POP UP, 후쿠오카 게임 기업 자료 전시, 관내를 도는 대체현실게임(ARG) 등. 후쿠오카 PARCO 영업 종료 전 마지막 크리스마스 기획",
+      "map_query": "福岡県福岡市中央区天神2-11-1 福岡PARCO",
+      "lat": 33.5904,
+      "lon": 130.3989,
+      "thumbnail": "https://image.parco.jp/SCCWEB/image/fukuoka/store/storage/w1240/newsevent_cname_20261127152831.jpg",
+      "summary_ko": "후쿠오카 PARCO 관 전체에서 열리는 게임 테마 기획이에요. 레벨파이브 등 지역 게임 기업과 함께 시연·레트로 게임 체험 전시·한정 숍·POP UP·관내 체험형 ARG를 열어요.",
+      "evidence": [
+        {
+          "url": "https://fukuoka.parco.jp/event/detail/?id=39660",
+          "tier": "official",
+          "quote": "福岡PARCO（福岡市中央区天神2丁目／店長 長江 良和）は、2026年12月11日（金）～12月27日（日）の17日間、ゲームをテーマにした館内横断企画「PARCO GAME CULTURE FES」を開催します。",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://fukuoka.parco.jp/event/detail/?id=39660",
+      "source_url": "https://fukuoka.parco.jp/event/detail/?id=39660",
+      "thumbnail_source": "https://fukuoka.parco.jp/event/detail/?id=39660",
+      "thumb_small": "thumbs/f1e1db11931d4aa1.webp",
+      "image_local": "img/f1e1db11931d4aa1.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "all-gacha-sanrio-ballerina-mejirushi",
+      "lead_source": "반다이 가샤폰 공식 상품 페이지 (collabo-cafe.com 단서)",
+      "title_ko": "산리오 캐릭터즈 발레리나 메지루시 액세서리 (가챠)",
+      "title_ja": "サンリオキャラクターズ バレリーナめじるしアクセサリー",
+      "category": "가챠",
+      "area": "전국",
+      "region": "all",
+      "venue": "전국 판매처 (가챠 코너 등)",
+      "start": "2026-11-22",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 300엔",
+      "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+      "notes": "발매 시기: 2026년 11월 4째 주(초회 발매 후 여러 차례 출하 예정). 지역·매장마다 다를 수 있어요",
+      "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259563_1.jpg",
+      "thumb_kind": "product",
+      "date_label": "11월 4째 주 발매 (지역·매장별 상이)",
+      "summary_ko": "산리오 캐릭터즈가 발레리나 코스튬을 입은 메지루시(표시용) 액세서리예요. 전 6종이에요.",
+      "evidence": [
+        {
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+          "tier": "official",
+          "quote": "発売時期 2026年11月 第4週 価格(税込) 300円 種類数 全6種",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+      "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+      "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+      "gallery": [
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259563_1.jpg",
+          "caption_ko": "메인 이미지",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+          "img_fb": "gfb/12f83196e37c39f2.webp",
+          "img_local": "img/12f83196e37c39f2.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259563_2.jpg",
+          "caption_ko": "라인업 1",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+          "img_fb": "gfb/c0fa9eba4b4ba665.webp",
+          "img_local": "img/c0fa9eba4b4ba665.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259563_3.jpg",
+          "caption_ko": "라인업 2",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+          "img_fb": "gfb/e59856931831e1e8.webp",
+          "img_local": "img/e59856931831e1e8.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259563_4.jpg",
+          "caption_ko": "라인업 3",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+          "img_fb": "gfb/50e7fce664e5e3cb.webp",
+          "img_local": "img/50e7fce664e5e3cb.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259563_5.jpg",
+          "caption_ko": "라인업 4",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+          "img_fb": "gfb/6d093943da4d656f.webp",
+          "img_local": "img/6d093943da4d656f.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259563_6.jpg",
+          "caption_ko": "라인업 5",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+          "img_fb": "gfb/fbdcb5e332b98c48.webp",
+          "img_local": "img/fbdcb5e332b98c48.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259563_7.jpg",
+          "caption_ko": "라인업 6",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+          "img_fb": "gfb/08877e3d0174bd3a.webp",
+          "img_local": "img/08877e3d0174bd3a.webp"
+        }
+      ],
+      "gallery_source": "https://gashapon.jp/products/detail.php?jan_code=4582770054774000",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/12f83196e37c39f2.webp",
+      "image_fb": "gfb/12f83196e37c39f2.webp",
+      "image_local": "img/12f83196e37c39f2.webp"
+    },
+    {
+      "checked_date": "2026-11-28",
+      "verified_at": "2026-11-28",
+      "source_tier": "official",
+      "added": "2026-11-28",
+      "id": "all-gacha-mofusand-astronaut-nyan",
+      "lead_source": "반다이 가샤폰 공식 상품 페이지 (collabo-cafe.com 단서)",
+      "title_ko": "mofusand 우주비행사 냥 (가챠)",
+      "title_ja": "mofusand 宇宙飛行士にゃん",
+      "category": "가챠",
+      "area": "전국",
+      "region": "all",
+      "venue": "전국 판매처 (가챠 코너 등)",
+      "start": "2026-11-22",
+      "end": null,
+      "reservation": "불필요",
+      "price": "1회 400엔",
+      "official_url": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+      "notes": "발매 시기: 2026년 11월 4째 주. 지역·매장마다 다를 수 있어요",
+      "thumbnail": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259577_1.jpg",
+      "thumb_kind": "product",
+      "date_label": "11월 4째 주 발매 (지역·매장별 상이)",
+      "summary_ko": "mofusand 냥이가 우주비행사가 됐어요. 헬멧을 떼면 안에서 냥이 얼굴이 나와요. 전 6종이에요.",
+      "evidence": [
+        {
+          "url": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+          "tier": "official",
+          "quote": "発売時期 2026年11月 第4週 価格(税込) 400円 種類数 全6種",
+          "checked": "2026-11-28"
+        }
+      ],
+      "translation_check": true,
+      "summary_source": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+      "source_url": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+      "thumbnail_source": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+      "gallery": [
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259577_1.jpg",
+          "caption_ko": "메인 이미지",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+          "img_fb": "gfb/042cf04c01a924d1.webp",
+          "img_local": "img/042cf04c01a924d1.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259577_2.jpg",
+          "caption_ko": "라인업 1",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+          "img_fb": "gfb/5e0ee6367e1f49da.webp",
+          "img_local": "img/5e0ee6367e1f49da.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259577_3.jpg",
+          "caption_ko": "라인업 2",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+          "img_fb": "gfb/e86d82fe948ace3a.webp",
+          "img_local": "img/e86d82fe948ace3a.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259577_4.jpg",
+          "caption_ko": "라인업 3",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+          "img_fb": "gfb/7b93a15a36701d6c.webp",
+          "img_local": "img/7b93a15a36701d6c.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259577_5.jpg",
+          "caption_ko": "라인업 4",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+          "img_fb": "gfb/93b330d48b5b2dc1.webp",
+          "img_local": "img/93b330d48b5b2dc1.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259577_6.jpg",
+          "caption_ko": "라인업 5",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+          "img_fb": "gfb/3570bb5f4af4bd70.webp",
+          "img_local": "img/3570bb5f4af4bd70.webp"
+        },
+        {
+          "group": "상품 이미지 (공식)",
+          "img": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000259577_7.jpg",
+          "caption_ko": "라인업 6",
+          "source": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+          "img_fb": "gfb/fb5264c25ea2fcb4.webp",
+          "img_local": "img/fb5264c25ea2fcb4.webp"
+        }
+      ],
+      "gallery_source": "https://gashapon.jp/products/detail.php?jan_code=4582769995224000",
+      "gallery_note": "이미지는 공식 사이트 이미지(실제와 다를 수 있음)",
+      "thumb_small": "thumbs/042cf04c01a924d1.webp",
+      "image_fb": "gfb/042cf04c01a924d1.webp",
+      "image_local": "img/042cf04c01a924d1.webp"
     }
   ]
 }

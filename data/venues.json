@@ -1048,6 +1048,47 @@
       "lat": 34.706814,
       "lon": 135.499069,
       "source": "https://nu-chayamachi.com/info/access/ (GSI 주소검색)"
+    },
+    {
+      "keys": [
+        "天王寺MIO",
+        "덴노지 MIO",
+        "BOX cafe&space 天王寺MIO店"
+      ],
+      "address": "大阪府大阪市天王寺区悲田院町10-39",
+      "lat": 34.647064,
+      "lon": 135.513474,
+      "source": "https://frierencafe2026.ltr-online.com/ (GSI 주소검색)"
+    },
+    {
+      "keys": [
+        "紅茶専門店オシアド原宿",
+        "오시아도 하라주쿠"
+      ],
+      "address": "東京都渋谷区神宮前1-19-1 2階",
+      "lat": 35.671711,
+      "lon": 139.704208,
+      "source": "https://oshiado.base.shop/p/00031 (GSI 주소검색)"
+    },
+    {
+      "keys": [
+        "JR上野駅",
+        "JR 우에노역"
+      ],
+      "address": "東京都台東区上野7-1-1",
+      "lat": 35.713696,
+      "lon": 139.776917,
+      "source": "https://www.tokyobanana.jp/products/banana_chiikawa.html (GSI 주소검색)"
+    },
+    {
+      "keys": [
+        "シェラトン都ホテル大阪",
+        "쉐라톤 미야코 호텔 오사카"
+      ],
+      "address": "大阪府大阪市天王寺区上本町6-1-55",
+      "lat": 34.665874,
+      "lon": 135.519485,
+      "source": "https://www.miyakohotels.ne.jp/osaka/ (GSI 주소검색)"
     }
   ]
 }
